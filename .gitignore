@@ -1,5 +1,4 @@
-iso/
-extracted/
-temp/
+build/
+test/
 
-new_ffxkr.iso
+*.iso
