@@ -8,8 +8,8 @@ if exist build rmdir /s /q build
 tools\ffxiso -e %input_iso% build
 
 echo build font...
-tools\ffxftcx 1008 1008 font/font.bin font/font_width.bin 16384 build\files\file_455.ftcx
-REM                                                      0x4000
+REM                             0x4000
+tools\ffxftcx font/font_kr.bmp  16384   build\files\file_455.ftcx
 
 echo asm files...
 for %%i in (asm\*.asm) do (

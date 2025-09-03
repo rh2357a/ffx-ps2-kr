@@ -6,7 +6,7 @@
       "type": "cppdbg",
       "request": "launch",
       "program": "${workspaceFolder}\\build\\debug\\bin\\${workspaceFolderBasename}.exe",
-      "args": ["-e", "ffxkr.iso", "test"],
+      "args": [],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}\\build\\debug\\bin",
       "environment": [],

@@ -1,9 +1,11 @@
+#include "bitmap_image.hpp"
 #include "utils.h"
 
 #include <filesystem>
 #include <fstream>
 #include <iostream>
 #include <string>
+#include <array>
 #include <vector>
 
 // clang-format off
@@ -13,39 +15,142 @@ const std::vector<uint8_t> FTCX_HEADER{
 	0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00,
 };
 
+const std::vector<uint8_t> DEFAULT_FONT_WIDTH{
+	0x0a, 0x0a, 0x0a, 0x0a, 0x0a, 0x0a, 0x0a, 0x0a, 0x0a, 0x0a, 0x07, 0x0a, 0x0c, 0x0d, 0x0c, 0x0c, 0x0b, 0x08,
+	0x04, 0x04, 0x0a, 0x0a, 0x03, 0x09, 0x02, 0x0a, 0x0c, 0x03, 0x0c, 0x09, 0x0a, 0x09, 0x0d, 0x04, 0x05, 0x05,
+	0x04, 0x0c, 0x0b, 0x0b, 0x0c, 0x07, 0x0d, 0x0d, 0x0d, 0x0d, 0x0d, 0x0a, 0x0c, 0x09, 0x0b, 0x08, 0x0b, 0x0a,
+	0x0c, 0x09, 0x0c, 0x0c, 0x0e, 0x0c, 0x0e, 0x08, 0x0d, 0x0b, 0x0e, 0x0b, 0x0e, 0x0c, 0x0e, 0x0a, 0x0a, 0x0c,
+	0x0e, 0x0d, 0x0e, 0x0c, 0x0e, 0x0c, 0x0c, 0x0c, 0x0d, 0x09, 0x0c, 0x0d, 0x0c, 0x0d, 0x0a, 0x0d, 0x0c, 0x0b,
+	0x0c, 0x0c, 0x0c, 0x0c, 0x0e, 0x0e, 0x0d, 0x0e, 0x0d, 0x0c, 0x0e, 0x0d, 0x0d, 0x0e, 0x0e, 0x0c, 0x0e, 0x0e,
+	0x0b, 0x0c, 0x0c, 0x0c, 0x0c, 0x0a, 0x0c, 0x09, 0x0c, 0x09, 0x0b, 0x0b, 0x09, 0x0b, 0x0d, 0x0b, 0x0c, 0x0c,
+	0x0c, 0x08, 0x0c, 0x09, 0x0a, 0x09, 0x0b, 0x0a, 0x0c, 0x09, 0x0b, 0x0b, 0x0d, 0x0c, 0x0d, 0x0a, 0x0d, 0x0c,
+	0x0e, 0x0b, 0x0d, 0x0d, 0x0e, 0x0c, 0x0e, 0x0b, 0x0e, 0x0b, 0x0d, 0x0a, 0x0e, 0x0a, 0x0d, 0x0c, 0x0e, 0x09,
+	0x0c, 0x0e, 0x0c, 0x0e, 0x0c, 0x0e, 0x0c, 0x0c, 0x0b, 0x0c, 0x0a, 0x0b, 0x0e, 0x0e, 0x0a, 0x0d, 0x0d, 0x0b,
+	0x0e, 0x0e, 0x0e, 0x0e, 0x0e, 0x0d, 0x0e, 0x0e, 0x0c, 0x08, 0x0c, 0x0b, 0x0b, 0x09, 0x0c, 0x0a, 0x0c, 0x07,
+	0x0a, 0x0b, 0x09, 0x0e, 0x0a, 0x0a, 0x0b, 0x0b, 0x0c, 0x0e,
+};
+
+const std::vector<uint8_t> DEFAULT_LATIN_FONT_WIDTH{
+	0x0b, 0x0a, 0x0a, 0x0a, 0x09, 0x0a, 0x0a, 0x0a, 0x08, 0x0a, 0x0a, 0x09, 0x0b, 0x0a, 0x0a, 0x0a, 0x0b, 0x0a,
+	0x0a, 0x0a, 0x0a, 0x0b, 0x0d, 0x09, 0x0a, 0x09, 0x0a, 0x09, 0x08, 0x09, 0x09, 0x08, 0x09, 0x08, 0x02, 0x06,
+	0x08, 0x02, 0x0c, 0x08, 0x08, 0x09, 0x09, 0x08, 0x08, 0x08, 0x08, 0x09, 0x0e, 0x08, 0x09, 0x08,
+};
+
 // clang-format on
+
+const std::array<rgb_t, 4> FONT_COLORS{
+	rgb_t{0, 0, 0},
+	rgb_t{112, 112, 112},
+	rgb_t{190, 190, 190},
+	rgb_t{255, 255, 255},
+};
 
 void print_usage()
 {
 	std::cout << "Usage:\n"
-			  << "    ffxftcx GLYPH_COUNT IMG_HEIGHT FONT_FILE WIDTH_FILE CODE_SIZE OUTPUT\n";
+			  << "    ffxftcx FONT_BITMAP_FILE CODE_SIZE OUTPUT\n";
+}
+
+uint8_t get_pixel_byte(const bool &is_odd, const rgb_t &first, const rgb_t &second)
+{
+	if (is_odd)
+	{
+		// clang-format off
+		uint8_t b = 0;
+		if ( first == FONT_COLORS[3]) b |= 0b00001100;
+		if ( first == FONT_COLORS[2]) b |= 0b00001000;
+		if ( first == FONT_COLORS[1]) b |= 0b00000100;
+		if (second == FONT_COLORS[3]) b |= 0b11000000;
+		if (second == FONT_COLORS[2]) b |= 0b10000000;
+		if (second == FONT_COLORS[1]) b |= 0b01000000;
+		// clang-format on
+
+		return b;
+	}
+	else
+	{
+		// clang-format off
+		uint8_t b = 0;
+		if ( first == FONT_COLORS[3]) b |= 0b00000011;
+		if ( first == FONT_COLORS[2]) b |= 0b00000010;
+		if ( first == FONT_COLORS[1]) b |= 0b00000001;
+		if (second == FONT_COLORS[3]) b |= 0b00110000;
+		if (second == FONT_COLORS[2]) b |= 0b00100000;
+		if (second == FONT_COLORS[1]) b |= 0b00010000;
+		// clang-format on
+
+		return b;
+	}
 }
 
 int main(int argc, char *argv[])
 {
-	if (argc != 7)
+	if (argc != 4)
 	{
 		print_usage();
 		return -1;
 	}
 
-	int glyph_count = std::stoi(argv[1]);
-	int image_height = std::stoi(argv[2]);
-	int code_bytes = std::stoi(argv[5]);
+	constexpr uint16_t image_height = 2718;
+	constexpr uint32_t glyph_count = 2704;
+	constexpr uint32_t font_bytes_size = 0x2a780;
 
-	std::string font_path(argv[3]);
-	auto font_bytes = read_all_bytes(font_path);
+	int code_bytes = std::stoi(argv[2]);
 
-	std::string width_path(argv[4]);
-	auto width_bytes = read_all_bytes(width_path);
+	std::string font_bitmap_path(argv[1]);
+	bitmap_image bmp(font_bitmap_path);
 
-	std::string output_path(argv[6]);
+	std::vector<uint8_t> font_bytes(font_bytes_size, 0);
+	for (int i = 0; i < static_cast<int>(glyph_count); i++)
+	{
+
+		int inner = i % 0xd0;
+		int group = i / 0xd0;
+
+		int row, col;
+		if (inner < 180)
+		{
+			row = (group * 6 + inner / 36) * 18;
+			col = (inner % 36) * 14;
+		}
+		else
+		{
+			row = (group * 6 + 5) * 18;
+			col = (inner - 180) * 14;
+		}
+
+		uint32_t offset = ((i / 18) * 0x480) + ((i % 18) / 2) * 7;
+		bool is_odd = i & 1;
+
+		rgb_t first, second;
+		for (int j = 0; j < 18; j++)
+		{
+			for (int k = 0; k < 7; k++)
+			{
+				int x = col + (k * 2);
+				int y = row + j;
+				bmp.get_pixel(x, y, first);
+				bmp.get_pixel(x + 1, y, second);
+
+				uint8_t b = get_pixel_byte(is_odd, first, second);
+				font_bytes[offset + (j * 0x40) + k] |= b;
+			}
+		}
+	}
+
+	std::vector<uint8_t> width_bytes(glyph_count, 0xe);
+	for (int i = 0; i < 0xd0; i++)
+		width_bytes[i] = DEFAULT_FONT_WIDTH[i];
+	for (int i = 0; i < 26 * 2; i++)
+		width_bytes[i + (0xd0 * 9)] = DEFAULT_LATIN_FONT_WIDTH[i];
+
+	std::string output_path(argv[3]);
 	if (std::filesystem::exists(output_path))
 		std::filesystem::remove(output_path);
 
 	std::ofstream output(output_path, std::ios::binary | std::ios::app);
 	append_bytes(output, FTCX_HEADER);
-	append_uint32(output, static_cast<uint32_t>(glyph_count));
+	append_uint32(output, glyph_count);
 
 	// glyph size
 	append_uint16(output, 0xe);
@@ -54,16 +159,16 @@ int main(int argc, char *argv[])
 
 	// data address, size
 	append_uint32(output, 0x40);
-	append_uint32(output, static_cast<uint32_t>(code_bytes) + static_cast<uint32_t>(font_bytes.size()));
+	append_uint32(output, static_cast<uint32_t>(code_bytes) + font_bytes_size);
 
 	// image size
 	append_uint16(output, 0x80);
-	append_uint16(output, static_cast<uint16_t>(image_height));
+	append_uint16(output, image_height);
 	append_zero(output, 4);
 
 	// font width address, size
-	append_uint32(output, 0x40 + static_cast<uint32_t>(code_bytes) + static_cast<uint32_t>(font_bytes.size()));
-	append_uint32(output, static_cast<uint32_t>(glyph_count));
+	append_uint32(output, 0x40 + static_cast<uint32_t>(code_bytes) + font_bytes_size);
+	append_uint32(output, glyph_count);
 	append_zero(output, 8);
 
 	append_zero(output, static_cast<size_t>(code_bytes));
