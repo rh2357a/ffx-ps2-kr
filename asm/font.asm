@@ -9,8 +9,9 @@
 .definelabel        fun_0020a828, 0x20a828
 .definelabel        fun_0020b918, 0x20b918
 .definelabel        fun_0020b960, 0x20b960
+.definelabel              memcpy, 0x2f0dd4
+.definelabel         flush_cache, 0x2fa520
 .definelabel       dst_font_addr, 0x67c3a0
-.definelabel         inject_func, 0x798000
 .definelabel       src_font_addr, 0x79c000
 .definelabel new_font_width_addr, 0x7c6780
 
@@ -21,19 +22,24 @@ TEXTURE_GLYPH_COUNT equ 800
 
 ; 코드 주입 및 폰트 주소 설정
 .org 0x20c3c0
-	la s0, inject_func
-; ...
-.org 0x20c3d8
-	li v1, 0x64
-	syscall 0x0
-	jr s0 ; inject_func
+.area 44, 0
+	la a0, apply_font_addr_impl
+	lw a2, 0x24(s1)
+	jal memcpy
+	addu a1, s1, a1
+	jal flush_cache
+	li a0, 2
+	jal apply_font_addr_impl
 	nop
+.endarea
 
 ; 폰트폭 주소 설정
 .org 0x20c44c
+.area 16, 0
 	la v1, new_font_width_addr
-	nop
-	nop
+	sll a0, a1, 4
+	addu v0, v0, a0
+.endarea
 
 ; ==================================================
 
@@ -263,8 +269,7 @@ render_font_2:
 apply_font_addr_impl:
 	la s0, dst_font_addr
 	sw s0, 0x0(s2)
-	la t0, 0x20c3ec
-	jr t0
+	jr ra
 	nop
 
 ; a0 - uint8_t *str
