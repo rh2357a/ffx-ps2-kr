@@ -91,7 +91,6 @@ int main(int argc, char *argv[])
 		return -1;
 	}
 
-	constexpr uint16_t image_height = 2718;
 	constexpr uint32_t glyph_count = 2704;
 	constexpr uint32_t font_bytes_size = 0x2a780;
 
@@ -163,7 +162,7 @@ int main(int argc, char *argv[])
 
 	// image size
 	append_uint16(output, 0x80);
-	append_uint16(output, image_height);
+	append_uint16(output, 0x3f0);
 	append_zero(output, 4);
 
 	// font width address, size

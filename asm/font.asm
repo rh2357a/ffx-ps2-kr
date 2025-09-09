@@ -7,13 +7,10 @@
 
 .definelabel        fun_001bd3a0, 0x1bd3a0
 .definelabel        fun_0020a828, 0x20a828
-.definelabel        fun_0020b918, 0x20b918
 .definelabel        fun_0020b960, 0x20b960
 .definelabel              memcpy, 0x2f0dd4
 .definelabel         flush_cache, 0x2fa520
-.definelabel       dst_font_addr, 0x67c3a0
-.definelabel       src_font_addr, 0x79c000
-.definelabel new_font_width_addr, 0x7c6780
+.definelabel font_texture_buffer, 0x67c3a0
 
 MULTIBYTE_BASE      equ 0x24
 TEXTURE_GLYPH_COUNT equ 800
@@ -23,44 +20,63 @@ TEXTURE_GLYPH_COUNT equ 800
 ; 코드 주입 및 폰트 주소 설정
 .org 0x20c3c0
 .area 44, 0
-	la a0, apply_font_addr_impl
+	la a0, injection_begin
 	lw a2, 0x24(s1)
 	jal memcpy
 	addu a1, s1, a1
+
+	la s0, font_texture_buffer
+	sw s0, 0x0(s2)
+
 	jal flush_cache
 	li a0, 2
-	jal apply_font_addr_impl
-	nop
 .endarea
 
 ; 폰트폭 주소 설정
 .org 0x20c44c
 .area 16, 0
-	la v1, new_font_width_addr
+	la v1, font_width_table
 	sll a0, a1, 4
 	addu v0, v0, a0
 .endarea
 
 ; ==================================================
 
-; FUN_002053c0: 폰트폭 관련
-.org 0x2053e0
+; FUN_002053c0: 문자 너비 관련?
+.org 0x2053c0
+read_glyph_width:
+.area 496, 0
+	addiu sp, sp, -0x40
+	sd s0, 0x0(sp)
+	sd s1, 0x10(sp)
+	sd s2, 0x20(sp)
+	sd ra, 0x30(sp)
+
+	move s2, a2
+	move s0, a0
+	lbu a0, 0x0(s0)
+
 	sltiu v0, a0, 0x30
-	bne v0, zero, _under_0x30
+	bne v0, zero, @@_under_0x30
 	move s1, a1
+
 	jal fun_0020b960
 	move a0, a3
+
 	lbu v1, 0x0(s0)
 	addu v0, v1, v0
 	move a0, v1
-	b _ignore_legacy
+	b @@_end_read_width
 	lb t0, -0x30(v0)
-_under_0x30:
+
+@@_under_0x30:
 	sltiu v0, a0, MULTIBYTE_BASE
-	bne v0, zero, _ignore_legacy
+	bne v0, zero, @@_end_read_width
 	nop
+
 	jal fun_0020b960
 	move a0, zero
+
 	lbu a0, 0x0(s0)
 	li a1, 0xd0
 	lbu a2, 0x1(s0)
@@ -69,10 +85,39 @@ _under_0x30:
 	addiu v1, v1, -0x30
 	addu v1, v1, a2
 	addu v0, v0, v1
-	b _ignore_legacy
+	b @@_end_read_width
 	lb t0, 0x0(v0)
-.org 0x2054f4
-_ignore_legacy:
+
+@@_end_read_width:
+	addiu v0, t0, 2
+	li v1, 1
+	beq s1, v1, @@_1
+	movz t0, v0, s1
+
+	li v0, 3
+	bnel s1, v0, @@_2
+	sw t0, 0x0(s2)
+
+@@_1:
+	addiu t0, t0, 4
+	sw t0, 0x0(s2)
+
+@@_2:
+	lbu v0, 0x0(s0)
+	sltiu v0, v0, 0x30
+	bnel v0, zero, @@_3
+	addiu s0, s0, 2
+	addiu s0, s0, 1
+
+@@_3:
+	move v0, s0
+	ld ra, 0x30(sp)
+	ld s2, 0x20(sp)
+	ld s1, 0x10(sp)
+	ld s0, 0x0(sp)
+	jr ra
+	addiu sp, sp, 0x40
+.endarea
 
 
 ; FUN_00204d70: 폰트 그래픽
@@ -263,14 +308,12 @@ render_font_2:
 
 .ps2
 .open "build/files/file_455.ftcx", 0x798000 - 0x40
-.orga 0x40
-.area 0x4000, 0xff
 
-apply_font_addr_impl:
-	la s0, dst_font_addr
-	sw s0, 0x0(s2)
-	jr ra
-	nop
+.orga 0x40
+.area 0x4000, 0
+
+injection_begin:
+	; no-op
 
 ; a0 - uint8_t *str
 ; a1 - uint16_t *font_attr
@@ -453,11 +496,11 @@ copy_font:
 	move s2, v0
 	move s3, v1
 
-	; s0 = dst_font_addr + s0
-	; s2 = src_font_addr + s2
-	la t0, dst_font_addr
+	; s0 = font_texture_buffer + s0
+	; s2 = font_data + s2
+	la t0, font_texture_buffer
 	addu s0, t0, s0
-	la t0, src_font_addr
+	la t0, font_data
 	addu s2, t0, s2
 
 	; s1 != 0
@@ -607,7 +650,7 @@ trim_glyph_checker_table:
 	nop
 
 @@_end_loop_1:
-	la s0, dst_font_addr
+	la s0, font_texture_buffer
 	li s1, 0
 
 @@_loop_2:
@@ -670,4 +713,13 @@ glyph_checker_table:
 	.fill TEXTURE_GLYPH_COUNT * 2, 0xff
 
 .endarea
+
+.orga 0x40 + 0x4000
+font_data:
+	; no-op
+
+.orga 0x40 + 0x4000 + 0x2a780
+font_width_table:
+	; no-op
+
 .close
