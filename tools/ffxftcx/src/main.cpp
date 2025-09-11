@@ -110,12 +110,12 @@ int main(int argc, char *argv[])
 		if (inner < 180)
 		{
 			row = (group * 6 + inner / 36) * 18;
-			col = (inner % 36) * 14;
+			col = (inner % 36) * 16;
 		}
 		else
 		{
 			row = (group * 6 + 5) * 18;
-			col = (inner - 180) * 14;
+			col = (inner - 180) * 16;
 		}
 
 		uint32_t offset = ((i / 18) * 0x480) + ((i % 18) / 2) * 7;

@@ -5,12 +5,14 @@
 
 ; ==================================================
 
-.definelabel        fun_001bd3a0, 0x1bd3a0
-.definelabel        fun_0020a828, 0x20a828
-.definelabel        fun_0020b960, 0x20b960
-.definelabel              memcpy, 0x2f0dd4
-.definelabel         flush_cache, 0x2fa520
-.definelabel font_texture_buffer, 0x67c3a0
+.definelabel    fun_001bd3a0, 0x1bd3a0 ; 언어 설정값 관련
+.definelabel    fun_0020a828, 0x20a828 ; 폰트 index 관련
+.definelabel    fun_0020b960, 0x20b960
+.definelabel    fun_0020c528, 0x20c528 ; 텍스처 dma 적용?
+.definelabel          memcpy, 0x2f0dd4
+.definelabel     flush_cache, 0x2fa520
+.definelabel font_buffer_ptr, 0x66d330
+.definelabel     font_buffer, 0x67c3a0
 
 MULTIBYTE_BASE      equ 0x24
 TEXTURE_GLYPH_COUNT equ 800
@@ -25,7 +27,7 @@ TEXTURE_GLYPH_COUNT equ 800
 	jal memcpy
 	addu a1, s1, a1
 
-	la s0, font_texture_buffer
+	la s0, font_buffer
 	sw s0, 0x0(s2)
 
 	jal flush_cache
@@ -39,6 +41,7 @@ TEXTURE_GLYPH_COUNT equ 800
 	sll a0, a1, 4
 	addu v0, v0, a0
 .endarea
+
 
 ; ==================================================
 
@@ -179,7 +182,7 @@ render_font:
 	jal fun_0020a828
 	nop
 
-	la a2, language_temp
+	la a2, is_korean
 	sb v0, 0x0(a2)
 
 	jal fun_0020b960
@@ -265,7 +268,7 @@ render_font_2:
 	sh s0, 0x0(a1)
 
 @@_glyph_idx:
-	la a2, language_temp
+	la a2, is_korean
 	sb a0, 0x0(a2)
 
 	jal fun_0020b960
@@ -310,10 +313,11 @@ render_font_2:
 .open "build/files/file_455.ftcx", 0x798000 - 0x40
 
 .orga 0x40
-.area 0x4000, 0
+.area 0x1000, 0
 
 injection_begin:
 	; no-op
+
 
 ; a0 - uint8_t *str
 ; a1 - uint16_t *font_attr
@@ -324,7 +328,7 @@ render_font_impl:
 	bltz a3, @@_return
 	nop
 
-	la s0, language_temp
+	la s0, is_korean
 	lbu s1, 0x0(s0)
 	beq s1, zero, @@_is_korean
 	nop
@@ -392,16 +396,27 @@ render_font_impl:
 
 @@_found:
 	move s0, v0
+	andi s0, s0, 0x8000
+	bne s0, zero, @@_ignore_copy
+	nop
+
+	andi v0, v0, 0x7fff
+	move s0, v0
 	jal copy_font
 	move s2, a3
+	jal apply_font_gfx
+	nop
 
+@@_ignore_copy:
 	; *(glyph_checker_table + (v0 * 2)) = a3
 	la s0, glyph_checker_table
 	li s2, 2
+	andi v0, v0, 0x7fff
 	mult s1, v0, s2
 	add s0, s0, s1
 	sh a3, 0x0(s0)
 
+	; 소문자 정렬
 	addiu s0, a3, -0x76a
 	sltiu s0, s0, 0x1a
 	beq s0, zero, @@_is_lower_case
@@ -470,6 +485,48 @@ render_font_impl:
 	jr ra
 	addiu sp, sp, 0x80
 
+
+; 폰트 그래픽 반영
+apply_font_gfx:
+	addiu sp, sp, -0xc0
+	sd t3, 0x0(sp)
+	sd t4, 0x10(sp)
+	sd t5, 0x20(sp)
+	sd t6, 0x30(sp)
+	sd t7, 0x40(sp)
+	sd v0, 0x50(sp)
+	sd v1, 0x60(sp)
+	sd a0, 0x70(sp)
+	sd a1, 0x80(sp)
+	sd a2, 0x90(sp)
+	sd a3, 0xa0(sp)
+	sd ra, 0xb0(sp)
+
+	la v0, font_buffer_ptr
+	lw a0, 0x0(v0)
+	li a1, 0x3c00
+	li a2, 0x14
+	move a3, zero
+	move t0, zero
+	lh t1, 0xc(v0)
+	jal fun_0020c528
+	lh t2, 0xe(v0)
+
+	ld t3, 0x0(sp)
+	ld t4, 0x10(sp)
+	ld t5, 0x20(sp)
+	ld t6, 0x30(sp)
+	ld t7, 0x40(sp)
+	ld v0, 0x50(sp)
+	ld v1, 0x60(sp)
+	ld a0, 0x70(sp)
+	ld a1, 0x80(sp)
+	ld a2, 0x90(sp)
+	ld a3, 0xa0(sp)
+	ld ra, 0xb0(sp)
+	jr ra
+	addiu sp, sp, 0xc0
+
 ; 폰트 그래픽 복사
 ; s0: dst 인덱스
 ; s2: src 인덱스
@@ -505,10 +562,11 @@ copy_font:
 	move s2, v0
 	move s3, v1
 
-	; s0 = font_texture_buffer + s0
-	; s2 = font_data + s2
-	la t0, font_texture_buffer
+	; s2 = font_buffer + s0
+	la t0, font_buffer
 	addu s0, t0, s0
+
+	; s2 = font_data + s2
 	la t0, font_data
 	addu s2, t0, s2
 
@@ -564,9 +622,8 @@ copy_font:
 	nop
 
 	sllv t3, t3, s3
-	or t2, t2, t3
 	b @@_store_t2
-	nop
+	or t2, t2, t3
 
 @@_s1_is_even:
 	srlv t3, t3, s3
@@ -577,15 +634,13 @@ copy_font:
 
 	addi s0, s0, 1
 	addi s2, s2, 1
-	addi a2, a2, 1
 	b @@_for_7_loop
-	nop
+	addi a2, a2, 1
 @@_end_for_7:
 	addi s0, s0, 0x40 - 7
 	addi s2, s2, 0x40 - 7
-	addi a1, a1, 1
 	b @@_for_0x12_loop
-	nop
+	addi a1, a1, 1
 
 @@_end_for_0x12:
 	ld v0, 0x10(sp)
@@ -605,6 +660,7 @@ copy_font:
 	ld ra, 0xf0(sp)
 	jr ra
 	addiu sp, sp, 0x100
+
 
 ; 복사 오프셋 계산
 ; from a0: index
@@ -642,39 +698,39 @@ calc_tile_offset:
 	jr ra
 	addiu sp, sp, 0x50
 
+
 ; 검사 테이블 정리
 trim_glyph_checker_table:
 	la s0, glyph_checker_table
 	li s1, 0
 	li v0, 0xffff
 
-@@_loop_1:
-	bge s1, TEXTURE_GLYPH_COUNT, @@_end_loop_1
+@@_loop:
+	bge s1, TEXTURE_GLYPH_COUNT, @@_end_loop
 	nop
 
 	sh v0, 0x0(s0)
 	addiu s0, s0, 2
+	j @@_loop
 	addiu s1, s1, 1
-	j @@_loop_1
+
+@@_end_loop:
+	la a0, font_buffer
+	li a1, 0
+
+@@_loop_fill_zero:
+	bge a1, 4032, @@_end_loop_fill_zero
 	nop
 
-@@_end_loop_1:
-	la s0, font_texture_buffer
-	li s1, 0
+	sq zero, 0(a0)
+	addiu a0, a0, 16
+	b @@_loop_fill_zero
+	addiu a1, a1, 1
 
-@@_loop_2:
-	bge s1, 4032, @@_end_loop_2
-	nop
-
-	sq zero, 0(s0)
-	addiu s0, s0, 16
-	addiu s1, s1, 1
-	b @@_loop_2
-	nop
-
-@@_end_loop_2:
+@@_end_loop_fill_zero:
 	jr ra
 	nop
+
 
 ; 폰트 인덱스 찾기
 ; v0
@@ -691,7 +747,7 @@ find_glyph_index:
 
 	; *s0 == a3
 	lhu s2, 0x0(s0)
-	beq s2, a3, @@_found
+	beq s2, a3, @@_found_ignore_copy
 	nop
 
 	; *s0 == 0xffff
@@ -704,6 +760,11 @@ find_glyph_index:
 	j @@_loop
 	nop
 
+@@_found_ignore_copy:
+	ori s1, s1, 0x8000
+	jr ra
+	move v0, s1
+
 @@_found:
 	jr ra
 	move v0, s1
@@ -712,23 +773,21 @@ find_glyph_index:
 	jr ra
 	li v0, -1
 
-language_temp:
-	.fill 1, 0
 
-glyph_checker_table_index:
-	.fill 2, 0
+is_korean:
+	.fill 4, 0
 
 glyph_checker_table:
 	.fill TEXTURE_GLYPH_COUNT * 2, 0xff
 
 .endarea
 
-.orga 0x40 + 0x4000
+.orga 0x40 + 0x1000
 font_data:
-	; no-op
+	; .fill 0x2a780, 0
 
-.orga 0x40 + 0x4000 + 0x2a780
+.orga 0x40 + 0x1000 + 0x2a780
 font_width_table:
-	; no-op
+	; .fill 2704, 0
 
 .close
