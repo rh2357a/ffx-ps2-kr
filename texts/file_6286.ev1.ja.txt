@@ -1,0 +1,132 @@
+{Yuna}
+これはフェイスじゃなくて
+{KANJI2C:AC}っぽの{KANJI2D:5C}{KANJI2D:70}なの
+--------------------------------------------------End--
+
+その{KANJI2D:70}はフェイスの{KANJI2E:4D}を
+{KANJI2C:F8}って{KANJI2A:30}しい
+--------------------------------------------------End--
+
+{KANJI2E:A8}{KANJI2D:3B}の{KANJI2E:FC}{KANJI2E:A7}{KANJI2D:3F}{KANJI2C:8F}のフェイスとなった
+ゼイオン{KANJI2E:3C}だ
+--------------------------------------------------End--
+
+おまえたちが{KANJI2C:B3}ているのは
+ゼイオン{KANJI2E:3C}の{KANJI2E:31}{KANJI2C:E3}
+--------------------------------------------------End--
+
+ゼイオン{KANJI2E:3C}の{KANJI2F:34}は--
+{KANJI2C:CE}ってしまった
+--------------------------------------------------End--
+{Wakka}
+{KANJI2C:CE}った?
+--------------------------------------------------End--
+{Rikku}
+{KANJI2E:FC}{KANJI2E:A7}{KANJI2D:3F}{KANJI2C:8F}は{KANJI2E:30}いってこと!?
+--------------------------------------------------End--
+
+{KANJI2F:88}{KANJI2E:9B}しなさい
+--------------------------------------------------End--
+
+ユウナレスカ{KANJI2E:3C}が{KANJI2D:B7}を{KANJI2C:F5}され
+{KANJI2E:FC}{KANJI2E:A7}{KANJI2D:3F}{KANJI2C:8F}はおまえたちのものとなろう
+--------------------------------------------------End--
+
+{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}と{KANJI2E:FC}{KANJI2E:A7}{KANJI2D:3F}{KANJI2C:8F}は
+{KANJI2E:4D}を{KANJI2C:D2}わせるのだ
+--------------------------------------------------End--
+
+ユウナレスカ{KANJI2E:3C}の{KANJI2D:F1}へ
+{KANJI2D:93}でお{KANJI2F:AA}ちかねだ
+--------------------------------------------------End--
+{Tidus}
+{Yuna} {KANJI2F:AA}って
+--------------------------------------------------End--
+{Tidus}
+{Auron} こうなるって
+{KANJI2D:8F}ってたんだよな
+--------------------------------------------------End--
+{Auron}
+ああ
+--------------------------------------------------End--
+{Rikku}
+どうして{KANJI2E:35}ってたの?
+--------------------------------------------------End--
+{Auron}
+{KANJI2F:A1}が{KANJI2E:57}したら
+{KANJI2E:4A}をやめたとでも{KANJI2F:54}うのか?
+--------------------------------------------------End--
+{Kimahri}
+{Yuna}
+--------------------------------------------------End--
+{Yuna}
+もう{KANJI2E:37}らないよ
+--------------------------------------------------End--
+{Kimahri}
+{Kimahri}は わかってる
+--------------------------------------------------End--
+{Kimahri}
+{Kimahri}が{KANJI2D:61}を{KANJI2C:CE}く 
+{Yuna}は{KANJI2F:88}{KANJI2D:6B}だ
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}1】{White}
+{KANJI2E:4A}の{KANJI2C:9C}{KANJI2E:56}をスフィアに{KANJI2C:E3}すことができます!
+{KANJI2E:4A}のつかれをいやす{KANJI2C:F6}{KANJI2D:B4}{KANJI2C:82}{KANJI2D:E5}{KANJI2C:99}{KANJI2D:C3}で
+{KANJI2C:37}{KANJI2C:3F}/{KANJI2C:3C}{KANJI2C:3F}が{KANJI2D:6B}{KANJI2C:82}{KANJI2D:E5}します!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}セーブ
+{CHOICE:31}キャンセル
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}2】{White}
+{Besaid Aurochs}の{KANJI2F:6A}{KANJI2A:31}により セーブスフィアに
+{blitzball}スタジアムへの{KANJI2E:F2}{KANJI2A:32}{KANJI2C:99}{KANJI2D:C3}が
+{KANJI2D:9D}{KANJI2C:7B}されました!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【ブリッツスカウトシステム】{White}
+{Spira}の{KANJI2A:33}{KANJI2D:90}には ブリッツのトレーニングを{KANJI2D:78}ける
+{KANJI2C:6F}れた{KANJI2E:31}{KANJI2D:68}{KANJI2C:FF}がひそんでいます 
+{Button Square}を{KANJI2F:4D}して{KANJI2E:57}しかけると スカウト{KANJI2A:34}{KANJI2F:C5}できることがあります 
+{KANJI2F:D3}{KANJI2E:F3}{KANJI2E:95}{KANJI2F:80}な{KANJI2D:68}{KANJI2C:FF}をスカウトして {Besaid Aurochs}を
+トップチームに{KANJI2F:58}くのです!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}セーブ
+{CHOICE:31}ブリッツスタジアムへ
+{CHOICE:32}キャンセル
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs}はメンバー{KANJI2D:4F}{KANJI2D:52}が
+{KANJI2D:76}りないので{KANJI2C:EF}{KANJI2C:D2}に{KANJI2C:DF}{KANJI2C:7B}できません 
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}セーブ
+{Gray}ブリッツスタジアムへ{White}
+{CHOICE:31}キャンセル
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}3】{White}
+{Al Bhed2}·{Rin}の{KANJI2F:CB}{KANJI2E:8F}により セーブスフィアに
+{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}への{KANJI2E:F2}{KANJI2A:32}{KANJI2C:99}{KANJI2D:C3}が{KANJI2D:9D}{KANJI2C:7B}されました!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}セーブ
+{CHOICE:31}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ
+{CHOICE:32}ブリッツスタジアムへ
+{CHOICE:33}キャンセル
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}セーブ
+{Gray}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ{White}
+{CHOICE:31}ブリッツスタジアムへ
+{CHOICE:32}キャンセル
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}セーブ
+{CHOICE:31}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ
+{Gray}ブリッツスタジアムへ{White}
+{CHOICE:32}キャンセル
+--------------------------------------------------End--

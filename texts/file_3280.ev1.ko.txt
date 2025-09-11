@@ -1,0 +1,246 @@
+{WINDOW}
+{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}1】{White}
+{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
+{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
+{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
+{KANJI2A:44}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
+{KANJI2A:44}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}2】{White}
+{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
+{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
+{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
+{KANJI2A:44}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
+{KANJI2A:44}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
+{KANJI2C:37}{KANJI2C:3F}:{VAR12:35}{VAR07:60}{KANJI2C:42}{KANJI2C:3F}{KANJI2C:33}:{VAR12:36}
+{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33}:{VAR12:37}{VAR07:60}{KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}:{VAR12:38}
+{KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}:{VAR12:39}{VAR07:60}{KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A}:{VAR12:3A}
+{KANJI2C:42}{KANJI2C:37}{KANJI2C:43}:{VAR12:3B}{VAR07:60}{KANJI2C:32}{KANJI2C:30}{KANJI2C:43}:{VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}3】{White}
+{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
+{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
+{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
+{KANJI2A:44}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
+{KANJI2A:44}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
+{KANJI2C:37}{KANJI2C:3F}:{VAR12:35}{VAR07:60}{KANJI2C:42}{KANJI2C:3F}{KANJI2C:33}:{VAR12:36}
+{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33}:{VAR12:37}{VAR07:60}{KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}:{VAR12:38}
+{KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}:{VAR12:39}{VAR07:60}{KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A}:{VAR12:3A}
+{KANJI2C:42}{KANJI2C:37}{KANJI2C:43}:{VAR12:3B}{VAR07:60}{KANJI2C:32}{KANJI2C:30}{KANJI2C:43}:{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}{KANJI2C:3C}{KANJI2C:30}{KANJI2C:47}】{White}
+{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
+{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
+{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
+{KANJI2A:44}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
+{KANJI2A:44}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
+{KANJI2C:37}{KANJI2C:3F}:{VAR12:35}{VAR07:60}{KANJI2C:42}{KANJI2C:3F}{KANJI2C:33}:{VAR12:36}
+{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33}:{VAR12:37}{VAR07:60}{KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}:{VAR12:38}
+{KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}:{VAR12:39}{VAR07:60}{KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A}:{VAR12:3A}
+{KANJI2C:42}{KANJI2C:37}{KANJI2C:43}:{VAR12:3B}{VAR07:60}{KANJI2C:32}{KANJI2C:30}{KANJI2C:43}:{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan}【キーアビリティ】{White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+{KANJI2A:44}{KANJI2F:C5}しますか?
+{CHOICE:30}はい
+{CHOICE:31}いいえ
+--------------------------------------------------End--
+{WINDOW}
+{KANJI2A:44}{KANJI2F:C5}{KANJI2C:EF}{KANJI2C:D2}{KANJI2D:52}を{KANJI2C:B1}めてください
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+1{KANJI2C:EF}{KANJI2C:D2}{KANJI2E:A2}{KANJI2D:43}の{KANJI2A:44}{KANJI2F:C5}を
+むすんでください 
+--------------------------------------------------End--
+{WINDOW}
+{KANJI2A:44}{KANJI2F:C5}{KANJI2C:AA}は{VAR12:30}ギルです
+よろしいですか?
+{CHOICE:30}はい
+{CHOICE:31}いいえ
+--------------------------------------------------End--
+{WINDOW}
+ギルがたりません
+--------------------------------------------------End--
+{WINDOW}
+ビサイド·オーラカチームは
+{KANJI2D:AA}{KANJI2E:56}{KANJI2D:4F}{KANJI2D:52}8{KANJI2D:4F}でいっぱいです 
+{KANJI2D:89}かをチームからはずしますか?
+{CHOICE:30}はい
+{CHOICE:31}いいえ
+--------------------------------------------------End--
+{WINDOW}
+{KANJI2D:89}をはずしますか?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+この{KANJI2D:68}{KANJI2C:FF}ははずせません
+--------------------------------------------------End--
+
+{KANJI2A:30}を{KANJI2C:88}けてはみたけれど {KANJI2A:31}{KANJI2A:32}もないし
+どうしようもないわ
+--------------------------------------------------End--
+
+{KANJI2F:BE}べ{KANJI2D:E6}も お{KANJI2D:31}も みんな{KANJI2C:86}の{KANJI2D:A0}
+『{Sin}』に{KANJI2C:FD}られてしまったわ
+--------------------------------------------------End--
+
+{KANJI2E:8D}を{KANJI2E:EF}けてくれたのは
+あなたね?
+{NEWPAGE}
+
+あの{KANJI2D:F0}{KANJI2A:33}は ほんのお{KANJI2E:50}よ
+えんりょしないで{KANJI2D:32}けとってね
+--------------------------------------------------End--
+
+あの{KANJI2D:4F} ミヘン{KANJI2E:9C}{KANJI2D:64}から
+{KANJI2E:37}って{KANJI2E:A2}{KANJI2E:F3}ずっとあの{KANJI2D:97}{KANJI2C:E8}なの
+--------------------------------------------------End--
+
+{KANJI2C:F3}の{KANJI2D:84}{KANJI2C:81}にそなえて{KANJI2E:51}{KANJI2F:A4}したいけど
+{KANJI2F:9D}{KANJI2A:34}が{KANJI2A:35}しくてヒマがないのよね
+--------------------------------------------------End--
+
+{KANJI2D:6C}{KANJI2D:E8}どもったら ツケで{KANJI2A:36}み{KANJI2F:BE}いしておいて
+さっさと{Bevelle}に{KANJI2E:A6}ってしまったのよ
+{NEWPAGE}
+
+あれじゃ{KANJI2F:BE}い{KANJI2D:B2}げといっしょよ 
+バカにしないでほしいわ 
+--------------------------------------------------End--
+
+{KANJI2D:6C}{KANJI2D:E8}どもの{KANJI2F:BE}{KANJI2A:34}{KANJI2D:82}は
+{KANJI2C:F1}{KANJI2C:6E}に{KANJI2A:37}{KANJI2F:7E}させてもらうわ
+--------------------------------------------------End--
+
+{KANJI2A:32}{KANJI2E:44}なんか{KANJI2D:3A}なくてもいいから
+ここにいたいんだ
+{NEWPAGE}
+
+{KANJI2A:38}を{KANJI2C:B3}るのが {KANJI2F:AC}くて{KANJI2F:AC}くて--
+ヤツの{KANJI2E:A0}が{KANJI2C:B3}えるような{KANJI2C:9A}がするんだ
+--------------------------------------------------End--
+
+なんだ また{KANJI2F:A1}を
+{KANJI2A:39}い{KANJI2E:CD}にしたいのか?
+{NEWPAGE}
+
+ああ そうとも {KANJI2F:A1}たち{Crusader}は
+そろいもそろってバカだったよ!
+{NEWPAGE}
+
+{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}{KANJI2E:3C}をさしおいて『{Sin}』を
+{KANJI2D:AB}すなど{KANJI2A:3A}の{KANJI2F:A3}{KANJI2D:9A}だったとも!
+{NEWPAGE}
+
+だからみんな{KANJI2C:EE}んじまったよ
+ちくしょう-- 
+--------------------------------------------------End--
+
+{KANJI2E:B2}っておいてくれ!
+もう いいだろうが--
+--------------------------------------------------End--
+
+な なまけているのではないぞ
+{KANJI2A:3B}{KANJI2A:3C}にそなえて{KANJI2E:76}{KANJI2C:9A}を{KANJI2A:3D}っているんだ
+--------------------------------------------------End--
+
+『{Sin}』が{KANJI2E:E7}びたら
+まっさきに{KANJI2A:3E}{KANJI2A:3F}をあげんとな
+{NEWPAGE}
+
+ん? {KANJI2C:9A}が{KANJI2E:92}すぎるか?
+--------------------------------------------------End--
+
+{KANJI2E:EF}けてくれて ありがとう
+おうちは こわれちゃったけど--
+{NEWPAGE}
+
+おねえちゃんがいるから
+わたし {KANJI2C:B4}{KANJI2C:9A}だもんね!
+--------------------------------------------------End--
+
+おにいちゃん ブリッツの{KANJI2D:68}{KANJI2C:FF}?
+{KANJI2A:40}{KANJI2F:B0}するよ がんばってね~!
+--------------------------------------------------End--
+
+うちのおねえちゃん すごいんだから
+お{KANJI2F:9D}{KANJI2A:34}しながら ブリッツしてるんだよ
+--------------------------------------------------End--
+
+あたしも おねえちゃんみたいに
+{KANJI2D:68}{KANJI2C:FF}になるんだ!
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed}{KANJI2E:5E}{KANJI2E:9D}{KANJI2D:3D}{KANJI2D:85}4{KANJI2E:9E}を {KANJI2C:FF}に{KANJI2D:BF}れた!
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed}{KANJI2E:5E}を{KANJI2A:41}{KANJI2F:A4}した!
+   『{OPurple}ル{White}』{KANJI2A:42}『{Pink}く{White}』
+   『{OPurple}テ{White}』{KANJI2A:42}『{Pink}け{White}』
+   『{OPurple}ヨ{White}』{KANJI2A:42}『{Pink}こ{White}』
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【{Al Bhed}{KANJI2E:5E}{KANJI2D:BF}{KANJI2E:38}】{White}
+{KANJI2C:B3}{KANJI2D:8F}らぬ{KANJI2F:54}{KANJI2A:43}『{Al Bhed}{KANJI2E:5E}』は{Al Bhed}{KANJI2E:5E}{KANJI2E:9D}{KANJI2D:3D}を
+{KANJI2D:CB}{KANJI2C:B3}するとおぼえることができます 
+{OPurple}レバヘ! {Al Bhed}{KANJI2E:5E}ヤヌサー! テンソフム ミオウ!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}シュフコンキャ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}キョキンキャ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【アサヨソオ{Al Bhed}{KANJI2E:5E}】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}サンチニュフダル】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【ニュフヒョフハ{Al Bhed}{KANJI2E:5E}】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}ポナポナ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}デンヒギンハイ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【ヤーゼナヌハ{Al Bhed}{KANJI2E:5E}】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}ヤヌサー】{White}になった!
+--------------------------------------------------End--

@@ -1,0 +1,338 @@
+{Tidus}
+{Font Italic}ここ どこだ?
+--------------------------------------------------End--
+{Tidus}
+{Font Italic}{KANJI2E:FA}{KANJI2C:82}はカンベンしてやるよ
+--------------------------------------------------End--
+{Tidus}
+{Font Italic}しばらく おとなしくしてろよ
+--------------------------------------------------End--
+{Tidus}
+みんなは?
+--------------------------------------------------End--
+{Lulu}
+まだ{KANJI2C:B3}つからない
+--------------------------------------------------End--
+{Lulu}
+こんな{KANJI2E:B4}は{KANJI2E:A8}{KANJI2D:3B}の{KANJI2D:45}{KANJI2D:3C}を
+{KANJI2D:B4}かないのが{KANJI2D:A6}{KANJI2A:30}なのに--
+--------------------------------------------------End--
+{Tidus}
+そうしてたいの?
+--------------------------------------------------End--
+{Tidus}
+ほら できないって
+--------------------------------------------------End--
+{Tidus}
+{Wakka}!
+--------------------------------------------------End--
+{Tidus}
+ひとりか?
+--------------------------------------------------End--
+{Wakka}
+{Yuna}は?
+--------------------------------------------------End--
+{Wakka}
+くそっ
+--------------------------------------------------End--
+{Wakka}
+{Yuna}は{KANJI2C:B3}{KANJI2C:F8}うし
+マキナには{KANJI2A:31}われるし--
+--------------------------------------------------End--
+{Wakka}
+{KANJI2F:83}しい{KANJI2C:6B}{KANJI2F:3F}でないかい?
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【{Al Bhed}{KANJI2F:79}{KANJI2E:32}ボックス】{White}
+{KANJI2C:D8}{KANJI2D:C9}での{KANJI2A:32}{KANJI2A:33}{KANJI2D:F4}{KANJI2C:ED}のため {Al Bhed2}が{KANJI2D:60}{KANJI2D:91}した
+{KANJI2F:79}{KANJI2E:32}ボックス 
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed}{KANJI2E:5E}{KANJI2E:9D}{KANJI2D:3D}{KANJI2D:85}1{KANJI2E:9E}を {KANJI2C:FF}に{KANJI2D:BF}れた!
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed}{KANJI2E:5E}を{KANJI2A:38}{KANJI2F:A4}した!
+   『{OPurple}ワ{White}』{KANJI2A:39}『{Pink}あ{White}』
+   『{OPurple}ミ{White}』{KANJI2A:39}『{Pink}い{White}』
+   『{OPurple}フ{White}』{KANJI2A:39}『{Pink}う{White}』
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【{Al Bhed}{KANJI2E:5E}{KANJI2D:BF}{KANJI2E:38}】{White}
+{KANJI2C:B3}{KANJI2D:8F}らぬ{KANJI2F:54}{KANJI2A:3A}『{Al Bhed}{KANJI2E:5E}』は{Al Bhed}{KANJI2E:5E}{KANJI2E:9D}{KANJI2D:3D}を
+{KANJI2D:CB}{KANJI2C:B3}するとおぼえることができます 
+{OPurple}レバヘ! {Al Bhed}{KANJI2E:5E}ヤヌサー! テンソフム ミオウ!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}シュフコンキャ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}キョキンキャ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【アサヨソオ{Al Bhed}{KANJI2E:5E}】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}サンチニュフダル】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【ニュフヒョフハ{Al Bhed}{KANJI2E:5E}】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}ポナポナ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}デンヒギンハイ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【ヤーゼナヌハ{Al Bhed}{KANJI2E:5E}】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}ヤヌサー】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed}{KANJI2E:5E}{KANJI2E:9D}{KANJI2D:3D}{KANJI2D:85}3{KANJI2E:9E}を {KANJI2C:FF}に{KANJI2D:BF}れた!
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed}{KANJI2E:5E}を{KANJI2A:38}{KANJI2F:A4}した!
+   『{OPurple}ア{White}』{KANJI2A:39}『{Pink}か{White}』
+   『{OPurple}チ{White}』{KANJI2A:39}『{Pink}き{White}』
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}1】{White}
+{KANJI2E:4A}の{KANJI2C:9C}{KANJI2E:56}をスフィアに{KANJI2C:E3}すことができます!
+{KANJI2E:4A}のつかれをいやす{KANJI2C:F6}{KANJI2D:B4}{KANJI2C:82}{KANJI2D:E5}{KANJI2C:99}{KANJI2D:C3}で
+{KANJI2C:37}{KANJI2C:3F}/{KANJI2C:3C}{KANJI2C:3F}が{KANJI2D:6B}{KANJI2C:82}{KANJI2D:E5}します!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}セーブ
+{CHOICE:31}キャンセル
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}2】{White}
+{Besaid Aurochs}の{KANJI2F:6A}{KANJI2A:34}により セーブスフィアに
+{blitzball}スタジアムへの{KANJI2E:F2}{KANJI2A:35}{KANJI2C:99}{KANJI2D:C3}が
+{KANJI2D:9D}{KANJI2C:7B}されました!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【ブリッツスカウトシステム】{White}
+{Spira}の{KANJI2A:36}{KANJI2D:90}には ブリッツのトレーニングを{KANJI2D:78}ける
+{KANJI2C:6F}れた{KANJI2E:31}{KANJI2D:68}{KANJI2C:FF}がひそんでいます 
+{Button Square}を{KANJI2F:4D}して{KANJI2E:57}しかけると スカウト{KANJI2A:37}{KANJI2F:C5}できることがあります 
+{KANJI2F:D3}{KANJI2E:F3}{KANJI2E:95}{KANJI2F:80}な{KANJI2D:68}{KANJI2C:FF}をスカウトして {Besaid Aurochs}を
+トップチームに{KANJI2F:58}くのです!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}セーブ
+{CHOICE:31}ブリッツスタジアムへ
+{CHOICE:32}キャンセル
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs}はメンバー{KANJI2D:4F}{KANJI2D:52}が
+{KANJI2D:76}りないので{KANJI2C:EF}{KANJI2C:D2}に{KANJI2C:DF}{KANJI2C:7B}できません 
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}セーブ
+{Gray}ブリッツスタジアムへ{White}
+{CHOICE:31}キャンセル
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}3】{White}
+{Al Bhed2}·{Rin}の{KANJI2F:CB}{KANJI2E:8F}により セーブスフィアに
+{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}への{KANJI2E:F2}{KANJI2A:35}{KANJI2C:99}{KANJI2D:C3}が{KANJI2D:9D}{KANJI2C:7B}されました!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}セーブ
+{CHOICE:31}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ
+{CHOICE:32}ブリッツスタジアムへ
+{CHOICE:33}キャンセル
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}セーブ
+{Gray}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ{White}
+{CHOICE:31}ブリッツスタジアムへ
+{CHOICE:32}キャンセル
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}セーブ
+{CHOICE:31}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ
+{Gray}ブリッツスタジアムへ{White}
+{CHOICE:32}キャンセル
+--------------------------------------------------End--
+{WINDOW}
+3!
+--------------------------------------------------End--
+{WINDOW}
+2!
+--------------------------------------------------End--
+{WINDOW}
+1!
+--------------------------------------------------End--
+{WINDOW}
+{KANJI2C:42}{KANJI2C:43}{KANJI2C:30}{KANJI2C:41}{KANJI2C:43}!!
+--------------------------------------------------End--
+{WINDOW}
+{KANJI2C:48}{KANJI2C:3E}{KANJI2C:44} {KANJI2C:3B}{KANJI2C:3E}{KANJI2C:42}{KANJI2C:34}!!
+--------------------------------------------------End--
+{WINDOW}
+{KANJI2C:43}{KANJI2C:38}{KANJI2C:3C}{KANJI2C:34} {KANJI2C:3E}{KANJI2C:45}{KANJI2C:34}{KANJI2C:41}!!
+--------------------------------------------------End--
+{WINDOW}
+=1{KANJI2C:5C}{KANJI2C:5D} {KANJI2C:43}{KANJI2C:41}{KANJI2C:38}{KANJI2C:30}{KANJI2C:3B}=
+--------------------------------------------------End--
+{WINDOW}
+=2{KANJI2C:57}{KANJI2C:4D} {KANJI2C:43}{KANJI2C:41}{KANJI2C:38}{KANJI2C:30}{KANJI2C:3B}=
+--------------------------------------------------End--
+{WINDOW}
+=3{KANJI2C:5B}{KANJI2C:4D} {KANJI2C:43}{KANJI2C:41}{KANJI2C:38}{KANJI2C:30}{KANJI2C:3B}=
+--------------------------------------------------End--
+{WINDOW}
+はりはりまんぼん
+--------------------------------------------------End--
+{WINDOW}
+はりはり……
+--------------------------------------------------End--
+{WINDOW}
+……ころんだ
+--------------------------------------------------End--
+{WINDOW}
+はり……
+--------------------------------------------------End--
+{WINDOW}
+
+ {KANJI2C:CE}き{KANJI2D:61}{KANJI2D:FD}{KANJI2D:9F}
+={KANJI2A:3C}{KANJI2A:3D}{KANJI2D:93}です=
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【トーメ】{White}
+·{KANJI2D:50}くみが{KANJI2F:3F}{KANJI2A:3E} 
+ のんびりやなので{KANJI2D:94}{KANJI2C:93}に
+ {KANJI2D:91}いてけぼりをくうことも
+ しばしば
+·とろい 
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【ロビビア】{White}
+·とろいともだちに
+ いつもイライラ
+·{KANJI2D:CF}{KANJI2D:4F}{KANJI2D:6A} 
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【チャパ】{White}
+·{KANJI2E:A8}{KANJI2C:A9} 50まで{KANJI2D:52}えられる
+ ようになりました
+·{KANJI2D:4F}なつっこい
+·{KANJI2E:8E}{KANJI2E:8F}{KANJI2E:4D}{KANJI2F:8B}{KANJI2A:3F}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【アレク&アロヤ】{White}
+·いつでもいっしょのなかよし{KANJI2E:5F}{KANJI2A:40}
+·ふたりの{KANJI2D:B4}きはいっしょ
+ だってなかよし{KANJI2E:5F}{KANJI2A:40}だから
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【バーチェラ】{White}
+·あたらしい{KANJI2D:E6}が{KANJI2D:84}{KANJI2F:CB}き
+·{KANJI2D:7B}{KANJI2D:4F}に{KANJI2A:41}しく{KANJI2C:F6}{KANJI2D:E7}に{KANJI2A:42}い
+·せっかち
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【ロベイラ】{White}
+·おっちょこちょい
+·せまい{KANJI2D:45}{KANJI2D:3C}にすぐ{KANJI2D:BF}りたがる
+·{KANJI2C:F6}{KANJI2F:BC}のコレクション{KANJI2C:C3}{KANJI2C:88}{KANJI2D:93}!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【イスラヤ】{White}
+·{KANJI2A:43}{KANJI2C:6B}{KANJI2D:D3}の{KANJI2A:44}{KANJI2A:38}{KANJI2E:CD}
+ {KANJI2E:FA}{KANJI2F:3F}も{KANJI2A:45}りで{KANJI2E:C2}を{KANJI2A:46}る
+·かなり{KANJI2E:3D}{KANJI2E:9B}{KANJI2A:47}い 
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【エリオ】{White}
+·{KANJI2C:D8}{KANJI2D:C9}の{KANJI2C:8A}には なにがある?
+ {KANJI2C:98}{KANJI2F:AA}を{KANJI2A:48}に{KANJI2D:5A}{KANJI2D:C1}は{KANJI2E:4A}{KANJI2A:49}った
+·オーバーアクション{KANJI2C:9A}{KANJI2D:FC}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【フライレ】{White}
+·いつのまにか
+ {KANJI2F:47}に{KANJI2C:7B}わっているタイプ
+·ズルイ 
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【サボテンダーの{KANJI2A:43}】{White}
+·スフィアの{KANJI2E:4D}で{KANJI2C:D8}をあやつり
+ {KANJI2C:6B}{KANJI2E:5D}の{KANJI2A:43}を{KANJI2C:FE}るサボテンダーたちは
+ 『{KANJI2E:38}{KANJI2D:D3}』と{KANJI2A:4A}ばれています 
+·{KANJI2A:4B}らが{KANJI2C:F2}つ10{KANJI2C:B9}のスフィアを
+ すべて{KANJI2D:5C}{KANJI2A:3B}にささげた{KANJI2E:B4}
+ {KANJI2A:43}への{KANJI2D:B7}がひらかれるでしょう
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【{KANJI2E:38}{KANJI2D:D3}{KANJI2D:B7}1】{White}
+·たとえ{KANJI2A:4C}んでいるようにしか{KANJI2C:B3}えなくても
+ {KANJI2E:38}{KANJI2D:D3}たちは {KANJI2A:4D}り{KANJI2C:D0}き{KANJI2C:6B}{KANJI2E:5D}の{KANJI2D:64}{KANJI2C:E6}です
+·{KANJI2E:B0}{KANJI2D:F7}{KANJI2D:A5}に{KANJI2A:4E}いを{KANJI2F:CB}みませんが {KANJI2A:4B}らの{KANJI2D:C6}{KANJI2C:BE}を
+ {KANJI2C:FD}った{KANJI2E:EA}{KANJI2C:FF}には {KANJI2A:4F}{KANJI2E:8F}を{KANJI2C:F2}って{KANJI2E:F4}かってきます
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【{KANJI2E:38}{KANJI2D:D3}{KANJI2D:B7}2】{White}
+·うまく{KANJI2D:C6}{KANJI2C:BE}を{KANJI2C:FD}れなかった{KANJI2D:45}{KANJI2C:D2}
+ {KANJI2E:38}{KANJI2D:D3}たちは あなたに{KANJI2C:F8}{KANJI2F:80}し
+ すみやかにその{KANJI2D:45}を{KANJI2A:50}るでしょう
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【{KANJI2E:38}{KANJI2D:D3}{KANJI2D:B7}3】{White}
+·サボテンダーが{KANJI2D:C6}を{KANJI2E:F4}けているスキに
+ {KANJI2A:4B}らのところまで{KANJI2C:68}{KANJI2D:B4}して バトルを
+ {KANJI2D:95}みましょう
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【スフィア】{White}
+·{KANJI2E:38}{KANJI2D:D3}たちの{KANJI2D:C6}{KANJI2C:BE}をとれなかった{KANJI2D:45}{KANJI2C:D2}
+ {KANJI2D:C5}{KANJI2E:CD}のスフィアが{KANJI2C:FF}に{KANJI2D:BF}ります
+·{KANJI2E:38}{KANJI2D:D3}たちの{KANJI2D:C6}{KANJI2C:BE}をとれたときは
+ {KANJI2A:4B}らの{KANJI2E:31}{KANJI2D:6A}のついたスフィアを
+ もらえます
+·{KANJI2E:31}{KANJI2D:6A}つきのスフィアを たくさん
+ {KANJI2D:36}めると {KANJI2A:43}でごほうびが……
+--------------------------------------------------End--
+{WINDOW}
+
+{KANJI2D:5C}{KANJI2A:3B}にスフィアをはめると
+{KANJI2D:49}たな{KANJI2E:CF}{KANJI2C:F0}が{KANJI2E:F6}かび{KANJI2D:43}がってきた!
+--------------------------------------------------End--
+{WINDOW}
+トーメのスフィアを {KANJI2C:FF}に{KANJI2D:BF}れた!
+--------------------------------------------------End--
+{WINDOW}
+ロビビアのスフィアを {KANJI2C:FF}に{KANJI2D:BF}れた!
+--------------------------------------------------End--
+{WINDOW}
+チャパのスフィアを {KANJI2C:FF}に{KANJI2D:BF}れた!
+--------------------------------------------------End--
+{WINDOW}
+アレク&アロヤのスフィアを {KANJI2C:FF}に{KANJI2D:BF}れた!
+--------------------------------------------------End--
+{WINDOW}
+バーチェラのスフィアを {KANJI2C:FF}に{KANJI2D:BF}れた!
+--------------------------------------------------End--
+{WINDOW}
+ロベイラのスフィアを {KANJI2C:FF}に{KANJI2D:BF}れた!
+--------------------------------------------------End--
+{WINDOW}
+イスラヤのスフィアを {KANJI2C:FF}に{KANJI2D:BF}れた!
+--------------------------------------------------End--
+{WINDOW}
+……エリオのスフィアを {KANJI2C:FF}に{KANJI2D:BF}れた!
+--------------------------------------------------End--
+{WINDOW}
+フライレのスフィアを {KANJI2C:FF}に{KANJI2D:BF}れた!
+--------------------------------------------------End--
+{WINDOW}
+{KANJI2D:C5}{KANJI2E:CD}のスフィアを {KANJI2C:FF}に{KANJI2D:BF}れた!
+--------------------------------------------------End--
+
+{WINDOW}
+{Blue}{KANJI2C:43}{KANJI2C:38}{KANJI2C:3C}{KANJI2C:34} {VAR12:32}:{VAR12:31}:{VAR12:30}{White}
+--------------------------------------------------End--

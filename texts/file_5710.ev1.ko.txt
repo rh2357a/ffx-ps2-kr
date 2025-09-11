@@ -1,0 +1,83 @@
+{Rikku}
+そっちじゃなーい!
+--------------------------------------------------End--
+
+おたから ぱすわーど にゅうりょく
+ただしい {Al Bhed3}を にゅうりょくせよ!
+--------------------------------------------------End--
+
+ごめん
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}めんご{CHOICE:FF}   {CHOICE:31}ぞみん{CHOICE:FF}   {CHOICE:32}めんこ{CHOICE:FF}
+{CHOICE:33}むんば{CHOICE:FF}   {CHOICE:34}んめご{CHOICE:FF}   {CHOICE:35}れんぞ{CHOICE:FF}
+{CHOICE:36}おめん{CHOICE:FF}   {CHOICE:37}ごめん{CHOICE:FF}   {CHOICE:38}ろんぞ{CHOICE:FF}
+--------------------------------------------------End--
+
+はじめまして
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}めじはてしま{CHOICE:FF}   {CHOICE:31}じはめしまて{CHOICE:FF}   {CHOICE:32}おやすみなさ
+{CHOICE:33}ましてじめは{CHOICE:FF}   {CHOICE:34}ごきげんいか{CHOICE:FF}   {CHOICE:35}はじめまして
+{CHOICE:36}まぎれやきせ{CHOICE:FF}   {CHOICE:37}はじめてまし{CHOICE:FF}   {CHOICE:38}ましじはめて
+--------------------------------------------------End--
+
+すまない
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}まじない{CHOICE:FF}   {CHOICE:31}ぬやはみ{CHOICE:FF}   {CHOICE:32}みなさい
+{CHOICE:33}いなみす{CHOICE:FF}   {CHOICE:34}すまない{CHOICE:FF}   {CHOICE:35}すめない
+{CHOICE:36}かまない{CHOICE:FF}   {CHOICE:37}いなます{CHOICE:FF}   {CHOICE:38}いすなめ
+--------------------------------------------------End--
+{KANJI2E:CB}{KANJI2C:B3}る{KANJI2D:F0}{KANJI2A:30}
+わたしは なんでしょう?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}ぼむ{CHOICE:FF}{VAR07:59}{CHOICE:31}えりくさー{CHOICE:FF}{VAR07:72}{CHOICE:32}はいぽーしょん
+{CHOICE:33}めがぽーしょん{CHOICE:FF}{VAR07:59}{CHOICE:34}きんのはり{CHOICE:FF}{VAR07:72}{CHOICE:35}きまいら
+{CHOICE:36}ぽーしょん{CHOICE:FF}{VAR07:59}{CHOICE:37}ばんのうやく{CHOICE:FF}{VAR07:72}{CHOICE:38}いーびるあい
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed}{KANJI2E:5E}{KANJI2E:9D}{KANJI2D:3D}{KANJI2D:85}20{KANJI2E:9E}を {KANJI2C:FF}に{KANJI2D:BF}れた!
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed}{KANJI2E:5E}を{KANJI2A:31}{KANJI2F:A4}した!
+   『{OPurple}ダ{White}』{KANJI2A:32}『{Pink}が{White}』
+   『{OPurple}ジ{White}』{KANJI2A:32}『{Pink}ぎ{White}』
+   『{OPurple}ヅ{White}』{KANJI2A:32}『{Pink}ぐ{White}』
+   『{OPurple}デ{White}』{KANJI2A:32}『{Pink}げ{White}』
+   『{OPurple}ゾ{White}』{KANJI2A:32}『{Pink}ご{White}』
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【{Al Bhed}{KANJI2E:5E}{KANJI2D:BF}{KANJI2E:38}】{White}
+{KANJI2C:B3}{KANJI2D:8F}らぬ{KANJI2F:54}{KANJI2A:33}『{Al Bhed}{KANJI2E:5E}』は{Al Bhed}{KANJI2E:5E}{KANJI2E:9D}{KANJI2D:3D}を
+{KANJI2D:CB}{KANJI2C:B3}するとおぼえることができます 
+{OPurple}レバヘ! {Al Bhed}{KANJI2E:5E}ヤヌサー! テンソフム ミオウ!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}シュフコンキャ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}キョキンキャ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【アサヨソオ{Al Bhed}{KANJI2E:5E}】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}サンチニュフダル】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【ニュフヒョフハ{Al Bhed}{KANJI2E:5E}】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}ポナポナ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}デンヒギンハイ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【ヤーゼナヌハ{Al Bhed}{KANJI2E:5E}】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}ヤヌサー】{White}になった!
+--------------------------------------------------End--

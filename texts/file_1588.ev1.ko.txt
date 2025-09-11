@@ -1,0 +1,76 @@
+
+
+--------------------------------------------------End--
+{WINDOW}
+アーロン{KANJI2D:8A}{KANJI2A:34}での{KANJI2D:64}{KANJI2D:B3}
+  {CHOICE:30}コマンド{KANJI2F:AA}ち
+  {CHOICE:31}シームレステスト
+  {CHOICE:32}イベントリトライ
+  {CHOICE:33}バトル{KANJI2E:30}{KANJI2A:35}{KANJI2F:B6}{KANJI2E:61}{KANJI2E:79}
+--------------------------------------------------End--
+{WINDOW}
+スタジアム{KANJI2E:A8}{KANJI2C:BE}の{KANJI2D:64}{KANJI2D:B3}
+  {CHOICE:30}コマンド{KANJI2F:AA}ち
+  {CHOICE:31}シームレステスト
+  {CHOICE:32}イベントリトライ
+  {CHOICE:33}バトル{KANJI2E:30}{KANJI2A:35}{KANJI2F:B6}{KANJI2E:61}{KANJI2E:79}
+--------------------------------------------------End--
+{Mika}
+いずれ{KANJI2A:36}らぬ{KANJI2E:8A}{KANJI2A:37}たちの
+{KANJI2D:89}が{KANJI2A:38}{KANJI2E:61}しても{KANJI2D:E0}{KANJI2C:EA}{KANJI2C:9F}ではない 
+--------------------------------------------------End--
+{Mika}
+{KANJI2E:61}{KANJI2D:C5}の{KANJI2C:CE}{KANJI2D:F1}は {KANJI2D:89}も{KANJI2D:8F}らぬ 
+それゆえ われらはただ{KANJI2A:39}{KANJI2A:3A}しよう
+--------------------------------------------------End--
+{Mika}
+{KANJI2E:61}{KANJI2E:CD}の{KANJI2F:8F}{KANJI2C:C2}のために{KANJI2E:75}い
+{KANJI2D:C5}{KANJI2E:CD}の{KANJI2A:3B}{KANJI2C:9A}も{KANJI2A:3C}えよう
+--------------------------------------------------End--
+{Mika}
+{KANJI2D:68}{KANJI2C:FF}{KANJI2A:3D}{KANJI2A:3E} エボンが
+{KANJI2A:3F}にあらんことを
+--------------------------------------------------End--
+{Lulu}
+なにが{KANJI2C:E7}まったの!?
+--------------------------------------------------End--
+{Tidus}
+やっぱり{KANJI2D:8F}ってるのか
+--------------------------------------------------End--
+{Wakka}
+{KANJI2E:A8}{KANJI2C:D0}のガードだべさ
+--------------------------------------------------End--
+{Tidus}
+カンベンしてくれよ!
+--------------------------------------------------End--
+{Tidus}
+{Auron}!
+--------------------------------------------------End--
+{Wakka}
+{Auron}さん!
+--------------------------------------------------End--
+{WINDOW}
+マップデバッグ{KANJI2E:3D}メニュー
+  {CHOICE:30}やっぱやめ
+  {CHOICE:31}マップデータの{KANJI2C:CA}{KANJI2D:49}
+  {CHOICE:32}イベントセレクト
+  {CHOICE:33}モデルチェンジ
+  {CHOICE:34}いんびじぶる
+  {CHOICE:35}{KANJI2A:30}{KANJI2A:31}さんちに{KANJI2E:37}る
+--------------------------------------------------End--
+{WINDOW}
+モデル : {CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+イベントセレクト
+  {CHOICE:30}やっぱやめ
+  {CHOICE:31}シーモア{KANJI2C:64}{KANJI2C:D4}{KANJI2D:3F}{KANJI2C:8F}{Gray}
+  {CHOICE:32}{KANJI2F:86}{KANJI2A:32}に{KANJI2E:DB}まれるスタジアム{White}
+  {CHOICE:33}{KANJI2C:45}{KANJI2C:38}{KANJI2C:3F}{KANJI2D:5B}へ{KANJI2E:F2}{KANJI2A:33}
+  {CHOICE:34}アニマ{KANJI2D:DE}{KANJI2C:F5}{KANJI2D:53}{KANJI2C:BF}
+  {CHOICE:35}フレーム{KANJI2D:52}{KANJI2D:97}{KANJI2D:56}
+  {CHOICE:36}シナリオフラグクリア
+--------------------------------------------------End--
+{WINDOW}
+フレーム{KANJI2D:52} : {CHOICE:52}
+--------------------------------------------------End--

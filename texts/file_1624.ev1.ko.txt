@@ -1,0 +1,510 @@
+{Dona}
+{KANJI2C:7A}{KANJI2C:82}{KANJI2F:54}わせる{KANJI2C:9A}?
+{KANJI2F:A2}は{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}なのよ!
+--------------------------------------------------End--
+
+すみません {KANJI2A:30}{KANJI2C:8A}はありません
+--------------------------------------------------End--
+{Dona}
+あなたは{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}の{KANJI2E:4A}を
+{KANJI2A:31}{KANJI2A:32}する{KANJI2C:9A}?
+--------------------------------------------------End--
+
+すみません {KANJI2A:30}{KANJI2C:8A}はありません
+--------------------------------------------------End--
+{Dona}
+{KANJI2A:33}{KANJI2A:34}たず!
+--------------------------------------------------End--
+
+すまないが{KANJI2D:9E}すわけにはいかないのだ
+--------------------------------------------------End--
+
+{KANJI2C:9A}{KANJI2C:F2}ちはわかるが {KANJI2D:9E}せないのだ!
+--------------------------------------------------End--
+
+『{Sin}』を{KANJI2D:AB}そうってんだから
+{KANJI2A:35}{KANJI2E:4D}してくれよう
+--------------------------------------------------End--
+{Dona}
+あら あなたたち--
+--------------------------------------------------End--
+{Dona}
+{KANJI2C:B3}ての{KANJI2D:9E}り {KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}でさえ{KANJI2D:9E}さないって
+--------------------------------------------------End--
+{Dona}
+{KANJI2E:A8}{KANJI2C:BE}には{KANJI2F:A2}たちに{KANJI2A:38}ることになるのにね 
+{KANJI2C:B3}てなさい
+--------------------------------------------------End--
+{Dona}
+{KANJI2F:A2}はちょっと{KANJI2C:6B}{KANJI2F:9F}みしているわ
+--------------------------------------------------End--
+{Dona}
+ね {Barthello}?
+--------------------------------------------------End--
+
+{KANJI2E:9C}{KANJI2D:64}{KANJI2D:35}{KANJI2E:4B}まで{Mushroom Rock Road}は{KANJI2D:B1}{KANJI2D:CC}{KANJI2D:81}{KANJI2E:A2}{KANJI2C:8A}
+{KANJI2A:34}{KANJI2D:BF}{KANJI2E:D9}{KANJI2C:ED}です!
+--------------------------------------------------End--
+
+ご{KANJI2D:E0}{KANJI2C:F6}{KANJI2A:48}をかけて{KANJI2A:49}し{KANJI2A:4A}ありませんが 
+{KANJI2C:8C}{KANJI2D:B7}は{KANJI2A:4B}{KANJI2A:4C}{KANJI2D:93}です
+--------------------------------------------------End--
+
+ミヘン{KANJI2E:9C}{KANJI2D:64}への{KANJI2A:44}{KANJI2D:E1}をお{KANJI2A:4D}いします!
+--------------------------------------------------End--
+
+カンダイなカンパに{KANJI2F:B8}{KANJI2F:C1}です!
+どうぞお{KANJI2C:E4}いください!
+--------------------------------------------------End--
+
+ありがとうございます!
+これをどうぞ!
+--------------------------------------------------End--
+
+ありがとう!
+これ{KANJI2D:32}け{KANJI2C:FD}ってください
+--------------------------------------------------End--
+{WINDOW}
+{Lucil}
+{KANJI2D:EF}{KANJI2C:D3}!
+--------------------------------------------------End--
+{Lucil}
+{KANJI2C:BE}{KANJI2D:F1}{KANJI2A:3D}{KANJI2F:B0}{KANJI2D:E4}{KANJI2D:81}{KANJI2F:9B}{KANJI2D:91}{KANJI2A:3E}び
+{KANJI2C:9D}{KANJI2D:E8}{KANJI2D:81}{KANJI2A:3F}{KANJI2F:A4}{KANJI2E:9A}{KANJI2E:4B}しました
+--------------------------------------------------End--
+{Elma}
+{KANJI2C:6B}{KANJI2D:D2}{KANJI2D:4F}の{KANJI2D:D6}{KANJI2A:40}もほぼ{KANJI2D:35}{KANJI2E:4B}です!
+--------------------------------------------------End--
+{Lucil}
+ごく{KANJI2E:83}{KANJI2D:52}が{KANJI2C:E3}っていますが 
+{KANJI2E:9B}{KANJI2F:9B}は{KANJI2E:30}{KANJI2E:3D}です
+--------------------------------------------------End--
+
+よろしい {KANJI2C:7A}か{KANJI2F:99}{KANJI2F:9A}はあるか?
+--------------------------------------------------End--
+{Lucil}
+{KANJI2F:99}{KANJI2F:9A}は{KANJI2C:6B}{KANJI2D:5E}ありません!
+--------------------------------------------------End--
+
+すばらしい!
+{KANJI2D:85}{KANJI2C:6B}{KANJI2D:8D}{KANJI2C:89}{KANJI2E:9A}{KANJI2E:4B}! {KANJI2C:F3}!
+--------------------------------------------------End--
+
+チョコボ{KANJI2C:9D}{KANJI2D:E8}{KANJI2D:81}は{KANJI2E:9C}{KANJI2D:64}{KANJI2E:B4}{KANJI2F:9B}{KANJI2D:91}へ{KANJI2C:68}{KANJI2D:B4}!
+--------------------------------------------------End--
+{Lucil}
+はっ!!
+--------------------------------------------------End--
+{Elma}
+はっ!!
+--------------------------------------------------End--
+
+{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}{KANJI2E:3C}とガードだろ?
+{KANJI2E:33}{KANJI2A:43}かけるなあ
+--------------------------------------------------End--
+
+{KANJI2A:35}{KANJI2E:4D} {KANJI2F:B8}{KANJI2F:C1}する
+--------------------------------------------------End--
+
+なに? {KANJI2D:8F}らなかったのか?
+--------------------------------------------------End--
+
+{KANJI2F:C4}{KANJI2E:59}は『シンのコケラ』を
+{Spira}{KANJI2D:93}から{KANJI2C:71}んできている
+--------------------------------------------------End--
+
+『シンのコケラ』は『{Sin}』を{KANJI2C:6D}き{KANJI2A:44}せるだろ?
+--------------------------------------------------End--
+
+それで『{Sin}』をワナにおびき{KANJI2A:44}せるんだ
+--------------------------------------------------End--
+
+このミヘン{KANJI2E:9C}{KANJI2D:64}は{KANJI2D:B1}{KANJI2D:CC}{KANJI2D:81}と{Al Bhed}{KANJI2E:5D}の
+{KANJI2A:45}{KANJI2E:E5}{KANJI2E:9C}{KANJI2D:64}なんだ
+--------------------------------------------------End--
+
+{KANJI2D:B1}{KANJI2D:CC}{KANJI2D:81}が『{Sin}』をおびき{KANJI2D:3A}し
+{Al Bhed}{KANJI2E:5D}が{KANJI2D:AB}す
+--------------------------------------------------End--
+
+{Al Bhed}{KANJI2E:5D}も{KANJI2E:E5}じくらい
+『{Sin}』を{KANJI2A:46}んでいるからな
+--------------------------------------------------End--
+
+{KANJI2A:47}らは{KANJI2C:BA}{KANJI2D:82}のマキナを{KANJI2D:E5}{KANJI2F:6A}させた
+--------------------------------------------------End--
+
+それは{KANJI2E:8A}{KANJI2E:4D}な{KANJI2D:3F}{KANJI2C:8F}{KANJI2D:38}と
+{KANJI2E:E5}じくらい{KANJI2E:8A}いそうだ
+--------------------------------------------------End--
+
+まあ マキナは{Yevon2}{KANJI2C:F1}{KANJI2C:6E}が{KANJI2E:D9}じているが--
+--------------------------------------------------End--
+
+やっぱりこの{KANJI2E:57}はヤメ
+キミたちは{KANJI2D:8F}らない{KANJI2D:F1}がいい
+--------------------------------------------------End--
+
+{KANJI2E:9C}{KANJI2D:64}に{KANJI2C:DF}{KANJI2C:7B}する{KANJI2D:B1}{KANJI2D:CC}{KANJI2D:81}は
+{KANJI2D:6B}{KANJI2C:6C}{KANJI2C:F1}{KANJI2C:6E}から{KANJI2E:97}{KANJI2E:38}されたんだ
+--------------------------------------------------End--
+
+{KANJI2F:A2}の{KANJI2C:7C}{KANJI2E:5D}は{KANJI2C:C5}も{KANJI2F:9E}いてくれないんだ
+--------------------------------------------------End--
+
+{KANJI2E:FA}{KANJI2F:3F} 『{Sin}』を{KANJI2D:AB}さねばならん
+--------------------------------------------------End--
+
+そうしないと{KANJI2F:C4}{KANJI2E:59}の{KANJI2C:A5}{KANJI2D:45}{KANJI2D:3C}は
+どこにもなくなってしまうからな
+--------------------------------------------------End--
+{Gatta}
+{Gatta}と{Luzzu} {KANJI2D:EF}{KANJI2C:D3}します!
+--------------------------------------------------End--
+{Luzzu}
+これが{KANJI2E:A8}{KANJI2C:BE}のアレです
+--------------------------------------------------End--
+
+{KANJI2E:62}{KANJI2D:F1}からご{KANJI2E:6A}{KANJI2A:41}だったな 
+さあ {KANJI2D:9E}ってくれ
+--------------------------------------------------End--
+{Gatta}
+{KANJI2E:FA}{KANJI2A:42}ブリッツ{KANJI2E:5C}えてくれよな!
+--------------------------------------------------End--
+{Luzzu}
+ブラブラしてろ
+すぐに『{Sin}』を{KANJI2E:D6}づけちゃうから
+--------------------------------------------------End--
+{Clasko}
+{Lucil}{KANJI2D:81}{KANJI2D:99}と{Elma}は
+{KANJI2A:4E}{KANJI2D:92}してもいい{KANJI2A:4F}なんだよな
+--------------------------------------------------End--
+{Clasko}
+{Elma}は{KANJI2C:7A}をしてるんだろうな
+--------------------------------------------------End--
+{Clasko}
+ここでチョコボを{KANJI2C:CF}りてください
+--------------------------------------------------End--
+{Clasko}
+はいはい みんな{KANJI2C:CF}りて!
+--------------------------------------------------End--
+{Seymour}
+また{KANJI2C:81}いましたね {Yuna}{KANJI2E:3C}
+--------------------------------------------------End--
+{Yuna}
+はい
+--------------------------------------------------End--
+{Seymour}
+{KANJI2A:36}っているようですね
+{KANJI2F:A2}にできることはありますか?
+--------------------------------------------------End--
+{Yuna}
+{KANJI2E:DC}は-
+--------------------------------------------------End--
+{Seymour}
+なるほど
+--------------------------------------------------End--
+
+{Seymour}{KANJI2E:5B}{KANJI2C:E9} 
+{KANJI2C:E5}{KANJI2E:4E}{KANJI2D:E4}へご{KANJI2A:37}{KANJI2D:BC}します
+--------------------------------------------------End--
+{Seymour}
+{KANJI2F:AA}ちたまえ {KANJI2A:38}みがある
+--------------------------------------------------End--
+
+はい!
+--------------------------------------------------End--
+{Seymour}
+{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}{Yuna}とガードたちを
+{KANJI2C:E5}{KANJI2E:4E}{KANJI2D:E4}まで{KANJI2D:9E}して{KANJI2A:39}しい
+--------------------------------------------------End--
+
+しかし {Seymour}{KANJI2E:5B}{KANJI2C:E9}--
+--------------------------------------------------End--
+{Seymour}
+{KANJI2E:9B}{KANJI2F:9B}するな {KANJI2F:A2}が{KANJI2A:3A}{KANJI2A:3B}をとる
+--------------------------------------------------End--
+
+わかりました
+{KANJI2D:9E}{KANJI2C:CE}を{KANJI2F:A9}{KANJI2E:B1}します
+--------------------------------------------------End--
+{Seymour}
+どうぞ
+--------------------------------------------------End--
+{Yuna}
+あ ありがとうございます
+--------------------------------------------------End--
+{Lulu}
+{Yuna} {KANJI2E:92}く
+--------------------------------------------------End--
+{Yuna}
+うん
+--------------------------------------------------End--
+{Tidus}
+ナニサマのつもりだ
+--------------------------------------------------End--
+{Wakka}
+ロウシサマだ {KANJI2A:3C}れとけ
+--------------------------------------------------End--
+
+こんにちは!
+{KANJI2D:3B}{KANJI2C:82}は{KANJI2E:30}{KANJI2A:51}です!
+--------------------------------------------------End--
+
+{KANJI2E:FA}{KANJI2C:82}は{KANJI2E:30}{KANJI2A:51}なんだけど--
+もう{KANJI2D:44}ってるみたいね~
+{NEWPAGE}
+
+{KANJI2C:F3}の{KANJI2E:B4}に{KANJI2E:30}{KANJI2A:51}にしてあげま~す
+--------------------------------------------------End--
+
+チョコボに{KANJI2D:44}りますか~?
+--------------------------------------------------End--
+
+{KANJI2D:B7}{KANJI2D:93}お{KANJI2C:9A}をつけ{KANJI2C:78}さい
+--------------------------------------------------End--
+
+チョコボの{KANJI2D:44}り{KANJI2D:F1}を
+{KANJI2F:9E}きたいですか?
+--------------------------------------------------End--
+
+あたしは {KANJI2D:E8}{KANJI2D:81}さんに
+ごはんを{KANJI2C:71}んでるの~!
+--------------------------------------------------End--
+
+もうすぐ{KANJI2E:9C}{KANJI2D:64}が{KANJI2C:E7}まりま~す
+{KANJI2E:ED}{KANJI2E:EC}ない{KANJI2D:4F}は{KANJI2D:9E}っちゃダメで~す
+--------------------------------------------------End--
+
+{KANJI2E:BC}い{KANJI2C:E8}は『{Sin}』に{KANJI2F:BE}べられちゃうよ
+おかあさんが ゆってたもん
+--------------------------------------------------End--
+
+もうすぐ{KANJI2E:9C}{KANJI2D:64}が{KANJI2C:E7}まりま~す
+{KANJI2E:ED}{KANJI2E:EC}ない{KANJI2D:4F}は{KANJI2D:9E}っちゃダメで~す
+--------------------------------------------------End--
+
+ボクらだって {Crusader}なんだぞ 
+ちゃんと{KANJI2F:9D}{KANJI2A:52}もしてるんだ!
+{NEWPAGE}
+
+ボクの{KANJI2A:3B}{KANJI2A:53}は--
+みんなの{KANJI2A:54}{KANJI2D:E6}の{KANJI2C:BE}かたづけだ!
+--------------------------------------------------End--
+
+どうだ すごい{KANJI2F:9D}{KANJI2A:52}だろ~?
+--------------------------------------------------End--
+
+もし{KANJI2D:9E}ったら どうなるの?
+--------------------------------------------------End--
+
+ひゃあ--
+--------------------------------------------------End--
+
+えらい{KANJI2E:5B}{KANJI2C:E9}さまも{KANJI2E:F3}てるんだ
+がんばらなくちゃ!
+--------------------------------------------------End--
+
+{Maester Kinoc}のご{KANJI2E:32}{KANJI2E:4E}で
+{KANJI2C:8C}{KANJI2D:B7}を{KANJI2A:55}{KANJI2D:D9}{KANJI2D:93}である!
+--------------------------------------------------End--
+
+{Al Bhed}の{KANJI2E:52}{KANJI2D:93}が こんなとこまで
+{KANJI2C:AA}かせぎに{KANJI2E:F3}てるぜ
+{NEWPAGE}
+
+{KANJI2E:9C}{KANJI2D:64}を{KANJI2C:F8}{KANJI2D:C5}に{KANJI2D:9D}いこんでおいて
+ずうずうしい{KANJI2E:52}{KANJI2D:93}だ!
+--------------------------------------------------End--
+
+いずれ われら{KANJI2D:6C}{KANJI2D:E8}{KANJI2F:5C}{KANJI2A:56}が
+{Al Bhed2}を{KANJI2A:57}きつぶしてやる
+--------------------------------------------------End--
+
+ここいらの{KANJI2D:84}{KANJI2A:54}{KANJI2D:E6}は 
+みんな{Crusader}の{KANJI2D:91}きみやげだ
+{NEWPAGE}
+
+あいつら{KANJI2D:92}のみ{KANJI2D:92}のままで
+{KANJI2D:B2}げてったからな
+--------------------------------------------------End--
+
+こんなオリに『シンのコケラ』を
+{KANJI2D:BF}れてたのか--{KANJI2E:30}{KANJI2A:58}しやがる
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{KANJI2F:7D}してきてやるか
+{CHOICE:31}{KANJI2A:50}やかしちゃダメだよな
+--------------------------------------------------End--
+
+この{KANJI2D:61}は{KANJI2A:55}{KANJI2D:D9}する{KANJI2E:CD}が{KANJI2E:83}ないんだ
+{KANJI2D:F8}{KANJI2D:E6}がのさばってるから{KANJI2C:9A}をつけろよ
+--------------------------------------------------End--
+
+{Mushroom Rock Road}にも{KANJI2D:E8}を{KANJI2F:9B}{KANJI2D:91}して
+{KANJI2C:8C}{KANJI2D:B7}の{KANJI2F:88}{KANJI2D:6B}を{KANJI2C:8D}{KANJI2A:59}したいが--
+{NEWPAGE}
+
+とにかく{KANJI2D:4F}{KANJI2C:FF}が{KANJI2D:76}りないんだ 
+わかってくれ
+--------------------------------------------------End--
+{WINDOW}
+{KANJI2D:3C}{KANJI2C:F2}{KANJI2C:AA}:{VAR12:30}ギル
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}100ギルでじゅうぶんだな
+{CHOICE:31}1000ギルくらいならいいか
+{CHOICE:32}{KANJI2C:EA}い{KANJI2D:5E}って10000ギルだ!!
+{CHOICE:33}カンパしたくないな
+--------------------------------------------------End--
+
+ギルがたりません
+--------------------------------------------------End--
+
+{KANJI2A:55}{KANJI2D:D9}の{KANJI2F:9D}{KANJI2A:52}が{KANJI2A:5A}しくて われわれは
+あのオリで{KANJI2A:5B}{KANJI2A:5C}りしている 
+{NEWPAGE}
+
+{KANJI2E:9C}{KANJI2D:64}の{KANJI2C:BE}で {KANJI2E:D6}{KANJI2D:E1}けなくてよかった 
+ケガの{KANJI2A:5D}{KANJI2E:31}だな
+--------------------------------------------------End--
+
+ときどき{KANJI2E:4A}{KANJI2C:CE}{KANJI2C:C3}{KANJI2C:E5}の{Al Bhed2}が
+{KANJI2E:87}し{KANJI2D:BF}れを{KANJI2C:F2}ってきてくれる
+{NEWPAGE}
+
+あいつらの{KANJI2E:FE}えは よくわからんが
+メシを{KANJI2D:3A}してくれるやつは{KANJI2A:5E}だちさ
+--------------------------------------------------End--
+
+どうぞお{KANJI2D:9E}り{KANJI2C:78}さい
+--------------------------------------------------End--
+
+ここを{KANJI2A:55}{KANJI2D:D9}していた{KANJI2D:6C}{KANJI2D:E8}も{Guado2}も
+どこかに{KANJI2C:CE}ってしまったわ
+{NEWPAGE}
+
+もしかして {KANJI2D:D0}{KANJI2F:43}{KANJI2E:CD}を
+{KANJI2D:9D}{KANJI2D:5D}してるのかしら?
+--------------------------------------------------End--
+
+{KANJI2D:F7}{KANJI2C:9A}で{KANJI2D:FE}を{KANJI2C:FE}ってくれるのは
+{Crusader}しか いないのね-- 
+--------------------------------------------------End--
+
+マキナの{KANJI2D:67}が{KANJI2D:D8}んだ{KANJI2E:B4}は もちろん{KANJI2E:75}ったわ
+あの{Al Bhed}の{KANJI2C:E8}も いっしょにね 
+{NEWPAGE}
+
+{KANJI2F:54}{KANJI2A:5F}は{KANJI2D:9E}じないのに {KANJI2E:E5}じ{KANJI2E:75}を{KANJI2E:75}えるなんて
+なんだか ふしぎだったわ
+--------------------------------------------------End--
+
+{Yevon2}の{KANJI2D:FE}と{Al Bhed2}が
+うまくやる{KANJI2D:F1}{KANJI2D:F2}も あるかもね
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{KANJI2C:9A}にすんなって
+{CHOICE:31}{KANJI2E:9C}{KANJI2D:64}のこと{KANJI2F:9E}きたい
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{KANJI2F:9E}かない
+{CHOICE:31}{KANJI2F:9E}く
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【チョコボの{KANJI2D:44}り{KANJI2D:F1}】{White}
+
+{Blue}{KANJI2C:68}{KANJI2D:B4}{White}
+{KANJI2E:CE}{KANJI2E:34}{KANJI2A:64}{VAR07:E4}{Direcional Up}{VAR07:60}{KANJI2E:CE}{KANJI2E:34}{KANJI2C:FF}{KANJI2D:6A}{VAR07:E4}{Direcional Down}
+{KANJI2E:CE}{KANJI2E:34}{KANJI2C:D7}{VAR07:E4}{Direcional Left}{VAR07:60}{KANJI2E:CE}{KANJI2E:34}{KANJI2C:70}{VAR07:E4}{Direcional Right}
+
+{Blue}{KANJI2D:44}{KANJI2C:CF}{White}
+{KANJI2C:CF}りる{VAR07:E8}{Button X}
+{KANJI2D:44}る{VAR07:E8}チョコボに{KANJI2E:F4}かって{Button Circle}
+
+チョコボは{Mi'ihen Highroad}でしか{KANJI2D:44}れません 
+{KANJI2D:44}ったままで{Luca}や{KANJI2C:8C}{KANJI2D:B7}の{KANJI2D:61}には
+{KANJI2C:CE}けません 
+--------------------------------------------------End--
+{WINDOW}
+チョコボは{KANJI2C:CF}りた{KANJI2D:45}{KANJI2D:3C}で{KANJI2F:AA}っていてくれますが 
+そのままにして{Mi'ihen Highroad}から{KANJI2D:3A}てしまったり
+{KANJI2D:49}しいチョコボを{KANJI2A:65}りてしまうと
+いなくなってしまいます 
+{KANJI2D:44}りたいときはまた{KANJI2A:65}りに{KANJI2E:F3}てください
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{KANJI2D:44}る
+{CHOICE:31}{KANJI2D:44}らない
+{CHOICE:32}{KANJI2D:44}り{KANJI2D:F1}{KANJI2E:5C}えて
+--------------------------------------------------End--
+{WINDOW}
+{KANJI2C:AA}{KANJI2A:66}:{VAR12:31}ギル
+--------------------------------------------------End--
+{WINDOW}
+{KANJI2D:3C}{KANJI2C:F2}{KANJI2C:AA}:{VAR12:31}ギル
+--------------------------------------------------End--
+{WINDOW}
+ギルが{KANJI2D:76}りません
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}1】{White}
+{KANJI2E:4A}の{KANJI2C:9C}{KANJI2E:56}をスフィアに{KANJI2C:E3}すことができます!
+{KANJI2E:4A}のつかれをいやす{KANJI2C:F6}{KANJI2D:B4}{KANJI2C:82}{KANJI2D:E5}{KANJI2C:99}{KANJI2D:C3}で
+{KANJI2C:37}{KANJI2C:3F}/{KANJI2C:3C}{KANJI2C:3F}が{KANJI2D:6B}{KANJI2C:82}{KANJI2D:E5}します!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}セーブ
+{CHOICE:31}キャンセル
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}2】{White}
+{Besaid Aurochs}の{KANJI2F:6A}{KANJI2A:60}により セーブスフィアに
+{blitzball}スタジアムへの{KANJI2E:F2}{KANJI2A:61}{KANJI2C:99}{KANJI2D:C3}が
+{KANJI2D:9D}{KANJI2C:7B}されました!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【ブリッツスカウトシステム】{White}
+{Spira}の{KANJI2A:62}{KANJI2D:90}には ブリッツのトレーニングを{KANJI2D:78}ける
+{KANJI2C:6F}れた{KANJI2E:31}{KANJI2D:68}{KANJI2C:FF}がひそんでいます 
+{Button Square}を{KANJI2F:4D}して{KANJI2E:57}しかけると スカウト{KANJI2A:63}{KANJI2F:C5}できることがあります 
+{KANJI2F:D3}{KANJI2E:F3}{KANJI2E:95}{KANJI2F:80}な{KANJI2D:68}{KANJI2C:FF}をスカウトして {Besaid Aurochs}を
+トップチームに{KANJI2F:58}くのです!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}セーブ
+{CHOICE:31}ブリッツスタジアムへ
+{CHOICE:32}キャンセル
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs}はメンバー{KANJI2D:4F}{KANJI2D:52}が
+{KANJI2D:76}りないので{KANJI2C:EF}{KANJI2C:D2}に{KANJI2C:DF}{KANJI2C:7B}できません 
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}セーブ
+{Gray}ブリッツスタジアムへ{White}
+{CHOICE:31}キャンセル
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}3】{White}
+{Al Bhed2}·{Rin}の{KANJI2F:CB}{KANJI2E:8F}により セーブスフィアに
+{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}への{KANJI2E:F2}{KANJI2A:61}{KANJI2C:99}{KANJI2D:C3}が{KANJI2D:9D}{KANJI2C:7B}されました!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}セーブ
+{CHOICE:31}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ
+{CHOICE:32}ブリッツスタジアムへ
+{CHOICE:33}キャンセル
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}セーブ
+{Gray}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ{White}
+{CHOICE:31}ブリッツスタジアムへ
+{CHOICE:32}キャンセル
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}セーブ
+{CHOICE:31}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ
+{Gray}ブリッツスタジアムへ{White}
+{CHOICE:32}キャンセル
+--------------------------------------------------End--

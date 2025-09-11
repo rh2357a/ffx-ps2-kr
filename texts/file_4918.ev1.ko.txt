@@ -1,0 +1,8 @@
+
+{WINDOW}
+{Blue}{KANJI2C:43}{KANJI2C:38}{KANJI2C:3C}{KANJI2C:34} {VAR12:32}:{VAR12:31}:{VAR12:30}{White}
+--------------------------------------------------End--
+
+{WINDOW}
+{Red}{KANJI2C:43}{KANJI2C:38}{KANJI2C:3C}{KANJI2C:34} {VAR12:32}:{VAR12:31}:{VAR12:30}{White}
+--------------------------------------------------End--

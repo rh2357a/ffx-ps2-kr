@@ -1,0 +1,219 @@
+{Lucil}
+この{KANJI2D:B7}で{KANJI2C:7A}をしてるんです?
+--------------------------------------------------End--
+{Tidus}
+わかるでしょ--
+--------------------------------------------------End--
+{Lucil}
+なるほど--
+--------------------------------------------------End--
+{Lucil}
+{KANJI2C:8C}{KANJI2D:B7}の{KANJI2D:35}{KANJI2D:A7}はあちらです
+--------------------------------------------------End--
+{Lucil}
+しかし {KANJI2E:9C}{KANJI2D:64}{KANJI2D:93}は{KANJI2D:35}{KANJI2D:A7}から{KANJI2D:61}は
+{KANJI2D:9E}{KANJI2C:CE}{KANJI2C:ED}めにしています
+--------------------------------------------------End--
+{Lucil}
+{KANJI2D:61}へ{KANJI2D:4C}みたい{KANJI2D:45}{KANJI2C:D2}は 
+{KANJI2A:30}{KANJI2F:99}{KANJI2D:81}{KANJI2D:99}に{KANJI2F:9E}いてください
+--------------------------------------------------End--
+{Lucil}
+{KANJI2D:49}{KANJI2D:B7}に{KANJI2E:37}るには まずこの{KANJI2D:B7}の{KANJI2D:35}{KANJI2D:A7}まで
+{KANJI2C:CE}かなくてはなりません
+--------------------------------------------------End--
+{Shelinda}
+わたしのうわさが
+{KANJI2C:C7}がったらしくて--
+--------------------------------------------------End--
+{Shelinda}
+{Crusader}が{KANJI2F:A2}を{KANJI2E:30}{KANJI2F:92}するんですよ!
+--------------------------------------------------End--
+{O'aka}
+{KANJI2C:A4}{KANJI2D:B7}に{KANJI2C:CF}りたのは
+{KANJI2C:F8}{KANJI2D:C5}だったぜ
+--------------------------------------------------End--
+{O'aka}
+{KANJI2C:A0}がいなくちゃ{KANJI2A:33}{KANJI2E:A4}にならねえ!
+--------------------------------------------------End--
+{O'aka}
+おまえ {KANJI2F:A7}{KANJI2D:FC}あるんだろ?
+--------------------------------------------------End--
+{O'aka}
+{Crusader}がウジャウジャいるけど
+{KANJI2C:7A}が{KANJI2C:E7}まるんだ?
+--------------------------------------------------End--
+{O'aka}
+ありがとよ {KANJI2E:83}{KANJI2D:C1} 
+あんたのことは{KANJI2E:D5}れないからな
+--------------------------------------------------End--
+{O'aka}
+まあ そうだろうな
+--------------------------------------------------End--
+{O'aka}
+{KANJI2C:AA} {KANJI2F:AE}すってか?
+--------------------------------------------------End--
+{O'aka}
+なんでえ--{KANJI2C:98}{KANJI2F:AA}させるなよ
+--------------------------------------------------End--
+
+{KANJI2E:9C}{KANJI2D:64}{KANJI2D:6A}に ここで{KANJI2E:C0}{KANJI2E:51}してた{KANJI2E:B4}は
+かならず{KANJI2E:61}てると{KANJI2C:EA}ってたんだ
+--------------------------------------------------End--
+
+{KANJI2A:34}すぎだよな--{KANJI2A:35}っちゃうよ
+--------------------------------------------------End--
+
+オレのチョコボもやられたよ 
+ずっといっしょに{KANJI2D:64}ってきたのに--
+--------------------------------------------------End--
+{WINDOW}
+{KANJI2D:3C}{KANJI2C:F2}{KANJI2C:AA}:{VAR12:30}ギル
+--------------------------------------------------End--
+{WINDOW}
+いままで{KANJI2F:AE}した{KANJI2E:5A}{KANJI2A:31}:{VAR12:31}ギル
+--------------------------------------------------End--
+{WINDOW}
+{Direcional Up}{Direcional Down}{Direcional Left}{Direcional Right}で{KANJI2C:AA}{KANJI2A:31}を{KANJI2D:60}{KANJI2D:9F}
+{Button Circle}で{KANJI2C:B1}{KANJI2D:9F}
+--------------------------------------------------End--
+{WINDOW}
+--いくら{KANJI2F:AE}そうか?
+{O'aka}に {CHOICE:56}ギル{KANJI2F:AE}す
+--------------------------------------------------End--
+{O'aka}
+--なあ {KANJI2E:83}{KANJI2D:C1} 
+{KANJI2C:9A}{KANJI2C:F2}ちはうれしいんだがギルが{KANJI2D:76}りないぜ 
+--------------------------------------------------End--
+{O'aka}
+おおっ{KANJI2E:83}{KANJI2D:C1} {VAR12:32}ギルも
+この{KANJI2F:A1}に{KANJI2F:AE}してくれるのか?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}ちょっと{KANJI2F:AA}った
+{CHOICE:31}{KANJI2C:9A}にすんなって
+{CHOICE:32}やっぱやめた
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}ちょっとみせて
+{CHOICE:31}{O'aka}に{KANJI2D:AF}{KANJI2A:32}
+{CHOICE:32}{KANJI2C:93}に{KANJI2C:D2}ってる
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}いいよ
+{CHOICE:31}やだね
+--------------------------------------------------End--
+{O'aka}
+まいど {O'aka}でぃ!
+--------------------------------------------------End--
+
+{KANJI2C:F1}{KANJI2C:6E}にこもって{KANJI2A:36}らすのは
+やめることにしました 
+{NEWPAGE}
+
+{KANJI2E:4A}をしながら{KANJI2D:FE}とふれあい 
+{KANJI2E:5C}えを{KANJI2E:88}えようと{KANJI2C:EA}います 
+--------------------------------------------------End--
+
+まずは{Al Bhed}の{KANJI2F:54}{KANJI2A:37}をおぼえて
+{KANJI2A:38}らと{KANJI2E:57}してみるつもりです 
+{NEWPAGE}
+
+{KANJI2C:9B}らない{KANJI2A:38}らを{KANJI2A:39}めるだけでは
+なにも{KANJI2E:B3}{KANJI2C:B1}しません
+--------------------------------------------------End--
+
+『{Sin}』は まだ{KANJI2C:EE}んでいないらしい
+しぶといヤツだ!
+{NEWPAGE}
+
+{KANJI2E:9C}{KANJI2D:64}の{KANJI2E:B4}に{KANJI2C:E4}った{KANJI2D:84}{KANJI2D:F3}があれば
+ねらい{KANJI2C:B0}ちしてやれたのに--
+--------------------------------------------------End--
+
+なにか{KANJI2E:4D}になれるかもしれない 
+オレも{Bevelle}に{KANJI2C:CE}ってみるか!
+--------------------------------------------------End--
+
+{Bevelle}から{KANJI2D:D6}{KANJI2A:3A}してくる{KANJI2D:4F}がかなりいます 
+{NEWPAGE}
+
+{KANJI2D:99}{KANJI2E:4A}で{KANJI2A:3B}れた{KANJI2D:4F}たちを{KANJI2D:F8}{KANJI2D:E6}から
+{KANJI2C:FE}るのが われわれの{KANJI2A:3C}{KANJI2E:36}です
+--------------------------------------------------End--
+
+{KANJI2E:83}し{KANJI2D:6A}まで{KANJI2D:6C}{KANJI2D:E8}が{KANJI2C:8C}{KANJI2D:B7}を
+{KANJI2A:3D}{KANJI2D:D9}していたのですが--
+{NEWPAGE}
+
+どこかへ{KANJI2C:CE}ってしまいました 
+まったく{KANJI2E:30}{KANJI2A:39}{KANJI2A:3E}な{KANJI2E:52}{KANJI2D:93}です
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}1】{White}
+{KANJI2E:4A}の{KANJI2C:9C}{KANJI2E:56}をスフィアに{KANJI2C:E3}すことができます!
+{KANJI2E:4A}のつかれをいやす{KANJI2C:F6}{KANJI2D:B4}{KANJI2C:82}{KANJI2D:E5}{KANJI2C:99}{KANJI2D:C3}で
+{KANJI2C:37}{KANJI2C:3F}/{KANJI2C:3C}{KANJI2C:3F}が{KANJI2D:6B}{KANJI2C:82}{KANJI2D:E5}します!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}セーブ
+{CHOICE:31}キャンセル
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}2】{White}
+{Besaid Aurochs}の{KANJI2F:6A}{KANJI2A:3F}により セーブスフィアに
+{blitzball}スタジアムへの{KANJI2E:F2}{KANJI2A:40}{KANJI2C:99}{KANJI2D:C3}が
+{KANJI2D:9D}{KANJI2C:7B}されました!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【ブリッツスカウトシステム】{White}
+{Spira}の{KANJI2A:41}{KANJI2D:90}には ブリッツのトレーニングを{KANJI2D:78}ける
+{KANJI2C:6F}れた{KANJI2E:31}{KANJI2D:68}{KANJI2C:FF}がひそんでいます 
+{Button Square}を{KANJI2F:4D}して{KANJI2E:57}しかけると スカウト{KANJI2A:42}{KANJI2F:C5}できることがあります 
+{KANJI2F:D3}{KANJI2E:F3}{KANJI2E:95}{KANJI2F:80}な{KANJI2D:68}{KANJI2C:FF}をスカウトして {Besaid Aurochs}を
+トップチームに{KANJI2F:58}くのです!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}セーブ
+{CHOICE:31}ブリッツスタジアムへ
+{CHOICE:32}キャンセル
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs}はメンバー{KANJI2D:4F}{KANJI2D:52}が
+{KANJI2D:76}りないので{KANJI2C:EF}{KANJI2C:D2}に{KANJI2C:DF}{KANJI2C:7B}できません 
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}セーブ
+{Gray}ブリッツスタジアムへ{White}
+{CHOICE:31}キャンセル
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}3】{White}
+{Al Bhed2}·{Rin}の{KANJI2F:CB}{KANJI2E:8F}により セーブスフィアに
+{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}への{KANJI2E:F2}{KANJI2A:40}{KANJI2C:99}{KANJI2D:C3}が{KANJI2D:9D}{KANJI2C:7B}されました!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}セーブ
+{CHOICE:31}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ
+{CHOICE:32}ブリッツスタジアムへ
+{CHOICE:33}キャンセル
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}セーブ
+{Gray}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ{White}
+{CHOICE:31}ブリッツスタジアムへ
+{CHOICE:32}キャンセル
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}セーブ
+{CHOICE:31}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ
+{Gray}ブリッツスタジアムへ{White}
+{CHOICE:32}キャンセル
+--------------------------------------------------End--
+{WINDOW}
+{Jecht}のスフィアを{KANJI2D:CB}{KANJI2C:B3}した!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{KANJI2C:B3}てみる
+{CHOICE:31}{KANJI2C:B3}ない
+--------------------------------------------------End--

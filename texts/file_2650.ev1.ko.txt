@@ -1,0 +1,132 @@
+{Shelinda}
+わたしのうわさが
+{KANJI2C:C7}がったらしくて--
+--------------------------------------------------End--
+{Shelinda}
+{Crusader}が{KANJI2F:A2}を{KANJI2E:30}{KANJI2F:92}するんですよ!
+--------------------------------------------------End--
+{Shelinda}
+{KANJI2A:30}{KANJI2F:3F}のあなたの{KANJI2F:54}{KANJI2A:31} ありがとう!
+--------------------------------------------------End--
+{Maechen}
+{KANJI2F:BB}い{KANJI2E:4A}を!
+--------------------------------------------------End--
+{Maechen}
+この{KANJI2C:8C}{KANJI2D:B7}のことを{KANJI2F:9E}きたいんだね?
+--------------------------------------------------End--
+{Maechen}
+--いとあわれ
+--------------------------------------------------End--
+{Maechen}
+{KANJI2F:C4}{KANJI2E:59}は{KANJI2E:FA} {KANJI2D:49}{KANJI2D:B7}と{KANJI2A:32}ばれる{Mi'ihen Highroad}の{KANJI2C:6B}{KANJI2D:E4}を
+{KANJI2D:4C}んでいるんだね
+--------------------------------------------------End--
+{Maechen}
+{KANJI2E:90}{KANJI2A:33} これは『{KANJI2C:A4}{KANJI2D:B7}』があることを
+{KANJI2C:F5}しているわけだ
+--------------------------------------------------End--
+{Maechen}
+この{KANJI2D:49}{KANJI2D:B7}の{KANJI2C:78}を{KANJI2D:9E}っているのが
+そもそもの{Mi'ihen Highroad}だね
+--------------------------------------------------End--
+{Maechen}
+つまり{Mi'ihen}{KANJI2E:3C}が{KANJI2D:ED}んだのは
+ここではなく{KANJI2C:A4}{KANJI2D:B7}の{KANJI2D:F1}なんだよ
+--------------------------------------------------End--
+{Maechen}
+{KANJI2D:49}{KANJI2D:B7}は500{KANJI2D:C1}{KANJI2D:6A}に『{Sin}』に{KANJI2E:97}{KANJI2C:83}された
+{KANJI2C:A4}{KANJI2D:B7}に{KANJI2D:82}わるために{KANJI2E:9C}られたんだねえ
+--------------------------------------------------End--
+{Maechen}
+たまに{KANJI2C:A4}{KANJI2D:B7}に{KANJI2A:34}ち {KANJI2F:BD}{KANJI2A:35}に{KANJI2C:EA}いを
+{KANJI2A:36}らせるのも{KANJI2F:83}しいんだよねえ
+--------------------------------------------------End--
+
+やっと{KANJI2D:9E}{KANJI2C:CE}{KANJI2C:ED}めが{KANJI2E:B3}かれたんで
+{KANJI2D:F5}に{KANJI2C:CE}こうと{KANJI2C:EA}うんだけどね--
+{NEWPAGE}
+
+たくさん{KANJI2D:4F}が{KANJI2C:EE}んだ{KANJI2D:45}{KANJI2D:3C}を{KANJI2D:9E}るなんて
+{KANJI2C:9A}{KANJI2D:FC}が{KANJI2E:BC}くて いやなもんだよ
+--------------------------------------------------End--
+
+{KANJI2D:64}{KANJI2C:EE}した{KANJI2D:E8}{KANJI2D:81}が {KANJI2D:F8}{KANJI2D:E6}になって
+うろついてそうだなあ--
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}ぜんぜん
+{CHOICE:31}おねがい
+--------------------------------------------------End--
+
+{Al Bhed}の{KANJI2E:52}{KANJI2D:93}が うろついてる
+またなにか たくらんでるのか?
+--------------------------------------------------End--
+
+{KANJI2D:6C}{KANJI2D:E8}さんがいたら {Al Bhed}なんかに
+{KANJI2D:84}きな{KANJI2A:37}は させねえのによ--
+--------------------------------------------------End--
+
+あの{KANJI2D:67}は{Al Bhed2}のマキナだろ 
+やつらにたよるようじゃ{KANJI2C:F1}{KANJI2C:6E}もおしまいだ
+--------------------------------------------------End--
+
+おい もし{KANJI2C:F1}{KANJI2C:6E}がなくなっちまったら
+オレたちは なにに{KANJI2C:9B}ればいいんだ?
+--------------------------------------------------End--
+
+ずっと さばくに すんでたから
+こんなに はな はじめて みたよ
+--------------------------------------------------End--
+
+この はなも さばくの はなも
+ぼく どっちも すきだ
+--------------------------------------------------End--
+
+ぼくの とうちゃんも {airship}に
+のってるんだ げんきかなあ
+--------------------------------------------------End--
+
+とうちゃんに きこえるように
+うたを うたったんだ
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed}{KANJI2E:5E}{KANJI2E:9D}{KANJI2D:3D}{KANJI2D:85}9{KANJI2E:9E}を {KANJI2C:FF}に{KANJI2D:BF}れた!
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed}{KANJI2E:5E}を{KANJI2A:38}{KANJI2F:A4}した!
+   『{OPurple}ハ{White}』{KANJI2A:39}『{Pink}な{White}』
+   『{OPurple}シ{White}』{KANJI2A:39}『{Pink}に{White}』
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【{Al Bhed}{KANJI2E:5E}{KANJI2D:BF}{KANJI2E:38}】{White}
+{KANJI2C:B3}{KANJI2D:8F}らぬ{KANJI2F:54}{KANJI2A:31}『{Al Bhed}{KANJI2E:5E}』は{Al Bhed}{KANJI2E:5E}{KANJI2E:9D}{KANJI2D:3D}を
+{KANJI2D:CB}{KANJI2C:B3}するとおぼえることができます 
+{OPurple}レバヘ! {Al Bhed}{KANJI2E:5E}ヤヌサー! テンソフム ミオウ!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}シュフコンキャ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}キョキンキャ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【アサヨソオ{Al Bhed}{KANJI2E:5E}】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}サンチニュフダル】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【ニュフヒョフハ{Al Bhed}{KANJI2E:5E}】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}ポナポナ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}デンヒギンハイ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【ヤーゼナヌハ{Al Bhed}{KANJI2E:5E}】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}ヤヌサー】{White}になった!
+--------------------------------------------------End--

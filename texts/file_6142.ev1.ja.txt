@@ -1,0 +1,31 @@
+{WINDOW}
+{Yellow}【{Gagazet} {KANJI2D:85}{KANJI2C:6B}の{KANJI2C:EF}{KANJI2E:51}】{White}
+{Wakka}のボールで {KANJI2D:93}{KANJI2E:9B}{KANJI2D:E4}のスイッチをねらえ!
+--------------------------------------------------End--
+
+{WINDOW}
+{Button Circle}:ボールを{KANJI2D:AF}げる
+{Button X}:{KANJI2E:37}る
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【{Gagazet} {KANJI2D:85}ニの{KANJI2C:EF}{KANJI2E:51}】{White}
+3つの{KANJI2E:C2}にかくされたスイッチを {KANJI2E:E5}{KANJI2E:B4}に{KANJI2E:B3}{KANJI2E:D2}せよ!
+{KANJI2E:C2}の{KANJI2D:84}{KANJI2D:40}に{KANJI2E:8E}{KANJI2E:8F}して それぞれの{KANJI2E:C2}に{KANJI2D:BF}る{KANJI2E:CD}を{KANJI2D:68}べ!
+--------------------------------------------------End--
+
+{WINDOW}
+{Direcional Left}{Direcional Up}{Direcional Down}{Direcional Right}:{KANJI2E:C2}を{KANJI2D:68}ぶ
+{Button Circle}:{KANJI2C:B1}{KANJI2D:9F}
+{Button X}:{KANJI2E:37}る
+--------------------------------------------------End--
+{WINDOW}
+あたり
+--------------------------------------------------End--
+{WINDOW}
+{KANJI2D:53}{KANJI2E:9C}{KANJI2D:93}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}の{KANJI2C:EF}{KANJI2E:51}】{White}
+{KANJI2F:C4}を{KANJI2A:30}び{KANJI2D:3A}すならば {KANJI2C:EF}{KANJI2E:51}を{KANJI2C:C9}{KANJI2E:6F}せよ
+{Wakka}のボールで {KANJI2D:93}{KANJI2E:9B}{KANJI2D:E4}のスイッチをねらえ!
+--------------------------------------------------End--

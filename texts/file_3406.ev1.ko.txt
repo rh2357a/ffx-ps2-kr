@@ -1,0 +1,254 @@
+
+みんなで{KANJI2E:75}った{KANJI2E:B4}の{KANJI2A:32}{KANJI2D:70}を
+さっそくスフィア{KANJI2C:79}してもらったよ
+--------------------------------------------------End--
+
+ルカに{KANJI2E:F3}たら {KANJI2C:7C}{KANJI2E:5D}への おみやげに
+かならずスフィアを{KANJI2E:A3}うんだ
+--------------------------------------------------End--
+
+{KANJI2E:90}{KANJI2C:81}{KANJI2D:45}{KANJI2E:99}{KANJI2D:9F}の
+{Blue}【{KANJI2E:B9}{KANJI2F:83}スフィア】{White}はいかがですか?
+--------------------------------------------------End--
+{WINDOW}
+  {CHOICE:30}ほしい ほしい!
+  {CHOICE:31}{KANJI2E:B9}{KANJI2F:83}--なにそれ?
+  {CHOICE:32}いらない
+--------------------------------------------------End--
+
+またのお{KANJI2A:36}しをお{KANJI2F:AA}ちしております
+--------------------------------------------------End--
+
+エボン{KANJI2E:B9}{KANJI2F:83}{KANJI2D:81}の{KANJI2A:39}{KANJI2E:3C}がお{KANJI2E:9C}りになった
+{KANJI2E:CF}{KANJI2C:F0}{KANJI2D:9E}り {KANJI2E:B9}を{KANJI2A:3A}でるスフィアのことです
+--------------------------------------------------End--
+
+1スフィアに1{KANJI2A:3B}{KANJI2D:33}{KANJI2E:56}されています
+--------------------------------------------------End--
+
+{KANJI2F:92}{KANJI2A:33}するには{KANJI2E:90}メインホール{KANJI2D:BC}の
+{Blue}【コントロールパネル】{White}が{KANJI2D:DB}{KANJI2E:3E}です
+--------------------------------------------------End--
+
+{KANJI2E:4A}の{KANJI2C:EA}い{KANJI2D:3A}に おひとつ
+いかがですか?
+--------------------------------------------------End--
+{WINDOW}
+  {CHOICE:30}ほしい ほしい!
+  {CHOICE:31}いらない
+--------------------------------------------------End--
+
+すでに{KANJI2D:6B}{KANJI2A:3B}お{KANJI2C:F2}ちになられてますね
+--------------------------------------------------End--
+{WINDOW}
+{KANJI2D:3C}{KANJI2C:F2}{KANJI2C:AA}:{VAR12:30}ギル
+--------------------------------------------------End--
+{WINDOW}
+{KANJI2E:B9}{KANJI2F:83}スフィア{KANJI2D:3C}{KANJI2C:F2}{KANJI2D:52}:{VAR12:31}/{VAR12:32}
+--------------------------------------------------End--
+
+{KANJI2D:6B}{KANJI2A:3B}{KANJI2A:37}{KANJI2D:BF}されたお{KANJI2C:A0}{KANJI2E:3C}{KANJI2E:99}{KANJI2D:9F}で
+{KANJI2D:B9}{KANJI2F:4E}の{KANJI2E:B9}{KANJI2F:83}スフィアをご{KANJI2E:3D}{KANJI2E:8F}しております
+--------------------------------------------------End--
+
+{KANJI2D:B9}{KANJI2F:4E}ですので {KANJI2A:37}{KANJI2D:BF}はセットのみとなります
+--お{KANJI2E:A3}い{KANJI2D:43}げになりますか?
+--------------------------------------------------End--
+
+{Yellow}{KANJI2D:B9}{KANJI2F:4E}スフィアセット : 40000ギル{White}
+ 
+--------------------------------------------------End--
+{WINDOW}
+  {CHOICE:30}もちろん!!
+  {CHOICE:31}いらない
+--------------------------------------------------End--
+
+まことに{KANJI2A:34}し{KANJI2A:35}ございません
+おひとり{KANJI2E:3C} ひとつ{KANJI2E:99}りとなっております
+--------------------------------------------------End--
+{WINDOW}
+{KANJI2A:37}{KANJI2D:BF}{KANJI2E:B1}{KANJI2D:C3}{KANJI2E:B9}{KANJI2F:83}スフィア{KANJI2D:52}:{VAR12:35}
+--------------------------------------------------End--
+{WINDOW}
+
+{KANJI2E:B9}{KANJI2F:83}スフィア{Blue}【{VAR12:37}】{White} × 2000ギル
+{Yellow}{KANJI2A:37}{KANJI2D:BF}{KANJI2C:AA}{KANJI2A:3C}{White} : {VAR12:38}ギル
+--------------------------------------------------End--
+{WINDOW}
+  {CHOICE:30}{KANJI2C:B9}{KANJI2D:52}を{KANJI2C:EB}{KANJI2D:9F}する
+  {CHOICE:31}{KANJI2D:6B}{KANJI2D:E4}スフィア{KANJI2C:79}する
+  {CHOICE:32}やっぱりやめる
+--------------------------------------------------End--
+{WINDOW}
+{Direcional Up}{Direcional Down}{Direcional Left}{Direcional Right}で{KANJI2C:B9}{KANJI2D:52}を{KANJI2D:BF}{KANJI2E:4D}
+{Button Circle}で{KANJI2C:B1}{KANJI2D:9F}
+--------------------------------------------------End--
+{WINDOW}
+{KANJI2E:B9}{KANJI2F:83}スフィア : {CHOICE:51}{KANJI2C:B9}
+{Yellow}{KANJI2A:38}00でキャンセル
+--------------------------------------------------End--
+{WINDOW}
+{KANJI2C:EB}{KANJI2D:9F}されたスフィアはありません
+--------------------------------------------------End--
+
+お{KANJI2C:A0}{KANJI2E:3C} お{KANJI2C:AA}が{KANJI2D:76}りませんよ
+--------------------------------------------------End--
+
+--これでよろしいですか?
+--------------------------------------------------End--
+{WINDOW}
+  {CHOICE:30}これでオッケー!
+  {CHOICE:31}ちょっと{KANJI2F:AA}って
+  {CHOICE:32}やっぱりやめる
+--------------------------------------------------End--
+{WINDOW}
+{KANJI2E:B9}{KANJI2F:83}スフィアを{KANJI2A:37}{KANJI2D:BF}しました
+--------------------------------------------------End--
+{WINDOW}
+
+{KANJI2E:B9}{KANJI2F:83}スフィア : {Yellow}1{White}
+を {KANJI2F:92}{KANJI2A:33}できるようになりました!
+--------------------------------------------------End--
+{WINDOW}
+
+{KANJI2E:B9}{KANJI2F:83}スフィア : {Yellow}1 - {VAR12:31}{White}
+までを {KANJI2F:92}{KANJI2A:33}できるようになりました!
+--------------------------------------------------End--
+
+これまでの{KANJI2E:4A}の{KANJI2C:EA}い{KANJI2D:3A}を
+{Blue}【{KANJI2A:32}{KANJI2D:70}スフィア】{White}に{KANJI2C:E3}してみませんか?
+--------------------------------------------------End--
+{WINDOW}
+  {CHOICE:30}{KANJI2C:E3}したい
+  {CHOICE:31}{KANJI2A:32}{KANJI2D:70}--なにそれ?
+  {CHOICE:32}{KANJI2E:62}{KANJI2A:3D}しとく
+--------------------------------------------------End--
+
+それでは お{KANJI2C:A0}{KANJI2E:3C}
+{KANJI2E:36}をつぶり{KANJI2F:81}{KANJI2F:77}を{KANJI2D:36}{KANJI2D:93}させて{KANJI2C:78}さい
+--------------------------------------------------End--
+
+ふむ これ{KANJI2E:A2}{KANJI2D:43}スフィア{KANJI2C:79}できる
+{KANJI2A:32}{KANJI2D:70}はないようですね--
+--------------------------------------------------End--
+
+--いまのところ
+スフィア{KANJI2C:79}できる{KANJI2A:32}{KANJI2D:70}はありませんね
+--------------------------------------------------End--
+
+--スフィア{KANJI2C:79}できる{KANJI2A:32}{KANJI2D:70}は
+{KANJI2C:B8}{KANJI2E:B4}{KANJI2D:A7}で {Yellow}{VAR12:36}{White} ありますが--
+--------------------------------------------------End--
+{WINDOW}
+{KANJI2A:32}{KANJI2D:70}スフィア{KANJI2D:3C}{KANJI2C:F2}{KANJI2D:52}:{VAR12:33}/{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+スフィア{KANJI2C:79}できる{KANJI2A:32}{KANJI2D:70}{KANJI2D:52}:{VAR12:36}
+--------------------------------------------------End--
+{WINDOW}
+
+{KANJI2A:32}{KANJI2D:70}スフィア{Blue}【{VAR12:37}】{White} × 5000ギル
+{Yellow}{KANJI2A:37}{KANJI2D:BF}{KANJI2C:AA}{KANJI2A:3C}{White} : {VAR12:38}ギル
+--------------------------------------------------End--
+{WINDOW}
+{KANJI2A:32}{KANJI2D:70}スフィア : {CHOICE:51}{KANJI2C:B9}
+{Yellow}{KANJI2A:38}00でキャンセル
+--------------------------------------------------End--
+{WINDOW}
+{KANJI2A:32}{KANJI2D:70}スフィアを{KANJI2A:37}{KANJI2D:BF}しました
+--------------------------------------------------End--
+{WINDOW}
+
+{KANJI2A:32}{KANJI2D:70}スフィア : {Yellow}1{White}
+を {KANJI2F:92}{KANJI2A:33}できるようになりました!
+--------------------------------------------------End--
+{WINDOW}
+
+{KANJI2A:32}{KANJI2D:70}スフィア : {Yellow}1 - {VAR12:33}{White}
+までを {KANJI2F:92}{KANJI2A:33}できるようになりました!
+--------------------------------------------------End--
+
+お{KANJI2C:A0}{KANJI2E:3C}が{KANJI2E:8A}くイメージした
+{Blue}【{KANJI2F:BD}{KANJI2A:3E}】{White}の{KANJI2A:32}{KANJI2D:70}を スフィアに{KANJI2C:9C}{KANJI2E:56}したもの
+--------------------------------------------------End--
+
+それが{Blue}【{KANJI2A:32}{KANJI2D:70}スフィア】{White}です
+と いいましても--
+--------------------------------------------------End--
+
+これまでのスフィアカメラ モニタなどと
+{KANJI2C:B5}{KANJI2E:44}はなにも{KANJI2D:EB}わりません
+--------------------------------------------------End--
+
+ただ {KANJI2C:6B}{KANJI2D:D2}に{KANJI2E:79}{KANJI2E:3D}されているものは
+その{KANJI2F:CE}{KANJI2C:93}の{KANJI2C:9C}{KANJI2E:56}がほとんどです
+--------------------------------------------------End--
+
+{Blue}【{KANJI2F:BD}{KANJI2A:3E}】{White}にさかのぼるという{KANJI2D:A7}が
+これまでとは{KANJI2D:84}きく{KANJI2A:3F}った{KANJI2E:79}{KANJI2E:3D}{KANJI2D:F2}です
+--------------------------------------------------End--
+{WINDOW}
+  {CHOICE:30}{KANJI2C:E3}してみる
+  {CHOICE:31}{KANJI2E:62}{KANJI2A:3D}しとく
+--------------------------------------------------End--
+
+{KANJI2E:90}{KANJI2C:81}{KANJI2D:45}へようこそ お{KANJI2C:A0}{KANJI2E:3C}
+{Blue}【メインホール】{White}へ{KANJI2C:CE}かれますか?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{KANJI2C:CE}く
+{CHOICE:31}{KANJI2C:CE}かない
+--------------------------------------------------End--
+{WINDOW}
+マップデバッグ{KANJI2E:3D}メニュー
+  {CHOICE:30}やっぱやめ
+  {CHOICE:31}マップデータの{KANJI2C:CA}{KANJI2D:49}
+  {CHOICE:32}シアター{KANJI2D:EB}{KANJI2D:52}{KANJI2D:3B}{KANJI2C:98}{KANJI2C:79}
+  {CHOICE:33}マップライン{KANJI2D:53}{KANJI2C:BF}
+  {CHOICE:34}{KANJI2A:30}{KANJI2A:31}さんちに{KANJI2E:37}る
+--------------------------------------------------End--
+{WINDOW}
+シアター{KANJI2D:EB}{KANJI2D:52}を{KANJI2D:3B}{KANJI2C:98}{KANJI2C:79}
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed}{KANJI2E:5E}{KANJI2E:9D}{KANJI2D:3D}{KANJI2D:85}7{KANJI2E:9E}を {KANJI2C:FF}に{KANJI2D:BF}れた!
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed}{KANJI2E:5E}を{KANJI2A:40}{KANJI2F:A4}した!
+   『{OPurple}サ{White}』{KANJI2A:41}『{Pink}た{White}』
+   『{OPurple}ヒ{White}』{KANJI2A:41}『{Pink}ち{White}』
+   『{OPurple}ユ{White}』{KANJI2A:41}『{Pink}つ{White}』
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【{Al Bhed}{KANJI2E:5E}{KANJI2D:BF}{KANJI2E:38}】{White}
+{KANJI2C:B3}{KANJI2D:8F}らぬ{KANJI2F:54}{KANJI2A:42}『{Al Bhed}{KANJI2E:5E}』は{Al Bhed}{KANJI2E:5E}{KANJI2E:9D}{KANJI2D:3D}を
+{KANJI2D:CB}{KANJI2C:B3}するとおぼえることができます 
+{OPurple}レバヘ! {Al Bhed}{KANJI2E:5E}ヤヌサー! テンソフム ミオウ!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}シュフコンキャ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}キョキンキャ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【アサヨソオ{Al Bhed}{KANJI2E:5E}】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}サンチニュフダル】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【ニュフヒョフハ{Al Bhed}{KANJI2E:5E}】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}ポナポナ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}デンヒギンハイ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【ヤーゼナヌハ{Al Bhed}{KANJI2E:5E}】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}ヤヌサー】{White}になった!
+--------------------------------------------------End--

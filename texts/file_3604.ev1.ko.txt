@@ -1,0 +1,105 @@
+
+{KANJI2E:FA}ごろ{KANJI2E:51}{KANJI2F:A4}なんかしたって
+{KANJI2E:F5}に{KANJI2E:8A}くなるわけないって 
+{NEWPAGE}
+
+それよりゴワーズにたのんで
+コーチしてもらいなよ
+--------------------------------------------------End--
+
+もう{KANJI2F:73}ふけだし さっさと
+{KANJI2D:FF}ったほうがいいんじゃないの
+--------------------------------------------------End--
+
+{Zanarkand}から{KANJI2E:F3}たんだって?
+{KANJI2D:67}{KANJI2D:93}のウワサになってるぞ
+--------------------------------------------------End--
+
+あんたみたいな{KANJI2D:84}ボラ{KANJI2A:30}きの
+{KANJI2D:68}{KANJI2C:FF}は {KANJI2D:3B}めて{KANJI2C:B3}たよ
+--------------------------------------------------End--
+
+オレはだんぜん
+{Luca Goers}のファンだからな
+{NEWPAGE}
+
+ま せいぜいがんばってみてよ
+うくくく
+--------------------------------------------------End--
+
+いっそゴワーズに{KANJI2E:B7}を{KANJI2C:78}げて
+コーチしてもらったらどうだい
+--------------------------------------------------End--
+
+{KANJI2C:86}には{KANJI2D:F8}{KANJI2D:E6}もいるというのに
+よく{KANJI2A:34}われずにすんだな
+--------------------------------------------------End--
+
+{KANJI2E:51}{KANJI2F:A4}{KANJI2F:89}{KANJI2E:9B}なのは{KANJI2F:B8}{KANJI2E:9B}だが 
+{KANJI2E:FA}{KANJI2A:35}やったら{KANJI2D:91}いていくぞ
+--------------------------------------------------End--
+
+{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}{KANJI2E:3C}がふたりも{KANJI2D:44}っとるし 
+ゴワーズまでいるからな-- 
+{NEWPAGE}
+
+{KANJI2D:84}{KANJI2A:32}な{KANJI2C:A0}ばかりで {KANJI2D:4B}がひきしまる 
+{KANJI2C:9A}をつけて{KANJI2A:33}{KANJI2C:86}せんとな 
+--------------------------------------------------End--
+
+なに {Besaid Aurochs}?
+あいつらは おまけみたいなもんだ
+--------------------------------------------------End--
+
+リキ{KANJI2C:D1}の{KANJI2D:BE}の{KANJI2F:95}にならんように
+{KANJI2C:B3}{KANJI2A:31}りを{KANJI2E:8A}{KANJI2C:79}している 
+{NEWPAGE}
+
+『{Sin}』の{KANJI2C:9A}{KANJI2F:9B}に{KANJI2C:9A}づいたら
+すぐに{KANJI2D:EF}{KANJI2C:D3}してくれよ 
+--------------------------------------------------End--
+
+この{KANJI2D:67}には{KANJI2D:E3}{KANJI2C:96}がない
+『{Sin}』に{KANJI2C:81}ったら おしまいだ
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed}{KANJI2E:5E}{KANJI2E:9D}{KANJI2D:3D}{KANJI2D:85}5{KANJI2E:9E}を {KANJI2C:FF}に{KANJI2D:BF}れた!
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed}{KANJI2E:5E}を{KANJI2A:36}{KANJI2F:A4}した!
+   『{OPurple}ラ{White}』{KANJI2A:37}『{Pink}さ{White}』
+   『{OPurple}キ{White}』{KANJI2A:37}『{Pink}し{White}』
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【{Al Bhed}{KANJI2E:5E}{KANJI2D:BF}{KANJI2E:38}】{White}
+{KANJI2C:B3}{KANJI2D:8F}らぬ{KANJI2F:54}{KANJI2A:38}『{Al Bhed}{KANJI2E:5E}』は{Al Bhed}{KANJI2E:5E}{KANJI2E:9D}{KANJI2D:3D}を
+{KANJI2D:CB}{KANJI2C:B3}するとおぼえることができます 
+{OPurple}レバヘ! {Al Bhed}{KANJI2E:5E}ヤヌサー! テンソフム ミオウ!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}シュフコンキャ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}キョキンキャ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【アサヨソオ{Al Bhed}{KANJI2E:5E}】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}サンチニュフダル】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【ニュフヒョフハ{Al Bhed}{KANJI2E:5E}】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}ポナポナ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}デンヒギンハイ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【ヤーゼナヌハ{Al Bhed}{KANJI2E:5E}】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}ヤヌサー】{White}になった!
+--------------------------------------------------End--
