@@ -32,5 +32,4 @@ for %%i in (ev\*.ev2) do (
 echo repack '%input_iso%'
 tools\ffxiso -i build %target%
 
-:failure_exit
 pause

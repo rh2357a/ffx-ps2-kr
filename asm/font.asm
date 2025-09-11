@@ -402,10 +402,19 @@ render_font_impl:
 	add s0, s0, s1
 	sh a3, 0x0(s0)
 
-	; TODO: 소문자 알파벳 유무 체크 필요
-	; font_attr[7] = 0
+	addiu s0, a3, -0x76a
+	sltiu s0, s0, 0x1a
+	beq s0, zero, @@_is_lower_case
+	nop
+
+	li s0, 2
+	b @@_done_set_case
+	sh s0, 0xe(a1)
+	
+@@_is_lower_case:
 	sh zero, 0xe(a1)
 
+@@_done_set_case:
 	; font_attr[1] = 0x14
 	li s0, 0x14
 	sh s0, 0x2(a1)
