@@ -1,34 +1,34 @@
 {WINDOW}
-{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}1】{White}
-{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
-{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
-{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
-{KANJI2A:37}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
-{KANJI2A:37}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
+{Yellow}【スカウトLV1】{White}
+名前:{VAR12:30}
+LV:{VAR12:31}
+所属チーム:{VAR12:32}
+{KANJI2A:37}約期間:{VAR12:33}試合
+{KANJI2A:37}約金:{VAR12:34}ギル
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}2】{White}
-{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
-{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
-{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
-{KANJI2A:37}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
-{KANJI2A:37}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
-{KANJI2C:37}{KANJI2C:3F}:{VAR12:35}{VAR07:60}{KANJI2C:42}{KANJI2C:3F}{KANJI2C:33}:{VAR12:36}
-{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33}:{VAR12:37}{VAR07:60}{KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}:{VAR12:38}
-{KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}:{VAR12:39}{VAR07:60}{KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A}:{VAR12:3A}
-{KANJI2C:42}{KANJI2C:37}{KANJI2C:43}:{VAR12:3B}{VAR07:60}{KANJI2C:32}{KANJI2C:30}{KANJI2C:43}:{VAR12:3C}
+{Yellow}【スカウトLV2】{White}
+名前:{VAR12:30}
+LV:{VAR12:31}
+所属チーム:{VAR12:32}
+{KANJI2A:37}約期間:{VAR12:33}試合
+{KANJI2A:37}約金:{VAR12:34}ギル
+HP:{VAR12:35}{VAR07:60}SPD:{VAR12:36}
+END:{VAR12:37}{VAR07:60}ATK:{VAR12:38}
+PAS:{VAR12:39}{VAR07:60}BLK:{VAR12:3A}
+SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}3】{White}
-{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
-{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
-{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
-{KANJI2A:37}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
-{KANJI2A:37}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
-{KANJI2C:37}{KANJI2C:3F}:{VAR12:35}{VAR07:60}{KANJI2C:42}{KANJI2C:3F}{KANJI2C:33}:{VAR12:36}
-{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33}:{VAR12:37}{VAR07:60}{KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}:{VAR12:38}
-{KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}:{VAR12:39}{VAR07:60}{KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A}:{VAR12:3A}
-{KANJI2C:42}{KANJI2C:37}{KANJI2C:43}:{VAR12:3B}{VAR07:60}{KANJI2C:32}{KANJI2C:30}{KANJI2C:43}:{VAR12:3C}
+{Yellow}【スカウトLV3】{White}
+名前:{VAR12:30}
+LV:{VAR12:31}
+所属チーム:{VAR12:32}
+{KANJI2A:37}約期間:{VAR12:33}試合
+{KANJI2A:37}約金:{VAR12:34}ギル
+HP:{VAR12:35}{VAR07:60}SPD:{VAR12:36}
+END:{VAR12:37}{VAR07:60}ATK:{VAR12:38}
+PAS:{VAR12:39}{VAR07:60}BLK:{VAR12:3A}
+SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 {VAR12:3D}
 {VAR12:3E}
 {VAR12:3F}
@@ -36,16 +36,16 @@
 {VAR12:41}
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}{KANJI2C:3C}{KANJI2C:30}{KANJI2C:47}】{White}
-{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
-{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
-{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
-{KANJI2A:37}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
-{KANJI2A:37}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
-{KANJI2C:37}{KANJI2C:3F}:{VAR12:35}{VAR07:60}{KANJI2C:42}{KANJI2C:3F}{KANJI2C:33}:{VAR12:36}
-{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33}:{VAR12:37}{VAR07:60}{KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}:{VAR12:38}
-{KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}:{VAR12:39}{VAR07:60}{KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A}:{VAR12:3A}
-{KANJI2C:42}{KANJI2C:37}{KANJI2C:43}:{VAR12:3B}{VAR07:60}{KANJI2C:32}{KANJI2C:30}{KANJI2C:43}:{VAR12:3C}
+{Yellow}【スカウトLVMAX】{White}
+名前:{VAR12:30}
+LV:{VAR12:31}
+所属チーム:{VAR12:32}
+{KANJI2A:37}約期間:{VAR12:33}試合
+{KANJI2A:37}約金:{VAR12:34}ギル
+HP:{VAR12:35}{VAR07:60}SPD:{VAR12:36}
+END:{VAR12:37}{VAR07:60}ATK:{VAR12:38}
+PAS:{VAR12:39}{VAR07:60}BLK:{VAR12:3A}
+SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 {VAR12:3D}
 {VAR12:3E}{VAR07:68}{OCyan}【キーアビリティ】{White}
 {VAR12:3F}{VAR07:68}{VAR12:42}
@@ -65,20 +65,20 @@
 {VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2A:37}{KANJI2F:C5}しますか?
+{KANJI2A:37}約しますか?
 {CHOICE:30}はい
 {CHOICE:31}いいえ
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2A:37}{KANJI2F:C5}{KANJI2C:EF}{KANJI2C:D2}{KANJI2D:52}を{KANJI2C:B1}めてください
+{KANJI2A:37}約試合数を決めてください
 {CHOICE:51}
 --------------------------------------------------End--
 {WINDOW}
-1{KANJI2C:EF}{KANJI2C:D2}{KANJI2E:A2}{KANJI2D:43}の{KANJI2A:37}{KANJI2F:C5}を
+1試合以上の{KANJI2A:37}約を
 むすんでください 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2A:37}{KANJI2F:C5}{KANJI2C:AA}は{VAR12:30}ギルです
+{KANJI2A:37}約金は{VAR12:30}ギルです
 よろしいですか?
 {CHOICE:30}はい
 {CHOICE:31}いいえ
@@ -88,13 +88,13 @@
 --------------------------------------------------End--
 {WINDOW}
 ビサイド·オーラカチームは
-{KANJI2D:AA}{KANJI2E:56}{KANJI2D:4F}{KANJI2D:52}8{KANJI2D:4F}でいっぱいです 
-{KANJI2D:89}かをチームからはずしますか?
+登録人数8人でいっぱいです 
+誰かをチームからはずしますか?
 {CHOICE:30}はい
 {CHOICE:31}いいえ
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2D:89}をはずしますか?
+誰をはずしますか?
 {CHOICE:30}{VAR12:30}
 {CHOICE:31}{VAR12:31}
 {CHOICE:32}{VAR12:32}
@@ -105,92 +105,92 @@
 {CHOICE:37}{VAR12:37}
 --------------------------------------------------End--
 {WINDOW}
-この{KANJI2D:68}{KANJI2C:FF}ははずせません
+この選手ははずせません
 --------------------------------------------------End--
 
 まかせて!
-どこにでも{KANJI2E:52}れてってあげる
+どこにでも連れてってあげる
 --------------------------------------------------End--
 {WINDOW}
-{CHOICE:30}{Besaid Island}{KANJI2C:CE}き
-{CHOICE:31}{Luca}{KANJI2C:CE}き
-{CHOICE:32}{KANJI2D:44}らない
+{CHOICE:30}{Besaid Island}行き
+{CHOICE:31}{Luca}行き
+{CHOICE:32}乗らない
 --------------------------------------------------End--
 
-あら {KANJI2D:44}りたかったら
-{KANJI2C:6B}{KANJI2D:59}かけてちょうだい
+あら 乗りたかったら
+一声かけてちょうだい
 --------------------------------------------------End--
 
-やっと{KANJI2C:8C}の{KANJI2E:DA}{KANJI2E:44}が{KANJI2D:35}わったんだ 
-もとどおりとは{KANJI2F:54}えないけどね 
+やっと街の修理が終わったんだ 
+もとどおりとは言えないけどね 
 --------------------------------------------------End--
 
-{KANJI2C:AC}{KANJI2D:D8}ぶ{KANJI2D:67}と『{Sin}』が{KANJI2D:64}っていたとき
-{KANJI2E:75}いながら ひやひやしてたんだ 
+空飛ぶ船と『{Sin}』が戦っていたとき
+歌いながら ひやひやしてたんだ 
 {NEWPAGE}
 
-『{Sin}』がここに{KANJI2E:41}ちてきたら 
-どうしようかと{KANJI2C:EA}ったよ 
+『{Sin}』がここに落ちてきたら 
+どうしようかと思ったよ 
 --------------------------------------------------End--
 
-{KANJI2D:6C}{KANJI2D:E8}どもなら もういないぞ
-{Bevelle}に{KANJI2E:A6}っちまったよ
+僧兵どもなら もういないぞ
+{Bevelle}に帰っちまったよ
 --------------------------------------------------End--
 
-{KANJI2D:6C}{KANJI2D:E8}にとっては {Kilika}なんざ
-{KANJI2C:FE}る{KANJI2A:30}{KANJI2A:31}が ないらしいな
+僧兵にとっては {Kilika}なんざ
+守る{KANJI2A:30}{KANJI2A:31}が ないらしいな
 --------------------------------------------------End--
 
-もしまた『{Sin}』が{KANJI2E:F3}ても
-オレはここを{KANJI2D:B4}かんぞ
+もしまた『{Sin}』が来ても
+オレはここを動かんぞ
 {NEWPAGE}
 
-『{Sin}』の{KANJI2E:E6}こす{KANJI2D:84}{KANJI2E:64}を
-{KANJI2D:B9}{KANJI2E:C0}に{KANJI2E:79}{KANJI2E:3D}してやるのだ!
+『{Sin}』の起こす大波を
+特訓に利用してやるのだ!
 --------------------------------------------------End--
 
-{Ohalland}{KANJI2E:3C} {KANJI2C:B3}ていてくれ
-オレは{KANJI2C:9A}{KANJI2C:D2}で あなたを{KANJI2D:98}える!
+{Ohalland}様 見ていてくれ
+オレは気合で あなたを超える!
 --------------------------------------------------End--
 
-{Crusader}は {Kilika}{KANJI2D:F4}{KANJI2A:32}の
-ために{KANJI2C:D9}{KANJI2E:E6}したのだ 
+{Crusader}は {Kilika}防{KANJI2A:32}の
+ために再起したのだ 
 --------------------------------------------------End--
 
-もし『{Sin}』が{KANJI2D:AB}されても 
-{KANJI2D:F8}{KANJI2D:E6}が{KANJI2D:42}えるとは{KANJI2C:EA}えない 
+もし『{Sin}』が倒されても 
+魔物が消えるとは思えない 
 --------------------------------------------------End--
 
-{KANJI2D:FE}を{KANJI2C:FE}るという{Crusader}の{KANJI2F:9D}{KANJI2A:33}が
-{KANJI2D:35}わることはないのだ 
+民を守るという{Crusader}の仕{KANJI2A:33}が
+終わることはないのだ 
 --------------------------------------------------End--
 
-じゃんじゃん{KANJI2E:A3}っとくれ
-{KANJI2F:88}{KANJI2E:A4}りはせんがの
+じゃんじゃん買っとくれ
+安売りはせんがの
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}1】{White}
-{KANJI2E:4A}の{KANJI2C:9C}{KANJI2E:56}をスフィアに{KANJI2C:E3}すことができます!
-{KANJI2E:4A}のつかれをいやす{KANJI2C:F6}{KANJI2D:B4}{KANJI2C:82}{KANJI2D:E5}{KANJI2C:99}{KANJI2D:C3}で
-{KANJI2C:37}{KANJI2C:3F}/{KANJI2C:3C}{KANJI2C:3F}が{KANJI2D:6B}{KANJI2C:82}{KANJI2D:E5}します!
+{Yellow}【旅人のセーブスフィア Lv1】{White}
+旅の記録をスフィアに残すことができます!
+旅のつかれをいやす自動回復機能で
+HP/MPが全回復します!
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
 {CHOICE:31}キャンセル
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}2】{White}
-{Besaid Aurochs}の{KANJI2F:6A}{KANJI2A:34}により セーブスフィアに
-{blitzball}スタジアムへの{KANJI2E:F2}{KANJI2A:35}{KANJI2C:99}{KANJI2D:C3}が
-{KANJI2D:9D}{KANJI2C:7B}されました!
+{Yellow}【旅人のセーブスフィア Lv2】{White}
+{Besaid Aurochs}の活{KANJI2A:34}により セーブスフィアに
+{blitzball}スタジアムへの転{KANJI2A:35}機能が
+追加されました!
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【ブリッツスカウトシステム】{White}
-{Spira}の{KANJI2A:36}{KANJI2D:90}には ブリッツのトレーニングを{KANJI2D:78}ける
-{KANJI2C:6F}れた{KANJI2E:31}{KANJI2D:68}{KANJI2C:FF}がひそんでいます 
-{Button Square}を{KANJI2F:4D}して{KANJI2E:57}しかけると スカウト{KANJI2A:37}{KANJI2F:C5}できることがあります 
-{KANJI2F:D3}{KANJI2E:F3}{KANJI2E:95}{KANJI2F:80}な{KANJI2D:68}{KANJI2C:FF}をスカウトして {Besaid Aurochs}を
-トップチームに{KANJI2F:58}くのです!
+{Spira}の{KANJI2A:36}地には ブリッツのトレーニングを続ける
+隠れた名選手がひそんでいます 
+{Button Square}を押して話しかけると スカウト{KANJI2A:37}約できることがあります 
+将来有望な選手をスカウトして {Besaid Aurochs}を
+トップチームに導くのです!
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
@@ -198,8 +198,8 @@
 {CHOICE:32}キャンセル
 --------------------------------------------------End--
 {WINDOW}
-{Besaid Aurochs}はメンバー{KANJI2D:4F}{KANJI2D:52}が
-{KANJI2D:76}りないので{KANJI2C:EF}{KANJI2C:D2}に{KANJI2C:DF}{KANJI2C:7B}できません 
+{Besaid Aurochs}はメンバー人数が
+足りないので試合に参加できません 
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
@@ -207,25 +207,25 @@
 {CHOICE:31}キャンセル
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}3】{White}
-{Al Bhed2}·{Rin}の{KANJI2F:CB}{KANJI2E:8F}により セーブスフィアに
-{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}への{KANJI2E:F2}{KANJI2A:35}{KANJI2C:99}{KANJI2D:C3}が{KANJI2D:9D}{KANJI2C:7B}されました!
+{Yellow}【旅人のセーブスフィア Lv3】{White}
+{Al Bhed2}·{Rin}の好意により セーブスフィアに
+飛空艇への転{KANJI2A:35}機能が追加されました!
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
-{CHOICE:31}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ
+{CHOICE:31}飛空艇へ
 {CHOICE:32}ブリッツスタジアムへ
 {CHOICE:33}キャンセル
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
-{Gray}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ{White}
+{Gray}飛空艇へ{White}
 {CHOICE:31}ブリッツスタジアムへ
 {CHOICE:32}キャンセル
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
-{CHOICE:31}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ
+{CHOICE:31}飛空艇へ
 {Gray}ブリッツスタジアムへ{White}
 {CHOICE:32}キャンセル
 --------------------------------------------------End--

@@ -1,31 +1,31 @@
 {WINDOW}
-【{FINAL FANTASY X}】が{KANJI2D:57}{KANJI2D:46}にハードディスクドライブに
+【{FINAL FANTASY X}】が正常にハードディスクドライブに
 インストールされていません!
-ハードディスクドライブを{KANJI2C:E4}{KANJI2E:3D}して【{FINAL FANTASY X}】を
-プレイする{KANJI2D:45}{KANJI2C:D2}はもう{KANJI2C:6B}{KANJI2A:30}インストールしてください
+ハードディスクドライブを使用して【{FINAL FANTASY X}】を
+プレイする場合はもう一{KANJI2A:30}インストールしてください
 --------------------------------------------------End--
 {WINDOW}
-スロット1·2にメモリーカード({KANJI2C:3F}{KANJI2C:42}2)がささっていません!
+スロット1·2にメモリーカード(PS2)がささっていません!
 【{FINAL FANTASY X}】のデータをセーブするには
-64{KANJI2C:3A}{KANJI2C:31}{KANJI2E:A2}{KANJI2D:43}の{KANJI2C:AC}き{KANJI2E:3B}{KANJI2E:4C}が{KANJI2D:DB}{KANJI2E:3E}です
+64KB以上の空き容量が必要です
 --------------------------------------------------End--
 {WINDOW}
-このままゲームを{KANJI2C:88}{KANJI2C:E7}しますか?
+このままゲームを開始しますか?
 {CHOICE:30}はい
 {CHOICE:31}いいえ
 --------------------------------------------------End--
 {WINDOW}
-スロット1のメモリーカード({KANJI2C:3F}{KANJI2C:42}2)の{KANJI2C:AC}き{KANJI2E:3B}{KANJI2E:4C}が{KANJI2D:76}りません!
+スロット1のメモリーカード(PS2)の空き容量が足りません!
 【{FINAL FANTASY X}】のデータをセーブするには
-64{KANJI2C:3A}{KANJI2C:31}{KANJI2E:A2}{KANJI2D:43}の{KANJI2C:AC}き{KANJI2E:3B}{KANJI2E:4C}が{KANJI2D:DB}{KANJI2E:3E}です
+64KB以上の空き容量が必要です
 --------------------------------------------------End--
 {WINDOW}
-スロット1·2のメモリーカード({KANJI2C:3F}{KANJI2C:42}2)の{KANJI2C:AC}き{KANJI2E:3B}{KANJI2E:4C}が{KANJI2D:76}りません!
+スロット1·2のメモリーカード(PS2)の空き容量が足りません!
 【{FINAL FANTASY X}】のデータをセーブするには
-64{KANJI2C:3A}{KANJI2C:31}{KANJI2E:A2}{KANJI2D:43}の{KANJI2C:AC}き{KANJI2E:3B}{KANJI2E:4C}が{KANJI2D:DB}{KANJI2E:3E}です
+64KB以上の空き容量が必要です
 --------------------------------------------------End--
 {WINDOW}
-スロット2のメモリーカード({KANJI2C:3F}{KANJI2C:42}2)の{KANJI2C:AC}き{KANJI2E:3B}{KANJI2E:4C}が{KANJI2D:76}りません!
+スロット2のメモリーカード(PS2)の空き容量が足りません!
 【{FINAL FANTASY X}】のデータをセーブするには
-64{KANJI2C:3A}{KANJI2C:31}{KANJI2E:A2}{KANJI2D:43}の{KANJI2C:AC}き{KANJI2E:3B}{KANJI2E:4C}が{KANJI2D:DB}{KANJI2E:3E}です
+64KB以上の空き容量が必要です
 --------------------------------------------------End--

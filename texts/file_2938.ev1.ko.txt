@@ -1,8 +1,8 @@
 {WINDOW}
 
-{Font Italic}{KANJI2F:A1}の{KANJI2E:57}を{KANJI2F:9E}いてくれ
+{Font Italic}俺の話を聞いてくれ
 --------------------------------------------------End--
 {WINDOW}
 
-{Font Italic}{KANJI2E:A8}{KANJI2C:BE}かもしれないから
+{Font Italic}最後かもしれないから
 --------------------------------------------------End--

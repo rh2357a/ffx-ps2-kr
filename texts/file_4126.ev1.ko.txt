@@ -1,11 +1,11 @@
 
-{Yuna}{KANJI2E:3C} お{KANJI2F:A9}しください
+{Yuna}様 お許しください
 --------------------------------------------------End--
 {Yuna}
-{Lulu} {KANJI2F:A2}ね--
+{Lulu} 私ね--
 --------------------------------------------------End--
 {Lulu}
-{KANJI2C:7A}も{KANJI2F:54}わなくていいよ
+何も言わなくていいよ
 --------------------------------------------------End--
 {Kimahri}
 {Yuna} はなれてすまない
@@ -14,7 +14,7 @@
 うん だいじょうぶだよ
 --------------------------------------------------End--
 {Auron}
-どこかに{KANJI2D:3A}{KANJI2C:C5}がある {KANJI2F:7D}すぞ
+どこかに出口がある 探すぞ
 --------------------------------------------------End--
 {Isaaru}
 {KANJI2A:30}だったのか
@@ -23,68 +23,68 @@
 なぜここに?
 --------------------------------------------------End--
 {Isaaru}
-ナギ{KANJI2D:E9}{KANJI2C:B5}まで{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}で{KANJI2D:D8}んで
-ここまで{KANJI2E:F3}た
+ナギ平原まで飛空艇で飛んで
+ここまで来た
 --------------------------------------------------End--
 {Isaaru}
-キノック{KANJI2E:5B}{KANJI2C:E9}に{KANJI2A:31}び{KANJI2D:3A}されて
-{KANJI2D:D0}{KANJI2F:43}{KANJI2E:CD}を{KANJI2C:E7}{KANJI2A:32}しろと{KANJI2E:32}{KANJI2E:4E}されたよ
+キノック老師に{KANJI2A:31}び出されて
+反逆者を始{KANJI2A:32}しろと命令されたよ
 --------------------------------------------------End--
 {Auron}
-{KANJI2D:64}うのか?
+戦うのか?
 --------------------------------------------------End--
 {Isaaru}
-{KANJI2C:F1}{KANJI2C:6E}の{KANJI2E:32}{KANJI2E:4E}は{KANJI2F:D1}{KANJI2D:7F}なんだ
+寺院の命令は絶対なんだ
 --------------------------------------------------End--
 {Isaaru}
-たとえ{KANJI2A:30}が{Braska}{KANJI2E:3C}と
-{KANJI2F:CC}{KANJI2E:6B}を{KANJI2D:E7}けた{KANJI2D:4F}でもね
+たとえ{KANJI2A:30}が{Braska}様と
+血肉を分けた人でもね
 --------------------------------------------------End--
 {Isaaru}
-{KANJI2A:30}は{KANJI2D:D0}{KANJI2F:43}{KANJI2E:CD}だ
+{KANJI2A:30}は反逆者だ
 --------------------------------------------------End--
 {Lulu}
 ガードは?
-{KANJI2F:B5}が{KANJI2C:B3}えないわよ
+姿が見えないわよ
 --------------------------------------------------End--
 {Isaaru}
 {Maroda}と{Pacce}はいない
 --------------------------------------------------End--
 {Isaaru}
-こんなことに{KANJI2E:9E}き{KANJI2E:E2}みたくない
+こんなことに巻き込みたくない
 --------------------------------------------------End--
 {Isaaru}
-{KANJI2F:A9}してくれ {Yuna}{KANJI2A:30}
+許してくれ {Yuna}{KANJI2A:30}
 --------------------------------------------------End--
 {Isaaru}
 くっ……
 --------------------------------------------------End--
 {Isaaru}
-{KANJI2F:A2}に{KANJI2C:A9}づくな
+私に近づくな
 --------------------------------------------------End--
 {Lulu}
-{Yuna} {KANJI2C:CE}こう
+{Yuna} 行こう
 --------------------------------------------------End--
 {Isaaru}
-この{KANJI2D:61}に{KANJI2D:90}{KANJI2D:43}への{KANJI2D:9E}{KANJI2E:53}がある
+この先に地上への通路がある
 --------------------------------------------------End--
 {Auron}
-おまえの{KANJI2E:4A}は{KANJI2D:35}わりだ
+おまえの旅は終わりだ
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2E:C3}{KANJI2D:4F}に{KANJI2C:D3}ぐ】{White}
-『{KANJI2E:C4}{KANJI2E:C3}の{KANJI2E:53}』の{KANJI2A:33}{KANJI2D:3C}には{KANJI2D:5C}{KANJI2D:D1}がある
-{KANJI2D:9E}{KANJI2D:46}の{KANJI2D:5C}{KANJI2D:D1}は {KANJI2A:34}んでも{KANJI2D:D0}{KANJI2A:35}しない
+{Yellow}【罪人に告ぐ】{White}
+『浄罪の路』の{KANJI2A:33}所には石板がある
+通常の石板は {KANJI2A:34}んでも反{KANJI2A:35}しない
 {NEWPAGE}
-だが{KANJI2C:C2}る{KANJI2D:5C}{KANJI2D:D1}を{KANJI2A:34}むと {KANJI2C:C2}が{KANJI2C:F5}す{KANJI2D:F1}{KANJI2E:F4}にある
-{KANJI2F:4E}の{KANJI2D:5C}{KANJI2D:D1}の{KANJI2D:45}{KANJI2D:3C}へ {KANJI2C:6B}{KANJI2F:CE}で{KANJI2C:68}{KANJI2D:B4}できる
-{KANJI2C:C2}の{KANJI2D:F1}{KANJI2E:F4}に{KANJI2D:5C}{KANJI2D:D1}がないと なにも{KANJI2E:E6}こらない
+だが光る石板を{KANJI2A:34}むと 光が示す方向にある
+別の石板の場所へ 一瞬で移動できる
+光の方向に石板がないと なにも起こらない
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}1】{White}
-{KANJI2E:4A}の{KANJI2C:9C}{KANJI2E:56}をスフィアに{KANJI2C:E3}すことができます!
-{KANJI2E:4A}のつかれをいやす{KANJI2C:F6}{KANJI2D:B4}{KANJI2C:82}{KANJI2D:E5}{KANJI2C:99}{KANJI2D:C3}で
-{KANJI2C:37}{KANJI2C:3F}/{KANJI2C:3C}{KANJI2C:3F}が{KANJI2D:6B}{KANJI2C:82}{KANJI2D:E5}します!
+{Yellow}【旅人のセーブスフィア Lv1】{White}
+旅の記録をスフィアに残すことができます!
+旅のつかれをいやす自動回復機能で
+HP/MPが全回復します!
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ

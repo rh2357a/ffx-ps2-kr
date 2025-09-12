@@ -1,34 +1,34 @@
 {WINDOW}
-{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}1】{White}
-{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
-{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
-{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
-{KANJI2A:5E}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
-{KANJI2A:5E}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
+{Yellow}【スカウトLV1】{White}
+名前:{VAR12:30}
+LV:{VAR12:31}
+所属チーム:{VAR12:32}
+{KANJI2A:5E}約期間:{VAR12:33}試合
+{KANJI2A:5E}約金:{VAR12:34}ギル
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}2】{White}
-{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
-{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
-{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
-{KANJI2A:5E}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
-{KANJI2A:5E}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
-{KANJI2C:37}{KANJI2C:3F}:{VAR12:35}{VAR07:60}{KANJI2C:42}{KANJI2C:3F}{KANJI2C:33}:{VAR12:36}
-{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33}:{VAR12:37}{VAR07:60}{KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}:{VAR12:38}
-{KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}:{VAR12:39}{VAR07:60}{KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A}:{VAR12:3A}
-{KANJI2C:42}{KANJI2C:37}{KANJI2C:43}:{VAR12:3B}{VAR07:60}{KANJI2C:32}{KANJI2C:30}{KANJI2C:43}:{VAR12:3C}
+{Yellow}【スカウトLV2】{White}
+名前:{VAR12:30}
+LV:{VAR12:31}
+所属チーム:{VAR12:32}
+{KANJI2A:5E}約期間:{VAR12:33}試合
+{KANJI2A:5E}約金:{VAR12:34}ギル
+HP:{VAR12:35}{VAR07:60}SPD:{VAR12:36}
+END:{VAR12:37}{VAR07:60}ATK:{VAR12:38}
+PAS:{VAR12:39}{VAR07:60}BLK:{VAR12:3A}
+SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}3】{White}
-{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
-{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
-{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
-{KANJI2A:5E}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
-{KANJI2A:5E}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
-{KANJI2C:37}{KANJI2C:3F}:{VAR12:35}{VAR07:60}{KANJI2C:42}{KANJI2C:3F}{KANJI2C:33}:{VAR12:36}
-{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33}:{VAR12:37}{VAR07:60}{KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}:{VAR12:38}
-{KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}:{VAR12:39}{VAR07:60}{KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A}:{VAR12:3A}
-{KANJI2C:42}{KANJI2C:37}{KANJI2C:43}:{VAR12:3B}{VAR07:60}{KANJI2C:32}{KANJI2C:30}{KANJI2C:43}:{VAR12:3C}
+{Yellow}【スカウトLV3】{White}
+名前:{VAR12:30}
+LV:{VAR12:31}
+所属チーム:{VAR12:32}
+{KANJI2A:5E}約期間:{VAR12:33}試合
+{KANJI2A:5E}約金:{VAR12:34}ギル
+HP:{VAR12:35}{VAR07:60}SPD:{VAR12:36}
+END:{VAR12:37}{VAR07:60}ATK:{VAR12:38}
+PAS:{VAR12:39}{VAR07:60}BLK:{VAR12:3A}
+SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 {VAR12:3D}
 {VAR12:3E}
 {VAR12:3F}
@@ -36,16 +36,16 @@
 {VAR12:41}
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}{KANJI2C:3C}{KANJI2C:30}{KANJI2C:47}】{White}
-{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
-{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
-{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
-{KANJI2A:5E}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
-{KANJI2A:5E}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
-{KANJI2C:37}{KANJI2C:3F}:{VAR12:35}{VAR07:60}{KANJI2C:42}{KANJI2C:3F}{KANJI2C:33}:{VAR12:36}
-{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33}:{VAR12:37}{VAR07:60}{KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}:{VAR12:38}
-{KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}:{VAR12:39}{VAR07:60}{KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A}:{VAR12:3A}
-{KANJI2C:42}{KANJI2C:37}{KANJI2C:43}:{VAR12:3B}{VAR07:60}{KANJI2C:32}{KANJI2C:30}{KANJI2C:43}:{VAR12:3C}
+{Yellow}【スカウトLVMAX】{White}
+名前:{VAR12:30}
+LV:{VAR12:31}
+所属チーム:{VAR12:32}
+{KANJI2A:5E}約期間:{VAR12:33}試合
+{KANJI2A:5E}約金:{VAR12:34}ギル
+HP:{VAR12:35}{VAR07:60}SPD:{VAR12:36}
+END:{VAR12:37}{VAR07:60}ATK:{VAR12:38}
+PAS:{VAR12:39}{VAR07:60}BLK:{VAR12:3A}
+SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 {VAR12:3D}
 {VAR12:3E}{VAR07:68}{OCyan}【キーアビリティ】{White}
 {VAR12:3F}{VAR07:68}{VAR12:42}
@@ -65,20 +65,20 @@
 {VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2A:5E}{KANJI2F:C5}しますか?
+{KANJI2A:5E}約しますか?
 {CHOICE:30}はい
 {CHOICE:31}いいえ
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2A:5E}{KANJI2F:C5}{KANJI2C:EF}{KANJI2C:D2}{KANJI2D:52}を{KANJI2C:B1}めてください
+{KANJI2A:5E}約試合数を決めてください
 {CHOICE:51}
 --------------------------------------------------End--
 {WINDOW}
-1{KANJI2C:EF}{KANJI2C:D2}{KANJI2E:A2}{KANJI2D:43}の{KANJI2A:5E}{KANJI2F:C5}を
+1試合以上の{KANJI2A:5E}約を
 むすんでください 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2A:5E}{KANJI2F:C5}{KANJI2C:AA}は{VAR12:30}ギルです
+{KANJI2A:5E}約金は{VAR12:30}ギルです
 よろしいですか?
 {CHOICE:30}はい
 {CHOICE:31}いいえ
@@ -88,13 +88,13 @@
 --------------------------------------------------End--
 {WINDOW}
 ビサイド·オーラカチームは
-{KANJI2D:AA}{KANJI2E:56}{KANJI2D:4F}{KANJI2D:52}8{KANJI2D:4F}でいっぱいです 
-{KANJI2D:89}かをチームからはずしますか?
+登録人数8人でいっぱいです 
+誰かをチームからはずしますか?
 {CHOICE:30}はい
 {CHOICE:31}いいえ
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2D:89}をはずしますか?
+誰をはずしますか?
 {CHOICE:30}{VAR12:30}
 {CHOICE:31}{VAR12:31}
 {CHOICE:32}{VAR12:32}
@@ -105,215 +105,215 @@
 {CHOICE:37}{VAR12:37}
 --------------------------------------------------End--
 {WINDOW}
-この{KANJI2D:68}{KANJI2C:FF}ははずせません
+この選手ははずせません
 --------------------------------------------------End--
 
-{KANJI2E:62}き{KANJI2D:90}より {KANJI2C:DF}られて
-さぞや{KANJI2C:BF}{KANJI2A:30}れでせう
+遠き地より 参られて
+さぞや御{KANJI2A:30}れでせう
 {NEWPAGE}
 
-おや わしの{KANJI2F:54}{KANJI2A:31}が
+おや わしの言{KANJI2A:31}が
 めづらしひ やうですな
 {NEWPAGE}
 
-これは{Guado2}の{KANJI2C:BA}き{KANJI2F:54}{KANJI2A:31}ぢゃ
-{KANJI2A:32}{KANJI2D:3C}では{KANJI2E:E7}{KANJI2D:7C}に{KANJI2F:9E}けますまい
+これは{Guado2}の古き言{KANJI2A:31}ぢゃ
+{KANJI2A:32}所では滅多に聞けますまい
 --------------------------------------------------End--
 
-{KANJI2E:FA}や{KANJI2C:BA}き{KANJI2F:54}{KANJI2A:31}を{KANJI2E:88}へる{KANJI2E:CD}は
-{KANJI2E:A7}{KANJI2C:6B}{KANJI2D:E4}の{KANJI2C:BA}{KANJI2E:5B}のみと{KANJI2D:55}りました
+今や古き言{KANJI2A:31}を伝へる者は
+極一部の古老のみと成りました
 {NEWPAGE}
 
-{Guado}の{KANJI2E:88}{KANJI2A:33}ある{KANJI2F:54}{KANJI2A:31}も
-いづれ{KANJI2F:D1}えてしまうでせう
+{Guado}の伝{KANJI2A:33}ある言{KANJI2A:31}も
+いづれ絶えてしまうでせう
 --------------------------------------------------End--
 
-{KANJI2D:7C}くの{Guado}は{KANJI2C:BA}き{KANJI2F:54}{KANJI2A:31}を{KANJI2E:7A}ぢて
-{KANJI2D:7B}の{KANJI2D:FE}と{KANJI2E:E5}じ{KANJI2E:3C}に{KANJI2E:5E}ります
+多くの{Guado}は古き言{KANJI2A:31}を恥ぢて
+他の民と同じ様に語ります
 --------------------------------------------------End--
 
-{KANJI2F:A5}{KANJI2F:3F}の{Guado}は ヒトとの{KANJI2C:C1}{KANJI2E:48}を
-{KANJI2F:CB}みませんでした
+昔日の{Guado}は ヒトとの交流を
+好みませんでした
 {NEWPAGE}
 
-しかし{Jyscal}{KANJI2E:3C}に{KANJI2A:34}る{KANJI2C:85}{KANJI2A:35}のおかげで
-{Guado}は{KANJI2C:8A}の{KANJI2F:5D}{KANJI2C:87}に{KANJI2E:36}を{KANJI2E:F4}け……
+しかし{Jyscal}様に{KANJI2A:34}る改{KANJI2A:35}のおかげで
+{Guado}は外の世界に目を向け……
 {NEWPAGE}
 
-{KANJI2E:B4}{KANJI2D:82}の{KANJI2E:48}れに{KANJI2D:92}いて{KANJI2C:CE}くやうに
-{KANJI2D:55}りまして{KANJI2C:BF}{KANJI2A:36}います
+時代の流れに着いて行くやうに
+成りまして御{KANJI2A:36}います
 --------------------------------------------------End--
 
-{Jyscal}{KANJI2E:3C}と{Seymour}{KANJI2E:3C}の{KANJI2A:37}{KANJI2C:E8}が
-{Guado2}の{KANJI2E:88}{KANJI2A:33}を{KANJI2D:EB}へたのです
+{Jyscal}様と{Seymour}様の{KANJI2A:37}子が
+{Guado2}の伝{KANJI2A:33}を変へたのです
 --------------------------------------------------End--
 
-{Guado2}の{KANJI2D:FD}{KANJI2E:F3}を{KANJI2A:38}ふ{KANJI2A:39}{KANJI2E:CD}が{KANJI2C:EE}に
-{KANJI2C:E3}ったのは{KANJI2D:C1}{KANJI2A:3A}りばかりぢゃ
+{Guado2}の未来を{KANJI2A:38}ふ{KANJI2A:39}者が死に
+残ったのは年{KANJI2A:3A}りばかりぢゃ
 {NEWPAGE}
 
-{Guado2}は{KANJI2C:8A}に{KANJI2D:3A}ず {Farplane}を
-{KANJI2C:FE}っておれば{KANJI2F:BB}かったのです
+{Guado2}は外に出ず {Farplane}を
+守っておれば良かったのです
 --------------------------------------------------End--
 
-{Seymour}{KANJI2E:3C}を{KANJI2C:F8}い {Tromell}は
-{KANJI2E:8F}{KANJI2C:9A}{KANJI2D:42}{KANJI2D:9C}しております
+{Seymour}様を失い {Tromell}は
+意気消沈しております
 {NEWPAGE}
 
-いづれ{KANJI2A:3B}{KANJI2A:3C}の{KANJI2C:BE}を{KANJI2D:9D}ひ
-{Farplane}に{KANJI2E:4A}{KANJI2A:3D}つのでせうか
+いづれ{KANJI2A:3B}{KANJI2A:3C}の後を追ひ
+{Farplane}に旅{KANJI2A:3D}つのでせうか
 --------------------------------------------------End--
 
-{KANJI2E:62}からず『{Sin}』が{KANJI2E:F3}て
-{Guado2}を{KANJI2E:E7}ぼすでせうな
+遠からず『{Sin}』が来て
+{Guado2}を滅ぼすでせうな
 --------------------------------------------------End--
 
-{KANJI2E:4A}の{KANJI2C:BF}{KANJI2D:F1}よ わしらは{KANJI2E:B4}{KANJI2D:82}{KANJI2A:3E}れの{KANJI2E:5B}{KANJI2D:4F}{KANJI2A:3F}
-{KANJI2C:BA}き{KANJI2F:54}{KANJI2A:31}で{KANJI2A:40}へる{KANJI2D:D7}{KANJI2E:50}を{KANJI2C:BF}{KANJI2F:A9}し{KANJI2C:78}され
+旅の御方よ わしらは時代{KANJI2A:3E}れの老人{KANJI2A:3F}
+古き言{KANJI2A:31}で{KANJI2A:40}へる非礼を御許し下され
 --------------------------------------------------End--
 
-{KANJI2F:A5}{KANJI2F:3F}の{Guado2}は このやうな
-{KANJI2C:BA}き{KANJI2F:54}{KANJI2A:31}を{KANJI2E:3D}ひておりました 
+昔日の{Guado2}は このやうな
+古き言{KANJI2A:31}を用ひておりました 
 {NEWPAGE}
 
-なれど{KANJI2F:4B}き{Jyscal}{KANJI2E:5D}{KANJI2D:99}が{KANJI2E:5B}{KANJI2C:E9}と{KANJI2D:55}り
-{Guado}に{Yevon2}の{KANJI2E:5C}へが{KANJI2C:C7}がると……
+なれど亡き{Jyscal}族長が老師と成り
+{Guado}に{Yevon2}の教へが広がると……
 {NEWPAGE}
 
-{KANJI2C:BA}き{KANJI2F:54}{KANJI2A:31}は{KANJI2C:F3}{KANJI2D:85}に{KANJI2A:41}れ 
-{KANJI2E:A8}{KANJI2E:92} {KANJI2E:E7}びかけております
+古き言{KANJI2A:31}は次第に{KANJI2A:41}れ 
+最早 滅びかけております
 --------------------------------------------------End--
 
-{KANJI2A:39}{KANJI2E:CD}たちは わしらの{KANJI2F:54}{KANJI2A:31}を
-{KANJI2C:BA}{KANJI2A:42}ひと あざ{KANJI2A:43}っています
+{KANJI2A:39}者たちは わしらの言{KANJI2A:31}を
+古{KANJI2A:42}ひと あざ{KANJI2A:43}っています
 --------------------------------------------------End--
 
-{Seymour}{KANJI2E:3C}の{KANJI2A:44}{KANJI2A:3C}はヒトでした 
-その{KANJI2A:45} {KANJI2C:6B}{KANJI2D:E4}の{KANJI2E:CD}は……
+{Seymour}様の{KANJI2A:44}{KANJI2A:3C}はヒトでした 
+その{KANJI2A:45} 一部の者は……
 {NEWPAGE}
 
-{Seymour}{KANJI2E:3C}が{Guado}を{KANJI2E:47}いるのを
-{KANJI2D:C0}めやうとはしませんでした 
+{Seymour}様が{Guado}を率いるのを
+認めやうとはしませんでした 
 {NEWPAGE}
 
-{KANJI2E:30}{KANJI2A:46}{KANJI2E:FA}では そのやうな{KANJI2E:8F}{KANJI2C:B3}を
-{KANJI2C:C5}に{KANJI2D:3A}す{KANJI2E:CD}は おりませぬ
+無{KANJI2A:46}今では そのやうな意見を
+口に出す者は おりませぬ
 --------------------------------------------------End--
 
-{Guado}の{KANJI2A:39}{KANJI2E:CD}の{KANJI2D:7C}くが
-{Seymour}{KANJI2E:3C}に{KANJI2E:9B}{KANJI2A:47}しています
+{Guado}の{KANJI2A:39}者の多くが
+{Seymour}様に心{KANJI2A:47}しています
 {NEWPAGE}
 
-{Seymour}{KANJI2E:3C}の{KANJI2E:32}{KANJI2E:4E}とあらば
-{KANJI2A:48}んで{KANJI2C:EE}んで{KANJI2C:CE}くでせう
+{Seymour}様の命令とあらば
+{KANJI2A:48}んで死んで行くでせう
 --------------------------------------------------End--
 
-{Seymour}{KANJI2E:3C}は{KANJI2C:BA}き{KANJI2F:54}{KANJI2A:31}を{KANJI2F:D2}います{KANJI2A:3F}
-わしらは{KANJI2A:49}{KANJI2D:4B}が{KANJI2A:4A}う{KANJI2C:BF}{KANJI2A:36}ります
+{Seymour}様は古き言{KANJI2A:31}を嫌います{KANJI2A:3F}
+わしらは{KANJI2A:49}身が{KANJI2A:4A}う御{KANJI2A:36}ります
 --------------------------------------------------End--
 
-{Seymour}{KANJI2E:3C}は {KANJI2D:7C}くの{KANJI2E:CD}を
-{KANJI2C:EE}へと{KANJI2A:4B}ひました
+{Seymour}様は 多くの者を
+死へと{KANJI2A:4B}ひました
 {NEWPAGE}
 
-{Guado}とヒトの{KANJI2E:D1}{KANJI2D:F1}への
-{KANJI2D:E5}{KANJI2A:4C}やもしれませぬな
+{Guado}とヒトの両方への
+復{KANJI2A:4C}やもしれませぬな
 --------------------------------------------------End--
 
-{Jyscal}{KANJI2E:3C}と ヒトの{KANJI2D:3E}{KANJI2D:54}との{KANJI2F:B2}{KANJI2A:4D}は
-{Guado2}の{KANJI2E:88}{KANJI2A:33}に{KANJI2D:D0}していました
+{Jyscal}様と ヒトの女性との結{KANJI2A:4D}は
+{Guado2}の伝{KANJI2A:33}に反していました
 {NEWPAGE}
 
-その{KANJI2A:45}{Seymour}{KANJI2E:3C}が{KANJI2F:3C}まれた{KANJI2C:BE}で
-{KANJI2C:6B}{KANJI2D:E4}の{KANJI2E:CD}が {KANJI2A:4E}{KANJI2D:B4}を{KANJI2E:E6}こし……
+その{KANJI2A:45}{Seymour}様が生まれた後で
+一部の者が {KANJI2A:4E}動を起こし……
 {NEWPAGE}
 
-『ヒトの{KANJI2F:CC}を{KANJI2C:6D}く{KANJI2E:CD}を{KANJI2D:9D}い{KANJI2D:3A}せ』と
-{KANJI2E:3E}{KANJI2F:7E}したのです
+『ヒトの血を引く者を追い出せ』と
+要求したのです
 {NEWPAGE}
 
-{KANJI2C:6B}{KANJI2E:5D}をまとめる{KANJI2E:5D}{KANJI2D:99}として {Jyscal}{KANJI2E:3C}は
-{KANJI2F:51}く{KANJI2F:51}く{KANJI2A:4F}{KANJI2C:E8}を{Baaj Island}へ{KANJI2D:9D}{KANJI2E:B2}なさりました
+一族をまとめる族長として {Jyscal}様は
+泣く泣く{KANJI2A:4F}子を{Baaj Island}へ追放なさりました
 --------------------------------------------------End--
 
-{KANJI2D:52}{KANJI2D:C1}{KANJI2C:BE} {Seymour}{KANJI2E:3C}だけが{KANJI2E:37}られた
-{KANJI2A:44}{KANJI2A:3C}は{KANJI2F:4B}くなったといふ{KANJI2E:57}です
+数年後 {Seymour}様だけが戻られた
+{KANJI2A:44}{KANJI2A:3C}は亡くなったといふ話です
 {NEWPAGE}
 
-{KANJI2E:A6}{KANJI2A:50}した{Seymour}{KANJI2E:3C}は
-{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}の{KANJI2E:4D}を{KANJI2C:81}{KANJI2E:EE}しておられた
+帰{KANJI2A:50}した{Seymour}様は
+召喚士の力を会得しておられた
 {NEWPAGE}
 
-{KANJI2D:5C}もて{KANJI2D:9D}われた{Seymour}{KANJI2E:3C}の{KANJI2C:BF}{KANJI2A:3D}{KANJI2D:45}が{KANJI2F:43}{KANJI2E:F2}して
-{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}として{KANJI2A:51}{KANJI2A:52}されるやうに{KANJI2D:55}りました
+石もて追われた{Seymour}様の御{KANJI2A:3D}場が逆転して
+召喚士として{KANJI2A:51}{KANJI2A:52}されるやうに成りました
 --------------------------------------------------End--
 
-{Seymour}{KANJI2E:3C}は {KANJI2D:E6}{KANJI2E:9B}ついてすぐに
-{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}の{KANJI2D:C3}{KANJI2E:4D}に{KANJI2E:36}{KANJI2C:8E}めたといふ{KANJI2E:57}です
+{Seymour}様は 物心ついてすぐに
+召喚士の能力に目覚めたといふ話です
 --------------------------------------------------End--
 
-{Seymour}{KANJI2E:5D}{KANJI2D:99}は {Guado}の{KANJI2A:39}{KANJI2E:CD}に
-いろんな{KANJI2A:53}{KANJI2F:99}を{KANJI2E:5C}えてくださるんです
+{Seymour}族長は {Guado}の{KANJI2A:39}者に
+いろんな{KANJI2A:53}問を教えてくださるんです
 {NEWPAGE}
 
-{KANJI2A:54} {Yevon2}の{KANJI2E:5C}えや{Spira}の{KANJI2A:55}{KANJI2A:56}を
-たくさん{KANJI2A:57}{KANJI2E:8A}しました
+{KANJI2A:54} {Yevon2}の教えや{Spira}の{KANJI2A:55}{KANJI2A:56}を
+たくさん{KANJI2A:57}強しました
 --------------------------------------------------End--
 
-{Seymour}{KANJI2E:5D}{KANJI2D:99}って {KANJI2E:5C}え{KANJI2D:F1}がお{KANJI2D:43}{KANJI2C:FF}なんです
-なんでも わかりやすく{KANJI2E:89}{KANJI2E:66}してくれます
+{Seymour}族長って 教え方がお上手なんです
+なんでも わかりやすく説明してくれます
 --------------------------------------------------End--
 
-{Yuna}{KANJI2E:3C}のこと うわさになってますよ
-あの{High Summoner Braska}{KANJI2E:3C}のご{KANJI2D:74}{KANJI2D:3E}で……
+{Yuna}様のこと うわさになってますよ
+あの{High Summoner Braska}様のご息女で……
 {NEWPAGE}
 
-{Operation Mi'ihen}の{KANJI2E:B4}は {Seymour}{KANJI2E:5D}{KANJI2D:99}と
-ともに{KANJI2D:64}ったんですよね
+{Operation Mi'ihen}の時は {Seymour}族長と
+ともに戦ったんですよね
 --------------------------------------------------End--
 
-{Yuna}{KANJI2E:3C}が お{KANJI2A:58}に{KANJI2E:F3}たら
+{Yuna}様が お{KANJI2A:58}に来たら
 {Guado2}みんなで{KANJI2A:59}{KANJI2A:40}しますよ
 --------------------------------------------------End--
 
-あの……{Seymour}{KANJI2E:5D}{KANJI2D:99}の{KANJI2D:4B}に
+あの……{Seymour}族長の身に
 なにかあったんですか?
 {NEWPAGE}
 
-{KANJI2E:83}しだけ うわさを{KANJI2F:9E}いたんですけど
-{KANJI2F:A6}じられなくて……
+少しだけ うわさを聞いたんですけど
+信じられなくて……
 --------------------------------------------------End--
 
-{Seymour}{KANJI2E:5D}{KANJI2D:99}が {Jyscal}{KANJI2E:3C}を……
-いやだ {KANJI2F:A6}じたくない……
+{Seymour}族長が {Jyscal}様を……
+いやだ 信じたくない……
 --------------------------------------------------End--
 
-おじいさまたちは {Guado}の{KANJI2C:BA}い{KANJI2F:54}{KANJI2A:31}を
-{KANJI2C:FB}てようとしないのです
+おじいさまたちは {Guado}の古い言{KANJI2A:31}を
+捨てようとしないのです
 {NEWPAGE}
 
-お{KANJI2C:A0}{KANJI2D:4F}にわかりにくい{KANJI2F:54}{KANJI2A:31}を{KANJI2C:E4}っては
-{KANJI2C:F8}{KANJI2E:50}だと {KANJI2F:54}っているのですが……
+お客人にわかりにくい言{KANJI2A:31}を使っては
+失礼だと 言っているのですが……
 --------------------------------------------------End--
 
-{KANJI2D:C1}{KANJI2A:3A}りのすることですので 
-どうかお{KANJI2C:B3}{KANJI2D:B2}しください 
+年{KANJI2A:3A}りのすることですので 
+どうかお見逃しください 
 --------------------------------------------------End--
 
-{Spira}が{KANJI2C:D6}{KANJI2E:42}したのは {Guado2}の
-{KANJI2A:5A}{KANJI2A:5B}だという{KANJI2E:8F}{KANJI2C:B3}があるようです
+{Spira}が混乱したのは {Guado2}の
+{KANJI2A:5A}{KANJI2A:5B}だという意見があるようです
 {NEWPAGE}
 
-{KANJI2D:D0}{KANJI2A:46}できないのが くやしいですね……
+反{KANJI2A:46}できないのが くやしいですね……
 --------------------------------------------------End--
 
-{Luca}から{KANJI2E:52}{KANJI2E:40}がありました {Guado2}は
-{KANJI2E:FA}まで{KANJI2E:E5}{KANJI2E:3C}に{KANJI2D:84}{KANJI2C:81}に{KANJI2C:DF}{KANJI2C:7B}できるそうです
+{Luca}から連絡がありました {Guado2}は
+今まで同様に大会に参加できるそうです
 {NEWPAGE}
 
-{Luca}{KANJI2A:5C}{KANJI2D:FE}の {KANJI2E:9B}の{KANJI2C:C7}さに{KANJI2F:79}われました
+{Luca}{KANJI2A:5C}民の 心の広さに救われました
 --------------------------------------------------End--
 
-すばらしい{KANJI2C:EF}{KANJI2C:D2}をして
-{Luca}の{KANJI2D:4F}{KANJI2E:59}に{KANJI2A:5D}{KANJI2F:AD}ししたいものです
+すばらしい試合をして
+{Luca}の人々に{KANJI2A:5D}返ししたいものです
 --------------------------------------------------End--

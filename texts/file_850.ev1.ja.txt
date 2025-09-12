@@ -1,34 +1,34 @@
 {WINDOW}
-{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}1】{White}
-{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
-{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
-{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
-{KANJI2A:3B}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
-{KANJI2A:3B}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
+{Yellow}【スカウトLV1】{White}
+名前:{VAR12:30}
+LV:{VAR12:31}
+所属チーム:{VAR12:32}
+{KANJI2A:3B}約期間:{VAR12:33}試合
+{KANJI2A:3B}約金:{VAR12:34}ギル
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}2】{White}
-{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
-{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
-{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
-{KANJI2A:3B}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
-{KANJI2A:3B}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
-{KANJI2C:37}{KANJI2C:3F}:{VAR12:35}{VAR07:60}{KANJI2C:42}{KANJI2C:3F}{KANJI2C:33}:{VAR12:36}
-{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33}:{VAR12:37}{VAR07:60}{KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}:{VAR12:38}
-{KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}:{VAR12:39}{VAR07:60}{KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A}:{VAR12:3A}
-{KANJI2C:42}{KANJI2C:37}{KANJI2C:43}:{VAR12:3B}{VAR07:60}{KANJI2C:32}{KANJI2C:30}{KANJI2C:43}:{VAR12:3C}
+{Yellow}【スカウトLV2】{White}
+名前:{VAR12:30}
+LV:{VAR12:31}
+所属チーム:{VAR12:32}
+{KANJI2A:3B}約期間:{VAR12:33}試合
+{KANJI2A:3B}約金:{VAR12:34}ギル
+HP:{VAR12:35}{VAR07:60}SPD:{VAR12:36}
+END:{VAR12:37}{VAR07:60}ATK:{VAR12:38}
+PAS:{VAR12:39}{VAR07:60}BLK:{VAR12:3A}
+SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}3】{White}
-{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
-{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
-{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
-{KANJI2A:3B}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
-{KANJI2A:3B}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
-{KANJI2C:37}{KANJI2C:3F}:{VAR12:35}{VAR07:60}{KANJI2C:42}{KANJI2C:3F}{KANJI2C:33}:{VAR12:36}
-{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33}:{VAR12:37}{VAR07:60}{KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}:{VAR12:38}
-{KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}:{VAR12:39}{VAR07:60}{KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A}:{VAR12:3A}
-{KANJI2C:42}{KANJI2C:37}{KANJI2C:43}:{VAR12:3B}{VAR07:60}{KANJI2C:32}{KANJI2C:30}{KANJI2C:43}:{VAR12:3C}
+{Yellow}【スカウトLV3】{White}
+名前:{VAR12:30}
+LV:{VAR12:31}
+所属チーム:{VAR12:32}
+{KANJI2A:3B}約期間:{VAR12:33}試合
+{KANJI2A:3B}約金:{VAR12:34}ギル
+HP:{VAR12:35}{VAR07:60}SPD:{VAR12:36}
+END:{VAR12:37}{VAR07:60}ATK:{VAR12:38}
+PAS:{VAR12:39}{VAR07:60}BLK:{VAR12:3A}
+SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 {VAR12:3D}
 {VAR12:3E}
 {VAR12:3F}
@@ -36,16 +36,16 @@
 {VAR12:41}
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}{KANJI2C:3C}{KANJI2C:30}{KANJI2C:47}】{White}
-{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
-{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
-{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
-{KANJI2A:3B}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
-{KANJI2A:3B}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
-{KANJI2C:37}{KANJI2C:3F}:{VAR12:35}{VAR07:60}{KANJI2C:42}{KANJI2C:3F}{KANJI2C:33}:{VAR12:36}
-{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33}:{VAR12:37}{VAR07:60}{KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}:{VAR12:38}
-{KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}:{VAR12:39}{VAR07:60}{KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A}:{VAR12:3A}
-{KANJI2C:42}{KANJI2C:37}{KANJI2C:43}:{VAR12:3B}{VAR07:60}{KANJI2C:32}{KANJI2C:30}{KANJI2C:43}:{VAR12:3C}
+{Yellow}【スカウトLVMAX】{White}
+名前:{VAR12:30}
+LV:{VAR12:31}
+所属チーム:{VAR12:32}
+{KANJI2A:3B}約期間:{VAR12:33}試合
+{KANJI2A:3B}約金:{VAR12:34}ギル
+HP:{VAR12:35}{VAR07:60}SPD:{VAR12:36}
+END:{VAR12:37}{VAR07:60}ATK:{VAR12:38}
+PAS:{VAR12:39}{VAR07:60}BLK:{VAR12:3A}
+SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 {VAR12:3D}
 {VAR12:3E}{VAR07:68}{OCyan}【キーアビリティ】{White}
 {VAR12:3F}{VAR07:68}{VAR12:42}
@@ -65,20 +65,20 @@
 {VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2A:3B}{KANJI2F:C5}しますか?
+{KANJI2A:3B}約しますか?
 {CHOICE:30}はい
 {CHOICE:31}いいえ
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2A:3B}{KANJI2F:C5}{KANJI2C:EF}{KANJI2C:D2}{KANJI2D:52}を{KANJI2C:B1}めてください
+{KANJI2A:3B}約試合数を決めてください
 {CHOICE:51}
 --------------------------------------------------End--
 {WINDOW}
-1{KANJI2C:EF}{KANJI2C:D2}{KANJI2E:A2}{KANJI2D:43}の{KANJI2A:3B}{KANJI2F:C5}を
+1試合以上の{KANJI2A:3B}約を
 むすんでください 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2A:3B}{KANJI2F:C5}{KANJI2C:AA}は{VAR12:30}ギルです
+{KANJI2A:3B}約金は{VAR12:30}ギルです
 よろしいですか?
 {CHOICE:30}はい
 {CHOICE:31}いいえ
@@ -88,13 +88,13 @@
 --------------------------------------------------End--
 {WINDOW}
 ビサイド·オーラカチームは
-{KANJI2D:AA}{KANJI2E:56}{KANJI2D:4F}{KANJI2D:52}8{KANJI2D:4F}でいっぱいです 
-{KANJI2D:89}かをチームからはずしますか?
+登録人数8人でいっぱいです 
+誰かをチームからはずしますか?
 {CHOICE:30}はい
 {CHOICE:31}いいえ
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2D:89}をはずしますか?
+誰をはずしますか?
 {CHOICE:30}{VAR12:30}
 {CHOICE:31}{VAR12:31}
 {CHOICE:32}{VAR12:32}
@@ -105,34 +105,34 @@
 {CHOICE:37}{VAR12:37}
 --------------------------------------------------End--
 {WINDOW}
-この{KANJI2D:68}{KANJI2C:FF}ははずせません
+この選手ははずせません
 --------------------------------------------------End--
 
 まかせて!
-どこにでも{KANJI2E:52}れてってあげる
+どこにでも連れてってあげる
 --------------------------------------------------End--
 {WINDOW}
-{CHOICE:30}{Besaid Island}{KANJI2C:CE}き
-{CHOICE:31}{Luca}{KANJI2C:CE}き
-{CHOICE:32}{KANJI2D:44}らない
+{CHOICE:30}{Besaid Island}行き
+{CHOICE:31}{Luca}行き
+{CHOICE:32}乗らない
 --------------------------------------------------End--
 {Wakka}
-{KANJI2E:F3}たかい
+来たかい
 --------------------------------------------------End--
 {Wakka}
-{Besaid Aurochs}{KANJI2D:36}{KANJI2C:D2}
+{Besaid Aurochs}集合
 --------------------------------------------------End--
 {Wakka}
-{KANJI2C:F1}{KANJI2C:6E}へ{KANJI2C:CE}って
-{KANJI2E:61}{KANJI2E:79}のためにお{KANJI2C:9B}りだ
+寺院へ行って
+勝利のためにお祈りだ
 --------------------------------------------------End--
 {Wakka}
-{KANJI2C:D0}{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}{Ohalland}{KANJI2E:3C}は
-この{Kilika}の{KANJI2C:F1}{KANJI2C:6E}に{KANJI2D:37}んでいたんだァ
+高召喚士{Ohalland}様は
+この{Kilika}の寺院に住んでいたんだァ
 --------------------------------------------------End--
 {Wakka}
-{Ohalland}{KANJI2E:3C}は すんごい
-ブリッツ{KANJI2D:68}{KANJI2C:FF}だったんだわ
+{Ohalland}様は すんごい
+ブリッツ選手だったんだわ
 --------------------------------------------------End--
 {Tidus}
 {Wakka}
@@ -141,40 +141,40 @@
 ん?
 --------------------------------------------------End--
 {Tidus}
-お{KANJI2C:9B}りはともかく
+お祈りはともかく
 なんだか まずくない?
 --------------------------------------------------End--
 {Wakka}
-ブリッツを{KANJI2F:83}しむのが
-{KANJI2E:BC}いってかい?
+ブリッツを楽しむのが
+悪いってかい?
 --------------------------------------------------End--
 {Tidus}
-{KANJI2E:FA}はちょっと
+今はちょっと
 --------------------------------------------------End--
 {Wakka}
-{KANJI2E:FA}だからこそだァ
+今だからこそだァ
 --------------------------------------------------End--
 {Wakka}
-{KANJI2D:68}{KANJI2C:FF}は{KANJI2D:6B}{KANJI2E:4D}で{KANJI2D:64}い
-ファンはひいきチームを{KANJI2A:30}{KANJI2F:B0}する
+選手は全力で戦い
+ファンはひいきチームを{KANJI2A:30}援する
 --------------------------------------------------End--
 {Wakka}
-そしたら みんな {KANJI2C:6B}{KANJI2F:CE}でも
-いやなことを{KANJI2E:D5}れられるっしょ
+そしたら みんな 一瞬でも
+いやなことを忘れられるっしょ
 --------------------------------------------------End--
 {Wakka}
 これが{Spira}でブリッツが
-{KANJI2D:42}えない{KANJI2E:44}{KANJI2A:31}だ
+消えない理{KANJI2A:31}だ
 --------------------------------------------------End--
 {Wakka}
-{KANJI2F:A1}は そう{KANJI2C:EA}うんだわ
+俺は そう思うんだわ
 --------------------------------------------------End--
 {Tidus}
 そうかな--
 --------------------------------------------------End--
 {Wakka}
-いい{KANJI2C:EF}{KANJI2C:D2}して
-{KANJI2E:61}っちゃおうぜ
+いい試合して
+勝っちゃおうぜ
 --------------------------------------------------End--
 {Wakka}
 な!
@@ -183,127 +183,127 @@
 おう!
 --------------------------------------------------End--
 {Wakka}
-{KANJI2C:F1}{KANJI2C:6E}は{KANJI2D:4A}の{KANJI2E:F4}こうだァ {KANJI2C:CE}くぞ
+寺院は森の向こうだァ 行くぞ
 --------------------------------------------------End--
 {Wakka}
-いよいよ{Blue}【ルカ】{White}へ{KANJI2D:3A}{KANJI2D:CB}だァ
+いよいよ{Blue}【ルカ】{White}へ出発だァ
 --------------------------------------------------End--
 {Wakka}
-{KANJI2A:32}{KANJI2D:92}したらすぐに{KANJI2C:EF}{KANJI2C:D2}だ
-{KANJI2D:67}の{KANJI2D:93}ゆっくり{KANJI2F:9F}めよな
+{KANJI2A:32}着したらすぐに試合だ
+船の中ゆっくり休めよな
 --------------------------------------------------End--
 
 こりゃあ!
-{KANJI2E:61}{KANJI2C:FF}に{KANJI2C:F2}っていくでねぇ!
+勝手に持っていくでねぇ!
 {NEWPAGE}
 
-ありゃ お{KANJI2C:A0}さんかえ--
+ありゃ お客さんかえ--
 --------------------------------------------------End--
 {WINDOW}
-{CHOICE:30}{KANJI2D:44}{KANJI2D:67}する
+{CHOICE:30}乗船する
 {CHOICE:31}まだしない
 --------------------------------------------------End--
 
-オレたち{Kilika Beasts}が{KANJI2A:33}{KANJI2E:61}すれば
-{KANJI2D:AE}のみんなを はげませる
+オレたち{Kilika Beasts}が{KANJI2A:33}勝すれば
+鳥のみんなを はげませる
 {NEWPAGE}
 
-それを{KANJI2C:EA}えば {KANJI2E:51}{KANJI2F:A4}にも
-{KANJI2C:9A}{KANJI2C:D2}が{KANJI2D:BF}るってもんだ 
+それを思えば 練習にも
+気合が入るってもんだ 
 --------------------------------------------------End--
 
-{KANJI2D:84}{KANJI2C:81}では{KANJI2A:33}{KANJI2E:61}を{KANJI2D:B2}がしたが
-{KANJI2E:FA}さら くやんでも{KANJI2E:B4}{KANJI2C:93}のムダだ
+大会では{KANJI2A:33}勝を逃がしたが
+今さら くやんでも時間のムダだ
 {NEWPAGE}
 
 くよくよするヒマがあったら
-{KANJI2C:9A}{KANJI2C:D2}を{KANJI2D:BF}れ{KANJI2D:9B}して {KANJI2E:51}{KANJI2F:A4}だ!
+気合を入れ直して 練習だ!
 --------------------------------------------------End--
 
-{KANJI2E:FA}{KANJI2A:34}こそ {Ohalland}{KANJI2E:3C}から{KANJI2D:32}けついだ
-{Kilika}{KANJI2F:34}を{KANJI2C:B3}せてやる
+今{KANJI2A:34}こそ {Ohalland}様から受けついだ
+{Kilika}魂を見せてやる
 --------------------------------------------------End--
 
-みんな{KANJI2D:84}{KANJI2C:81}を{KANJI2F:83}しみにしてたのに
+みんな大会を楽しみにしてたのに
 『シン』のせいで--くそっ!
 {NEWPAGE}
 
-オレたち{KANJI2D:68}{KANJI2C:FF}も {KANJI2E:51}{KANJI2F:A4}なんか
-やってる{KANJI2D:45}{KANJI2C:D2}じゃない
+オレたち選手も 練習なんか
+やってる場合じゃない
 --------------------------------------------------End--
 
-{KANJI2E:51}{KANJI2F:A4}{KANJI2D:E0}{KANJI2D:76}でも かならず
-{KANJI2F:B2}{KANJI2C:7D}を{KANJI2D:3A}してやるさ
+練習不足でも かならず
+結果を出してやるさ
 {NEWPAGE}
 
-{KANJI2E:FA}{KANJI2D:C1}こそ{KANJI2A:33}{KANJI2E:61}カップを{KANJI2C:F2}ち{KANJI2E:A6}って
-{KANJI2D:AE}のみんなを はげますんだ
+今年こそ{KANJI2A:33}勝カップを持ち帰って
+鳥のみんなを はげますんだ
 --------------------------------------------------End--
 
-ここんとこだけ{KANJI2E:DA}{KANJI2E:44}したら
-オレたちもルカに{KANJI2D:3A}{KANJI2D:CB}だ
+ここんとこだけ修理したら
+オレたちもルカに出発だ
 --------------------------------------------------End--
 
-みんな {KANJI2C:B3}ててくれよ
-かならず{KANJI2E:61}つからな--
+みんな 見ててくれよ
+かならず勝つからな--
 --------------------------------------------------End--
 
-{KANJI2E:F4}こうにある こわれた{KANJI2D:67}を
-{KANJI2D:E7}{KANJI2E:B3}して どかそうとしたけど--
+向こうにある こわれた船を
+分解して どかそうとしたけど--
 {NEWPAGE}
 
-がんじょうな{KANJI2D:67}で こわせない
-{KANJI2D:67}{KANJI2D:84}{KANJI2A:35}は いい{KANJI2F:9D}{KANJI2A:36}をしすぎたね
+がんじょうな船で こわせない
+船大{KANJI2A:35}は いい仕{KANJI2A:36}をしすぎたね
 --------------------------------------------------End--
 
-{KANJI2C:8C}の{KANJI2D:E5}{KANJI2F:A7}は ほとんど{KANJI2D:35}わったぞ
-あとは あっちの{KANJI2D:B7}を{KANJI2E:DA}{KANJI2E:44}するだけだ
+街の復興は ほとんど終わったぞ
+あとは あっちの道を修理するだけだ
 --------------------------------------------------End--
 
-{KANJI2D:BA}のせいか なんにも{KANJI2C:EA}い{KANJI2D:3A}せねえ
-{KANJI2C:F6}{KANJI2D:E7}の{KANJI2E:31}{KANJI2D:6A}も {KANJI2D:37}んでた{KANJI2C:7C}もな
+毒のせいか なんにも思い出せねえ
+自分の名前も 住んでた家もな
 {NEWPAGE}
 
-ここに{KANJI2A:37}ってれば {KANJI2D:89}かが{KANJI2C:9A}づいて
-{KANJI2E:EF}けてくれると{KANJI2C:EA}ったが--
+ここに{KANJI2A:37}ってれば 誰かが気づいて
+助けてくれると思ったが--
 {NEWPAGE}
 
-だーれも{KANJI2E:EA}{KANJI2C:FF}してくれねえよ
-みんな{KANJI2C:F6}{KANJI2D:E7}のことで せいいっぱいらしい
+だーれも相手してくれねえよ
+みんな自分のことで せいいっぱいらしい
 --------------------------------------------------End--
 
-{KANJI2F:A1} ここの{KANJI2D:4F}{KANJI2C:93}じゃねえのかもな
-どっか{KANJI2E:62}い{KANJI2D:45}{KANJI2D:3C}から{KANJI2E:F3}た--なんてな
+俺 ここの人間じゃねえのかもな
+どっか遠い場所から来た--なんてな
 --------------------------------------------------End--
 
-やっと『シン』の{KANJI2D:BA}が{KANJI2A:38}れて
-{KANJI2C:7C}{KANJI2E:5D}のことも{KANJI2C:EA}い{KANJI2D:3A}せたが--
+やっと『シン』の毒が{KANJI2A:38}れて
+家族のことも思い出せたが--
 {NEWPAGE}
 
 みんな『{Sin}』にやられて
-{Farplane}に{KANJI2C:CE}っていたよ
+{Farplane}に行っていたよ
 {NEWPAGE}
 
-へっ {KANJI2C:EA}い{KANJI2D:3A}さねえ{KANJI2D:F1}が
+へっ 思い出さねえ方が
 マシだったよ
 --------------------------------------------------End--
 
-{KANJI2C:F3}に『{Sin}』が{KANJI2E:F3}る{KANJI2E:B4}は 
-オレも{Farplane}に{KANJI2C:CE}きたいもんだ
+次に『{Sin}』が来る時は 
+オレも{Farplane}に行きたいもんだ
 --------------------------------------------------End--
 
-{Yevon2}{KANJI2C:F1}{KANJI2C:6E}は{Kilika}{KANJI2D:E5}{KANJI2F:A7}を
-{KANJI2D:6B}{KANJI2E:34}{KANJI2D:A5}に{KANJI2A:39}{KANJI2F:B0}しているのだ!
+{Yevon2}寺院は{Kilika}復興を
+全面的に{KANJI2A:39}援しているのだ!
 --------------------------------------------------End--
 
-ここだけの{KANJI2E:57}だが--
-{Kilika Island}の{KANJI2E:52}{KANJI2D:93}は{KANJI2D:E6}{KANJI2F:CB}きだよ
+ここだけの話だが--
+{Kilika Island}の連中は物好きだよ
 {NEWPAGE}
 
-こんな{KANJI2C:86}の{KANJI2C:A9}くに{KANJI2D:37}むなんて
-『{Sin}』に{KANJI2A:3A}えと{KANJI2F:54}っているようなものだ
+こんな海の近くに住むなんて
+『{Sin}』に{KANJI2A:3A}えと言っているようなものだ
 --------------------------------------------------End--
 
-あら {KANJI2D:44}りたかったら
-{KANJI2C:6B}{KANJI2D:59}かけてちょうだい
+あら 乗りたかったら
+一声かけてちょうだい
 --------------------------------------------------End--

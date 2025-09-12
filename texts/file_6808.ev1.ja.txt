@@ -1,5 +1,5 @@
 {WINDOW}
-{CHOICE:30}リーグ{KANJI2D:64}
+{CHOICE:30}リーグ戦
 {CHOICE:31}{Gray}トーナメントカップ{White}
 {CHOICE:32}エキシビション
 {CHOICE:33}チュートリアル
@@ -8,7 +8,7 @@
 {CHOICE:36}データリセット
 --------------------------------------------------End--
 {WINDOW}
-{CHOICE:30}リーグ{KANJI2D:64}
+{CHOICE:30}リーグ戦
 {CHOICE:31}トーナメントカップ
 {CHOICE:32}エキシビション
 {CHOICE:33}チュートリアル
@@ -18,14 +18,14 @@
 --------------------------------------------------End--
 {WINDOW}
 
-スピラリーグ:{KANJI2D:85}{VAR12:30}{KANJI2A:34}
-{KANJI2D:85}1{KANJI2F:4C}:{VAR12:31}{VAR07:78}{KANJI2C:45}{KANJI2C:42} {VAR12:32}
-{KANJI2D:85}2{KANJI2F:4C}:{VAR12:33}{VAR07:78}{KANJI2C:45}{KANJI2C:42} {VAR12:34}
-{KANJI2D:85}3{KANJI2F:4C}:{VAR12:35}{VAR07:78}{KANJI2C:45}{KANJI2C:42} {VAR12:36}
+スピラリーグ:第{VAR12:30}{KANJI2A:34}
+第1組:{VAR12:31}{VAR07:78}VS {VAR12:32}
+第2組:{VAR12:33}{VAR07:78}VS {VAR12:34}
+第3組:{VAR12:35}{VAR07:78}VS {VAR12:36}
 --------------------------------------------------End--
 {WINDOW}
 
-{KANJI2C:45}{KANJI2C:42} {VAR12:30} {KANJI2C:88}{KANJI2C:E7}!
+VS {VAR12:30} 開始!
 --------------------------------------------------End--
 {WINDOW}
 
@@ -40,25 +40,25 @@
 --------------------------------------------------End--
 {WINDOW}
 
-エボンカップ:{KANJI2E:A8}{KANJI2D:35}{KANJI2D:64}
-{KANJI2C:B1}{KANJI2E:61}{KANJI2D:64}:{VAR12:31}{VAR07:78}{KANJI2C:45}{KANJI2C:42} {VAR12:32}
-3{KANJI2C:B1}{KANJI2D:64}:{VAR12:33}{VAR07:78}{KANJI2C:45}{KANJI2C:42} {VAR12:34}
+エボンカップ:最終戦
+決勝戦:{VAR12:31}{VAR07:78}VS {VAR12:32}
+3決戦:{VAR12:33}{VAR07:78}VS {VAR12:34}
 --------------------------------------------------End--
 {WINDOW}
 
-エボンカップ:{VAR12:30}{KANJI2C:82}{KANJI2D:64}
-{KANJI2D:85}1{KANJI2F:4C}:{VAR12:31}{VAR07:78}{KANJI2C:45}{KANJI2C:42} {VAR12:32}
-{KANJI2D:85}2{KANJI2F:4C}:{VAR12:33}{VAR07:78}{KANJI2C:45}{KANJI2C:42} {VAR12:34}
+エボンカップ:{VAR12:30}回戦
+第1組:{VAR12:31}{VAR07:78}VS {VAR12:32}
+第2組:{VAR12:33}{VAR07:78}VS {VAR12:34}
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2C:B8}{KANJI2C:DC}{KANJI2C:88}{KANJI2A:33}{KANJI2D:93}のトーナメントカップはありません
+現在開{KANJI2A:33}中のトーナメントカップはありません
 --------------------------------------------------End--
 {WINDOW}
-{CHOICE:30}{KANJI2C:45}{KANJI2C:42} ルカ·ゴワーズ
-{CHOICE:31}{KANJI2C:45}{KANJI2C:42} キーリカ·ビースト
-{CHOICE:32}{KANJI2C:45}{KANJI2C:42} アルベド·サイクス
-{CHOICE:33}{KANJI2C:45}{KANJI2C:42} ロンゾ·ファング
-{CHOICE:34}{KANJI2C:45}{KANJI2C:42} グアド·グローリー
+{CHOICE:30}VS ルカ·ゴワーズ
+{CHOICE:31}VS キーリカ·ビースト
+{CHOICE:32}VS アルベド·サイクス
+{CHOICE:33}VS ロンゾ·ファング
+{CHOICE:34}VS グアド·グローリー
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【チームデータ】{White}
@@ -94,15 +94,15 @@
 {CHOICE:38}キャンセル
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
-{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
-{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
-{KANJI2A:30}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
-{KANJI2A:30}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
-{KANJI2C:37}{KANJI2C:3F}:{VAR12:35}{VAR07:60}{KANJI2C:42}{KANJI2C:3F}{KANJI2C:33}:{VAR12:36}
-{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33}:{VAR12:37}{VAR07:60}{KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}:{VAR12:38}
-{KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}:{VAR12:39}{VAR07:60}{KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A}:{VAR12:3A}
-{KANJI2C:42}{KANJI2C:37}{KANJI2C:43}:{VAR12:3B}{VAR07:60}{KANJI2C:32}{KANJI2C:30}{KANJI2C:43}:{VAR12:3C}
+名前:{VAR12:30}
+LV:{VAR12:31}
+所属チーム:{VAR12:32}
+{KANJI2A:30}約期間:{VAR12:33}試合
+{KANJI2A:30}約金:{VAR12:34}ギル
+HP:{VAR12:35}{VAR07:60}SPD:{VAR12:36}
+END:{VAR12:37}{VAR07:60}ATK:{VAR12:38}
+PAS:{VAR12:39}{VAR07:60}BLK:{VAR12:3A}
+SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 {VAR12:3D}
 {VAR12:3E}{VAR07:68}{OCyan}【キーアビリティ】{White}
 {VAR12:3F}{VAR07:68}{VAR12:42}
@@ -122,22 +122,22 @@
 {VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2D:55}{KANJI2D:99}させた{KANJI2D:68}{KANJI2C:FF}データや{KANJI2D:BF}{KANJI2C:FF}アビリティも
-すべて{KANJI2D:3B}{KANJI2C:98}{KANJI2D:48}{KANJI2D:80}にリセットされます 
+成長させた選手データや入手アビリティも
+すべて初期状態にリセットされます 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2D:F7}{KANJI2E:90}にリセットしますか?
+本当にリセットしますか?
 {CHOICE:30}いいえ
 {CHOICE:31}はい
 --------------------------------------------------End--
 {WINDOW}
 
-{Yellow}【{KANJI2D:68}{KANJI2C:FF}のポジション{KANJI2D:60}{KANJI2D:9F}】{White}
-{KANJI2D:68}{KANJI2D:87}した{KANJI2E:F9}に{KANJI2D:6A}{KANJI2A:3D}{KANJI2C:D7}({KANJI2C:3B}{KANJI2C:35}) {KANJI2D:6A}{KANJI2A:3D}{KANJI2C:70}
-({KANJI2C:41}{KANJI2C:35}) {KANJI2D:93}{KANJI2C:75}({KANJI2C:3C}{KANJI2C:35}) {KANJI2C:BE}{KANJI2A:3D}{KANJI2C:D7}({KANJI2C:3B}{KANJI2C:33})
-{KANJI2C:BE}{KANJI2A:3D}{KANJI2C:70}({KANJI2C:41}{KANJI2C:33}) キーパー({KANJI2C:36}{KANJI2C:3B})と{KANJI2F:9B}
-{KANJI2D:91}されます {KANJI2D:68}{KANJI2D:87}しなかったメンバー
-は{KANJI2C:F6}{KANJI2D:B4}{KANJI2D:A5}に{KANJI2C:C8}え{KANJI2D:68}{KANJI2C:FF}となります 
+{Yellow}【選手のポジション設定】{White}
+選択した順に前{KANJI2A:3D}左(LF) 前{KANJI2A:3D}右
+(RF) 中央(MF) 後{KANJI2A:3D}左(LD)
+後{KANJI2A:3D}右(RD) キーパー(GL)と配
+置されます 選択しなかったメンバー
+は自動的に控え選手となります 
 --------------------------------------------------End--
 {WINDOW}
 
@@ -156,32 +156,32 @@
 --------------------------------------------------End--
 {WINDOW}
 
-{Yellow}【{KANJI2D:68}{KANJI2C:FF}のアビリティ{KANJI2D:60}{KANJI2D:9F}】{White}
-{KANJI2C:3B}{KANJI2C:45}3{KANJI2E:A2}{KANJI2D:43}の{KANJI2D:68}{KANJI2C:FF}はスロットにアビリテ
-ィを{KANJI2D:60}{KANJI2D:9F}することができます スロット
-はレベルアップすることによって{KANJI2E:A8}{KANJI2D:84}5
-つまで{KANJI2D:71}やすことができます
+{Yellow}【選手のアビリティ設定】{White}
+LV3以上の選手はスロットにアビリテ
+ィを設定することができます スロット
+はレベルアップすることによって最大5
+つまで増やすことができます
 --------------------------------------------------End--
 {WINDOW}
-アビリティ{KANJI2D:60}{KANJI2D:9F}
+アビリティ設定
 {CHOICE:30}{VAR12:30}
 {CHOICE:31}{VAR12:31}
 {CHOICE:32}{VAR12:32}
 {CHOICE:33}{VAR12:33}
 {CHOICE:34}{VAR12:34}
 {CHOICE:35}{VAR12:35}
-{CHOICE:36}{KANJI2C:3E}{KANJI2C:3A}
+{CHOICE:36}OK
 --------------------------------------------------End--
 {WINDOW}
 
-アビリティ{KANJI2D:60}{KANJI2D:9F}
+アビリティ設定
 {VAR12:30}
 {VAR12:31}
 {VAR12:32}
 {VAR12:33}
 {VAR12:34}
 {VAR12:35}
-{KANJI2C:3E}{KANJI2C:3A}
+OK
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}{VAR12:30}
@@ -240,7 +240,7 @@
 --------------------------------------------------End--
 {WINDOW}
 
-{VAR07:48}{KANJI2C:B8}{KANJI2C:DC}の{KANJI2C:37}{KANJI2C:3F}:{VAR12:33}
+{VAR07:48}現在のHP:{VAR12:33}
 {OCyan}【キーアビリティ】{White}
 {VAR12:30}{VAR07:64}{VAR12:31}{VAR07:88}{VAR12:32}
 --------------------------------------------------End--
@@ -256,7 +256,7 @@
 {CHOICE:38}{VAR12:39}{VAR07:66}{CHOICE:42}{VAR12:43}{VAR07:8C}{CHOICE:4C}{VAR12:4D}
 {CHOICE:39}{VAR12:3A}{VAR07:66}{CHOICE:43}{VAR12:44}{VAR07:8C}{CHOICE:4D}{VAR12:4E}
 {VAR07:8C}{CHOICE:4E}はずす
-{VAR07:8C}{CHOICE:4F}{KANJI2C:F3}のページへ{VAR07:AA}
+{VAR07:8C}{CHOICE:4F}次のページへ{VAR07:AA}
 
 
 --------------------------------------------------End--
@@ -272,45 +272,45 @@
 {CHOICE:38}{VAR12:39}{VAR07:66}{CHOICE:42}{VAR12:43}{VAR07:8C}{CHOICE:4C}{VAR12:4D}
 {CHOICE:39}{VAR12:3A}{VAR07:66}{CHOICE:43}{VAR12:44}{VAR07:8C}{CHOICE:4D}{VAR12:4E}
 {VAR07:8C}{CHOICE:4E}はずす
-{VAR07:8C}{CHOICE:4F}{KANJI2D:6A}のページへ{VAR07:AA}
+{VAR07:8C}{CHOICE:4F}前のページへ{VAR07:AA}
 
 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2C:37}{KANJI2C:3F}が{KANJI2D:76}りなくて{KANJI2D:6F}{KANJI2D:D9}できません
+HPが足りなくて装備できません
 --------------------------------------------------End--
 {WINDOW}
 
-{Yellow}【{KANJI2E:EA}{KANJI2C:FF}マーク{KANJI2D:60}{KANJI2D:9F}】{White}
-『マークモード』でマーク{KANJI2E:EA}{KANJI2C:FF}を{KANJI2D:9D}い
-かけます またマーク{KANJI2E:EA}{KANJI2C:FF}のアビリティ
-をテックコピーすることが{KANJI2E:B1}{KANJI2D:C3}です 
-テックコピー{KANJI2E:B1}{KANJI2D:C3}なアビリティはライト
-ブルーで{KANJI2D:DE}{KANJI2C:F5}されています
+{Yellow}【相手マーク設定】{White}
+『マークモード』でマーク相手を追い
+かけます またマーク相手のアビリティ
+をテックコピーすることが可能です 
+テックコピー可能なアビリティはライト
+ブルーで表示されています
 --------------------------------------------------End--
 {WINDOW}
-マーク{KANJI2D:60}{KANJI2D:9F}
+マーク設定
 {CHOICE:30}{VAR12:30}
 {CHOICE:31}{VAR12:31}
 {CHOICE:32}{VAR12:32}
 {CHOICE:33}{VAR12:33}
 {CHOICE:34}{VAR12:34}
 {CHOICE:35}{VAR12:35}
-{CHOICE:36}{KANJI2C:3E}{KANJI2C:3A}
+{CHOICE:36}OK
 --------------------------------------------------End--
 {WINDOW}
 
-マーク{KANJI2D:60}{KANJI2D:9F}
+マーク設定
 {VAR12:30}
 {VAR12:31}
 {VAR12:32}
 {VAR12:33}
 {VAR12:34}
 {VAR12:35}
-{KANJI2C:3E}{KANJI2C:3A}
+OK
 --------------------------------------------------End--
 {WINDOW}
-マーク{KANJI2E:EA}{KANJI2C:FF}
+マーク相手
 {CHOICE:30}{VAR12:38}
 {CHOICE:31}{VAR12:39}
 {CHOICE:32}{VAR12:3A}
@@ -331,404 +331,404 @@
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:42}{KANJI2C:37}{KANJI2C:43}{VAR12:32}
-たちふさがる{KANJI2E:EA}{KANJI2C:FF}を{KANJI2E:A8}{KANJI2D:84}2{KANJI2E:31}まで
-{KANJI2A:35}き{KANJI2D:D8}ばすことができる
+消費HP{VAR12:31} SHT{VAR12:32}
+たちふさがる相手を最大2名まで
+{KANJI2A:35}き飛ばすことができる
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:42}{KANJI2C:37}{KANJI2C:43}{VAR12:32}
-{KANJI2E:88}{KANJI2E:89}のジェクトシュート2{KANJI2C:D1}
-3{KANJI2E:31}{KANJI2A:35}き{KANJI2D:D8}ばし+インビジブルの{KANJI2C:C4}{KANJI2C:7D}
+消費HP{VAR12:31} SHT{VAR12:32}
+伝説のジェクトシュート2号
+3名{KANJI2A:35}き飛ばし+インビジブルの効果
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:42}{KANJI2C:37}{KANJI2C:43}{VAR12:32}
-{KANJI2C:42}{KANJI2C:37}{KANJI2C:43}{KANJI2A:36}がパワーアップ
-{Button Circle}で{KANJI2C:B1}{KANJI2D:9F} 
+消費HP{VAR12:31} SHT{VAR12:32}
+SHT{KANJI2A:36}がパワーアップ
+{Button Circle}で決定 
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:42}{KANJI2C:37}{KANJI2C:43}{VAR12:32}
-{KANJI2D:42}える{KANJI2D:F8}{KANJI2F:B1}!{KANJI2C:D7}スティックでシュート
-ポイントを{KANJI2C:B1}{KANJI2D:9F} {KANJI2C:8D}{KANJI2E:47}{VAR12:33}%
+消費HP{VAR12:31} SHT{VAR12:32}
+消える魔球!左スティックでシュート
+ポイントを決定 確率{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:42}{KANJI2C:37}{KANJI2C:43}{VAR12:32}
-キーパーを{KANJI2D:BA}にする {KANJI2C:8D}{KANJI2E:47}は{VAR12:33}%
+消費HP{VAR12:31} SHT{VAR12:32}
+キーパーを毒にする 確率は{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:42}{KANJI2C:37}{KANJI2C:43}{VAR12:32}
-キーパーを{KANJI2D:BA}にする {KANJI2C:8D}{KANJI2E:47}は{VAR12:33}%
+消費HP{VAR12:31} SHT{VAR12:32}
+キーパーを毒にする 確率は{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:42}{KANJI2C:37}{KANJI2C:43}{VAR12:32}
-キーパーを{KANJI2D:BA}にする {KANJI2C:8D}{KANJI2E:47}は{VAR12:33}%
+消費HP{VAR12:31} SHT{VAR12:32}
+キーパーを毒にする 確率は{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:42}{KANJI2C:37}{KANJI2C:43}{VAR12:32}
-キーパーを{KANJI2D:FF}りにする {KANJI2C:8D}{KANJI2E:47}は{VAR12:33}%
+消費HP{VAR12:31} SHT{VAR12:32}
+キーパーを眠りにする 確率は{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:42}{KANJI2C:37}{KANJI2C:43}{VAR12:32}
-キーパーを{KANJI2D:FF}りにする {KANJI2C:8D}{KANJI2E:47}は{VAR12:33}%
+消費HP{VAR12:31} SHT{VAR12:32}
+キーパーを眠りにする 確率は{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:42}{KANJI2C:37}{KANJI2C:43}{VAR12:32}
-キーパーを{KANJI2D:FF}りにする {KANJI2C:8D}{KANJI2E:47}は{VAR12:33}%
+消費HP{VAR12:31} SHT{VAR12:32}
+キーパーを眠りにする 確率は{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:42}{KANJI2C:37}{KANJI2C:43}{VAR12:32}
-キーパーの{KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A} {KANJI2C:32}{KANJI2C:30}{KANJI2C:43}を
-パワーダウンさせる {KANJI2C:8D}{KANJI2E:47}は{VAR12:33}%
+消費HP{VAR12:31} SHT{VAR12:32}
+キーパーのBLK CATを
+パワーダウンさせる 確率は{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:42}{KANJI2C:37}{KANJI2C:43}{VAR12:32}
-キーパーの{KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A} {KANJI2C:32}{KANJI2C:30}{KANJI2C:43}を
-パワーダウンさせる {KANJI2C:8D}{KANJI2E:47}は{VAR12:33}%
+消費HP{VAR12:31} SHT{VAR12:32}
+キーパーのBLK CATを
+パワーダウンさせる 確率は{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:42}{KANJI2C:37}{KANJI2C:43}{VAR12:32}
-キーパーの{KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A} {KANJI2C:32}{KANJI2C:30}{KANJI2C:43}を
-パワーダウンさせる {KANJI2C:8D}{KANJI2E:47}は{VAR12:33}%
+消費HP{VAR12:31} SHT{VAR12:32}
+キーパーのBLK CATを
+パワーダウンさせる 確率は{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}{VAR12:32}
-パスカット{KANJI2E:EA}{KANJI2C:FF}を{KANJI2D:BA}にする 
-{KANJI2C:8D}{KANJI2E:47}は{VAR12:33}%
+消費HP{VAR12:31} PAS{VAR12:32}
+パスカット相手を毒にする 
+確率は{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}{VAR12:32}
-パスカット{KANJI2E:EA}{KANJI2C:FF}を{KANJI2D:BA}にする 
-{KANJI2C:8D}{KANJI2E:47}は{VAR12:33}%
+消費HP{VAR12:31} PAS{VAR12:32}
+パスカット相手を毒にする 
+確率は{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}{VAR12:32}
-パスカット{KANJI2E:EA}{KANJI2C:FF}を{KANJI2D:BA}にする 
-{KANJI2C:8D}{KANJI2E:47}は{VAR12:33}%
+消費HP{VAR12:31} PAS{VAR12:32}
+パスカット相手を毒にする 
+確率は{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}{VAR12:32}
-パスカット{KANJI2E:EA}{KANJI2C:FF}を{KANJI2D:FF}りにする 
-{KANJI2C:8D}{KANJI2E:47}は{VAR12:33}%
+消費HP{VAR12:31} PAS{VAR12:32}
+パスカット相手を眠りにする 
+確率は{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}{VAR12:32}
-パスカット{KANJI2E:EA}{KANJI2C:FF}を{KANJI2D:FF}りにする 
-{KANJI2C:8D}{KANJI2E:47}は{VAR12:33}%
+消費HP{VAR12:31} PAS{VAR12:32}
+パスカット相手を眠りにする 
+確率は{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}{VAR12:32}
-パスカット{KANJI2E:EA}{KANJI2C:FF}を{KANJI2D:FF}りにする 
-{KANJI2C:8D}{KANJI2E:47}は{VAR12:33}%
+消費HP{VAR12:31} PAS{VAR12:32}
+パスカット相手を眠りにする 
+確率は{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}{VAR12:32}
-パスカット{KANJI2E:EA}{KANJI2C:FF}の{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33} {KANJI2C:30}{KANJI2C:43}{KANJI2C:3A} {KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A}
-をパワーダウンさせる {KANJI2C:8D}{KANJI2E:47}{VAR12:33}%
+消費HP{VAR12:31} PAS{VAR12:32}
+パスカット相手のEND ATK BLK
+をパワーダウンさせる 確率{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}{VAR12:32}
-パスカット{KANJI2E:EA}{KANJI2C:FF}の{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33} {KANJI2C:30}{KANJI2C:43}{KANJI2C:3A} {KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A}
-をパワーダウンさせる {KANJI2C:8D}{KANJI2E:47}{VAR12:33}%
+消費HP{VAR12:31} PAS{VAR12:32}
+パスカット相手のEND ATK BLK
+をパワーダウンさせる 確率{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}{VAR12:32}
-パスカット{KANJI2E:EA}{KANJI2C:FF}の{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33} {KANJI2C:30}{KANJI2C:43}{KANJI2C:3A} {KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A}
-をパワーダウンさせる {KANJI2C:8D}{KANJI2E:47}{VAR12:33}%
+消費HP{VAR12:31} PAS{VAR12:32}
+パスカット相手のEND ATK BLK
+をパワーダウンさせる 確率{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31}
-こぼれだまを{KANJI2E:EA}{KANJI2C:FF}の{KANJI2A:37}{KANJI2A:38}{KANJI2E:30}しで{KANJI2D:9B}{KANJI2D:5F}
-シュートできる {KANJI2C:8D}{KANJI2E:47}{VAR12:33}%
+消費HP{VAR12:31}
+こぼれだまを相手の{KANJI2A:37}{KANJI2A:38}無しで直接
+シュートできる 確率{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31}
-こぼれだまを{KANJI2E:EA}{KANJI2C:FF}の{KANJI2A:37}{KANJI2A:38}{KANJI2E:30}しで{KANJI2D:9B}{KANJI2D:5F}
-シュートできる {KANJI2C:8D}{KANJI2E:47}{VAR12:33}%
+消費HP{VAR12:31}
+こぼれだまを相手の{KANJI2A:37}{KANJI2A:38}無しで直接
+シュートできる 確率{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31}
-こぼれだまを{KANJI2E:EA}{KANJI2C:FF}の{KANJI2A:37}{KANJI2A:38}{KANJI2E:30}しで{KANJI2D:9B}{KANJI2D:5F}
-シュートできる {KANJI2C:8D}{KANJI2E:47}{VAR12:33}%
+消費HP{VAR12:31}
+こぼれだまを相手の{KANJI2A:37}{KANJI2A:38}無しで直接
+シュートできる 確率{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}{VAR12:32}
-{KANJI2D:BA}ダメージタックル {KANJI2C:8D}{KANJI2E:47}は{VAR12:33}%
+消費HP{VAR12:31} ATK{VAR12:32}
+毒ダメージタックル 確率は{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}{VAR12:32}
-{KANJI2D:BA}ダメージタックル {KANJI2C:8D}{KANJI2E:47}は{VAR12:33}%
+消費HP{VAR12:31} ATK{VAR12:32}
+毒ダメージタックル 確率は{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}{VAR12:32}
-{KANJI2D:BA}ダメージタックル {KANJI2C:8D}{KANJI2E:47}は{VAR12:33}%
+消費HP{VAR12:31} ATK{VAR12:32}
+毒ダメージタックル 確率は{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}{VAR12:32}
-{KANJI2D:FF}りダメージタックル {KANJI2C:8D}{KANJI2E:47}は{VAR12:33}%
-{KANJI2E:EA}{KANJI2C:FF}の{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33}を0にした{KANJI2E:B4}のみ{KANJI2E:95}{KANJI2C:C4}
+消費HP{VAR12:31} ATK{VAR12:32}
+眠りダメージタックル 確率は{VAR12:33}%
+相手のENDを0にした時のみ有効
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}{VAR12:32}
-{KANJI2D:FF}りダメージタックル {KANJI2C:8D}{KANJI2E:47}は{VAR12:33}%
-{KANJI2E:EA}{KANJI2C:FF}の{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33}を0にした{KANJI2E:B4}のみ{KANJI2E:95}{KANJI2C:C4}
+消費HP{VAR12:31} ATK{VAR12:32}
+眠りダメージタックル 確率は{VAR12:33}%
+相手のENDを0にした時のみ有効
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}{VAR12:32}
-{KANJI2D:FF}りダメージタックル {KANJI2C:8D}{KANJI2E:47}は{VAR12:33}%
-{KANJI2E:EA}{KANJI2C:FF}の{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33}を0にした{KANJI2E:B4}のみ{KANJI2E:95}{KANJI2C:C4}
+消費HP{VAR12:31} ATK{VAR12:32}
+眠りダメージタックル 確率は{VAR12:33}%
+相手のENDを0にした時のみ有効
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}{VAR12:32}
-{KANJI2E:EA}{KANJI2C:FF}の{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33} {KANJI2C:3F}{KANJI2C:30}{KANJI2C:42} {KANJI2C:42}{KANJI2C:37}{KANJI2C:43}を
-パワーダウンさせる {KANJI2C:8D}{KANJI2E:47}{VAR12:33}%
+消費HP{VAR12:31} ATK{VAR12:32}
+相手のEND PAS SHTを
+パワーダウンさせる 確率{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}{VAR12:32}
-{KANJI2E:EA}{KANJI2C:FF}の{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33} {KANJI2C:3F}{KANJI2C:30}{KANJI2C:42} {KANJI2C:42}{KANJI2C:37}{KANJI2C:43}を
-パワーダウンさせる {KANJI2C:8D}{KANJI2E:47}{VAR12:33}%
+消費HP{VAR12:31} ATK{VAR12:32}
+相手のEND PAS SHTを
+パワーダウンさせる 確率{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}{VAR12:32}
-{KANJI2E:EA}{KANJI2C:FF}の{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33} {KANJI2C:3F}{KANJI2C:30}{KANJI2C:42} {KANJI2C:42}{KANJI2C:37}{KANJI2C:43}を
-パワーダウンさせる {KANJI2C:8D}{KANJI2E:47}{VAR12:33}%
+消費HP{VAR12:31} ATK{VAR12:32}
+相手のEND PAS SHTを
+パワーダウンさせる 確率{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2C:A1}{KANJI2D:33}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}{VAR12:32}
-{KANJI2E:EA}{KANJI2C:FF}の{KANJI2C:37}{KANJI2C:3F}を{KANJI2C:A1}{KANJI2D:33} {KANJI2C:F6}{KANJI2D:E7}の{KANJI2C:37}{KANJI2C:3F}が{VAR12:31}
-{KANJI2E:A2}{KANJI2D:43}{KANJI2E:30}いと{KANJI2C:E4}{KANJI2E:3D}できない {KANJI2C:8D}{KANJI2E:47}{VAR12:33}%
+吸収HP{VAR12:31} ATK{VAR12:32}
+相手のHPを吸収 自分のHPが{VAR12:31}
+以上無いと使用できない 確率{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2C:A1}{KANJI2D:33}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}{VAR12:32}
-{KANJI2E:EA}{KANJI2C:FF}の{KANJI2C:37}{KANJI2C:3F}を{KANJI2C:A1}{KANJI2D:33} {KANJI2C:F6}{KANJI2D:E7}の{KANJI2C:37}{KANJI2C:3F}が{VAR12:31}
-{KANJI2E:A2}{KANJI2D:43}{KANJI2E:30}いと{KANJI2C:E4}{KANJI2E:3D}できない {KANJI2C:8D}{KANJI2E:47}{VAR12:33}%
+吸収HP{VAR12:31} ATK{VAR12:32}
+相手のHPを吸収 自分のHPが{VAR12:31}
+以上無いと使用できない 確率{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2C:A1}{KANJI2D:33}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}{VAR12:32}
-{KANJI2E:EA}{KANJI2C:FF}の{KANJI2C:37}{KANJI2C:3F}を{KANJI2C:A1}{KANJI2D:33} {KANJI2C:F6}{KANJI2D:E7}の{KANJI2C:37}{KANJI2C:3F}が{VAR12:31}
-{KANJI2E:A2}{KANJI2D:43}{KANJI2E:30}いと{KANJI2C:E4}{KANJI2E:3D}できない {KANJI2C:8D}{KANJI2E:47}{VAR12:33}%
+吸収HP{VAR12:31} ATK{VAR12:32}
+相手のHPを吸収 自分のHPが{VAR12:31}
+以上無いと使用できない 確率{VAR12:33}%
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:8D}{KANJI2E:47}は{VAR12:33}%
-タックルを{KANJI2E:30}{KANJI2E:E0}で{KANJI2C:82}{KANJI2D:D6}する ただし
-{KANJI2C:82}{KANJI2D:D6}{KANJI2C:BE}バランスをくずすこともある
+消費HP{VAR12:31} 確率は{VAR12:33}%
+タックルを無傷で回避する ただし
+回避後バランスをくずすこともある
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:8D}{KANJI2E:47}は{VAR12:33}%
-タックルを{KANJI2E:30}{KANJI2E:E0}で{KANJI2C:82}{KANJI2D:D6}する ただし
-{KANJI2C:82}{KANJI2D:D6}{KANJI2C:BE}バランスをくずすこともある
+消費HP{VAR12:31} 確率は{VAR12:33}%
+タックルを無傷で回避する ただし
+回避後バランスをくずすこともある
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:8D}{KANJI2E:47}{VAR12:33}%
-{KANJI2D:BA}ステータス{KANJI2C:C9}{KANJI2C:B0}を{KANJI2C:82}{KANJI2D:D6}するバリア
+消費HP{VAR12:31} 確率{VAR12:33}%
+毒ステータス攻撃を回避するバリア
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:8D}{KANJI2E:47}{VAR12:33}%
-{KANJI2D:BA}ステータス{KANJI2C:C9}{KANJI2C:B0}を{KANJI2C:82}{KANJI2D:D6}するバリア
+消費HP{VAR12:31} 確率{VAR12:33}%
+毒ステータス攻撃を回避するバリア
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:8D}{KANJI2E:47}{VAR12:33}%
-{KANJI2D:FF}りステータス{KANJI2C:C9}{KANJI2C:B0}を{KANJI2C:82}{KANJI2D:D6}するバリア
+消費HP{VAR12:31} 確率{VAR12:33}%
+眠りステータス攻撃を回避するバリア
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:8D}{KANJI2E:47}{VAR12:33}%
-{KANJI2D:FF}りステータス{KANJI2C:C9}{KANJI2C:B0}を{KANJI2C:82}{KANJI2D:D6}するバリア
+消費HP{VAR12:31} 確率{VAR12:33}%
+眠りステータス攻撃を回避するバリア
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:8D}{KANJI2E:47}{VAR12:33}%
-パワーダウン{KANJI2C:C9}{KANJI2C:B0}を{KANJI2C:82}{KANJI2D:D6}するバリア
+消費HP{VAR12:31} 確率{VAR12:33}%
+パワーダウン攻撃を回避するバリア
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:8D}{KANJI2E:47}{VAR12:33}%
-パワーダウン{KANJI2C:C9}{KANJI2C:B0}を{KANJI2C:82}{KANJI2D:D6}するバリア
+消費HP{VAR12:31} 確率{VAR12:33}%
+パワーダウン攻撃を回避するバリア
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:8D}{KANJI2E:47}{VAR12:33}%
-ドレイン{KANJI2C:C9}{KANJI2C:B0}を{KANJI2C:82}{KANJI2D:D6}するバリア
+消費HP{VAR12:31} 確率{VAR12:33}%
+ドレイン攻撃を回避するバリア
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:8D}{KANJI2E:47}{VAR12:33}%
-ドレイン{KANJI2C:C9}{KANJI2C:B0}を{KANJI2C:82}{KANJI2D:D6}するバリア
+消費HP{VAR12:31} 確率{VAR12:33}%
+ドレイン攻撃を回避するバリア
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31}
+消費HP{VAR12:31}
 シュートボールをスピンさせ
-キーパーがはじく{KANJI2C:8D}{KANJI2E:47}を{KANJI2C:D0}める
+キーパーがはじく確率を高める
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31}
-キーパーがボールをはじく{KANJI2C:8D}{KANJI2E:47}を
-{KANJI2E:E3}くする
+消費HP{VAR12:31}
+キーパーがボールをはじく確率を
+低くする
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:6F}{KANJI2D:D9}コスト{KANJI2C:37}{KANJI2C:3F}{VAR12:31}
-{KANJI2E:62}くのエリアからでもボールを
-{KANJI2C:F2}った{KANJI2D:68}{KANJI2C:FF}を{KANJI2D:CB}{KANJI2C:B3}しおいかける
+装備コストHP{VAR12:31}
+遠くのエリアからでもボールを
+持った選手を発見しおいかける
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:8D}{KANJI2E:47}{VAR12:33}%
-{KANJI2E:62}くのエリアからでもかけつけて
-バトルに{KANJI2C:DF}{KANJI2C:7B}する
+消費HP{VAR12:31} 確率{VAR12:33}%
+遠くのエリアからでもかけつけて
+バトルに参加する
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:6F}{KANJI2D:D9}コスト{KANJI2C:37}{KANJI2C:3F}{VAR12:31}
-{KANJI2D:BA}の{KANJI2C:C4}{KANJI2E:4D}をかさねることができる
+装備コストHP{VAR12:31}
+毒の効力をかさねることができる
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:6F}{KANJI2D:D9}コスト{KANJI2C:37}{KANJI2C:3F}{VAR12:31}
-パワーダウンの{KANJI2C:C4}{KANJI2E:4D}を
+装備コストHP{VAR12:31}
+パワーダウンの効力を
 かさねることができる
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:6F}{KANJI2D:D9}コスト{KANJI2C:37}{KANJI2C:3F}{VAR12:31}
-ボールを{KANJI2C:F2}っていない{KANJI2E:B4}の{KANJI2C:37}{KANJI2C:3F}の
-{KANJI2C:82}{KANJI2D:E5}のスピードがアップ
+装備コストHP{VAR12:31}
+ボールを持っていない時のHPの
+回復のスピードがアップ
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:8D}{KANJI2E:47}{VAR12:33}%
-{KANJI2D:FF}りからさめると{KANJI2C:6B}{KANJI2E:B4}{KANJI2D:A5}に{KANJI2D:C3}{KANJI2E:4D}アップ
-めざめ{KANJI2D:F1}によって なにか{KANJI2D:F2}{KANJI2A:39}が?
+消費HP{VAR12:31} 確率{VAR12:33}%
+眠りからさめると一時的に能力アップ
+めざめ方によって なにか法{KANJI2A:39}が?
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:6F}{KANJI2D:D9}コスト{KANJI2C:37}{KANJI2C:3F}{VAR12:31}
-{KANJI2D:6B}パラメータ{KANJI2D:CF}{KANJI2C:B7}
-{KANJI2A:3A}{KANJI2A:3B}{KANJI2A:36}2{KANJI2D:C7}
+装備コストHP{VAR12:31}
+全パラメータ半減
+{KANJI2A:3A}{KANJI2A:3B}{KANJI2A:36}2倍
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:6F}{KANJI2D:D9}コスト{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}{VAR12:32}
-パスやシュート{KANJI2E:B4}の{KANJI2E:D3}{KANJI2E:45}による
-{KANJI2C:3F}{KANJI2C:42}·{KANJI2C:42}{KANJI2C:43}{KANJI2C:B7}{KANJI2E:83}の{KANJI2E:4C}が{KANJI2E:83}なくなる
+装備コストHP{VAR12:31} ATK{VAR12:32}
+パスやシュート時の距離による
+PS·ST減少の量が少なくなる
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:8D}{KANJI2E:47}{VAR12:33}%
-{KANJI2D:FF}りからさめた{KANJI2E:B4}に{KANJI2D:6B}{KANJI2D:C3}{KANJI2E:4D}が{KANJI2D:EB}{KANJI2C:79}
-{Button Circle}で{KANJI2A:3C}パラメータを{KANJI2C:B1}{KANJI2D:9F}
+消費HP{VAR12:31} 確率{VAR12:33}%
+眠りからさめた時に全能力が変化
+{Button Circle}で{KANJI2A:3C}パラメータを決定
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31}+α {KANJI2C:8D}{KANJI2E:47}{VAR12:33}%
-キーパーの{KANJI2C:32}{KANJI2C:30}{KANJI2C:43}がパワーアップ
-{Button Circle}でパラメータを{KANJI2C:B1}{KANJI2D:9F}
+消費HP{VAR12:31}+α 確率{VAR12:33}%
+キーパーのCATがパワーアップ
+{Button Circle}でパラメータを決定
 --------------------------------------------------End--
 {WINDOW}
 
 {Yellow}【{VAR12:30}】{White}
-{KANJI2D:42}{KANJI2D:D5}{KANJI2C:37}{KANJI2C:3F}{VAR12:31} {KANJI2C:42}{KANJI2C:37}{KANJI2C:43}{VAR12:32}
+消費HP{VAR12:31} SHT{VAR12:32}
 オリジナルの{Aurochs}メンバーの
-{KANJI2C:42}{KANJI2C:37}{KANJI2C:43}{KANJI2A:36}を{KANJI2C:D2}{KANJI2F:39}して{Wakka}の{KANJI2E:4D}に!
+SHT{KANJI2A:36}を合計して{Wakka}の力に!
 --------------------------------------------------End--
 {WINDOW}
 
@@ -992,9 +992,9 @@
 --------------------------------------------------End--
 {WINDOW}
 
-{KANJI2D:BF}{KANJI2A:31}{KANJI2A:31}{KANJI2A:32}
-{KANJI2D:85}1{KANJI2C:66}:{VAR12:30}
-{KANJI2D:85}2{KANJI2C:66}:{VAR12:31}
-{KANJI2D:85}3{KANJI2C:66}:{VAR12:32}
-{KANJI2E:EE}{KANJI2D:A7}{KANJI2F:69}:{VAR12:33}
+入{KANJI2A:31}{KANJI2A:31}{KANJI2A:32}
+第1位:{VAR12:30}
+第2位:{VAR12:31}
+第3位:{VAR12:32}
+得点王:{VAR12:33}
 --------------------------------------------------End--

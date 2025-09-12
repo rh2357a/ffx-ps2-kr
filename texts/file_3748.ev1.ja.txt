@@ -1,22 +1,22 @@
 
-ねえ {KANJI2D:8F}ってる?
+ねえ 知ってる?
 {Bevelle}で{KANJI2A:30}ぎがあったみたい
 --------------------------------------------------End--
 
-{KANJI2D:6C}{KANJI2D:E8}さんたちが {Bevelle}へ
-よそ{KANJI2E:CD}が{KANJI2D:BF}るのを {KANJI2E:D9}{KANJI2C:ED}してるのよ
+僧兵さんたちが {Bevelle}へ
+よそ者が入るのを 禁止してるのよ
 --------------------------------------------------End--
 
-{KANJI2D:58}{Bevelle}{KANJI2C:A2}に{KANJI2C:DF}{KANJI2D:C4}したくて
-ここまで{KANJI2E:F3}たのになあ--
+聖{Bevelle}宮に参拝したくて
+ここまで来たのになあ--
 --------------------------------------------------End--
 
-{KANJI2C:F1}{KANJI2C:6E}で なにかあったのかしら
-{KANJI2D:6C}{KANJI2D:E8}さんが よく{KANJI2D:9E}るわ
+寺院で なにかあったのかしら
+僧兵さんが よく通るわ
 --------------------------------------------------End--
 
-{KANJI2C:8C}の{KANJI2D:4F}1{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}{KANJI2C:BE}{KANJI2D:83}{KANJI2A:31}2
+街の人1飛空艇後台{KANJI2A:31}2
 --------------------------------------------------End--
 
-{KANJI2C:8C}の{KANJI2D:4F}1{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}{KANJI2C:BE}{KANJI2D:83}{KANJI2A:31}3
+街の人1飛空艇後台{KANJI2A:31}3
 --------------------------------------------------End--

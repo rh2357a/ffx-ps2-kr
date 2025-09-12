@@ -1,4 +1,4 @@
 {WINDOW}
 
-{White}{Button Circle}:{KANJI2D:97}べる{White}
+{White}{Button Circle}:調べる{White}
 --------------------------------------------------End--

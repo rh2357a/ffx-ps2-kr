@@ -1,107 +1,107 @@
 
-ものすごい{KANJI2A:30}{KANJI2D:92}てるな
+ものすごい{KANJI2A:30}着てるな
 --------------------------------------------------End--
 
 なんだ {KANJI2A:31}ねえ{KANJI2A:31}ねえ
-こんなものは{KANJI2E:A4}れないな
+こんなものは売れないな
 --------------------------------------------------End--
 
-{KANJI2C:AA}{KANJI2C:F2}ってるようにも{KANJI2C:B3}えねえし
+金持ってるようにも見えねえし
 --------------------------------------------------End--
 
-{KANJI2A:32}{KANJI2E:A4}にならねえな
-どっか{KANJI2C:CE}け
+{KANJI2A:32}売にならねえな
+どっか行け
 --------------------------------------------------End--
 {Tidus}
-{KANJI2C:7A}{KANJI2E:3C}のつもりだ?
+何様のつもりだ?
 --------------------------------------------------End--
 
-{KANJI2F:A1}は{O'aka}23{KANJI2F:5D}
-ズバ{KANJI2D:CD}けた{KANJI2A:32}{KANJI2D:4F}
+俺は{O'aka}23世
+ズバ抜けた{KANJI2A:32}人
 --------------------------------------------------End--
 {Tidus}
-{O'aka}--{KANJI2D:89}?
+{O'aka}--誰?
 --------------------------------------------------End--
 {O'aka}
-{KANJI2D:8F}らない? まあ{KANJI2D:8F}ってるヤツは
-そう{KANJI2D:7C}くない--まだ
+知らない? まあ知ってるヤツは
+そう多くない--まだ
 --------------------------------------------------End--
 {O'aka}
-いつか{O'aka}の{KANJI2E:31}{KANJI2D:6A}を
-{Spira}{KANJI2D:93}にとどろかせてやるさ
+いつか{O'aka}の名前を
+{Spira}中にとどろかせてやるさ
 --------------------------------------------------End--
 {O'aka}
-そうだ{KANJI2E:83}{KANJI2D:C1} {KANJI2C:AA}{KANJI2F:AE}してくれないか?
+そうだ少年 金貸してくれないか?
 --------------------------------------------------End--
 {O'aka}
-{KANJI2F:9E}いてみるもんだ--
-ありがとな{KANJI2E:83}{KANJI2D:C1}
+聞いてみるもんだ--
+ありがとな少年
 --------------------------------------------------End--
 {O'aka}
-{O'aka}{KANJI2D:49}{KANJI2E:B4}{KANJI2D:82}の{KANJI2C:B4}{KANJI2C:FF}に
+{O'aka}新時代の元手に
 させてもらうぜ
 --------------------------------------------------End--
 {O'aka}
 まあ そうだろうな
 --------------------------------------------------End--
 {O'aka}
-{KANJI2C:AA}{KANJI2F:AE}してくれるのか?
+金貸してくれるのか?
 --------------------------------------------------End--
 {O'aka}
-ありがとよ {KANJI2E:83}{KANJI2D:C1} 
-{KANJI2C:AA}はかならず{KANJI2F:AD}すからな!
+ありがとよ 少年 
+金はかならず返すからな!
 --------------------------------------------------End--
 {O'aka}
-なんでえ--{KANJI2C:98}{KANJI2F:AA}させるなよ
+なんでえ--期待させるなよ
 --------------------------------------------------End--
 {Gatta}
-{KANJI2A:33}{KANJI2D:BF}{KANJI2E:D9}{KANJI2C:ED}だ {KANJI2E:9C}{KANJI2D:64}の{KANJI2D:55}{KANJI2A:34}は
+{KANJI2A:33}入禁止だ 作戦の成{KANJI2A:34}は
 この{KANJI2A:35}み{KANJI2A:36}にかかっているんだ
 --------------------------------------------------End--
 {Gatta}
-{KANJI2C:CD}{KANJI2D:D1}に{KANJI2C:CE}ってくれば?
+甲板に行ってくれば?
 --------------------------------------------------End--
 {Gatta}
-いい{KANJI2A:37}{KANJI2E:AE}に{KANJI2E:90}たれば
-{KANJI2C:9C}{KANJI2C:77}も{KANJI2E:37}るかもよ
+いい{KANJI2A:37}風に当たれば
+記憶も戻るかもよ
 --------------------------------------------------End--
 {Luzzu}
-{KANJI2E:9C}{KANJI2D:64}については
-{KANJI2C:7A}も{KANJI2E:57}せないぞ
+作戦については
+何も話せないぞ
 --------------------------------------------------End--
 {Luzzu}
-{KANJI2D:94}{KANJI2C:93}だと{KANJI2C:EA}われたら
-おまえまで{KANJI2E:97}{KANJI2E:38}されちまうぞ
+仲間だと思われたら
+おまえまで破門されちまうぞ
 --------------------------------------------------End--
 {Luzzu}
-{KANJI2D:8F}らない{KANJI2D:F1}がいいことは
-たくさんあるのさ--おれを{KANJI2F:A6}じな
+知らない方がいいことは
+たくさんあるのさ--おれを信じな
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2D:3C}{KANJI2C:F2}{KANJI2C:AA}:{VAR12:30}ギル
+所持金:{VAR12:30}ギル
 --------------------------------------------------End--
 {WINDOW}
-いままで{KANJI2F:AE}した{KANJI2E:5A}{KANJI2A:38}:{VAR12:31}ギル
+いままで貸した総{KANJI2A:38}:{VAR12:31}ギル
 --------------------------------------------------End--
 {WINDOW}
-{Direcional Up}{Direcional Down}{Direcional Left}{Direcional Right}で{KANJI2C:AA}{KANJI2A:38}を{KANJI2D:60}{KANJI2D:9F}
-{Button Circle}で{KANJI2C:B1}{KANJI2D:9F}
+{Direcional Up}{Direcional Down}{Direcional Left}{Direcional Right}で金{KANJI2A:38}を設定
+{Button Circle}で決定
 --------------------------------------------------End--
 {WINDOW}
-いくら{KANJI2F:AE}そうか?
-{O'aka}に {CHOICE:56}ギル{KANJI2F:AE}す
+いくら貸そうか?
+{O'aka}に {CHOICE:56}ギル貸す
 --------------------------------------------------End--
 {O'aka}
---なあ {KANJI2E:83}{KANJI2D:C1} 
-{KANJI2C:9A}{KANJI2C:F2}ちはうれしいんだがギルが{KANJI2D:76}りないぞ 
+--なあ 少年 
+気持ちはうれしいんだがギルが足りないぞ 
 --------------------------------------------------End--
 {O'aka}
-おおっ{KANJI2E:83}{KANJI2D:C1} {VAR12:32}ギルも
-この{KANJI2F:A1}に{KANJI2F:AE}してくれるのか?
+おおっ少年 {VAR12:32}ギルも
+この俺に貸してくれるのか?
 --------------------------------------------------End--
 {WINDOW}
-{CHOICE:30}ちょっと{KANJI2F:AA}った
-{CHOICE:31}{KANJI2C:9A}にすんなって
+{CHOICE:30}ちょっと待った
+{CHOICE:31}気にすんなって
 {CHOICE:32}やっぱやめた
 --------------------------------------------------End--
 {WINDOW}
@@ -110,31 +110,31 @@
 --------------------------------------------------End--
 {WINDOW}
 
-{KANJI2D:B4}{KANJI2E:4D}{KANJI2C:F9}と{KANJI2D:3D}いてある
+動力室と書いてある
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}1】{White}
-{KANJI2E:4A}の{KANJI2C:9C}{KANJI2E:56}をスフィアに{KANJI2C:E3}すことができます!
-{KANJI2E:4A}のつかれをいやす{KANJI2C:F6}{KANJI2D:B4}{KANJI2C:82}{KANJI2D:E5}{KANJI2C:99}{KANJI2D:C3}で
-{KANJI2C:37}{KANJI2C:3F}/{KANJI2C:3C}{KANJI2C:3F}が{KANJI2D:6B}{KANJI2C:82}{KANJI2D:E5}します!
+{Yellow}【旅人のセーブスフィア Lv1】{White}
+旅の記録をスフィアに残すことができます!
+旅のつかれをいやす自動回復機能で
+HP/MPが全回復します!
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
 {CHOICE:31}キャンセル
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}2】{White}
-{Besaid Aurochs}の{KANJI2F:6A}{KANJI2A:39}により セーブスフィアに
-{blitzball}スタジアムへの{KANJI2E:F2}{KANJI2A:3A}{KANJI2C:99}{KANJI2D:C3}が
-{KANJI2D:9D}{KANJI2C:7B}されました!
+{Yellow}【旅人のセーブスフィア Lv2】{White}
+{Besaid Aurochs}の活{KANJI2A:39}により セーブスフィアに
+{blitzball}スタジアムへの転{KANJI2A:3A}機能が
+追加されました!
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【ブリッツスカウトシステム】{White}
-{Spira}の{KANJI2A:3B}{KANJI2D:90}には ブリッツのトレーニングを{KANJI2D:78}ける
-{KANJI2C:6F}れた{KANJI2E:31}{KANJI2D:68}{KANJI2C:FF}がひそんでいます 
-{Button Square}を{KANJI2F:4D}して{KANJI2E:57}しかけると スカウト{KANJI2A:3C}{KANJI2F:C5}できることがあります 
-{KANJI2F:D3}{KANJI2E:F3}{KANJI2E:95}{KANJI2F:80}な{KANJI2D:68}{KANJI2C:FF}をスカウトして {Besaid Aurochs}を
-トップチームに{KANJI2F:58}くのです!
+{Spira}の{KANJI2A:3B}地には ブリッツのトレーニングを続ける
+隠れた名選手がひそんでいます 
+{Button Square}を押して話しかけると スカウト{KANJI2A:3C}約できることがあります 
+将来有望な選手をスカウトして {Besaid Aurochs}を
+トップチームに導くのです!
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
@@ -142,8 +142,8 @@
 {CHOICE:32}キャンセル
 --------------------------------------------------End--
 {WINDOW}
-{Besaid Aurochs}はメンバー{KANJI2D:4F}{KANJI2D:52}が
-{KANJI2D:76}りないので{KANJI2C:EF}{KANJI2C:D2}に{KANJI2C:DF}{KANJI2C:7B}できません 
+{Besaid Aurochs}はメンバー人数が
+足りないので試合に参加できません 
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
@@ -151,25 +151,25 @@
 {CHOICE:31}キャンセル
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}3】{White}
-{Al Bhed2}·{Rin}の{KANJI2F:CB}{KANJI2E:8F}により セーブスフィアに
-{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}への{KANJI2E:F2}{KANJI2A:3A}{KANJI2C:99}{KANJI2D:C3}が{KANJI2D:9D}{KANJI2C:7B}されました!
+{Yellow}【旅人のセーブスフィア Lv3】{White}
+{Al Bhed2}·{Rin}の好意により セーブスフィアに
+飛空艇への転{KANJI2A:3A}機能が追加されました!
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
-{CHOICE:31}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ
+{CHOICE:31}飛空艇へ
 {CHOICE:32}ブリッツスタジアムへ
 {CHOICE:33}キャンセル
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
-{Gray}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ{White}
+{Gray}飛空艇へ{White}
 {CHOICE:31}ブリッツスタジアムへ
 {CHOICE:32}キャンセル
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
-{CHOICE:31}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ
+{CHOICE:31}飛空艇へ
 {Gray}ブリッツスタジアムへ{White}
 {CHOICE:32}キャンセル
 --------------------------------------------------End--

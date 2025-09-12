@@ -1,131 +1,131 @@
 
-ひっく! ワシャ {Seymour}{KANJI2E:5B}{KANJI2C:E9}が
-{KANJI2E:83}{KANJI2D:C1}のころから {KANJI2C:B3}{KANJI2C:FE}ってきたんじゃ
+ひっく! ワシャ {Seymour}老師が
+少年のころから 見守ってきたんじゃ
 --------------------------------------------------End--
 
-{Seymour}{KANJI2E:5B}{KANJI2C:E9}のことなら 
-なんでも{KANJI2F:9E}くがよいぞっ!
+{Seymour}老師のことなら 
+なんでも聞くがよいぞっ!
 --------------------------------------------------End--
 {WINDOW}
-{CHOICE:30}{Seymour}の{KANJI2A:30}{KANJI2E:83}{KANJI2E:B4}{KANJI2D:82}は?
-{CHOICE:31}{Seymour}の{KANJI2E:83}{KANJI2D:C1}{KANJI2E:B4}{KANJI2D:82}は?
-{CHOICE:32}{Seymour}の{KANJI2D:6C}{KANJI2E:BE}{KANJI2E:B4}{KANJI2D:82}は?
-{CHOICE:33}{Seymour}の{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}{KANJI2E:B4}{KANJI2D:82}は?
-{CHOICE:34}{KANJI2F:9E}きたくない
+{CHOICE:30}{Seymour}の{KANJI2A:30}少時代は?
+{CHOICE:31}{Seymour}の少年時代は?
+{CHOICE:32}{Seymour}の僧官時代は?
+{CHOICE:33}{Seymour}の召喚士時代は?
+{CHOICE:34}聞きたくない
 --------------------------------------------------End--
 
-{Seymour}{KANJI2E:3C}は {Guado}とヒト
-ふたつの{KANJI2E:D8}{KANJI2E:5D}の{KANJI2F:CC}をひいておる
+{Seymour}様は {Guado}とヒト
+ふたつの種族の血をひいておる
 {NEWPAGE}
 
-おかげで{KANJI2A:30}{KANJI2E:83}のころには 
-いろいろと{KANJI2E:6A}{KANJI2A:31}されたそうじゃ
+おかげで{KANJI2A:30}少のころには 
+いろいろと苦{KANJI2A:31}されたそうじゃ
 {NEWPAGE}
 
-じゃが そのつらい{KANJI2D:7E}{KANJI2A:32}が
+じゃが そのつらい体{KANJI2A:32}が
 あったからこそ--
 {NEWPAGE}
 
-{Guado}とヒトの{KANJI2A:33}{KANJI2F:CB}を{KANJI2A:34}って{KANJI2A:35}{KANJI2E:4D}する
-りっぱなお{KANJI2D:F1}に{KANJI2A:36}ったんじゃよ
+{Guado}とヒトの{KANJI2A:33}好を{KANJI2A:34}って{KANJI2A:35}力する
+りっぱなお方に{KANJI2A:36}ったんじゃよ
 --------------------------------------------------End--
 
-{Seymour}{KANJI2E:5B}{KANJI2C:E9}のこと 
-もっと{KANJI2D:8F}りたいじゃろ?
+{Seymour}老師のこと 
+もっと知りたいじゃろ?
 --------------------------------------------------End--
 
-{Seymour}{KANJI2E:3C}が あんたぐらいの{KANJI2A:37}だったころ
-{Braska}{KANJI2E:3C}の{KANJI2C:FF}で『{Sin}』が{KANJI2D:AB}された
+{Seymour}様が あんたぐらいの{KANJI2A:37}だったころ
+{Braska}様の手で『{Sin}』が倒された
 {NEWPAGE}
 
-{Maester Mika2}はナギ{KANJI2A:38}の{KANJI2A:39}{KANJI2E:F3}を{KANJI2A:3A}い
-{Jyscal}{KANJI2E:3C}を{Yevon2}の{KANJI2E:5B}{KANJI2C:E9}にしたんじゃ
+{Maester Mika2}はナギ{KANJI2A:38}の{KANJI2A:39}来を{KANJI2A:3A}い
+{Jyscal}様を{Yevon2}の老師にしたんじゃ
 {NEWPAGE}
 
-{Guado2}に{KANJI2E:5C}えを{KANJI2C:C7}めた{Jyscal}{KANJI2E:3C}の
+{Guado2}に教えを広めた{Jyscal}様の
 {KANJI2A:3B}{KANJI2A:3C}をたたえて--というわけじゃよ
 {NEWPAGE}
 
-{Seymour}{KANJI2E:3C}はまだ{KANJI2E:83}{KANJI2D:C1}じゃったが 
-{Jyscal}{KANJI2E:3C}を{KANJI2D:EE}{KANJI2A:3D}して{KANJI2A:3E}いたんじゃ
+{Seymour}様はまだ少年じゃったが 
+{Jyscal}様を補{KANJI2A:3D}して{KANJI2A:3E}いたんじゃ
 --------------------------------------------------End--
 
-{KANJI2D:6C}{KANJI2E:BE}となってから {Seymour}{KANJI2E:3C}は
-めきめきと{KANJI2E:B7}{KANJI2A:3F}をあらわした
+僧官となってから {Seymour}様は
+めきめきと頭{KANJI2A:3F}をあらわした
 {NEWPAGE}
 
-{KANJI2D:89}もが{KANJI2D:C0}める{KANJI2D:52}{KANJI2E:59}の{KANJI2E:E8}{KANJI2A:3C}をあげて
-あっというまに ご{KANJI2D:3A}{KANJI2F:5D}なさった
+誰もが認める数々の業{KANJI2A:3C}をあげて
+あっというまに ご出世なさった
 {NEWPAGE}
 
-そう {Jyscal}{KANJI2E:3C}の{KANJI2F:45}{KANJI2C:C2}ではなく 
-{KANJI2E:DC}{KANJI2E:4D}で{KANJI2D:90}{KANJI2C:66}を{KANJI2E:61}ち{KANJI2C:FD}ったわけじゃ
+そう {Jyscal}様の七光ではなく 
+実力で地位を勝ち取ったわけじゃ
 {NEWPAGE}
 
-ほんに たのもしい{KANJI2D:F1}じゃよ
+ほんに たのもしい方じゃよ
 --------------------------------------------------End--
 
-{Seymour}{KANJI2E:3C}は{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}として
-たぐいまれなる{KANJI2E:4D}{KANJI2E:4C}をお{KANJI2C:F2}ちじゃ
+{Seymour}様は召喚士として
+たぐいまれなる力量をお持ちじゃ
 {NEWPAGE}
 
-じゃが{Seymour}{KANJI2E:3C}は 『{Sin}』と{KANJI2D:64}う
-{KANJI2E:4A}には{KANJI2D:3A}ず {Yevon2}の{KANJI2E:5B}{KANJI2C:E9}となられた
+じゃが{Seymour}様は 『{Sin}』と戦う
+旅には出ず {Yevon2}の老師となられた
 {NEWPAGE}
 
-{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}の{KANJI2F:9D}{KANJI2A:40}は『{Sin}』{KANJI2E:82}{KANJI2D:AB}をめざす
-だけではない--というお{KANJI2E:FE}えじゃろう
+召喚士の仕{KANJI2A:40}は『{Sin}』打倒をめざす
+だけではない--というお考えじゃろう
 --------------------------------------------------End--
 
 えんりょすることはないぞ?
 --------------------------------------------------End--
 
-{Seymour}は{KANJI2F:B5}を{KANJI2D:42}し 
-{Mika}{KANJI2E:3C}は{KANJI2F:4B}くなり--
+{Seymour}は姿を消し 
+{Mika}様は亡くなり--
 {NEWPAGE}
 
-ワシらは {KANJI2E:9B}の{KANJI2A:54}えを
-いっぺんに{KANJI2C:F8}ってしもうた
+ワシらは 心の{KANJI2A:54}えを
+いっぺんに失ってしもうた
 --------------------------------------------------End--
 
-{KANJI2D:FE}を{KANJI2F:58}く{KANJI2D:6C}{KANJI2E:BE}が こんなことでは 
-いかんのう--ああ {KANJI2D:47}けなや
+民を導く僧官が こんなことでは 
+いかんのう--ああ 情けなや
 --------------------------------------------------End--
 
-あの{Seymour}が{KANJI2F:B2}{KANJI2A:41}とはなあ--
-うむ めでたい! {KANJI2E:DC}にめでたい!
+あの{Seymour}が結{KANJI2A:41}とはなあ--
+うむ めでたい! 実にめでたい!
 --------------------------------------------------End--
 
 ご{KANJI2A:3A}{KANJI2A:42}の{KANJI2A:43}です
-どうぞ お{KANJI2D:33}めください
+どうぞ お収めください
 --------------------------------------------------End--
 
-{Seymour}が{KANJI2D:49}{KANJI2A:44}{KANJI2D:6C}{KANJI2E:BE}だったころ 
-アイツは{KANJI2C:F6}{KANJI2D:E7}の{KANJI2C:BE}{KANJI2A:45}でした
+{Seymour}が新{KANJI2A:44}僧官だったころ 
+アイツは自分の後{KANJI2A:45}でした
 {NEWPAGE}
 
-なのに {KANJI2E:FA}やアイツは{KANJI2E:5B}{KANJI2C:E9}{KANJI2E:3C}で
-{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}の{KANJI2A:46}さんまでもらって--
+なのに 今やアイツは老師様で
+召喚士の{KANJI2A:46}さんまでもらって--
 {NEWPAGE}
 
-しがない{KANJI2D:6C}{KANJI2E:BE}の{KANJI2C:F6}{KANJI2D:E7}とは
+しがない僧官の自分とは
 {KANJI2A:47}{KANJI2A:48}になりませんなあ
 --------------------------------------------------End--
 
-{Seymour}は えらくなっても{KANJI2C:9A}さくです
-{KANJI2D:90}{KANJI2C:66}を{KANJI2A:49}にかけない できた{KANJI2D:8E}です
+{Seymour}は えらくなっても気さくです
+地位を{KANJI2A:49}にかけない できた男です
 --------------------------------------------------End--
 
-{Seymour}は{KANJI2F:A9}されないことをしましたが
-{KANJI2C:F6}{KANJI2D:E7}はアイツを{KANJI2A:55}める{KANJI2C:9A}になれんのです
+{Seymour}は許されないことをしましたが
+自分はアイツを{KANJI2A:55}める気になれんのです
 {NEWPAGE}
 
-{KANJI2D:4F}{KANJI2C:93}と{Guado2}の{KANJI2C:93}で {KANJI2E:6A}{KANJI2A:31}してきた
-{KANJI2F:A5}のアイツを{KANJI2D:8F}ってますんで--
+人間と{Guado2}の間で 苦{KANJI2A:31}してきた
+昔のアイツを知ってますんで--
 --------------------------------------------------End--
 
-{KANJI2D:B7}を{KANJI2A:56}ることがなければ {Seymour}は
-りっぱな{KANJI2E:5B}{KANJI2C:E9}になったと{KANJI2F:A6}じてます
+道を{KANJI2A:56}ることがなければ {Seymour}は
+りっぱな老師になったと信じてます
 --------------------------------------------------End--
 
 {Seymour}さまはいっつも
@@ -135,47 +135,47 @@
 ステキよねっ!
 --------------------------------------------------End--
 
-{KANJI2D:6A}は{Guado}の{KANJI2D:4F}たちがよく{KANJI2E:F3}たのに
+前は{Guado}の人たちがよく来たのに
 みんな いなくなっちゃった
 --------------------------------------------------End--
 
 {Guado2}の{KANJI2A:33}だちにも
-{KANJI2C:81}えなくて さびしいの
+会えなくて さびしいの
 --------------------------------------------------End--
 
-はて なにやら{KANJI2E:72}{KANJI2A:4C}が{KANJI2F:9E}こえたような?
+はて なにやら悲{KANJI2A:4C}が聞こえたような?
 {NEWPAGE}
 
-{Seymour}{KANJI2E:3C}ご{KANJI2D:55}{KANJI2A:41}の{KANJI2A:4D}とはいえ 
-はめを{KANJI2C:8A}しすぎては いかんのう
+{Seymour}様ご成{KANJI2A:41}の{KANJI2A:4D}とはいえ 
+はめを外しすぎては いかんのう
 --------------------------------------------------End--
 
 {KANJI2A:4D}で{KANJI2A:4E}った{KANJI2A:43}なんじゃが
-{KANJI2C:9A}にせず{KANJI2C:FD}っておくがよい
+気にせず取っておくがよい
 --------------------------------------------------End--
 
-{Guado2}の{KANJI2E:52}{KANJI2D:93}は{KANJI2C:9A}{KANJI2E:4D}をなくして
-{Guadosalam}から{KANJI2D:3A}てこないらしい
+{Guado2}の連中は気力をなくして
+{Guadosalam}から出てこないらしい
 --------------------------------------------------End--
 
-{KANJI2F:A2}も ずっと{KANJI2C:F1}{KANJI2C:6E}にこもりたい{KANJI2C:9A}{KANJI2D:E7}だ
-もう なにも{KANJI2F:A6}じられん
+私も ずっと寺院にこもりたい気分だ
+もう なにも信じられん
 --------------------------------------------------End--
 
-{KANJI2E:FA}{KANJI2F:3F}はめでたい{KANJI2A:3A}いの{KANJI2F:3F}だヨ!
-{KANJI2D:6C}{KANJI2E:BE}さまも ばか{KANJI2A:4F}ぎだネ!
+今日はめでたい{KANJI2A:3A}いの日だヨ!
+僧官さまも ばか{KANJI2A:4F}ぎだネ!
 --------------------------------------------------End--
 
-みんなも{KANJI2F:83}しく{KANJI2A:4F}いでくれヨ!
+みんなも楽しく{KANJI2A:4F}いでくれヨ!
 おいらもうれしくなりますワ!
 --------------------------------------------------End--
 
-はてさて{KANJI2E:30}{KANJI2E:50}{KANJI2A:50}とは{KANJI2F:54}えど
-{KANJI2A:51}{KANJI2E:3C}いささか{KANJI2A:4F}ぎすぎかと
+はてさて無礼{KANJI2A:50}とは言えど
+{KANJI2A:51}様いささか{KANJI2A:4F}ぎすぎかと
 --------------------------------------------------End--
 
-{KANJI2E:5C}えに{KANJI2F:3C}きる{KANJI2D:6C}{KANJI2E:BE}{KANJI2E:3C}も
-{KANJI2C:6B}{KANJI2A:52}むけば{KANJI2A:53}{KANJI2D:4F}ですかな?
+教えに生きる僧官様も
+一{KANJI2A:52}むけば{KANJI2A:53}人ですかな?
 --------------------------------------------------End--
 
 そとにオラのイトコがいるっぺよ

@@ -1,34 +1,34 @@
 {WINDOW}
-{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}1】{White}
-{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
-{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
-{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
-{KANJI2A:40}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
-{KANJI2A:40}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
+{Yellow}【スカウトLV1】{White}
+名前:{VAR12:30}
+LV:{VAR12:31}
+所属チーム:{VAR12:32}
+{KANJI2A:40}約期間:{VAR12:33}試合
+{KANJI2A:40}約金:{VAR12:34}ギル
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}2】{White}
-{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
-{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
-{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
-{KANJI2A:40}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
-{KANJI2A:40}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
-{KANJI2C:37}{KANJI2C:3F}:{VAR12:35}{VAR07:60}{KANJI2C:42}{KANJI2C:3F}{KANJI2C:33}:{VAR12:36}
-{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33}:{VAR12:37}{VAR07:60}{KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}:{VAR12:38}
-{KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}:{VAR12:39}{VAR07:60}{KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A}:{VAR12:3A}
-{KANJI2C:42}{KANJI2C:37}{KANJI2C:43}:{VAR12:3B}{VAR07:60}{KANJI2C:32}{KANJI2C:30}{KANJI2C:43}:{VAR12:3C}
+{Yellow}【スカウトLV2】{White}
+名前:{VAR12:30}
+LV:{VAR12:31}
+所属チーム:{VAR12:32}
+{KANJI2A:40}約期間:{VAR12:33}試合
+{KANJI2A:40}約金:{VAR12:34}ギル
+HP:{VAR12:35}{VAR07:60}SPD:{VAR12:36}
+END:{VAR12:37}{VAR07:60}ATK:{VAR12:38}
+PAS:{VAR12:39}{VAR07:60}BLK:{VAR12:3A}
+SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}3】{White}
-{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
-{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
-{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
-{KANJI2A:40}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
-{KANJI2A:40}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
-{KANJI2C:37}{KANJI2C:3F}:{VAR12:35}{VAR07:60}{KANJI2C:42}{KANJI2C:3F}{KANJI2C:33}:{VAR12:36}
-{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33}:{VAR12:37}{VAR07:60}{KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}:{VAR12:38}
-{KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}:{VAR12:39}{VAR07:60}{KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A}:{VAR12:3A}
-{KANJI2C:42}{KANJI2C:37}{KANJI2C:43}:{VAR12:3B}{VAR07:60}{KANJI2C:32}{KANJI2C:30}{KANJI2C:43}:{VAR12:3C}
+{Yellow}【スカウトLV3】{White}
+名前:{VAR12:30}
+LV:{VAR12:31}
+所属チーム:{VAR12:32}
+{KANJI2A:40}約期間:{VAR12:33}試合
+{KANJI2A:40}約金:{VAR12:34}ギル
+HP:{VAR12:35}{VAR07:60}SPD:{VAR12:36}
+END:{VAR12:37}{VAR07:60}ATK:{VAR12:38}
+PAS:{VAR12:39}{VAR07:60}BLK:{VAR12:3A}
+SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 {VAR12:3D}
 {VAR12:3E}
 {VAR12:3F}
@@ -36,16 +36,16 @@
 {VAR12:41}
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}{KANJI2C:3C}{KANJI2C:30}{KANJI2C:47}】{White}
-{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
-{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
-{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
-{KANJI2A:40}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
-{KANJI2A:40}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
-{KANJI2C:37}{KANJI2C:3F}:{VAR12:35}{VAR07:60}{KANJI2C:42}{KANJI2C:3F}{KANJI2C:33}:{VAR12:36}
-{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33}:{VAR12:37}{VAR07:60}{KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}:{VAR12:38}
-{KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}:{VAR12:39}{VAR07:60}{KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A}:{VAR12:3A}
-{KANJI2C:42}{KANJI2C:37}{KANJI2C:43}:{VAR12:3B}{VAR07:60}{KANJI2C:32}{KANJI2C:30}{KANJI2C:43}:{VAR12:3C}
+{Yellow}【スカウトLVMAX】{White}
+名前:{VAR12:30}
+LV:{VAR12:31}
+所属チーム:{VAR12:32}
+{KANJI2A:40}約期間:{VAR12:33}試合
+{KANJI2A:40}約金:{VAR12:34}ギル
+HP:{VAR12:35}{VAR07:60}SPD:{VAR12:36}
+END:{VAR12:37}{VAR07:60}ATK:{VAR12:38}
+PAS:{VAR12:39}{VAR07:60}BLK:{VAR12:3A}
+SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 {VAR12:3D}
 {VAR12:3E}{VAR07:68}{OCyan}【キーアビリティ】{White}
 {VAR12:3F}{VAR07:68}{VAR12:42}
@@ -65,20 +65,20 @@
 {VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2A:40}{KANJI2F:C5}しますか?
+{KANJI2A:40}約しますか?
 {CHOICE:30}はい
 {CHOICE:31}いいえ
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2A:40}{KANJI2F:C5}{KANJI2C:EF}{KANJI2C:D2}{KANJI2D:52}を{KANJI2C:B1}めてください
+{KANJI2A:40}約試合数を決めてください
 {CHOICE:51}
 --------------------------------------------------End--
 {WINDOW}
-1{KANJI2C:EF}{KANJI2C:D2}{KANJI2E:A2}{KANJI2D:43}の{KANJI2A:40}{KANJI2F:C5}を
+1試合以上の{KANJI2A:40}約を
 むすんでください 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2A:40}{KANJI2F:C5}{KANJI2C:AA}は{VAR12:30}ギルです
+{KANJI2A:40}約金は{VAR12:30}ギルです
 よろしいですか?
 {CHOICE:30}はい
 {CHOICE:31}いいえ
@@ -88,13 +88,13 @@
 --------------------------------------------------End--
 {WINDOW}
 ビサイド·オーラカチームは
-{KANJI2D:AA}{KANJI2E:56}{KANJI2D:4F}{KANJI2D:52}8{KANJI2D:4F}でいっぱいです 
-{KANJI2D:89}かをチームからはずしますか?
+登録人数8人でいっぱいです 
+誰かをチームからはずしますか?
 {CHOICE:30}はい
 {CHOICE:31}いいえ
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2D:89}をはずしますか?
+誰をはずしますか?
 {CHOICE:30}{VAR12:30}
 {CHOICE:31}{VAR12:31}
 {CHOICE:32}{VAR12:32}
@@ -105,61 +105,61 @@
 {CHOICE:37}{VAR12:37}
 --------------------------------------------------End--
 {WINDOW}
-この{KANJI2D:68}{KANJI2C:FF}ははずせません
+この選手ははずせません
 --------------------------------------------------End--
 
-わがキーリカ{KANJI2C:F1}{KANJI2C:6E}は{KANJI2C:74}の{KANJI2C:F1}{KANJI2C:6E} 
-{KANJI2C:EF}{KANJI2E:51}の{KANJI2C:82}{KANJI2E:54}にも {KANJI2A:30}{KANJI2F:85}な{KANJI2C:74}が{KANJI2A:31}{KANJI2E:9E}いておる
+わがキーリカ寺院は炎の寺院 
+試練の回廊にも {KANJI2A:30}烈な炎が{KANJI2A:31}巻いておる
 {NEWPAGE}
 
-{KANJI2D:BF}る{KANJI2A:32}{KANJI2A:33}のない{KANJI2E:CD}が {KANJI2A:34}を{KANJI2E:97}って{KANJI2A:35}ち{KANJI2D:BF}れば
-{KANJI2E:32}を{KANJI2E:41}すかもしれん
+入る{KANJI2A:32}{KANJI2A:33}のない者が {KANJI2A:34}を破って{KANJI2A:35}ち入れば
+命を落すかもしれん
 --------------------------------------------------End--
 
-{KANJI2A:36}いころ {KANJI2F:A2}は{Kilika Beasts}の
-{KANJI2A:37}{KANJI2F:D3}をつとめておりました
+{KANJI2A:36}いころ 私は{Kilika Beasts}の
+{KANJI2A:37}将をつとめておりました
 {NEWPAGE}
 
-{Ohalland}{KANJI2E:3C}にならって
-{Yevon2}の{KANJI2D:B7}に{KANJI2D:BF}ったのです 
+{Ohalland}様にならって
+{Yevon2}の道に入ったのです 
 --------------------------------------------------End--
 
-{KANJI2D:6C}{KANJI2D:E8}がいなくなったので {KANJI2E:FA}は{Crusader}に
-{KANJI2C:F1}{KANJI2C:6E}の{KANJI2A:38}{KANJI2D:D9}を お{KANJI2A:39}いしています 
+僧兵がいなくなったので 今は{Crusader}に
+寺院の{KANJI2A:38}備を お{KANJI2A:39}いしています 
 {NEWPAGE}
 
-しかし{KANJI2D:4F}{KANJI2D:52}が{KANJI2E:83}ないので もし{KANJI2D:F8}{KANJI2D:E6}が
-{KANJI2A:3A}{KANJI2D:BF}してきたらと{KANJI2C:EA}うと-- 
+しかし人数が少ないので もし魔物が
+{KANJI2A:3A}入してきたらと思うと-- 
 --------------------------------------------------End--
 
-{KANJI2E:5B}{KANJI2C:E9}さまは {KANJI2A:3B}{KANJI2D:90}の{KANJI2C:F1}{KANJI2C:6E}を
-{KANJI2C:B3}{KANJI2C:FB}てるおつもりでしょうか 
+老師さまは {KANJI2A:3B}地の寺院を
+見捨てるおつもりでしょうか 
 --------------------------------------------------End--
 
-{KANJI2E:FA}{KANJI2A:3C}の{KANJI2D:84}{KANJI2C:81}では ぜひともキーリカの
-チームに{KANJI2A:3D}{KANJI2E:61}してもらって--
+今{KANJI2A:3C}の大会では ぜひともキーリカの
+チームに{KANJI2A:3D}勝してもらって--
 {NEWPAGE}
 
-『シン』に{KANJI2F:C3}めつけられた
-{KANJI2D:AE}の{KANJI2D:FE}をはげましてほしいものだ
+『シン』に痛めつけられた
+鳥の民をはげましてほしいものだ
 --------------------------------------------------End--
 
 {Operation Mi'ihen}については
-{KANJI2C:F1}{KANJI2C:6E}にも{KANJI2A:3E}{KANJI2A:3F}がある
+寺院にも{KANJI2A:3E}{KANJI2A:3F}がある
 {NEWPAGE}
 
-{KANJI2C:F1}{KANJI2C:6E}がもっと{KANJI2F:63}{KANJI2C:B2}に{KANJI2E:5C}えを{KANJI2E:88}えていれば
-{Crusader}も {KANJI2C:EA}いとどまったはずじゃ
+寺院がもっと真剣に教えを伝えていれば
+{Crusader}も 思いとどまったはずじゃ
 --------------------------------------------------End--
 
-{Yevon2}の{KANJI2E:5C}えを{KANJI2F:A6}じておる{KANJI2E:CD}なら
-むやみに{KANJI2C:EE}をおそれることもない 
+{Yevon2}の教えを信じておる者なら
+むやみに死をおそれることもない 
 {NEWPAGE}
 
-なのに{KANJI2A:36}い{KANJI2D:6C}{KANJI2E:BE}たちは おびえておる 
-{KANJI2D:47}けないことじゃ 
+なのに{KANJI2A:36}い僧官たちは おびえておる 
+情けないことじゃ 
 --------------------------------------------------End--
 
-いにしえの{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}がよみがえったのは
+いにしえの飛空艇がよみがえったのは
 {Yevon2}のたまものであろうな
 --------------------------------------------------End--

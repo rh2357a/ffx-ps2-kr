@@ -1,146 +1,146 @@
 {Yuna}
-{KANJI2E:92}く{KANJI2C:CE}こう!
+早く行こう!
 --------------------------------------------------End--
 {Yuna}
 はやくいこう!
 --------------------------------------------------End--
 
-ここは{Luca Goers}の{KANJI2C:C8}{KANJI2C:F9}です
-{KANJI2E:ED}{KANJI2E:EC}{KANJI2E:CD}{KANJI2E:A2}{KANJI2C:8A}の{KANJI2D:F1}はお{KANJI2D:9E}しできません
+ここは{Luca Goers}の控室です
+関係者以外の方はお通しできません
 --------------------------------------------------End--
 
-{KANJI2D:68}{KANJI2C:FF}がなにをやってるんだ!?
-もう{KANJI2C:88}{KANJI2C:81}してるんだぞ!
+選手がなにをやってるんだ!?
+もう開会してるんだぞ!
 --------------------------------------------------End--
 
-{Aurochs}の{KANJI2C:C8}{KANJI2C:F9}は{KANJI2D:D0}{KANJI2D:7F}{KANJI2F:4F}だぞ
+{Aurochs}の控室は反対側だぞ
 それともなんだ {KANJI2A:32}{KANJI2A:33}ってやつか?
 --------------------------------------------------End--
 
-{Aurochs}の{KANJI2E:EF}っ{KANJI2D:4F}さんは{KANJI2A:34}{KANJI2A:35}だな
-もうすぐ{KANJI2C:88}{KANJI2C:81}{KANJI2C:F7}だぜ
+{Aurochs}の助っ人さんは{KANJI2A:34}{KANJI2A:35}だな
+もうすぐ開会式だぜ
 --------------------------------------------------End--
 
-{Aurochs}の{KANJI2D:68}{KANJI2C:FF}よ
-{Ronso}の{KANJI2C:9E}を{KANJI2D:FC}わうがよい
+{Aurochs}の選手よ
+{Ronso}の技を味わうがよい
 --------------------------------------------------End--
 
-いいね~! {KANJI2C:88}{KANJI2D:F9}{KANJI2D:9B}{KANJI2D:6A}の
-このピリピリした{KANJI2A:36}{KANJI2A:37}{KANJI2F:B8}!!
+いいね~! 開幕直前の
+このピリピリした{KANJI2A:36}{KANJI2A:37}感!!
 {NEWPAGE}
 
-{KANJI2F:C9}の{KANJI2D:6A}の{KANJI2F:86}けさって{KANJI2F:B8}じ?
-{KANJI2A:38}り{KANJI2D:43}がってきたよ~!
+嵐の前の静けさって感じ?
+{KANJI2A:38}り上がってきたよ~!
 --------------------------------------------------End--
 
-{KANJI2D:68}{KANJI2C:FF}たちの{KANJI2C:9A}{KANJI2C:D2}が
-ビリビリ{KANJI2E:88}わってくるんだよね~!
+選手たちの気合が
+ビリビリ伝わってくるんだよね~!
 --------------------------------------------------End--
 
-グラーブ{KANJI2E:3C} ケガなんか
+グラーブ様 ケガなんか
 してないといいけど--
 --------------------------------------------------End--
 
-この{KANJI2A:39}{KANJI2D:D9}{KANJI2C:6C} {KANJI2C:F8}{KANJI2E:50}しちゃうわ!
+この{KANJI2A:39}備員 失礼しちゃうわ!
 {NEWPAGE}
 
-あたしのグラーブ{KANJI2E:3C}に
-{KANJI2C:81}わせてくれないの!
+あたしのグラーブ様に
+会わせてくれないの!
 --------------------------------------------------End--
 
-グラーブ{KANJI2E:3C}が{KANJI2D:3A}てくるまで
-あたし{KANJI2C:7A}{KANJI2E:B4}{KANJI2C:93}でも{KANJI2F:AA}つわ!
+グラーブ様が出てくるまで
+あたし何時間でも待つわ!
 --------------------------------------------------End--
 
-ブリッツいっぱい{KANJI2E:51}{KANJI2F:A4}して
-ビクスンみたいな{KANJI2D:68}{KANJI2C:FF}になるんだ
+ブリッツいっぱい練習して
+ビクスンみたいな選手になるんだ
 --------------------------------------------------End--
 
-ボク この{KANJI2D:6A}ビクスンに{KANJI2A:3A}{KANJI2C:FF}して
+ボク この前ビクスンに{KANJI2A:3A}手して
 もらったんだぜ! いいだろ~?
 --------------------------------------------------End--
 
-ゴワーズは{KANJI2A:3B}{KANJI2E:61}できなかったけど
-{KANJI2A:3C}{KANJI2F:B0}を{KANJI2D:78}けるのが{KANJI2F:63}のサポーターだね
+ゴワーズは{KANJI2A:3B}勝できなかったけど
+{KANJI2A:3C}援を続けるのが真のサポーターだね
 --------------------------------------------------End--
 
-{KANJI2D:F8}{KANJI2D:E6}{KANJI2A:3D}{KANJI2D:B4}のせいで ゴワーズの
-{KANJI2A:3B}{KANJI2E:61}パレードは{KANJI2D:93}{KANJI2C:ED}だってさ
+魔物{KANJI2A:3D}動のせいで ゴワーズの
+{KANJI2A:3B}勝パレードは中止だってさ
 --------------------------------------------------End--
 
-ゴワーズに さしいれを{KANJI2C:F2}ってきたのに
-{KANJI2A:39}{KANJI2D:D9}{KANJI2C:6C}が{KANJI2D:BF}れてくれないんだよ
+ゴワーズに さしいれを持ってきたのに
+{KANJI2A:39}備員が入れてくれないんだよ
 --------------------------------------------------End--
 
-あんたらの{KANJI2A:3B}{KANJI2E:61}は まぐれまぐれ!
-{KANJI2E:F3}{KANJI2D:C1}はまたゴワーズが{KANJI2E:61}つよ!
+あんたらの{KANJI2A:3B}勝は まぐれまぐれ!
+来年はまたゴワーズが勝つよ!
 --------------------------------------------------End--
 
-あんたらが{KANJI2A:43}{KANJI2D:B3}したおかげで
-ゴワーズの{KANJI2E:8A}さが{KANJI2C:6D}き{KANJI2A:44}ったよ
+あんたらが{KANJI2A:43}闘したおかげで
+ゴワーズの強さが引き{KANJI2A:44}ったよ
 --------------------------------------------------End--
 
-あたしゃ{KANJI2D:40}{KANJI2A:3E}のころから
-ゴワーズの{KANJI2D:9D}っかけなんじゃい
+あたしゃ小{KANJI2A:3E}のころから
+ゴワーズの追っかけなんじゃい
 {NEWPAGE}
 
-{KANJI2A:3F}{KANJI2F:3F}{KANJI2E:FA}{KANJI2F:3F}からの にわかファンとは
-{KANJI2D:C1}{KANJI2A:40}が{KANJI2A:41}うっちゅうこっちゃ
+{KANJI2A:3F}日今日からの にわかファンとは
+年{KANJI2A:40}が{KANJI2A:41}うっちゅうこっちゃ
 --------------------------------------------------End--
 
 もうちょっと{KANJI2A:42}れば
-{KANJI2D:68}{KANJI2C:FF}が{KANJI2D:3A}てくるはずだよ
+選手が出てくるはずだよ
 --------------------------------------------------End--
 {WINDOW}
-マップデバッグ{KANJI2E:3D}メニュー
+マップデバッグ用メニュー
   {CHOICE:30}やっぱやめ
-  {CHOICE:31}マップデータの{KANJI2C:CA}{KANJI2D:49}
+  {CHOICE:31}マップデータの更新
   {CHOICE:32}モデルチェンジ
-  {CHOICE:33}マップライン{KANJI2D:53}{KANJI2C:BF}
-  {CHOICE:34}{KANJI2A:30}{KANJI2A:31}さんちに{KANJI2E:37}る
+  {CHOICE:33}マップライン制御
+  {CHOICE:34}{KANJI2A:30}{KANJI2A:31}さんちに戻る
 --------------------------------------------------End--
 {WINDOW}
 モデル : {CHOICE:51}
 --------------------------------------------------End--
 {WINDOW}
-{Al Bhed}{KANJI2E:5E}{KANJI2E:9D}{KANJI2D:3D}{KANJI2D:85}6{KANJI2E:9E}を {KANJI2C:FF}に{KANJI2D:BF}れた!
+{Al Bhed}語辞書第6巻を 手に入れた!
 --------------------------------------------------End--
 {WINDOW}
-{Al Bhed}{KANJI2E:5E}を{KANJI2A:45}{KANJI2F:A4}した!
+{Al Bhed}語を{KANJI2A:45}習した!
    『{OPurple}ヌ{White}』{KANJI2A:46}『{Pink}す{White}』
    『{OPurple}ヘ{White}』{KANJI2A:46}『{Pink}せ{White}』
    『{OPurple}ホ{White}』{KANJI2A:46}『{Pink}そ{White}』
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{Al Bhed}{KANJI2E:5E}{KANJI2D:BF}{KANJI2E:38}】{White}
-{KANJI2C:B3}{KANJI2D:8F}らぬ{KANJI2F:54}{KANJI2A:47}『{Al Bhed}{KANJI2E:5E}』は{Al Bhed}{KANJI2E:5E}{KANJI2E:9D}{KANJI2D:3D}を
-{KANJI2D:CB}{KANJI2C:B3}するとおぼえることができます 
-{OPurple}レバヘ! {Al Bhed}{KANJI2E:5E}ヤヌサー! テンソフム ミオウ!{White}
+{Yellow}【{Al Bhed}語入門】{White}
+見知らぬ言{KANJI2A:47}『{Al Bhed}語』は{Al Bhed}語辞書を
+発見するとおぼえることができます 
+{OPurple}レバヘ! {Al Bhed}語ヤヌサー! テンソフム ミオウ!{White}
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}シュフコンキャ】{White}になった!
+{Tidus}は {Blue}【{Al Bhed}語シュフコンキャ】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}キョキンキャ】{White}になった!
+{Tidus}は {Blue}【{Al Bhed}語キョキンキャ】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【アサヨソオ{Al Bhed}{KANJI2E:5E}】{White}になった!
+{Tidus}は {Blue}【アサヨソオ{Al Bhed}語】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}サンチニュフダル】{White}になった!
+{Tidus}は {Blue}【{Al Bhed}語サンチニュフダル】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【ニュフヒョフハ{Al Bhed}{KANJI2E:5E}】{White}になった!
+{Tidus}は {Blue}【ニュフヒョフハ{Al Bhed}語】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}ポナポナ】{White}になった!
+{Tidus}は {Blue}【{Al Bhed}語ポナポナ】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}デンヒギンハイ】{White}になった!
+{Tidus}は {Blue}【{Al Bhed}語デンヒギンハイ】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【ヤーゼナヌハ{Al Bhed}{KANJI2E:5E}】{White}になった!
+{Tidus}は {Blue}【ヤーゼナヌハ{Al Bhed}語】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}ヤヌサー】{White}になった!
+{Tidus}は {Blue}【{Al Bhed}語ヤヌサー】{White}になった!
 --------------------------------------------------End--

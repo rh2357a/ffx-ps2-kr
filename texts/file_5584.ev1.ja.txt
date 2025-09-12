@@ -1,68 +1,68 @@
 
-{KANJI2C:ED}まれ
+止まれ
 --------------------------------------------------End--
 
-{Seymour}{KANJI2E:5B}{KANJI2C:E9}がお{KANJI2A:30}びだ
+{Seymour}老師がお{KANJI2A:30}びだ
 --------------------------------------------------End--
 {Yuna}
-{KANJI2E:5B}{KANJI2C:E9}と{KANJI2E:57}すことなどありません
+老師と話すことなどありません
 --------------------------------------------------End--
 {Tidus}
 ってワケで どけよ
 --------------------------------------------------End--
 
-{Seymour}{KANJI2E:3C}の{KANJI2E:32}{KANJI2E:4E}は{KANJI2F:D1}{KANJI2D:7F}なのだ
+{Seymour}様の命令は絶対なのだ
 --------------------------------------------------End--
 
-{KANJI2A:31}{KANJI2C:D3}するが {KANJI2E:5B}{KANJI2C:E9}{KANJI2E:3C}は{KANJI2C:EE}{KANJI2D:7E}でも
-{KANJI2F:BB}いとおっしゃった
+{KANJI2A:31}告するが 老師様は死体でも
+良いとおっしゃった
 --------------------------------------------------End--
 {Tidus}
-こっちの{KANJI2D:B7}はちがうのか?
+こっちの道はちがうのか?
 --------------------------------------------------End--
 {Lulu}
-それは{KANJI2E:C6}{KANJI2D:A0}へ{KANJI2C:78}りる{KANJI2D:B7}
+それは谷底へ下りる道
 --------------------------------------------------End--
 {Wakka}
-よく{KANJI2D:8F}ってるんでないかい?
+よく知ってるんでないかい?
 --------------------------------------------------End--
 {Wakka}
 あ
 --------------------------------------------------End--
 
-{KANJI2E:B4}{KANJI2E:59}{Yuna}はぼんやりと
-{KANJI2E:62}くを{KANJI2A:32}めていた
+時々{Yuna}はぼんやりと
+遠くを{KANJI2A:32}めていた
 --------------------------------------------------End--
 
-その{KANJI2E:8F}{KANJI2D:FC}がやっとわかったんだ
+その意味がやっとわかったんだ
 --------------------------------------------------End--
 
-{KANJI2D:BE}{KANJI2A:33}と{KANJI2C:B3}ることのない{KANJI2D:45}{KANJI2D:3C}に
-お{KANJI2F:4E}れしていたんだよな
+二{KANJI2A:33}と見ることのない場所に
+お別れしていたんだよな
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}1】{White}
-{KANJI2E:4A}の{KANJI2C:9C}{KANJI2E:56}をスフィアに{KANJI2C:E3}すことができます!
-{KANJI2E:4A}のつかれをいやす{KANJI2C:F6}{KANJI2D:B4}{KANJI2C:82}{KANJI2D:E5}{KANJI2C:99}{KANJI2D:C3}で
-{KANJI2C:37}{KANJI2C:3F}/{KANJI2C:3C}{KANJI2C:3F}が{KANJI2D:6B}{KANJI2C:82}{KANJI2D:E5}します!
+{Yellow}【旅人のセーブスフィア Lv1】{White}
+旅の記録をスフィアに残すことができます!
+旅のつかれをいやす自動回復機能で
+HP/MPが全回復します!
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
 {CHOICE:31}キャンセル
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}2】{White}
-{Besaid Aurochs}の{KANJI2F:6A}{KANJI2A:34}により セーブスフィアに
-{blitzball}スタジアムへの{KANJI2E:F2}{KANJI2A:35}{KANJI2C:99}{KANJI2D:C3}が
-{KANJI2D:9D}{KANJI2C:7B}されました!
+{Yellow}【旅人のセーブスフィア Lv2】{White}
+{Besaid Aurochs}の活{KANJI2A:34}により セーブスフィアに
+{blitzball}スタジアムへの転{KANJI2A:35}機能が
+追加されました!
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【ブリッツスカウトシステム】{White}
-{Spira}の{KANJI2A:36}{KANJI2D:90}には ブリッツのトレーニングを{KANJI2D:78}ける
-{KANJI2C:6F}れた{KANJI2E:31}{KANJI2D:68}{KANJI2C:FF}がひそんでいます 
-{Button Square}を{KANJI2F:4D}して{KANJI2E:57}しかけると スカウト{KANJI2A:37}{KANJI2F:C5}できることがあります 
-{KANJI2F:D3}{KANJI2E:F3}{KANJI2E:95}{KANJI2F:80}な{KANJI2D:68}{KANJI2C:FF}をスカウトして {Besaid Aurochs}を
-トップチームに{KANJI2F:58}くのです!
+{Spira}の{KANJI2A:36}地には ブリッツのトレーニングを続ける
+隠れた名選手がひそんでいます 
+{Button Square}を押して話しかけると スカウト{KANJI2A:37}約できることがあります 
+将来有望な選手をスカウトして {Besaid Aurochs}を
+トップチームに導くのです!
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
@@ -70,8 +70,8 @@
 {CHOICE:32}キャンセル
 --------------------------------------------------End--
 {WINDOW}
-{Besaid Aurochs}はメンバー{KANJI2D:4F}{KANJI2D:52}が
-{KANJI2D:76}りないので{KANJI2C:EF}{KANJI2C:D2}に{KANJI2C:DF}{KANJI2C:7B}できません 
+{Besaid Aurochs}はメンバー人数が
+足りないので試合に参加できません 
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
@@ -79,25 +79,25 @@
 {CHOICE:31}キャンセル
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}3】{White}
-{Al Bhed2}·{Rin}の{KANJI2F:CB}{KANJI2E:8F}により セーブスフィアに
-{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}への{KANJI2E:F2}{KANJI2A:35}{KANJI2C:99}{KANJI2D:C3}が{KANJI2D:9D}{KANJI2C:7B}されました!
+{Yellow}【旅人のセーブスフィア Lv3】{White}
+{Al Bhed2}·{Rin}の好意により セーブスフィアに
+飛空艇への転{KANJI2A:35}機能が追加されました!
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
-{CHOICE:31}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ
+{CHOICE:31}飛空艇へ
 {CHOICE:32}ブリッツスタジアムへ
 {CHOICE:33}キャンセル
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
-{Gray}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ{White}
+{Gray}飛空艇へ{White}
 {CHOICE:31}ブリッツスタジアムへ
 {CHOICE:32}キャンセル
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
-{CHOICE:31}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ
+{CHOICE:31}飛空艇へ
 {Gray}ブリッツスタジアムへ{White}
 {CHOICE:32}キャンセル
 --------------------------------------------------End--

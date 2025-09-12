@@ -1,17 +1,17 @@
 
-ここ{Temple of Yevon-Djose}は {Crusader}の{KANJI2C:E7}{KANJI2A:30}となった
-{Mi'ihen}{KANJI2E:3C}ゆかりの{KANJI2C:F1}{KANJI2C:6E}です
+ここ{Temple of Yevon-Djose}は {Crusader}の始{KANJI2A:30}となった
+{Mi'ihen}様ゆかりの寺院です
 {NEWPAGE}
 
-ああ この{KANJI2A:31}{KANJI2D:48}を{KANJI2E:36}にしたら……
-{Mi'ihen}{KANJI2E:3C}のお{KANJI2A:32}きが{KANJI2F:9E}こえてまいります
+ああ この{KANJI2A:31}状を目にしたら……
+{Mi'ihen}様のお{KANJI2A:32}きが聞こえてまいります
 --------------------------------------------------End--
 
-{KANJI2F:86}かな{KANJI2A:33}ですな
+静かな{KANJI2A:33}ですな
 {NEWPAGE}
 
-たくさんの{Crusader}の{KANJI2D:64}{KANJI2C:E6}たちが
-{Farplane}に{KANJI2E:4A}{KANJI2A:34}たれました
+たくさんの{Crusader}の戦士たちが
+{Farplane}に旅{KANJI2A:34}たれました
 --------------------------------------------------End--
 
 しずかな あさですな
@@ -21,55 +21,55 @@
 {Farplane}に たびだたれました
 --------------------------------------------------End--
 
-{Mika}{KANJI2E:3C}は {KANJI2D:84}{KANJI2E:5B}{KANJI2C:E9}として50{KANJI2D:C1}{KANJI2C:93}も
-{Spira}を{KANJI2D:C6}{KANJI2F:42}ってこられた 
+{Mika}様は 大老師として50年間も
+{Spira}を背負ってこられた 
 {NEWPAGE}
 
-そんな{KANJI2E:6A}{KANJI2A:3F}から{KANJI2E:B3}{KANJI2E:B2}されて {KANJI2E:FA}は{Farplane}で
-{KANJI2F:88}らかに{KANJI2D:FF}っておられることでしょう
+そんな苦{KANJI2A:3F}から解放されて 今は{Farplane}で
+安らかに眠っておられることでしょう
 --------------------------------------------------End--
 
-はて {KANJI2C:F3}はどなたが{KANJI2D:84}{KANJI2E:5B}{KANJI2C:E9}の{KANJI2C:66}を
+はて 次はどなたが大老師の位を
 {KANJI2A:40}ぐのでしょうか……?
 --------------------------------------------------End--
 
-{KANJI2A:38}いころ {Jyscal}{KANJI2E:5B}{KANJI2C:E9}と
-ともに{KANJI2E:DA}{KANJI2C:CE}を{KANJI2A:3A}みました 
+{KANJI2A:38}いころ {Jyscal}老師と
+ともに修行を{KANJI2A:3A}みました 
 {NEWPAGE}
 
 ヒトと{Guado}の{KANJI2A:3B}いを{KANJI2A:3C}えて
-{KANJI2A:3D}{KANJI2D:47}を{KANJI2F:B2}んだのです
+{KANJI2A:3D}情を結んだのです
 --------------------------------------------------End--
 
-{KANJI2C:F4}{KANJI2A:35}のためのポーションを
+治{KANJI2A:35}のためのポーションを
 つかいきってしまいました
 {NEWPAGE}
 
-それでも {KANJI2C:F3}から{KANJI2C:F3}へと
-ケガ{KANJI2D:4F}が{KANJI2C:71}ばれてくるのです
+それでも 次から次へと
+ケガ人が運ばれてくるのです
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【ブリッツファン{KANJI2C:3B}{KANJI2C:45}1】{White}
-{KANJI2E:31}{KANJI2D:6A}:ソーニャ
-{KANJI2F:CB}きなチーム:{Kilika Beasts}
-この{KANJI2D:4F}はただのファンのようだ 
-{KANJI2A:44}{KANJI2F:C5}はできない
+{Yellow}【ブリッツファンLV1】{White}
+名前:ソーニャ
+好きなチーム:{Kilika Beasts}
+この人はただのファンのようだ 
+{KANJI2A:44}約はできない
 --------------------------------------------------End--
 
-{Yuna}{KANJI2E:3C}は よき{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}となられよう 
-しかと{KANJI2C:C0}{KANJI2A:39}をたのみますぞ 
+{Yuna}様は よき召喚士となられよう 
+しかと護{KANJI2A:39}をたのみますぞ 
 --------------------------------------------------End--
 
-{Yuna}{KANJI2E:3C}は りっぱなしょうかんしとなられるおかた
+{Yuna}様は りっぱなしょうかんしとなられるおかた
 しかと ガードたのみますぞ
 --------------------------------------------------End--
 
-{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}{Yuna}{KANJI2E:3C}が {KANJI2F:73}を{KANJI2F:36}して
-{KANJI2C:67}{KANJI2C:87}{KANJI2A:36}りの{KANJI2A:37}{KANJI2C:F7}を{KANJI2C:CE}ってくださいました 
+召喚士{Yuna}様が 夜を徹して
+異界{KANJI2A:36}りの{KANJI2A:37}式を行ってくださいました 
 {NEWPAGE}
 
-{KANJI2A:38}い{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}には さぞやつらい
-{KANJI2C:6B}{KANJI2F:73}であったことでしょう
+{KANJI2A:38}い召喚士には さぞやつらい
+一夜であったことでしょう
 --------------------------------------------------End--
 
 しょうかんし{Yuna}さまが よをてっして
@@ -80,30 +80,30 @@
 さぞやつらい ひとよであったことでしょう
 --------------------------------------------------End--
 
-ともに{KANJI2A:41}んだ{KANJI2D:6C}{KANJI2E:BE}が {KANJI2C:F1}{KANJI2C:6E}を
-{KANJI2D:3A}ていってしまいました
+ともに{KANJI2A:41}んだ僧官が 寺院を
+出ていってしまいました
 {NEWPAGE}
 
-{KANJI2C:F1}{KANJI2C:6E}にこもっているだけでは 
-なにも{KANJI2D:EB}わらないと{KANJI2F:54}い{KANJI2C:E3}して……
+寺院にこもっているだけでは 
+なにも変わらないと言い残して……
 --------------------------------------------------End--
 
-{KANJI2A:42}の{KANJI2F:54}{KANJI2A:43}が{KANJI2D:57}しいかどうか
-{KANJI2F:A2}には{KANJI2D:CE}{KANJI2D:8C}できません
+{KANJI2A:42}の言{KANJI2A:43}が正しいかどうか
+私には判断できません
 --------------------------------------------------End--
 
-{KANJI2D:F8}{KANJI2D:E6}や{Al Bhed}の{KANJI2A:3E}{KANJI2C:B0}にそなえて
-{KANJI2C:A9}{KANJI2E:59}{KANJI2D:6C}{KANJI2D:E8}が{KANJI2F:9B}{KANJI2D:D9}される{KANJI2E:A5}{KANJI2D:9F}です
+魔物や{Al Bhed}の{KANJI2A:3E}撃にそなえて
+近々僧兵が配備される予定です
 --------------------------------------------------End--
 
-{KANJI2D:81}{KANJI2D:99}! {KANJI2E:36}を{KANJI2C:88}けてくれよ!
+隊長! 目を開けてくれよ!
 --------------------------------------------------End--
 
 たいちょう! めをあけてくれよ!
 --------------------------------------------------End--
 
-{KANJI2D:81}{KANJI2D:99}! オレあんたのこと
-{KANJI2F:CB}きだったよ!
+隊長! オレあんたのこと
+好きだったよ!
 --------------------------------------------------End--
 
 たいちょう! オレあんたのこと

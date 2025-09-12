@@ -1,30 +1,30 @@
 {WINDOW}
-{Yellow}【{KANJI2E:3F}{KANJI2D:E9}{KANJI2C:B5}の{KANJI2D:4C}み{KANJI2D:F1}】{White}
-ガンドフ{KANJI2E:3F}{KANJI2D:E9}{KANJI2C:B5}では{Tidus}に
-{KANJI2E:3F}が{KANJI2E:41}ちることがあります 
+{Yellow}【雷平原の進み方】{White}
+ガンドフ雷平原では{Tidus}に
+雷が落ちることがあります 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2E:3F}は いつどんな{KANJI2E:B4}に{KANJI2E:41}ちるかわかりません
-ぼ~っと{KANJI2D:BB}っ{KANJI2A:32}っているのが{KANJI2C:6B}{KANJI2D:D3}{KANJI2E:7D}{KANJI2F:93}です
+雷は いつどんな時に落ちるかわかりません
+ぼ~っと突っ{KANJI2A:32}っているのが一番危険です
 --------------------------------------------------End--
 {WINDOW}
-すみやかに{KANJI2C:A9}くの{KANJI2D:D6}{KANJI2E:3F}{KANJI2D:AD}に{KANJI2D:D6}{KANJI2A:33}しましょう
-{KANJI2D:D6}{KANJI2E:3F}{KANJI2D:AD}の{KANJI2C:78}では{KANJI2E:41}{KANJI2E:3F}しないので{KANJI2F:88}{KANJI2E:9B}です
+すみやかに近くの避雷塔に避{KANJI2A:33}しましょう
+避雷塔の下では落雷しないので安心です
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2C:71}{KANJI2E:BC}く{KANJI2D:D6}{KANJI2E:3F}{KANJI2D:AD}から{KANJI2E:62}い{KANJI2D:45}{KANJI2D:3C}で{KANJI2E:41}{KANJI2E:3F}に{KANJI2A:34}われたら
-{Button Circle}を{KANJI2F:4D}して{KANJI2E:3F}を{KANJI2D:D6}けることができます
+運悪く避雷塔から遠い場所で落雷に{KANJI2A:34}われたら
+{Button Circle}を押して雷を避けることができます
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2E:3F}が{KANJI2C:C2}った{KANJI2F:CE}{KANJI2C:93}に{Button Circle}を{KANJI2F:4D}してください
-{KANJI2D:55}{KANJI2A:35}すると{KANJI2E:41}{KANJI2E:3F}をかわせます
+雷が光った瞬間に{Button Circle}を押してください
+成{KANJI2A:35}すると落雷をかわせます
 --------------------------------------------------End--
 {WINDOW}
-なお {Button Circle}を{KANJI2E:52}{KANJI2E:82}しながら
-{KANJI2D:ED}くのは {KANJI2E:7D}{KANJI2F:93}ですのでおすすめしません
+なお {Button Circle}を連打しながら
+歩くのは 危険ですのでおすすめしません
 --------------------------------------------------End--
 {WINDOW}
-それでは {KANJI2E:4A}のご{KANJI2E:30}{KANJI2A:36}を--
+それでは 旅のご無{KANJI2A:36}を--
 --------------------------------------------------End--
 {Shelinda}
 こんにちは
@@ -33,32 +33,32 @@
 やあ
 --------------------------------------------------End--
 {Shelinda}
-{KANJI2D:F7}{KANJI2E:90}なんですか?
+本当なんですか?
 --------------------------------------------------End--
 {Shelinda}
-{Master Seymor}と{Yuna}{KANJI2E:3C}が
-ご{KANJI2F:B2}{KANJI2A:3E}すると{KANJI2F:9E}きました
+{Master Seymor}と{Yuna}様が
+ご結{KANJI2A:3E}すると聞きました
 --------------------------------------------------End--
 {Shelinda}
 すごいニュースだから
-{KANJI2A:3F}に{KANJI2D:8F}らせなくちゃ
+{KANJI2A:3F}に知らせなくちゃ
 --------------------------------------------------End--
 {Tidus}
-どこで{KANJI2F:9E}いた?
+どこで聞いた?
 --------------------------------------------------End--
 {Shelinda}
 {Guadosalam}です 
-みんなとても{KANJI2F:A7}{KANJI2F:A8}していました
+みんなとても興奮していました
 --------------------------------------------------End--
 {Tidus}
 それちょっと{KANJI2A:40}うな 
-{Yuna}は{KANJI2D:8C}るつもりだから
+{Yuna}は断るつもりだから
 --------------------------------------------------End--
 {Shelinda}
-{KANJI2D:F7}{KANJI2E:90}ですか!
+本当ですか!
 --------------------------------------------------End--
 {WINDOW}
-{CHOICE:30}うん {KANJI2F:B2}{KANJI2A:3E}はナシ
+{CHOICE:30}うん 結{KANJI2A:3E}はナシ
 {CHOICE:31}{KANJI2A:41}{KANJI2A:42}だよ
 --------------------------------------------------End--
 {Shelinda}
@@ -68,7 +68,7 @@
 がっかりしました
 --------------------------------------------------End--
 {Shelinda}
-{Spira}{KANJI2D:93}が{KANJI2A:43}びと{KANJI2A:44}{KANJI2A:45}に
+{Spira}中が{KANJI2A:43}びと{KANJI2A:44}{KANJI2A:45}に
 わきかえったでしょうに
 --------------------------------------------------End--
 {Shelinda}
@@ -76,40 +76,40 @@
 --------------------------------------------------End--
 {Shelinda}
 こんなことで
-{KANJI2A:41}{KANJI2A:42}を{KANJI2F:54}うものじゃありません
+{KANJI2A:41}{KANJI2A:42}を言うものじゃありません
 --------------------------------------------------End--
 {Shelinda}
-{Yuna}{KANJI2E:3C}によろしく
-お{KANJI2E:88}えくださいね
+{Yuna}様によろしく
+お伝えくださいね
 --------------------------------------------------End--
 {Shelinda}
-{Master Seymor}と{Yuna}{KANJI2E:3C} 
-{KANJI2D:F7}{KANJI2E:90}に{KANJI2E:91}{KANJI2D:A4}ですねえ
+{Master Seymor}と{Yuna}様 
+本当に素敵ですねえ
 --------------------------------------------------End--
 {Shelinda}
-お{KANJI2D:61}にどうぞ
+お先にどうぞ
 --------------------------------------------------End--
 {Rikku}
-{KANJI2E:F3}ちゃったよ--
+来ちゃったよ--
 --------------------------------------------------End--
 {Rikku}
 きゃあぁぁ~~っ!?
 --------------------------------------------------End--
 {Tidus}
-どうやって{KANJI2D:4C}むんだ?
+どうやって進むんだ?
 --------------------------------------------------End--
 {Lulu}
-{KANJI2D:D6}{KANJI2E:3F}{KANJI2D:AD}よ
+避雷塔よ
 --------------------------------------------------End--
 {Lulu}
-{KANJI2E:3F}はそれに{KANJI2C:6D}かれていく--はず
+雷はそれに引かれていく--はず
 --------------------------------------------------End--
 {Wakka}
-{KANJI2D:D6}{KANJI2E:3F}{KANJI2D:AD}から{KANJI2E:45}れすぎず
-{KANJI2C:A9}づきすぎず{KANJI2D:F5}へ{KANJI2D:4C}めってな
+避雷塔から離れすぎず
+近づきすぎず北へ進めってな
 --------------------------------------------------End--
 {Lulu}
-{KANJI2C:7A}もない{KANJI2C:C7}い{KANJI2D:45}{KANJI2D:3C}は{KANJI2D:D6}けろ
+何もない広い場所は避けろ
 ということね
 --------------------------------------------------End--
 {Rikku}
@@ -117,16 +117,16 @@
 --------------------------------------------------End--
 {Rikku}
 {Guadosalam}に
-{KANJI2C:7A}か{KANJI2E:D5}れたような{KANJI2C:9A}がするなあ
+何か忘れたような気がするなあ
 --------------------------------------------------End--
 {Auron}
-これでお{KANJI2F:4E}れだな
+これでお別れだな
 --------------------------------------------------End--
 {Rikku}
-わかったよ {KANJI2C:CE}くよ!
+わかったよ 行くよ!
 --------------------------------------------------End--
 {Wakka}
-おー {KANJI2C:A9}い{KANJI2C:A9}い!
+おー 近い近い!
 --------------------------------------------------End--
 {Lulu}
 ふざけないでよ
@@ -144,17 +144,17 @@
 へへへへ--
 --------------------------------------------------End--
 {Tidus}
-{KANJI2C:9A}{KANJI2C:F2}ち{KANJI2E:BC}いな
+気持ち悪いな
 --------------------------------------------------End--
 {Rikku}
 いぃやぁぁぁ~~っ!?
 --------------------------------------------------End--
 {Rikku}
-そこで{KANJI2F:9F}んでいこう--ね?
+そこで休んでいこう--ね?
 --------------------------------------------------End--
 {Auron}
-この{KANJI2E:3F}はやむことがない 
-{KANJI2E:F5}いで{KANJI2D:CD}けたほうがいい
+この雷はやむことがない 
+急いで抜けたほうがいい
 --------------------------------------------------End--
 {Rikku}
 わかってるけど--
@@ -164,117 +164,117 @@
 どうする?
 --------------------------------------------------End--
 {Rikku}
-うちへ{KANJI2E:A6}りたい!
+うちへ帰りたい!
 --------------------------------------------------End--
 {Rikku}
-{KANJI2A:38}{KANJI2A:39}はキライだ! {KANJI2E:3F}はキライだ!
+{KANJI2A:38}{KANJI2A:39}はキライだ! 雷はキライだ!
 --------------------------------------------------End--
 {Maechen}
-この{KANJI2D:45}{KANJI2D:3C}について{KANJI2F:9E}きたいですか?
+この場所について聞きたいですか?
 --------------------------------------------------End--
 {WINDOW}
-{CHOICE:30}また{KANJI2E:FA}{KANJI2A:37}ね
+{CHOICE:30}また今{KANJI2A:37}ね
 {CHOICE:31}どうぞ
 --------------------------------------------------End--
 {Maechen}
-{KANJI2C:E3}{KANJI2D:C2}--
+残念--
 --------------------------------------------------End--
 {Maechen}
 よろしい
 --------------------------------------------------End--
 {Maechen}
-{KANJI2F:A5}{KANJI2E:59} この{KANJI2D:45}{KANJI2D:3C}は
-{KANJI2E:4A}{KANJI2D:4F}にとって{KANJI2E:BC}{KANJI2E:CB}の{KANJI2D:45}{KANJI2D:3C}でした
+昔々 この場所は
+旅人にとって悪夢の場所でした
 --------------------------------------------------End--
 {Maechen}
-{KANJI2A:38}{KANJI2A:39}の{KANJI2D:E9}{KANJI2E:CC} {KANJI2E:3F}{KANJI2A:3A}の{KANJI2D:E9}{KANJI2E:CC} 
-{KANJI2D:A9}る{KANJI2E:CD}はばらばらに{KANJI2C:6D}き{KANJI2A:3B}かれ
+{KANJI2A:38}{KANJI2A:39}の平野 雷{KANJI2A:3A}の平野 
+渡る者はばらばらに引き{KANJI2A:3B}かれ
 --------------------------------------------------End--
 {Maechen}
-とまぁ このように{KANJI2F:54}われたようです
+とまぁ このように言われたようです
 --------------------------------------------------End--
 {Maechen}
 そこへ ビリガンなる
-{KANJI2D:8E}が{KANJI2C:B8}われましてな
+男が現われましてな
 --------------------------------------------------End--
 {Maechen}
 マキナをあやつり 
-{KANJI2D:E9}{KANJI2C:B5}{KANJI2D:93}に{KANJI2D:D6}{KANJI2E:3F}{KANJI2D:AD}を{KANJI2A:31}てて{KANJI2C:82}ったのですわ
+平原中に避雷塔を{KANJI2A:31}てて回ったのですわ
 --------------------------------------------------End--
 {Maechen}
-そして{KANJI2E:4A}{KANJI2D:4F}は
-{KANJI2F:88}{KANJI2D:6B}に{KANJI2D:A9}れるようになりました
+そして旅人は
+安全に渡れるようになりました
 --------------------------------------------------End--
 {Maechen}
-ビリガンはあの{KANJI2D:D6}{KANJI2E:3F}{KANJI2D:AD}を
+ビリガンはあの避雷塔を
 {KANJI2A:31}てているときに--
 --------------------------------------------------End--
 {Maechen}
-{KANJI2E:3F}に{KANJI2E:82}たれて{KANJI2C:EE}にました
+雷に打たれて死にました
 --------------------------------------------------End--
 {Maechen}
 ビリガンは{Al Bhed2} 
-{KANJI2A:3C}{KANJI2A:3D}には{KANJI2C:E3}らん{KANJI2E:31}{KANJI2D:6A}ですな
+{KANJI2A:3C}{KANJI2A:3D}には残らん名前ですな
 --------------------------------------------------End--
 {Maechen}
-お{KANJI2C:9A}をつけなされよ
+お気をつけなされよ
 --------------------------------------------------End--
 
-{KANJI2E:B8}しい{KANJI2D:5C}{KANJI2A:30}が{KANJI2A:31}っている--
+怪しい石{KANJI2A:30}が{KANJI2A:31}っている--
 --------------------------------------------------End--
 
-{KANJI2C:88}かない--
+開かない--
 --------------------------------------------------End--
 
-{Yellow}【{Celestial Mirror}】{White}が{KANJI2D:D0}{KANJI2A:46}している--
+{Yellow}【{Celestial Mirror}】{White}が反{KANJI2A:46}している--
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【{Celestial Mirror}】{White}を--
-{CHOICE:30}{KANJI2C:E4}う
-{CHOICE:31}{KANJI2C:E4}わない
+{CHOICE:30}使う
+{CHOICE:31}使わない
 --------------------------------------------------End--
 
-{Yellow}【{Cloudy Mirror}】{White}が{KANJI2D:D0}{KANJI2A:46}している--
+{Yellow}【{Cloudy Mirror}】{White}が反{KANJI2A:46}している--
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【{Cloudy Mirror}】{White}を--
-{CHOICE:30}{KANJI2C:E4}う
-{CHOICE:31}{KANJI2C:E4}わない
+{CHOICE:30}使う
+{CHOICE:31}使わない
 --------------------------------------------------End--
 
-どうやら{KANJI2E:4D}が{KANJI2D:E0}{KANJI2D:76}しているようだ--
+どうやら力が不足しているようだ--
 --------------------------------------------------End--
 {Tidus}
 {Guadosalam}か--
-{Seymour}の{KANJI2C:FF}{KANJI2C:78}がいるよな
+{Seymour}の手下がいるよな
 --------------------------------------------------End--
 {Tidus}
-{Guado2}とケンカしてる{KANJI2E:B4}じゃない
+{Guado2}とケンカしてる時じゃない
 やめとこう
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}1】{White}
-{KANJI2E:4A}の{KANJI2C:9C}{KANJI2E:56}をスフィアに{KANJI2C:E3}すことができます!
-{KANJI2E:4A}のつかれをいやす{KANJI2C:F6}{KANJI2D:B4}{KANJI2C:82}{KANJI2D:E5}{KANJI2C:99}{KANJI2D:C3}で
-{KANJI2C:37}{KANJI2C:3F}/{KANJI2C:3C}{KANJI2C:3F}が{KANJI2D:6B}{KANJI2C:82}{KANJI2D:E5}します!
+{Yellow}【旅人のセーブスフィア Lv1】{White}
+旅の記録をスフィアに残すことができます!
+旅のつかれをいやす自動回復機能で
+HP/MPが全回復します!
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
 {CHOICE:31}キャンセル
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}2】{White}
-{Besaid Aurochs}の{KANJI2F:6A}{KANJI2A:47}により セーブスフィアに
-{blitzball}スタジアムへの{KANJI2E:F2}{KANJI2A:48}{KANJI2C:99}{KANJI2D:C3}が
-{KANJI2D:9D}{KANJI2C:7B}されました!
+{Yellow}【旅人のセーブスフィア Lv2】{White}
+{Besaid Aurochs}の活{KANJI2A:47}により セーブスフィアに
+{blitzball}スタジアムへの転{KANJI2A:48}機能が
+追加されました!
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【ブリッツスカウトシステム】{White}
-{Spira}の{KANJI2A:49}{KANJI2D:90}には ブリッツのトレーニングを{KANJI2D:78}ける
-{KANJI2C:6F}れた{KANJI2E:31}{KANJI2D:68}{KANJI2C:FF}がひそんでいます 
-{Button Square}を{KANJI2F:4D}して{KANJI2E:57}しかけると スカウト{KANJI2A:4A}{KANJI2F:C5}できることがあります 
-{KANJI2F:D3}{KANJI2E:F3}{KANJI2E:95}{KANJI2F:80}な{KANJI2D:68}{KANJI2C:FF}をスカウトして {Besaid Aurochs}を
-トップチームに{KANJI2F:58}くのです!
+{Spira}の{KANJI2A:49}地には ブリッツのトレーニングを続ける
+隠れた名選手がひそんでいます 
+{Button Square}を押して話しかけると スカウト{KANJI2A:4A}約できることがあります 
+将来有望な選手をスカウトして {Besaid Aurochs}を
+トップチームに導くのです!
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
@@ -282,8 +282,8 @@
 {CHOICE:32}キャンセル
 --------------------------------------------------End--
 {WINDOW}
-{Besaid Aurochs}はメンバー{KANJI2D:4F}{KANJI2D:52}が
-{KANJI2D:76}りないので{KANJI2C:EF}{KANJI2C:D2}に{KANJI2C:DF}{KANJI2C:7B}できません 
+{Besaid Aurochs}はメンバー人数が
+足りないので試合に参加できません 
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
@@ -291,32 +291,32 @@
 {CHOICE:31}キャンセル
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}3】{White}
-{Al Bhed2}·{Rin}の{KANJI2F:CB}{KANJI2E:8F}により セーブスフィアに
-{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}への{KANJI2E:F2}{KANJI2A:48}{KANJI2C:99}{KANJI2D:C3}が{KANJI2D:9D}{KANJI2C:7B}されました!
+{Yellow}【旅人のセーブスフィア Lv3】{White}
+{Al Bhed2}·{Rin}の好意により セーブスフィアに
+飛空艇への転{KANJI2A:48}機能が追加されました!
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
-{CHOICE:31}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ
+{CHOICE:31}飛空艇へ
 {CHOICE:32}ブリッツスタジアムへ
 {CHOICE:33}キャンセル
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
-{Gray}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ{White}
+{Gray}飛空艇へ{White}
 {CHOICE:31}ブリッツスタジアムへ
 {CHOICE:32}キャンセル
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
-{CHOICE:31}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ
+{CHOICE:31}飛空艇へ
 {Gray}ブリッツスタジアムへ{White}
 {CHOICE:32}キャンセル
 --------------------------------------------------End--
 {WINDOW}
 
-         {KANJI2C:B6}{KANJI2C:C2}{KANJI2C:7E}
-                 ジョゼ=エボン{KANJI2C:F1}{KANJI2C:6E}
+         幻光河
+                 ジョゼ=エボン寺院
 
  グアドサラム
 
@@ -329,15 +329,15 @@
            ビサイド
 --------------------------------------------------End--
 {AREA}
-{KANJI2E:3F}{KANJI2D:E9}{KANJI2C:B5}
+雷平原
 --------------------------------------------------End--
 {AREA}
-マカラーニャの{KANJI2D:4A}
+マカラーニャの森
 --------------------------------------------------End--
 {WINDOW}
-{Jecht}のスフィアを{KANJI2D:CB}{KANJI2C:B3}した!
+{Jecht}のスフィアを発見した!
 --------------------------------------------------End--
 {WINDOW}
-{CHOICE:30}{KANJI2C:B3}てみる
-{CHOICE:31}{KANJI2C:B3}ない
+{CHOICE:30}見てみる
+{CHOICE:31}見ない
 --------------------------------------------------End--

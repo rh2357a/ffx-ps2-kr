@@ -2,78 +2,78 @@
 ナ ナンだこれ?
 --------------------------------------------------End--
 
-ナ {KANJI2C:7A}がナンだってのよ?
+ナ 何がナンだってのよ?
 --------------------------------------------------End--
 {Tidus}
 ここ なんだ?
 --------------------------------------------------End--
 
-{KANJI2D:B4}{KANJI2E:4D}{KANJI2C:F9}よ 
-トビラに{KANJI2D:3D}いてあったでしょ?
+動力室よ 
+トビラに書いてあったでしょ?
 --------------------------------------------------End--
 {Tidus}
-でも どうしてデカイ{KANJI2F:5F}が?
+でも どうしてデカイ鳥が?
 --------------------------------------------------End--
 
-チョコボ{KANJI2A:30}{KANJI2D:B4}がそんなに{KANJI2A:31}しいの?
+チョコボ{KANJI2A:30}動がそんなに{KANJI2A:31}しいの?
 --------------------------------------------------End--
 {Tidus}
 チョコボ?
 こいつらがチョコボ?
 --------------------------------------------------End--
 
-あんたチョコボを{KANJI2C:B3}たことないの?
+あんたチョコボを見たことないの?
 --------------------------------------------------End--
 
-あんた どこの{KANJI2E:7E}{KANJI2D:AE}から{KANJI2E:F3}たのよ
+あんた どこの孤鳥から来たのよ
 --------------------------------------------------End--
 
 --------------------------------------------------End--
 
 いろいろなことで{KANJI2A:32}くことが
-{KANJI2F:A1}の{KANJI2F:3F}{KANJI2D:46}になりはじめていた
+俺の日常になりはじめていた
 --------------------------------------------------End--
 
 ランララ ララララ ラッラッラ~
 --------------------------------------------------End--
 {WINDOW}
-{Al Bhed}{KANJI2E:5E}{KANJI2E:9D}{KANJI2D:3D}{KANJI2D:85}3{KANJI2E:9E}を {KANJI2C:FF}に{KANJI2D:BF}れた!
+{Al Bhed}語辞書第3巻を 手に入れた!
 --------------------------------------------------End--
 {WINDOW}
-{Al Bhed}{KANJI2E:5E}を{KANJI2A:33}{KANJI2F:A4}した!
+{Al Bhed}語を{KANJI2A:33}習した!
    『{OPurple}ア{White}』{KANJI2A:34}『{Pink}か{White}』
    『{OPurple}チ{White}』{KANJI2A:34}『{Pink}き{White}』
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{Al Bhed}{KANJI2E:5E}{KANJI2D:BF}{KANJI2E:38}】{White}
-{KANJI2C:B3}{KANJI2D:8F}らぬ{KANJI2F:54}{KANJI2A:35}『{Al Bhed}{KANJI2E:5E}』は{Al Bhed}{KANJI2E:5E}{KANJI2E:9D}{KANJI2D:3D}を
-{KANJI2D:CB}{KANJI2C:B3}するとおぼえることができます 
-{OPurple}レバヘ! {Al Bhed}{KANJI2E:5E}ヤヌサー! テンソフム ミオウ!{White}
+{Yellow}【{Al Bhed}語入門】{White}
+見知らぬ言{KANJI2A:35}『{Al Bhed}語』は{Al Bhed}語辞書を
+発見するとおぼえることができます 
+{OPurple}レバヘ! {Al Bhed}語ヤヌサー! テンソフム ミオウ!{White}
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}シュフコンキャ】{White}になった!
+{Tidus}は {Blue}【{Al Bhed}語シュフコンキャ】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}キョキンキャ】{White}になった!
+{Tidus}は {Blue}【{Al Bhed}語キョキンキャ】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【アサヨソオ{Al Bhed}{KANJI2E:5E}】{White}になった!
+{Tidus}は {Blue}【アサヨソオ{Al Bhed}語】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}サンチニュフダル】{White}になった!
+{Tidus}は {Blue}【{Al Bhed}語サンチニュフダル】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【ニュフヒョフハ{Al Bhed}{KANJI2E:5E}】{White}になった!
+{Tidus}は {Blue}【ニュフヒョフハ{Al Bhed}語】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}ポナポナ】{White}になった!
+{Tidus}は {Blue}【{Al Bhed}語ポナポナ】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}デンヒギンハイ】{White}になった!
+{Tidus}は {Blue}【{Al Bhed}語デンヒギンハイ】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【ヤーゼナヌハ{Al Bhed}{KANJI2E:5E}】{White}になった!
+{Tidus}は {Blue}【ヤーゼナヌハ{Al Bhed}語】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}ヤヌサー】{White}になった!
+{Tidus}は {Blue}【{Al Bhed}語ヤヌサー】{White}になった!
 --------------------------------------------------End--

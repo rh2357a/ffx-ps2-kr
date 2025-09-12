@@ -1,5 +1,5 @@
 {Tidus}
-{KANJI2D:89}かいる~?
+誰かいる~?
 --------------------------------------------------End--
 {Tidus}
 {Auron}!!
@@ -11,7 +11,7 @@
 --------------------------------------------------End--
 {Tidus}
 なんですかねぇ
-{KANJI2E:8F}{KANJI2D:FC}がわかりませんねぇ
+意味がわかりませんねぇ
 --------------------------------------------------End--
 {WINDOW}
 
@@ -27,25 +27,25 @@
 --------------------------------------------------End--
 {WINDOW}
 
-なにか{KANJI2E:CF}{KANJI2C:F0}が{KANJI2D:3D}いてある
+なにか文字が書いてある
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{Al Bhed}{KANJI2E:5E}{KANJI2D:BF}{KANJI2E:38}】{White}
-{KANJI2C:B3}{KANJI2D:8F}らぬ{KANJI2F:54}{KANJI2A:30}『{Al Bhed}{KANJI2E:5E}』は{Al Bhed}{KANJI2E:5E}{KANJI2E:9D}{KANJI2D:3D}を
-{KANJI2D:CB}{KANJI2C:B3}するとおぼえることができます 
-{OPurple}レバヘ! {Al Bhed}{KANJI2E:5E}ヤヌサー! テンソフム ミオウ!{White}
+{Yellow}【{Al Bhed}語入門】{White}
+見知らぬ言{KANJI2A:30}『{Al Bhed}語』は{Al Bhed}語辞書を
+発見するとおぼえることができます 
+{OPurple}レバヘ! {Al Bhed}語ヤヌサー! テンソフム ミオウ!{White}
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{Al Bhed}{KANJI2E:5E}{KANJI2E:9D}{KANJI2D:3D}{KANJI2C:D2}{KANJI2D:55}スフィア】{White}
+{Yellow}【{Al Bhed}語辞書合成スフィア】{White}
 --------------------------------------------------End--
 {WINDOW}
-メモリーカード({KANJI2C:3F}{KANJI2C:42}2)にセーブした
+メモリーカード(PS2)にセーブした
 【{FINAL FANTASY X}】のデータから
-{Al Bhed}{KANJI2E:5E}{KANJI2E:9D}{KANJI2D:3D}のデータを{KANJI2A:31}みこんで
-{Al Bhed}{KANJI2E:5E}{KANJI2E:9D}{KANJI2D:3D}を{KANJI2C:D2}{KANJI2D:55}することができます!
+{Al Bhed}語辞書のデータを{KANJI2A:31}みこんで
+{Al Bhed}語辞書を合成することができます!
 --------------------------------------------------End--
 {WINDOW}
-スロットを{KANJI2D:68}{KANJI2D:87}してください
+スロットを選択してください
 {CHOICE:30}スロット1
 {CHOICE:31}スロット2
 {CHOICE:32}キャンセル
@@ -54,60 +54,60 @@
 スロット1
 --------------------------------------------------End--
 {WINDOW}
-スロット1·2ともにメモリーカード({KANJI2C:3F}{KANJI2C:42}2)や
-コントローラのぬきさしは{KANJI2C:CE}わず
+スロット1·2ともにメモリーカード(PS2)や
+コントローラのぬきさしは行わず
 ディスクトレイをあけないでください
 --------------------------------------------------End--
 {WINDOW}
-スロット1にメモリーカード({KANJI2C:3F}{KANJI2C:42}2)がささっていません!
+スロット1にメモリーカード(PS2)がささっていません!
 --------------------------------------------------End--
 {WINDOW}
 【{FINAL FANTASY X}】のセーブデータがありません!
 --------------------------------------------------End--
 {WINDOW}
-{Al Bhed}{KANJI2E:5E}{KANJI2E:9D}{KANJI2D:3D}の{KANJI2A:31}みこみに{KANJI2C:F8}{KANJI2D:C5}しました!
+{Al Bhed}語辞書の{KANJI2A:31}みこみに失敗しました!
 --------------------------------------------------End--
 {WINDOW}
-{Al Bhed}{KANJI2E:5E}{KANJI2E:9D}{KANJI2D:3D}のデータがありません!
+{Al Bhed}語辞書のデータがありません!
 --------------------------------------------------End--
 {WINDOW}
-{Al Bhed}{KANJI2E:5E}{KANJI2E:9D}{KANJI2D:3D}の{KANJI2A:31}みこみに{KANJI2D:55}{KANJI2A:32}しました!
+{Al Bhed}語辞書の{KANJI2A:31}みこみに成{KANJI2A:32}しました!
 --------------------------------------------------End--
 {WINDOW}
-{Al Bhed}{KANJI2E:5E}{KANJI2E:9D}{KANJI2D:3D}を{KANJI2C:D2}{KANJI2D:55}しますか?
+{Al Bhed}語辞書を合成しますか?
 {CHOICE:30}はい
 {CHOICE:31}いいえ
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}シュフコンキャ】{White}になった!
+{Tidus}は {Blue}【{Al Bhed}語シュフコンキャ】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}キョキンキャ】{White}になった!
+{Tidus}は {Blue}【{Al Bhed}語キョキンキャ】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【アサヨソオ{Al Bhed}{KANJI2E:5E}】{White}になった!
+{Tidus}は {Blue}【アサヨソオ{Al Bhed}語】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}サンチニュフダル】{White}になった!
+{Tidus}は {Blue}【{Al Bhed}語サンチニュフダル】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【ニュフヒョフハ{Al Bhed}{KANJI2E:5E}】{White}になった!
+{Tidus}は {Blue}【ニュフヒョフハ{Al Bhed}語】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}ポナポナ】{White}になった!
+{Tidus}は {Blue}【{Al Bhed}語ポナポナ】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}デンヒギンハイ】{White}になった!
+{Tidus}は {Blue}【{Al Bhed}語デンヒギンハイ】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【ヤーゼナヌハ{Al Bhed}{KANJI2E:5E}】{White}になった!
+{Tidus}は {Blue}【ヤーゼナヌハ{Al Bhed}語】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}ヤヌサー】{White}になった!
+{Tidus}は {Blue}【{Al Bhed}語ヤヌサー】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
 スロット2
 --------------------------------------------------End--
 {WINDOW}
-スロット2にメモリーカード({KANJI2C:3F}{KANJI2C:42}2)がささっていません!
+スロット2にメモリーカード(PS2)がささっていません!
 --------------------------------------------------End--

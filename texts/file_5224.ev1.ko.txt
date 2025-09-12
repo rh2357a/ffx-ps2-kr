@@ -1,437 +1,437 @@
 
-{KANJI2E:80}{KANJI2A:3F}{Gagazet}は{KANJI2C:FC}き{KANJI2E:CD}を{KANJI2A:67}む 
-{Ronso}が こしらえた{KANJI2D:E3}{KANJI2C:AB}が{KANJI2A:68}に{KANJI2A:30}つ
+霊{KANJI2A:3F}{Gagazet}は弱き者を{KANJI2A:67}む 
+{Ronso}が こしらえた武具が{KANJI2A:68}に{KANJI2A:30}つ
 --------------------------------------------------End--
 {WINDOW}
-{CHOICE:30}{KANJI2D:E3}{KANJI2C:96}を{KANJI2E:A3}う
-{CHOICE:31}アイテムを{KANJI2E:A3}う
+{CHOICE:30}武器を買う
+{CHOICE:31}アイテムを買う
 {CHOICE:32}やめておく
 --------------------------------------------------End--
 
-{Ronso}は{KANJI2D:46}に{KANJI2D:64}いに{KANJI2D:D9}える
-{KANJI2D:E3}{KANJI2C:AB}の{KANJI2C:FF}{KANJI2D:BF}れを おこたらない
+{Ronso}は常に戦いに備える
+武具の手入れを おこたらない
 --------------------------------------------------End--
 
 {Biran}と{Kimahri}の{KANJI2A:69}{KANJI2A:6A}は
-10{KANJI2D:C1}{KANJI2D:6A}に{KANJI2C:E7}まった
+10年前に始まった
 {NEWPAGE}
 
-{Ronso}の{KANJI2A:6B}{KANJI2A:6C}は{KANJI2D:94}{KANJI2C:93}{KANJI2E:E5}{KANJI2C:E6}で
-{KANJI2D:64}い たがいの{KANJI2E:4D}を{KANJI2A:6D}べる
+{Ronso}の{KANJI2A:6B}{KANJI2A:6C}は仲間同士で
+戦い たがいの力を{KANJI2A:6D}べる
 {NEWPAGE}
 
-{Kimahri}は{Biran}に{KANJI2D:C5}れても
-{KANJI2C:6B}{KANJI2A:4F}も{KANJI2F:42}けを{KANJI2D:C0}めなかった
+{Kimahri}は{Biran}に敗れても
+一{KANJI2A:4F}も負けを認めなかった
 {NEWPAGE}
 
 {KANJI2A:6E}を{KANJI2A:30}てた{Biran}は 
 {Kimahri}の{KANJI2A:4D}をへし{KANJI2A:4E}った
 {NEWPAGE}
 
-{Kimahri}は{KANJI2E:7A}に{KANJI2F:BF}えられず
-{KANJI2C:BF}{KANJI2C:E0}を{KANJI2C:FB}てて{KANJI2D:3A}ていった
+{Kimahri}は恥に耐えられず
+御山を捨てて出ていった
 --------------------------------------------------End--
 
-{Kimahri}が{KANJI2E:30}{KANJI2C:C5}になったのは
-{KANJI2A:4D}を{KANJI2A:4E}られた{KANJI2E:B4}からだ
+{Kimahri}が無口になったのは
+{KANJI2A:4D}を{KANJI2A:4E}られた時からだ
 --------------------------------------------------End--
 
-{Biran}と{Yenke}は{Ronso}の{KANJI2A:6F}{KANJI2E:CD} 
-{KANJI2F:42}けても{KANJI2F:43}うらみなどしない
+{Biran}と{Yenke}は{Ronso}の{KANJI2A:6F}者 
+負けても逆うらみなどしない
 {NEWPAGE}
 
-{KANJI2A:70}{KANJI2E:4D}で{KANJI2E:61}{KANJI2E:79}をつかんだ{Kimahri}を
-{KANJI2E:9B}から{KANJI2A:71}{KANJI2A:72}するだろう
+{KANJI2A:70}力で勝利をつかんだ{Kimahri}を
+心から{KANJI2A:71}{KANJI2A:72}するだろう
 --------------------------------------------------End--
 
-{Kimahri}が{Biran}を{KANJI2E:97}るとは--
-{KANJI2E:DC}り{KANJI2D:7C}き10{KANJI2D:C1}を{KANJI2A:73}ったようだ
+{Kimahri}が{Biran}を破るとは--
+実り多き10年を{KANJI2A:73}ったようだ
 --------------------------------------------------End--
 
-{Ronso}の{KANJI2D:8E}にとって {KANJI2A:4D}を
-{KANJI2A:4E}られるのは なによりの{KANJI2E:7A}
+{Ronso}の男にとって {KANJI2A:4D}を
+{KANJI2A:4E}られるのは なによりの恥
 {NEWPAGE}
 
 {KANJI2A:4D}をなくした{Kimahri}が
-なぜ{KANJI2E:37}って{KANJI2E:F3}れたか ふしぎだ
+なぜ戻って来れたか ふしぎだ
 --------------------------------------------------End--
 
-{KANJI2E:FA}の{Kimahri}に{KANJI2E:7A}じている{KANJI2E:3C}{KANJI2C:E8}はない
-{KANJI2A:4D}より{KANJI2D:84}{KANJI2A:5C}なものを{KANJI2C:FF}に{KANJI2D:BF}れたか
+今の{Kimahri}に恥じている様子はない
+{KANJI2A:4D}より大{KANJI2A:5C}なものを手に入れたか
 --------------------------------------------------End--
 
-{KANJI2A:3F}{KANJI2E:59}を{KANJI2A:74}き{KANJI2D:A9}る{KANJI2E:AE}の{KANJI2A:42}きが{KANJI2F:9E}こえるか
-{Kimahri}の{KANJI2E:61}{KANJI2E:79}をたたえているのだ
+{KANJI2A:3F}々を{KANJI2A:74}き渡る風の{KANJI2A:42}きが聞こえるか
+{Kimahri}の勝利をたたえているのだ
 --------------------------------------------------End--
 
-{KANJI2C:BF}{KANJI2C:E0}に{KANJI2A:74}きすさぶ{KANJI2F:8A}{KANJI2E:AE}は
-{Ronso}の{KANJI2E:AA}よりも{KANJI2A:75}い
+御山に{KANJI2A:74}きすさぶ寒風は
+{Ronso}の牙よりも{KANJI2A:75}い
 {NEWPAGE}
 
-{KANJI2C:FC}き{KANJI2E:CD}は{KANJI2C:CE}く{KANJI2C:FF}をはばまれ
-{KANJI2A:74}{KANJI2F:60}にうもれて{KANJI2E:4D}つきる
+弱き者は行く手をはばまれ
+{KANJI2A:74}雪にうもれて力つきる
 --------------------------------------------------End--
 
-{KANJI2D:6F}{KANJI2D:D9}をととのえ {KANJI2C:8E}{KANJI2F:B4}を{KANJI2C:B1}めて
-{KANJI2E:80}{KANJI2A:3F}の{KANJI2D:9A}をめざせ
+装備をととのえ 覚悟を決めて
+霊{KANJI2A:3F}の頂をめざせ
 --------------------------------------------------End--
 
-{KANJI2E:9B}{KANJI2F:9B}するな {KANJI2D:40}さきガードよ 
-{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}の{KANJI2D:C6}{KANJI2D:93}は{Ronso}が{KANJI2C:FE}る
+心配するな 小さきガードよ 
+召喚士の背中は{Ronso}が守る
 --------------------------------------------------End--
 
-{KANJI2E:5B}いても すべての{Ronso}は{KANJI2D:64}{KANJI2C:E6}
-{KANJI2C:BF}{KANJI2C:E0}を{KANJI2C:FE}る つとめを{KANJI2C:7D}たす 
+老いても すべての{Ronso}は戦士
+御山を守る つとめを果たす 
 {NEWPAGE}
 
-{KANJI2C:EE}を{KANJI2A:76}えるその{KANJI2F:3F}まで 
-{Ronso}は{KANJI2F:3F}{KANJI2F:73} {KANJI2E:AA}をとぐ 
+死を{KANJI2A:76}えるその日まで 
+{Ronso}は日夜 牙をとぐ 
 --------------------------------------------------End--
 
-10{KANJI2D:C1}{KANJI2D:6A}に{KANJI2C:BF}{KANJI2C:E0}を{KANJI2C:FB}てた{Kimahri}が
-{KANJI2E:77}{KANJI2E:59}しく{KANJI2A:77}って{KANJI2E:37}ってくるとは
+10年前に御山を捨てた{Kimahri}が
+雄々しく{KANJI2A:77}って戻ってくるとは
 {NEWPAGE}
 
-もはや{KANJI2C:EA}い{KANJI2C:E3}すことはない
+もはや思い残すことはない
 まさしく{Yevon2}のたまものだ
 --------------------------------------------------End--
 
-さあ{KANJI2C:CE}くがよい 
-{KANJI2E:80}{KANJI2A:3F}{Gagazet}が{KANJI2F:AA}っておる
+さあ行くがよい 
+霊{KANJI2A:3F}{Gagazet}が待っておる
 --------------------------------------------------End--
 
-{Kimahri}が{KANJI2D:84}いなる{KANJI2E:4D}を{KANJI2E:EE}たのは
-{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}{Yuna}のおかげであろう
+{Kimahri}が大いなる力を得たのは
+召喚士{Yuna}のおかげであろう
 {NEWPAGE}
 
 すべての{Ronso}になりかわり
-{KANJI2C:BF}{KANJI2E:50} {KANJI2A:78}し{KANJI2D:43}げようぞ
+御礼 {KANJI2A:78}し上げようぞ
 --------------------------------------------------End--
 
-いずれ{KANJI2C:F1}{KANJI2C:6E}の{KANJI2D:9D}{KANJI2C:FF}が{KANJI2E:F3}る
-{KANJI2D:61}を{KANJI2E:F5}ぐがよい
+いずれ寺院の追手が来る
+先を急ぐがよい
 --------------------------------------------------End--
 {Maechen}
 いにしえの{Spira}について
-{KANJI2E:5E}ってもいいですかな?
+語ってもいいですかな?
 --------------------------------------------------End--
 {WINDOW}
-{CHOICE:30}つぎの{KANJI2C:99}{KANJI2C:81}に
-{CHOICE:31}どうぞ{KANJI2E:5E}ってください
+{CHOICE:30}つぎの機会に
+{CHOICE:31}どうぞ語ってください
 --------------------------------------------------End--
 {Maechen}
 つまらんのう
 --------------------------------------------------End--
 {Maechen}
-こんな{KANJI2F:54}い{KANJI2E:88}えがありましてな
+こんな言い伝えがありましてな
 --------------------------------------------------End--
 {Maechen}
-『{Sin}』が{KANJI2D:3A}{KANJI2C:B8}する{KANJI2E:83}し{KANJI2D:6A}--
+『{Sin}』が出現する少し前--
 --------------------------------------------------End--
 {Maechen}
 {Zanarkand}と{Bevelle}が
-{KANJI2F:C0}しく{KANJI2A:54}っておった{KANJI2E:B4}のこと
+激しく{KANJI2A:54}っておった時のこと
 --------------------------------------------------End--
 {Maechen}
-{Gagazet}を{KANJI2C:C9}め{KANJI2D:AA}った{Bevelle}{KANJI2F:5C}は
-{KANJI2F:60}{KANJI2C:E0}にひびく{KANJI2E:75}を{KANJI2F:9E}いたんですわ
+{Gagazet}を攻め登った{Bevelle}軍は
+雪山にひびく歌を聞いたんですわ
 --------------------------------------------------End--
 {Maechen}
-この{KANJI2F:5D}のものとも{KANJI2C:EA}われぬ{KANJI2E:75}{KANJI2D:59}に
-{KANJI2D:E8}{KANJI2C:E6}はキモをつぶして{KANJI2D:B2}げたとか
+この世のものとも思われぬ歌声に
+兵士はキモをつぶして逃げたとか
 --------------------------------------------------End--
 {Maechen}
-そして{KANJI2F:7A}{KANJI2A:55}する{KANJI2F:5C}を{KANJI2D:9D}うように
-『{Sin}』が{KANJI2C:B8}れたんですな
+そして退{KANJI2A:55}する軍を追うように
+『{Sin}』が現れたんですな
 --------------------------------------------------End--
 {Maechen}
-やがて{Bevelle}の{KANJI2A:56}{KANJI2A:57}{KANJI2D:81}が
-{Gagazet}を{KANJI2D:AA}り--
+やがて{Bevelle}の{KANJI2A:56}{KANJI2A:57}隊が
+{Gagazet}を登り--
 --------------------------------------------------End--
 {Maechen}
-{Zanarkand}の{KANJI2E:E7}{KANJI2F:4B}を
-その{KANJI2E:36}でたしかめたのです
+{Zanarkand}の滅亡を
+その目でたしかめたのです
 --------------------------------------------------End--
 {Maechen}
-{KANJI2E:C8}{KANJI2A:58}は{KANJI2E:97}{KANJI2C:83}されつくし
-{KANJI2D:37}{KANJI2D:FE}はひとり{KANJI2C:E3}らず{KANJI2D:42}{KANJI2C:F8}
+都{KANJI2A:58}は破壊されつくし
+住民はひとり残らず消失
 --------------------------------------------------End--
 {Maechen}
-その{KANJI2D:82}わり {Gagazet}には
-おびただしい{fayth}{KANJI2E:3C}がいて--
+その代わり {Gagazet}には
+おびただしい{fayth}様がいて--
 --------------------------------------------------End--
 {Maechen}
-{KANJI2E:75}っておったのですよ
+歌っておったのですよ
 --------------------------------------------------End--
 {Maechen}
-そう {KANJI2E:FA}{KANJI2F:3F}では {KANJI2C:9B}りの{KANJI2E:75}と
-{KANJI2A:3B}ばれておる{KANJI2E:75}ですな
+そう 今日では 祈りの歌と
+{KANJI2A:3B}ばれておる歌ですな
 --------------------------------------------------End--
 {Maechen}
 ま こんなところですわ
 --------------------------------------------------End--
 {Maechen}
-{KANJI2D:78}きも あるのですがな?
+続きも あるのですがな?
 --------------------------------------------------End--
 {Maechen}
-{KANJI2D:78}きを{KANJI2E:5E}ってもいいですかな?
+続きを語ってもいいですかな?
 --------------------------------------------------End--
 {WINDOW}
-{CHOICE:30}また{KANJI2E:FA}{KANJI2A:4F}ね
-{CHOICE:31}{KANJI2D:78}けて
+{CHOICE:30}また今{KANJI2A:4F}ね
+{CHOICE:31}続けて
 --------------------------------------------------End--
 {Maechen}
-とつじょ{KANJI2C:B8}われた『{Sin}』をめぐり
-{Bevelle}の{KANJI2D:FE}は うわさしました
+とつじょ現われた『{Sin}』をめぐり
+{Bevelle}の民は うわさしました
 --------------------------------------------------End--
 {Maechen}
-{Zanarkand}の{KANJI2D:FE}は{fayth}となって
-『{Sin}』を{KANJI2F:3C}んだのではないか
+{Zanarkand}の民は{fayth}となって
+『{Sin}』を生んだのではないか
 --------------------------------------------------End--
 {Maechen}
-その{KANJI2F:75}を{KANJI2C:CE}った{KANJI2E:CD}こそ--
+その術を行った者こそ--
 --------------------------------------------------End--
 {Maechen}
-{Zanarkand}を{KANJI2A:59}{KANJI2F:9B}していた{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}
+{Zanarkand}を{KANJI2A:59}配していた召喚士
 {Yevon2}ではないかと
 --------------------------------------------------End--
 {Maechen}
-そう {Yunalesca}{KANJI2E:3C}の{KANJI2F:53}{KANJI2A:5A}ですな
+そう {Yunalesca}様の父{KANJI2A:5A}ですな
 --------------------------------------------------End--
 {Maechen}
-{Zanarkand}が{KANJI2E:E7}びた{KANJI2E:B4} 
-{Yunalesca}{KANJI2E:3C}は--
+{Zanarkand}が滅びた時 
+{Yunalesca}様は--
 --------------------------------------------------End--
 {Maechen}
-{KANJI2A:5B}の{Zaon}{KANJI2E:3C}と{KANJI2D:B2}げて 
-{KANJI2E:30}{KANJI2A:5C}だったのです
+{KANJI2A:5B}の{Zaon}様と逃げて 
+無{KANJI2A:5C}だったのです
 --------------------------------------------------End--
 {Maechen}
-その{KANJI2C:BE} おふたりは{KANJI2E:FC}{KANJI2E:A7}{KANJI2D:3F}{KANJI2C:8F}で
-『{Sin}』を{KANJI2D:AB}しました
+その後 おふたりは究極召喚で
+『{Sin}』を倒しました
 --------------------------------------------------End--
 {Maechen}
-ところが{Bevelle}の{KANJI2D:FE}は 
-まだ{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}{Yevon2}を{KANJI2A:5D}れた
+ところが{Bevelle}の民は 
+まだ召喚士{Yevon2}を{KANJI2A:5D}れた
 --------------------------------------------------End--
 {Maechen}
-そこで{Yevon2}の{KANJI2E:69}りをしずめようと
-{Yevon2}をたたえる{KANJI2E:5C}えを{KANJI2C:C7}めたのです
+そこで{Yevon2}の怒りをしずめようと
+{Yevon2}をたたえる教えを広めたのです
 --------------------------------------------------End--
 {Maechen}
-これが{Yevon2}{KANJI2C:F1}{KANJI2C:6E}の{KANJI2C:E7}まりですわ
+これが{Yevon2}寺院の始まりですわ
 --------------------------------------------------End--
 {Maechen}
-もしや{Yunalesca}{KANJI2E:3C}は それを
+もしや{Yunalesca}様は それを
 ねらっておったのかもしれませんな
 --------------------------------------------------End--
 {Maechen}
-{KANJI2C:F6}{KANJI2D:E7}が『{Sin}』を{KANJI2D:AB}すかわりに
-{KANJI2F:53}{Yevon2}の{KANJI2E:31}が{KANJI2C:E3}るように と
+自分が『{Sin}』を倒すかわりに
+父{Yevon2}の名が残るように と
 --------------------------------------------------End--
 {Maechen}
 もちろん{KANJI2A:5E}{KANJI2A:5F}も なにもなく 
-すべては{KANJI2A:60}{KANJI2A:61}の{KANJI2C:65}の{KANJI2D:93} ですわ
+すべては{KANJI2A:60}{KANJI2A:61}の闇の中 ですわ
 --------------------------------------------------End--
 {Maechen}
-{Yevon2}が {Bevelle}の{KANJI2D:A4}だったと
-{KANJI2C:C3}{KANJI2D:DE}できるはずもない
+{Yevon2}が {Bevelle}の敵だったと
+公表できるはずもない
 --------------------------------------------------End--
 {Maechen}
-ですから{KANJI2C:F1}{KANJI2C:6E}は この{KANJI2A:60}{KANJI2A:61}を
-ひた{KANJI2C:6F}しにしとるのです
+ですから寺院は この{KANJI2A:60}{KANJI2A:61}を
+ひた隠しにしとるのです
 --------------------------------------------------End--
 {Maechen}
 ま こんなところですわ
 --------------------------------------------------End--
 {Maechen}
-さらに{KANJI2E:5E}ってもいいですかな?
+さらに語ってもいいですかな?
 --------------------------------------------------End--
 {WINDOW}
-{CHOICE:30}また{KANJI2E:FA}{KANJI2A:4F}ね
-{CHOICE:31}{KANJI2D:78}けて
+{CHOICE:30}また今{KANJI2A:4F}ね
+{CHOICE:31}続けて
 --------------------------------------------------End--
 {Maechen}
-では {KANJI2C:9B}りの{KANJI2E:75}について
-{KANJI2E:5E}るとしましょう
+では 祈りの歌について
+語るとしましょう
 --------------------------------------------------End--
 {Maechen}
 あれはもともと {Bevelle}に
-はむかった{Zanarkand}の{KANJI2E:75}
+はむかった{Zanarkand}の歌
 --------------------------------------------------End--
 {Maechen}
-{KANJI2E:90}{KANJI2A:62} {Yevon2}{KANJI2C:F1}{KANJI2C:6E}は
-{KANJI2E:75}うことを{KANJI2E:D9}じました
+当{KANJI2A:62} {Yevon2}寺院は
+歌うことを禁じました
 --------------------------------------------------End--
 {Maechen}
-すると {KANJI2C:F1}{KANJI2C:6E}に{KANJI2F:D5}わない{KANJI2E:CD}たちが
-{KANJI2F:CB}んで{KANJI2E:75}うようになったんですわ
+すると 寺院に從わない者たちが
+好んで歌うようになったんですわ
 --------------------------------------------------End--
 {Maechen}
 たとえば {Al Bhed}ですな
 --------------------------------------------------End--
 {Maechen}
-{KANJI2C:9B}りの{KANJI2E:75}は {KANJI2C:F1}{KANJI2C:6E}への{KANJI2A:63}{KANJI2A:64}をあらわす
-{KANJI2E:75}となったのです
+祈りの歌は 寺院への{KANJI2A:63}{KANJI2A:64}をあらわす
+歌となったのです
 --------------------------------------------------End--
 {Maechen}
-{KANJI2C:FF}を{KANJI2A:65}いた{KANJI2C:F1}{KANJI2C:6E}は {KANJI2D:F1}{KANJI2D:4D}を{KANJI2D:EB}えました
+手を{KANJI2A:65}いた寺院は 方針を変えました
 --------------------------------------------------End--
 {Maechen}
-{KANJI2E:75}の{KANJI2E:D9}{KANJI2C:ED}を{KANJI2C:FD}りやめ 
-その{KANJI2A:66}{KANJI2E:F3}をねじまげて--
+歌の禁止を取りやめ 
+その{KANJI2A:66}来をねじまげて--
 --------------------------------------------------End--
 {Maechen}
-{KANJI2C:EE}{KANJI2E:CD}の{KANJI2F:34}をしずめる{KANJI2E:75} 
+死者の魂をしずめる歌 
 ということにしたんですわ
 --------------------------------------------------End--
 {Maechen}
-そうやってあの{KANJI2E:75}を 
-{KANJI2C:F1}{KANJI2C:6E}の{KANJI2E:5C}えの{KANJI2D:93}に{KANJI2C:FD}り{KANJI2D:BF}れた と
+そうやってあの歌を 
+寺院の教えの中に取り入れた と
 --------------------------------------------------End--
 {Maechen}
-おかげで {KANJI2E:FA}や{KANJI2C:9B}りの{KANJI2E:75}は
-{Spira}{KANJI2D:93}に{KANJI2C:C7}まっとります
+おかげで 今や祈りの歌は
+{Spira}中に広まっとります
 --------------------------------------------------End--
 {Maechen}
-つまり {KANJI2D:90}{KANJI2D:43}から{KANJI2D:42}えた{Zanarkand}は
-{KANJI2E:75}の{KANJI2D:93}だけに{KANJI2F:3C}き{KANJI2C:E3}ったんですな
+つまり 地上から消えた{Zanarkand}は
+歌の中だけに生き残ったんですな
 --------------------------------------------------End--
 {Maechen}
 おお こりゃずいぶんと
-{KANJI2D:99}{KANJI2E:57}になってしもうた
+長話になってしもうた
 --------------------------------------------------End--
 {Maechen}
-{KANJI2E:5E}れるのがうれしくて つい--
+語れるのがうれしくて つい--
 --------------------------------------------------End--
 {Maechen}
-いやいや いろいろと{KANJI2E:5E}らせて
-もらって {KANJI2F:B8}{KANJI2F:C1}しとりますわ
+いやいや いろいろと語らせて
+もらって 感謝しとりますわ
 --------------------------------------------------End--
 {Maechen}
-もう{KANJI2C:6B}{KANJI2A:4F}{KANJI2E:5E}ってよいのですかな?
+もう一{KANJI2A:4F}語ってよいのですかな?
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}やっぱりヤメ
-{CHOICE:31}ザナルカンドの{KANJI2E:E7}{KANJI2F:4B}
+{CHOICE:31}ザナルカンドの滅亡
 {CHOICE:32}{Yevon2}とユウナレスカ
-{CHOICE:33}{KANJI2C:9B}りの{KANJI2E:75}のこと
+{CHOICE:33}祈りの歌のこと
 --------------------------------------------------End--
 
-{KANJI2E:5B}いた{KANJI2A:5B}は {KANJI2D:64}いの{KANJI2A:7A}に{KANJI2D:B1}ち{KANJI2C:EE}にした
-あれこそ{Ronso}にふさわしい{KANJI2C:EE}にざま
+老いた{KANJI2A:5B}は 戦いの{KANJI2A:7A}に討ち死にした
+あれこそ{Ronso}にふさわしい死にざま
 {NEWPAGE}
 
 {KANJI2A:36}らしく{KANJI2A:41}を{KANJI2A:7B}って
-{KANJI2C:67}{KANJI2C:87}に{KANJI2C:CE}ったことじゃろう
+異界に行ったことじゃろう
 --------------------------------------------------End--
 
-{KANJI2E:80}{KANJI2A:3F}{Gagazet}より{KANJI2A:74}く{KANJI2E:AE}は{KANJI2E:4F}たく
-{KANJI2E:48}れる{KANJI2A:7C}も たちまち{KANJI2F:AF}る
+霊{KANJI2A:3F}{Gagazet}より{KANJI2A:74}く風は冷たく
+流れる{KANJI2A:7C}も たちまち凍る
 {NEWPAGE}
 
-ゆえに{Ronso}は{KANJI2A:7C}を{KANJI2C:FB}てて
-{KANJI2E:72}しみに{KANJI2A:30}ち{KANJI2E:F4}かうのじゃ
+ゆえに{Ronso}は{KANJI2A:7C}を捨てて
+悲しみに{KANJI2A:30}ち向かうのじゃ
 --------------------------------------------------End--
 
-{Ronso}の{KANJI2D:FE}はことごとく{KANJI2D:64}{KANJI2C:E6}
-{KANJI2C:E3}った{KANJI2E:CD}だけでも{KANJI2C:BF}{KANJI2C:E0}を{KANJI2C:FE}る
+{Ronso}の民はことごとく戦士
+残った者だけでも御山を守る
 --------------------------------------------------End--
 
-{KANJI2C:F1}{KANJI2C:6E}が{KANJI2A:47}れておるとは{KANJI2F:54}え 
-{KANJI2E:5C}えを{KANJI2C:FB}てるのは{KANJI2E:92}かろう
+寺院が{KANJI2A:47}れておるとは言え 
+教えを捨てるのは早かろう
 {NEWPAGE}
 
-{KANJI2E:B4}{KANJI2D:82}の{KANJI2C:68}り{KANJI2D:EB}わりを{KANJI2C:B3}きわめて 
-{KANJI2C:FE}るべきものを{KANJI2D:68}ぶのじゃ
+時代の移り変わりを見きわめて 
+守るべきものを選ぶのじゃ
 --------------------------------------------------End--
 
-{KANJI2C:AC}{KANJI2D:D8}ぶ{KANJI2D:67}は {KANJI2C:BF}{KANJI2C:E0}を{KANJI2A:7D}えて{KANJI2D:D8}んできた
-いにしえのザナルカンドの{KANJI2F:3C}き{KANJI2C:E3}りか 
+空飛ぶ船は 御山を{KANJI2A:7D}えて飛んできた
+いにしえのザナルカンドの生き残りか 
 --------------------------------------------------End--
 
-{Ronso}の{KANJI2C:E8}にも{KANJI2A:4D}がある
-{KANJI2D:F8}{KANJI2D:E6}などに{KANJI2F:42}けはしない
+{Ronso}の子にも{KANJI2A:4D}がある
+魔物などに負けはしない
 {NEWPAGE}
 
-{KANJI2F:60}と{KANJI2D:DC}に きたえられて
-{KANJI2C:BF}{KANJI2C:E0}のように{KANJI2D:84}きくなるんだ
+雪と氷に きたえられて
+御山のように大きくなるんだ
 --------------------------------------------------End--
 
-{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}{Yuna}のナギ{KANJI2A:3A}を
-{Ronso}も{KANJI2F:AA}ちこがれている
+召喚士{Yuna}のナギ{KANJI2A:3A}を
+{Ronso}も待ちこがれている
 --------------------------------------------------End--
 
-{KANJI2C:AC}{KANJI2D:D8}ぶ{KANJI2D:67}の{KANJI2D:64}{KANJI2C:E6}たちにも 
-{Ronso}の{KANJI2E:75}が{KANJI2F:9E}こえたと{KANJI2C:EA}う
+空飛ぶ船の戦士たちにも 
+{Ronso}の歌が聞こえたと思う
 {NEWPAGE}
 
-{KANJI2E:75}の{KANJI2E:4D}で『{Sin}』を{KANJI2D:AB}して
+歌の力で『{Sin}』を倒して
 ナギ{KANJI2A:3A}を{KANJI2A:3B}んでほしい
 --------------------------------------------------End--
 
-{KANJI2D:F7}{KANJI2E:90}に{KANJI2D:E9}{KANJI2A:7E}がやってきたら
-{Spira}の{KANJI2C:7D}てまで{KANJI2E:4A}してみたい
+本当に平{KANJI2A:7E}がやってきたら
+{Spira}の果てまで旅してみたい
 --------------------------------------------------End--
 
-{KANJI2C:EE}せる{Seymour}の{KANJI2C:FF}にかかり
-{KANJI2D:7C}くの{Ronso}が{KANJI2E:32}を{KANJI2E:41}した
+死せる{Seymour}の手にかかり
+多くの{Ronso}が命を落した
 {NEWPAGE}
 
-{KANJI2D:64}いに{KANJI2C:EE}するは{Ronso}の{KANJI2D:9F}め
-{KANJI2F:3C}まれた{KANJI2F:3F}から{KANJI2C:8E}{KANJI2F:B4}していたが--
+戦いに死するは{Ronso}の定め
+生まれた日から覚悟していたが--
 {NEWPAGE}
 
-{KANJI2F:3C}き{KANJI2C:E3}りは--あまりに{KANJI2E:83}ない
+生き残りは--あまりに少ない
 --------------------------------------------------End--
 
-{KANJI2E:A8}{KANJI2C:BE}のひとりになろうとも
-{Ronso}は{KANJI2C:BF}{KANJI2C:E0}を{KANJI2C:FB}てはしない
+最後のひとりになろうとも
+{Ronso}は御山を捨てはしない
 --------------------------------------------------End--
 
-{KANJI2C:9B}りの{KANJI2E:75}を{KANJI2E:75}っている{KANJI2E:B4} 
-{KANJI2D:84}きな{KANJI2C:E0}{KANJI2A:79}りが{KANJI2A:42}きわたった
+祈りの歌を歌っている時 
+大きな山{KANJI2A:79}りが{KANJI2A:42}きわたった
 {NEWPAGE}
 
-{KANJI2E:80}{KANJI2A:3F}{Gagazet}も{Ronso}とともに
-{KANJI2E:75}っていたようだ
+霊{KANJI2A:3F}{Gagazet}も{Ronso}とともに
+歌っていたようだ
 --------------------------------------------------End--
 
-{KANJI2E:FA}の{Ronso}には『{Sin}』と{KANJI2D:64}う
-{KANJI2E:4D}はない {KANJI2C:E3}{KANJI2D:C2}なことだ 
+今の{Ronso}には『{Sin}』と戦う
+力はない 残念なことだ 
 --------------------------------------------------End--
 {Kelk}
-{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}{Yuna}とガードよ 
+召喚士{Yuna}とガードよ 
 ここを{KANJI2A:30}ち{KANJI2A:31}れ
 --------------------------------------------------End--
 {Kelk}
-{Gagazet}は{Ronso}の{KANJI2D:90}
-{Yevon2}の{KANJI2D:58}なる{KANJI2C:E0}
+{Gagazet}は{Ronso}の地
+{Yevon2}の聖なる山
 --------------------------------------------------End--
 {Kelk}
-その{KANJI2C:E0}におまえたちを
-{KANJI2D:BF}れるわけにはいかん
+その山におまえたちを
+入れるわけにはいかん
 --------------------------------------------------End--
 {Biran}
-{Yevon2}の{KANJI2D:A4}は{Ronso}の{KANJI2D:A4} 
-{KANJI2E:A6}れ {KANJI2D:D0}{KANJI2F:43}{KANJI2E:CD}!
+{Yevon2}の敵は{Ronso}の敵 
+帰れ 反逆者!
 --------------------------------------------------End--
 {Yuna}
-{KANJI2F:A2}は{KANJI2C:F1}{KANJI2C:6E}を{KANJI2C:FB}てました 
-もう{KANJI2C:F1}{KANJI2C:6E}には{KANJI2F:D5}いません
+私は寺院を捨てました 
+もう寺院には從いません
 --------------------------------------------------End--
 {Kelk}
-おまえはその{KANJI2F:54}{KANJI2A:32}のせいで{KANJI2C:EE}ぬぞ!
+おまえはその言{KANJI2A:32}のせいで死ぬぞ!
 --------------------------------------------------End--
 {Yuna}
 かまいません
 --------------------------------------------------End--
 {Yuna}
-{KANJI2C:F1}{KANJI2C:6E}は{KANJI2E:5C}えをゆがめ 
-{KANJI2F:A2}たちを{KANJI2A:33}{KANJI2D:5E}っています
+寺院は教えをゆがめ 
+私たちを{KANJI2A:33}切っています
 --------------------------------------------------End--
 {Wakka}
-インチキ{KANJI2E:CC}{KANJI2A:34}の
+インチキ野{KANJI2A:34}の
 カタマリってやつだァ!
 --------------------------------------------------End--
 {Tidus}
@@ -441,176 +441,176 @@
 そうだそうだ
 --------------------------------------------------End--
 {Yuna}
-{KANJI2C:BE}{KANJI2A:35}はしていません
+後{KANJI2A:35}はしていません
 --------------------------------------------------End--
 {Yenke}
 ぼうとくするのか!
 --------------------------------------------------End--
 {Kelk}
-{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}とガードとも
-あろう{KANJI2E:CD}が--
+召喚士とガードとも
+あろう者が--
 --------------------------------------------------End--
 {Lulu}
-{Kelk Ronso}{KANJI2E:3C}--
+{Kelk Ronso}様--
 --------------------------------------------------End--
 {Lulu}
 あなたも{Bevelle}に
-{KANJI2D:C6}を{KANJI2E:F4}けたのではありませんか?
+背を向けたのではありませんか?
 --------------------------------------------------End--
 {Auron}
-それでも{KANJI2C:E0}を{KANJI2C:FE}るのは
+それでも山を守るのは
 {Ronso}の{KANJI2A:36}りのためだ
 --------------------------------------------------End--
 {Auron}
-{Yuna}も{KANJI2E:E5}じだ
+{Yuna}も同じだ
 --------------------------------------------------End--
 {Kelk}
 むっ--
 --------------------------------------------------End--
 {Biran}
-{Kelk}{KANJI2D:99}{KANJI2E:5B}!
+{Kelk}長老!
 --------------------------------------------------End--
 {Biran}
-こいつらは{Biran}が{KANJI2A:37}{KANJI2D:5E}れに
+こいつらは{Biran}が{KANJI2A:37}切れに
 してやる
 --------------------------------------------------End--
 {Yenke}
-{KANJI2D:89}も{KANJI2D:B2}がさない
+誰も逃がさない
 --------------------------------------------------End--
 {Yuna}
-はい {KANJI2D:B2}げません
+はい 逃げません
 --------------------------------------------------End--
 {Yuna}
-{KANJI2D:64}って{KANJI2E:4A}を{KANJI2D:78}けます
+戦って旅を続けます
 --------------------------------------------------End--
 {Kelk}
-{KANJI2D:D0}{KANJI2F:43}{KANJI2E:CD}の{KANJI2A:38}{KANJI2E:31}を{KANJI2D:92}せられても
-『{Sin}』に{KANJI2D:95}むというのか?
+反逆者の{KANJI2A:38}名を着せられても
+『{Sin}』に挑むというのか?
 --------------------------------------------------End--
 {Kelk}
-{KANJI2C:F1}{KANJI2C:6E}に{KANJI2D:C6}き {KANJI2D:FE}に{KANJI2A:39}まれても
-{KANJI2E:4A}を{KANJI2D:78}けるというか!
+寺院に背き 民に{KANJI2A:39}まれても
+旅を続けるというか!
 --------------------------------------------------End--
 {Kelk}
-そうまでして {KANJI2D:64}うのは
+そうまでして 戦うのは
 なぜだ
 --------------------------------------------------End--
 {Yuna}
-{Spira}のために{KANJI2D:64}います
+{Spira}のために戦います
 --------------------------------------------------End--
 {Yuna}
-{KANJI2F:A2}はみんなが{KANJI2F:AA}っている
+私はみんなが待っている
 ナギ{KANJI2A:3A}を{KANJI2A:3B}ぶことができます
 --------------------------------------------------End--
 {Yuna}
-{KANJI2F:A2}にできるすべて--
+私にできるすべて--
 --------------------------------------------------End--
 {Yuna}
-『{Sin}』を{KANJI2D:AB}して{KANJI2E:6A}しみを{KANJI2D:35}わらせる
+『{Sin}』を倒して苦しみを終わらせる
 --------------------------------------------------End--
 {Yuna}
 それだけです
 --------------------------------------------------End--
 {Kelk}
-{KANJI2C:F6}{KANJI2D:E7}を{KANJI2A:3C}{KANJI2A:3D}にしても--か
+自分を{KANJI2A:3C}{KANJI2A:3D}にしても--か
 --------------------------------------------------End--
 {Kelk}
-{Ronso}たちよ {KANJI2D:9E}してやれ
+{Ronso}たちよ 通してやれ
 --------------------------------------------------End--
 {Kelk}
-{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}{Yuna}よ 
-おまえの{KANJI2E:8F}{KANJI2E:67}は ハガネより{KANJI2E:8A}い
+召喚士{Yuna}よ 
+おまえの意志は ハガネより強い
 --------------------------------------------------End--
 {Kelk}
-{Ronso}の{KANJI2E:8A}{KANJI2E:CD}が{KANJI2D:75}になろうと 
+{Ronso}の強者が束になろうと 
 {KANJI2A:3E}がらぬであろう
 --------------------------------------------------End--
 {Kelk}
-{KANJI2F:C4}らおまえの{KANJI2C:8E}{KANJI2F:B4}に{KANJI2E:B7}をたれよう
+我らおまえの覚悟に頭をたれよう
 --------------------------------------------------End--
 {Kelk}
-{KANJI2C:CE}くがよい
+行くがよい
 --------------------------------------------------End--
 {Kelk}
-{KANJI2E:80}{KANJI2A:3F}{Gagazet}は 
-{KANJI2A:40}らを{KANJI2D:32}け{KANJI2D:BF}れようぞ
+霊{KANJI2A:3F}{Gagazet}は 
+{KANJI2A:40}らを受け入れようぞ
 --------------------------------------------------End--
 {Yuna}
 ありがとうございます
 --------------------------------------------------End--
 {Kelk}
-{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}{Yuna}の{KANJI2F:54}{KANJI2A:32} 
+召喚士{Yuna}の言{KANJI2A:32} 
 ひとつひとつ{KANJI2A:41}に{KANJI2A:42}いた
 --------------------------------------------------End--
 {Kelk}
-{KANJI2D:59}も{KANJI2D:7E}も{KANJI2D:40}さくとも その{KANJI2C:D0}き{KANJI2E:67}は
-{Gagazet}の{KANJI2D:9A}をも{KANJI2D:98}える
+声も体も小さくとも その高き志は
+{Gagazet}の頂をも超える
 --------------------------------------------------End--
 {Kelk}
-{KANJI2E:80}{KANJI2A:3F}の{KANJI2D:B7}は{KANJI2F:93}しく 
-{KANJI2D:7C}くの{KANJI2D:F8}{KANJI2D:E6}までいる
+霊{KANJI2A:3F}の道は険しく 
+多くの魔物までいる
 --------------------------------------------------End--
 {Kelk}
-{KANJI2F:7C}{KANJI2E:8A}なるガードたちよ
-{KANJI2D:FA}{KANJI2D:6B}の{KANJI2E:65}{KANJI2D:D9}で{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}を{KANJI2C:FE}りたまえ
+屈強なるガードたちよ
+万全の準備で召喚士を守りたまえ
 --------------------------------------------------End--
 {Kelk}
-{KANJI2E:9B}して{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}を{KANJI2C:FE}るのだぞ
+心して召喚士を守るのだぞ
 --------------------------------------------------End--
 {Yuna}
-あと{KANJI2E:83}しだね
+あと少しだね
 --------------------------------------------------End--
 {Lulu}
-{Yuna}は{KANJI2E:8A}くなったわね
+{Yuna}は強くなったわね
 --------------------------------------------------End--
 {Tidus}
 そうか?
 --------------------------------------------------End--
 {Tidus}
-{KANJI2D:DB}{KANJI2C:EE}になってるだけって
-{KANJI2C:9A}がするな
+必死になってるだけって
+気がするな
 --------------------------------------------------End--
 {Lulu}
-だから{KANJI2E:8A}いのよ
-ちゃんと{KANJI2D:6A}に{KANJI2D:4C}んでるわ
+だから強いのよ
+ちゃんと前に進んでるわ
 --------------------------------------------------End--
 {Lulu}
-{KANJI2C:FC}いひとが{KANJI2D:DB}{KANJI2C:EE}になっても
-{KANJI2C:F6}{KANJI2D:E7}を{KANJI2D:9D}いつめて{KANJI2C:83}すだけ
+弱いひとが必死になっても
+自分を追いつめて壊すだけ
 --------------------------------------------------End--
 {Lulu}
-ちゃんと{KANJI2D:6A}に{KANJI2D:4C}めるのは
-{KANJI2E:8A}いからよ
+ちゃんと前に進めるのは
+強いからよ
 --------------------------------------------------End--
 {Lulu}
-{Yuna}は{KANJI2E:8A}くなった--
+{Yuna}は強くなった--
 --------------------------------------------------End--
 {Lulu}
-{KANJI2F:A2}にできるのは そばにいて
-{KANJI2C:FE}ろうとすることだけ
+私にできるのは そばにいて
+守ろうとすることだけ
 --------------------------------------------------End--
 {Lulu}
-{KANJI2C:E0}{KANJI2D:AA}りの{KANJI2E:65}{KANJI2D:D9} {KANJI2A:43}んだわよ
+山登りの準備 {KANJI2A:43}んだわよ
 --------------------------------------------------End--
 {Wakka}
-{KANJI2F:B7}が{KANJI2F:C3}くなるな
+首が痛くなるな
 --------------------------------------------------End--
 {Tidus}
-この{KANJI2E:F4}こうが
+この向こうが
 {Zanarkand}だよな?
 --------------------------------------------------End--
 {Wakka}
 おまえの{KANJI2A:44}{KANJI2A:45}だべ?
 --------------------------------------------------End--
 {Tidus}
-{KANJI2F:A6}じてないくせに
+信じてないくせに
 --------------------------------------------------End--
 {Wakka}
-{KANJI2E:FA}は{KANJI2F:A6}じてるんだァ
+今は信じてるんだァ
 --------------------------------------------------End--
 {Wakka}
-{KANJI2C:E0}の{KANJI2E:F4}こうにあるのは
-{KANJI2C:69}{KANJI2D:5D}かもしれない
+山の向こうにあるのは
+遺跡かもしれない
 --------------------------------------------------End--
 {Wakka}
 けど おまえの{Zanarkand}が
@@ -618,24 +618,24 @@
 --------------------------------------------------End--
 {Wakka}
 そうだべ?
-そのうち{KANJI2E:A6}れるっしょ
+そのうち帰れるっしょ
 --------------------------------------------------End--
 {Tidus}
 そうだといいんだけど
 --------------------------------------------------End--
 {Wakka}
-そうだって {KANJI2C:B4}{KANJI2C:9A}だせ-
+そうだって 元気だせ-
 しっかりやろうなァ
 --------------------------------------------------End--
 {Wakka}
-ちゃんと{KANJI2E:65}{KANJI2D:D9}すれよ 
-{KANJI2C:E0}に{KANJI2D:BF}ったら{KANJI2A:46}はないからなァ
+ちゃんと準備すれよ 
+山に入ったら{KANJI2A:46}はないからなァ
 --------------------------------------------------End--
 {Rikku}
-なんか{KANJI2C:EA}いついた?
+なんか思いついた?
 --------------------------------------------------End--
 {Rikku}
-{KANJI2E:B4}{KANJI2C:93}なくて
+時間なくて
 あせるよ
 --------------------------------------------------End--
 {Rikku}
@@ -645,28 +645,28 @@
 {Biran}と{Yenke}がいない
 --------------------------------------------------End--
 {Tidus}
-{KANJI2C:7A}かたくらんでるな
+何かたくらんでるな
 --------------------------------------------------End--
 {Tidus}
 まあ だいじょぶだって
 --------------------------------------------------End--
 {Kimahri}
-{Biran}は{Ronso}の{KANJI2E:76}{KANJI2E:77} 
-{Yenke}もあなどれない{KANJI2E:8A}{KANJI2E:CD}だ
+{Biran}は{Ronso}の英雄 
+{Yenke}もあなどれない強者だ
 --------------------------------------------------End--
 {Tidus}
-{KANJI2D:64}うハメにならなきゃいいなあ
+戦うハメにならなきゃいいなあ
 --------------------------------------------------End--
 {Kimahri}
-{Kimahri}は{KANJI2D:64}い
-{KANJI2E:61}たねばならない
+{Kimahri}は戦い
+勝たねばならない
 --------------------------------------------------End--
 {Kimahri}
-{KANJI2D:58}なる{Gagazet} 
-{Kimahri}も{KANJI2D:3B}めて{KANJI2D:AA}る
+聖なる{Gagazet} 
+{Kimahri}も初めて登る
 --------------------------------------------------End--
 {Auron}
-{KANJI2C:EA}った{KANJI2D:9E}りだな
+思った通りだな
 --------------------------------------------------End--
 {Tidus}
 なにが?
@@ -676,185 +676,185 @@
 --------------------------------------------------End--
 {Auron}
 まだ{Mika}が{KANJI2A:48}えているが
-{KANJI2D:34}{KANJI2A:49}はすでに{KANJI2A:4A}れている
+周{KANJI2A:49}はすでに{KANJI2A:4A}れている
 --------------------------------------------------End--
 {Tidus}
 {Yevon2}がどうなろうと
 どうでもいいよ
 --------------------------------------------------End--
 {Auron}
-おまえはこの{KANJI2F:5D}{KANJI2C:87}の{KANJI2E:CD}では
+おまえはこの世界の者では
 ないからな
 --------------------------------------------------End--
 {Auron}
-{KANJI2E:5C}えを{KANJI2F:A6}じていた{KANJI2E:CD}たちにとっては
+教えを信じていた者たちにとっては
 --------------------------------------------------End--
 {Auron}
-{KANJI2E:6A}しい{KANJI2E:B4}{KANJI2D:82}がやってくる
+苦しい時代がやってくる
 --------------------------------------------------End--
 {Auron}
-10{KANJI2D:C1}{KANJI2D:6A}も ここで
-{Gagazet}を{KANJI2C:B3}{KANJI2D:43}げた
+10年前も ここで
+{Gagazet}を見上げた
 --------------------------------------------------End--
 {Tidus}
-オヤジは{KANJI2C:7A}か{KANJI2F:54}ってた?
+オヤジは何か言ってた?
 --------------------------------------------------End--
 {Auron}
-{KANJI2C:8E}えていない
+覚えていない
 --------------------------------------------------End--
 {Auron}
-{KANJI2F:A1}が{KANJI2E:FE}えていたのは
+俺が考えていたのは
 --------------------------------------------------End--
 {Auron}
-どうすればブラスカを{KANJI2C:EE}なせずにすむか--それだけだ
+どうすればブラスカを死なせずにすむか--それだけだ
 --------------------------------------------------End--
 {Auron}
 ガードとしての{KANJI2A:4B}{KANJI2A:4C}は
-まもなく{KANJI2D:35}わるぞ
+まもなく終わるぞ
 --------------------------------------------------End--
 {Biran}
-{KANJI2F:AA}て!
+待て!
 --------------------------------------------------End--
 {Tidus}
 もうじゅうぶんだろ
 --------------------------------------------------End--
 {Biran}
-{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}は{KANJI2D:9E}す 
-ガードも{KANJI2D:9E}す
+召喚士は通す 
+ガードも通す
 --------------------------------------------------End--
 {Biran}
-{Kimahri}は{KANJI2D:9E}さない
+{Kimahri}は通さない
 --------------------------------------------------End--
 {Biran}
-{Kimahri}は{Ronso}の{KANJI2E:34}{KANJI2A:38}し 
-{Ronso}の{KANJI2C:E4}{KANJI2E:32}を{KANJI2C:FB}てた
+{Kimahri}は{Ronso}の面{KANJI2A:38}し 
+{Ronso}の使命を捨てた
 --------------------------------------------------End--
 {Yenke}
-{KANJI2C:6B}{KANJI2E:5D}を{KANJI2E:D5}れ {KANJI2C:BF}{KANJI2C:E0}も{KANJI2E:D5}れた!
-{KANJI2D:40}さい{Ronso} {KANJI2C:FC}い{Ronso}!
+一族を忘れ 御山も忘れた!
+小さい{Ronso} 弱い{Ronso}!
 --------------------------------------------------End--
 {Biran}
-{KANJI2C:BF}{KANJI2C:E0}は {KANJI2C:FC}く{KANJI2D:40}さい{KANJI2E:CD}を{KANJI2F:D2}う 
-{KANJI2D:AA}りたければ--
+御山は 弱く小さい者を嫌う 
+登りたければ--
 --------------------------------------------------End--
 {Kimahri}
-{KANJI2E:4D}を{KANJI2C:F5}せばいいのだな
+力を示せばいいのだな
 --------------------------------------------------End--
 {Biran}
-{KANJI2E:61}てると{KANJI2C:EA}うか?
+勝てると思うか?
 --------------------------------------------------End--
 {Biran}
-{KANJI2D:89}が{Kimahri}の{KANJI2A:4D}を{KANJI2A:4E}ったか 
-{KANJI2E:D5}れてはいまい
+誰が{Kimahri}の{KANJI2A:4D}を{KANJI2A:4E}ったか 
+忘れてはいまい
 --------------------------------------------------End--
 {Yenke}
-{Kimahri}は{KANJI2C:6B}{KANJI2A:4F}も
-{Biran}{KANJI2D:84}{KANJI2E:5F}に{KANJI2E:61}ったことがない
+{Kimahri}は一{KANJI2A:4F}も
+{Biran}大兄に勝ったことがない
 --------------------------------------------------End--
 {Kimahri}
-{KANJI2E:FA}{KANJI2A:4F}は{KANJI2E:61}つ 
-{KANJI2E:61}つと{KANJI2C:B1}めた
+今{KANJI2A:4F}は勝つ 
+勝つと決めた
 --------------------------------------------------End--
 {Tidus}
-{Ronso}の{KANJI2F:99}{KANJI2F:9A}だってか
+{Ronso}の問題だってか
 --------------------------------------------------End--
 {Kimahri}
-{Kimahri}の{KANJI2F:99}{KANJI2F:9A}だ
+{Kimahri}の問題だ
 --------------------------------------------------End--
 {Biran}
-{Kimahri}は{KANJI2E:8A}い 
+{Kimahri}は強い 
 {Biran}は{KANJI2A:50}しいぞ
 --------------------------------------------------End--
 {Biran}
-{KANJI2E:80}{KANJI2A:3F}{Gagazet}よ!
+霊{KANJI2A:3F}{Gagazet}よ!
 --------------------------------------------------End--
 {Biran}
-{Biran}を{KANJI2F:42}かした
-{KANJI2D:64}{KANJI2C:E6}の{KANJI2E:31}{KANJI2D:6A}を{KANJI2E:88}えよう!
+{Biran}を負かした
+戦士の名前を伝えよう!
 --------------------------------------------------End--
 {Biran}
-しかと{KANJI2C:8E}えよ {Gagazet}よ!
-その{KANJI2E:31}は{Kimahri Ronso}!
+しかと覚えよ {Gagazet}よ!
+その名は{Kimahri Ronso}!
 --------------------------------------------------End--
 {Yenke}
-{KANJI2C:BF}{KANJI2C:E0}は{Kimahri}の{KANJI2E:8A}さを{KANJI2D:8F}った 
-{Kimahri}を{KANJI2D:32}け{KANJI2D:BF}れるだろう
+御山は{Kimahri}の強さを知った 
+{Kimahri}を受け入れるだろう
 --------------------------------------------------End--
 {Biran}
-{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}!
+召喚士!
 --------------------------------------------------End--
 {Biran}
-{KANJI2C:F1}{KANJI2C:6E}からの{KANJI2D:9D}っ{KANJI2C:FF}は
-{KANJI2F:C4}ら{Ronso}が{KANJI2F:BE}い{KANJI2C:ED}める
+寺院からの追っ手は
+我ら{Ronso}が食い止める
 --------------------------------------------------End--
 {Yuna}
-{KANJI2D:F7}{KANJI2E:90}ですか!
+本当ですか!
 --------------------------------------------------End--
 {Biran}
-{KANJI2F:A5} {Kimahri}の{KANJI2A:4D}を{KANJI2A:4E}った
+昔 {Kimahri}の{KANJI2A:4D}を{KANJI2A:4E}った
 つぐないだ
 --------------------------------------------------End--
 {Yenke}
-{KANJI2D:9D}っ{KANJI2C:FF}は{KANJI2F:C4}らが{KANJI2D:AB}す
+追っ手は我らが倒す
 --------------------------------------------------End--
 {Kimahri}
-{KANJI2F:AA}ち{KANJI2D:32}ける{KANJI2D:A4}は{Kimahri}が{KANJI2D:AB}す
+待ち受ける敵は{Kimahri}が倒す
 --------------------------------------------------End--
 {Biran}
-おまえは{KANJI2E:A8}も{KANJI2A:51}まれた{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}だ
+おまえは最も{KANJI2A:51}まれた召喚士だ
 --------------------------------------------------End--
 {Yuna}
 ありがとうございます
 --------------------------------------------------End--
 {Yenke}
-おまえの{KANJI2D:70}は{Ronso}がみがいてやる
+おまえの像は{Ronso}がみがいてやる
 --------------------------------------------------End--
 {Yuna}
 ありがとう
 --------------------------------------------------End--
 {Yuna}
-でも {KANJI2F:A2}は{KANJI2D:D0}{KANJI2F:43}{KANJI2E:CD}だから
-{KANJI2D:70}は{KANJI2E:9C}ってもらえないと{KANJI2C:EA}う
+でも 私は反逆者だから
+像は作ってもらえないと思う
 --------------------------------------------------End--
 {Biran}
-{Ronso}が{KANJI2E:9C}ってやる
+{Ronso}が作ってやる
 --------------------------------------------------End--
 {Yenke}
 {KANJI2A:30}{KANJI2A:52}な{KANJI2A:4D}をつけてやる
 --------------------------------------------------End--
 {Yuna}
-とっても--{KANJI2E:91}{KANJI2D:A4}ね
+とっても--素敵ね
 --------------------------------------------------End--
 
-{KANJI2F:A1}も{Yuna}の{KANJI2D:70}を
-{KANJI2C:B3}{KANJI2D:43}げたいと{KANJI2C:EA}った
+俺も{Yuna}の像を
+見上げたいと思った
 --------------------------------------------------End--
 
-{Yuna}と{KANJI2C:6B}{KANJI2A:53}に{KANJI2C:B3}{KANJI2D:43}げたいと{KANJI2C:EA}った
+{Yuna}と一{KANJI2A:53}に見上げたいと思った
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}1】{White}
-{KANJI2E:4A}の{KANJI2C:9C}{KANJI2E:56}をスフィアに{KANJI2C:E3}すことができます!
-{KANJI2E:4A}のつかれをいやす{KANJI2C:F6}{KANJI2D:B4}{KANJI2C:82}{KANJI2D:E5}{KANJI2C:99}{KANJI2D:C3}で
-{KANJI2C:37}{KANJI2C:3F}/{KANJI2C:3C}{KANJI2C:3F}が{KANJI2D:6B}{KANJI2C:82}{KANJI2D:E5}します!
+{Yellow}【旅人のセーブスフィア Lv1】{White}
+旅の記録をスフィアに残すことができます!
+旅のつかれをいやす自動回復機能で
+HP/MPが全回復します!
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
 {CHOICE:31}キャンセル
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}2】{White}
-{Besaid Aurochs}の{KANJI2F:6A}{KANJI2A:80}により セーブスフィアに
-{blitzball}スタジアムへの{KANJI2E:F2}{KANJI2A:73}{KANJI2C:99}{KANJI2D:C3}が
-{KANJI2D:9D}{KANJI2C:7B}されました!
+{Yellow}【旅人のセーブスフィア Lv2】{White}
+{Besaid Aurochs}の活{KANJI2A:80}により セーブスフィアに
+{blitzball}スタジアムへの転{KANJI2A:73}機能が
+追加されました!
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【ブリッツスカウトシステム】{White}
-{Spira}の{KANJI2A:81}{KANJI2D:90}には ブリッツのトレーニングを{KANJI2D:78}ける
-{KANJI2C:6F}れた{KANJI2E:31}{KANJI2D:68}{KANJI2C:FF}がひそんでいます 
-{Button Square}を{KANJI2F:4D}して{KANJI2E:57}しかけると スカウト{KANJI2A:82}{KANJI2F:C5}できることがあります 
-{KANJI2F:D3}{KANJI2E:F3}{KANJI2E:95}{KANJI2F:80}な{KANJI2D:68}{KANJI2C:FF}をスカウトして {Besaid Aurochs}を
-トップチームに{KANJI2F:58}くのです!
+{Spira}の{KANJI2A:81}地には ブリッツのトレーニングを続ける
+隠れた名選手がひそんでいます 
+{Button Square}を押して話しかけると スカウト{KANJI2A:82}約できることがあります 
+将来有望な選手をスカウトして {Besaid Aurochs}を
+トップチームに導くのです!
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
@@ -862,8 +862,8 @@
 {CHOICE:32}キャンセル
 --------------------------------------------------End--
 {WINDOW}
-{Besaid Aurochs}はメンバー{KANJI2D:4F}{KANJI2D:52}が
-{KANJI2D:76}りないので{KANJI2C:EF}{KANJI2C:D2}に{KANJI2C:DF}{KANJI2C:7B}できません 
+{Besaid Aurochs}はメンバー人数が
+足りないので試合に参加できません 
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
@@ -871,69 +871,69 @@
 {CHOICE:31}キャンセル
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}3】{White}
-{Al Bhed2}·{Rin}の{KANJI2F:CB}{KANJI2E:8F}により セーブスフィアに
-{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}への{KANJI2E:F2}{KANJI2A:73}{KANJI2C:99}{KANJI2D:C3}が{KANJI2D:9D}{KANJI2C:7B}されました!
+{Yellow}【旅人のセーブスフィア Lv3】{White}
+{Al Bhed2}·{Rin}の好意により セーブスフィアに
+飛空艇への転{KANJI2A:73}機能が追加されました!
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
-{CHOICE:31}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ
+{CHOICE:31}飛空艇へ
 {CHOICE:32}ブリッツスタジアムへ
 {CHOICE:33}キャンセル
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
-{Gray}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ{White}
+{Gray}飛空艇へ{White}
 {CHOICE:31}ブリッツスタジアムへ
 {CHOICE:32}キャンセル
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
-{CHOICE:31}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ
+{CHOICE:31}飛空艇へ
 {Gray}ブリッツスタジアムへ{White}
 {CHOICE:32}キャンセル
 --------------------------------------------------End--
 {WINDOW}
 
-                 ガガゼト{KANJI2C:E0}
+                 ガガゼト山
 
-                      ナギ{KANJI2D:E9}{KANJI2C:B5}
+                      ナギ平原
 
-          べベル=エボン{KANJI2C:F1}{KANJI2C:6E}
-            マカラーニャ=エボン{KANJI2C:F1}{KANJI2C:6E}
+          べベル=エボン寺院
+            マカラーニャ=エボン寺院
 
-            マカラーニャの{KANJI2D:4A}
+            マカラーニャの森
 グアドサラム
-             {KANJI2E:3F}{KANJI2D:E9}{KANJI2C:B5}
+             雷平原
 --------------------------------------------------End--
 {AREA}
-ザナルカンド{KANJI2C:69}{KANJI2D:5D}
+ザナルカンド遺跡
 --------------------------------------------------End--
 {WINDOW}
-ワープ{KANJI2D:61}{KANJI2D:68}{KANJI2D:87}
+ワープ先選択
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}ありません
 --------------------------------------------------End--
 {WINDOW}
-{CHOICE:30}ガガゼト{KANJI2C:E0}·{KANJI2D:AA}{KANJI2C:E0}{KANJI2D:B7}
+{CHOICE:30}ガガゼト山·登山道
 {CHOICE:31}キャンセル
 --------------------------------------------------End--
 {WINDOW}
-{CHOICE:30}ガガゼト{KANJI2C:E0}·{KANJI2D:AA}{KANJI2C:E0}{KANJI2D:B7}
-{CHOICE:31}ガガゼト{KANJI2C:E0}·{KANJI2D:AA}{KANJI2C:E0}{KANJI2D:B6}{KANJI2C:AD}{KANJI2C:FF}{KANJI2D:6A}
+{CHOICE:30}ガガゼト山·登山道
+{CHOICE:31}ガガゼト山·登山洞窟手前
 {CHOICE:32}キャンセル
 --------------------------------------------------End--
 {WINDOW}
-{CHOICE:30}ガガゼト{KANJI2C:E0}·{KANJI2D:AA}{KANJI2C:E0}{KANJI2D:B7}
-{CHOICE:31}ガガゼト{KANJI2C:E0}·{KANJI2D:AA}{KANJI2C:E0}{KANJI2D:B6}{KANJI2C:AD}{KANJI2C:FF}{KANJI2D:6A}
-{CHOICE:32}ガガゼト{KANJI2C:E0}·{KANJI2D:AA}{KANJI2C:E0}{KANJI2D:B6}{KANJI2C:AD}{KANJI2A:7F}
+{CHOICE:30}ガガゼト山·登山道
+{CHOICE:31}ガガゼト山·登山洞窟手前
+{CHOICE:32}ガガゼト山·登山洞窟{KANJI2A:7F}
 {CHOICE:33}キャンセル
 --------------------------------------------------End--
 {WINDOW}
-{CHOICE:30}ガガゼト{KANJI2C:E0}·{KANJI2D:AA}{KANJI2C:E0}{KANJI2D:B7}
-{CHOICE:31}ガガゼト{KANJI2C:E0}·{KANJI2D:AA}{KANJI2C:E0}{KANJI2D:B6}{KANJI2C:AD}{KANJI2C:FF}{KANJI2D:6A}
-{CHOICE:32}ガガゼト{KANJI2C:E0}·{KANJI2D:AA}{KANJI2C:E0}{KANJI2D:B6}{KANJI2C:AD}{KANJI2A:7F}
-{CHOICE:33}ザナルカンド{KANJI2C:69}{KANJI2D:5D}{KANJI2D:34}{KANJI2D:EC}
+{CHOICE:30}ガガゼト山·登山道
+{CHOICE:31}ガガゼト山·登山洞窟手前
+{CHOICE:32}ガガゼト山·登山洞窟{KANJI2A:7F}
+{CHOICE:33}ザナルカンド遺跡周辺
 {CHOICE:34}キャンセル
 --------------------------------------------------End--

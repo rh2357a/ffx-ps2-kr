@@ -9,617 +9,617 @@
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【{blitzball}·チュートリアル】{White}
-{CHOICE:30}{KANJI2C:68}{KANJI2D:B4}について
+{CHOICE:30}移動について
 {CHOICE:31}アクションコマンドについて
 {CHOICE:32}パスについて
 {CHOICE:33}シュートについて
-{CHOICE:34}{KANJI2C:37}{KANJI2C:3F}{KANJI2D:42}{KANJI2D:D5}について
+{CHOICE:34}HP消費について
 {CHOICE:35}エンカウントについて
 {CHOICE:36}ブレイクスルーについて
 {CHOICE:37}テックコピーについて
 {CHOICE:38}パラメータおさらい
-{CHOICE:39}ステータス{KANJI2C:67}{KANJI2D:46}について
+{CHOICE:39}ステータス異常について
 {CHOICE:3A}アビリティについて
 {CHOICE:3B}ゲームモードについて
-{CHOICE:3C}チュートリアル{KANJI2D:35}わり
+{CHOICE:3C}チュートリアル終わり
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【リーグ{KANJI2D:64}】{White}では {KANJI2D:6B}10{KANJI2C:EF}{KANJI2C:D2}を{KANJI2D:64}い
-ポイント{KANJI2D:53}で{KANJI2A:30}{KANJI2E:61}を{KANJI2A:31}います
-{KANJI2E:61}てば3ポイント {KANJI2C:6D}き{KANJI2D:E7}けると
-1ポイント{KANJI2D:BF}{KANJI2C:FF}します
-{KANJI2C:F6}チームが{KANJI2F:42}けている{KANJI2E:B4}のみ
-{Button Triangle}を{KANJI2F:4D}すとギブアップできます
+{Yellow}【リーグ戦】{White}では 全10試合を戦い
+ポイント制で{KANJI2A:30}勝を{KANJI2A:31}います
+勝てば3ポイント 引き分けると
+1ポイント入手します
+自チームが負けている時のみ
+{Button Triangle}を押すとギブアップできます
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【トーナメント】{White}では 2~3{KANJI2C:EF}{KANJI2C:D2}を
-{KANJI2E:61}ちぬいて{KANJI2A:30}{KANJI2E:61}を{KANJI2A:31}います
-{KANJI2C:6D}き{KANJI2D:E7}けはなく {KANJI2E:E5}{KANJI2D:A7}の{KANJI2D:45}{KANJI2C:D2}は
-{KANJI2A:32}{KANJI2D:99}{KANJI2D:64}を{KANJI2C:CE}います
-{KANJI2C:F6}チームが{KANJI2F:42}けている{KANJI2E:B4}のみ
-{Button Triangle}を{KANJI2F:4D}すとギブアップできます
+{Yellow}【トーナメント】{White}では 2~3試合を
+勝ちぬいて{KANJI2A:30}勝を{KANJI2A:31}います
+引き分けはなく 同点の場合は
+{KANJI2A:32}長戦を行います
+自チームが負けている時のみ
+{Button Triangle}を押すとギブアップできます
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【エキシビション】{White}は{KANJI2E:51}{KANJI2F:A4}{KANJI2C:EF}{KANJI2C:D2}です
-{KANJI2C:EF}{KANJI2C:D2}に{KANJI2C:DF}{KANJI2C:7B}しても{KANJI2A:33}{KANJI2A:34}{KANJI2A:35}は{KANJI2D:BF}{KANJI2C:FF}できませんが
+{Yellow}【エキシビション】{White}は練習試合です
+試合に参加しても{KANJI2A:33}{KANJI2A:34}{KANJI2A:35}は入手できませんが
 アビリティはテックコピーできます
-{Button Triangle}を{KANJI2F:4D}すといつでもギブアップできます
+{Button Triangle}を押すといつでもギブアップできます
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【ステータス{KANJI2C:67}{KANJI2D:46}について】{White}{WINDOW}
+{Yellow}【ステータス異常について】{White}{WINDOW}
 
-{CHOICE:30}{KANJI2D:BA}
-{CHOICE:31}{KANJI2D:FF}り
+{CHOICE:30}毒
+{CHOICE:31}眠り
 {CHOICE:32}パワーダウン
 {CHOICE:33}もどる
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2D:BA}】{White}{KANJI2D:48}{KANJI2D:80}になると{Yellow}{KANJI2C:37}{KANJI2C:3F}が{KANJI2C:B7}りやすくなります{White}
-ボールを{KANJI2C:F2}っている{KANJI2E:B4}の{KANJI2C:37}{KANJI2C:3F}の{KANJI2C:B7}り{KANJI2D:F1}が{KANJI2E:92}くなり
-ボールを{KANJI2C:F2}っていない{KANJI2E:B4}も{KANJI2C:37}{KANJI2C:3F}が{KANJI2C:82}{KANJI2D:E5}しません
-{KANJI2E:B4}{KANJI2C:93}がたてば {KANJI2C:F6}{KANJI2A:36}に{KANJI2C:F4}ります
+{Yellow}【毒】{White}状態になると{Yellow}HPが減りやすくなります{White}
+ボールを持っている時のHPの減り方が早くなり
+ボールを持っていない時もHPが回復しません
+時間がたてば 自{KANJI2A:36}に治ります
 --------------------------------------------------End--
 {WINDOW}
-なお{KANJI2D:BA}{KANJI2D:48}{KANJI2D:80}の{KANJI2E:B4}は{Yellow}{KANJI2D:B9}{KANJI2D:30}{KANJI2C:9E}が{KANJI2C:E4}えません{White}
-{KANJI2E:A8}{KANJI2D:3B}はシュートの{KANJI2D:B9}{KANJI2D:30}{KANJI2C:9E}が{KANJI2C:E4}{KANJI2E:3D}できなくなり
-さらに『パイルベノム』で{KANJI2D:BA}{KANJI2C:C4}{KANJI2C:7D}が{KANJI2E:EB}なると
-タックルの{KANJI2D:B9}{KANJI2D:30}{KANJI2C:9E}が{KANJI2E:B5}じられ その{KANJI2C:F3}は
-パスの{KANJI2D:B9}{KANJI2D:30}{KANJI2C:9E}が{KANJI2C:E4}{KANJI2E:3D}{KANJI2D:E0}{KANJI2D:C3}になります
+なお毒状態の時は{Yellow}特殊技が使えません{White}
+最初はシュートの特殊技が使用できなくなり
+さらに『パイルベノム』で毒効果が重なると
+タックルの特殊技が封じられ その次は
+パスの特殊技が使用不能になります
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2D:FF}り】{White}{KANJI2D:48}{KANJI2D:80}になると いっさい{Yellow}{KANJI2C:CE}{KANJI2D:B4}できません{White}
-{KANJI2E:B4}{KANJI2C:93}がたつか ボールがぶつかれば{KANJI2E:36}をさまします
+{Yellow}【眠り】{White}状態になると いっさい{Yellow}行動できません{White}
+時間がたつか ボールがぶつかれば目をさまします
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【パワーダウン】{White}{KANJI2D:48}{KANJI2D:80}になると
-どれか1{KANJI2E:D8}{KANJI2F:30}の{Yellow}{KANJI2D:C3}{KANJI2E:4D}が1/2{White}になります
-{KANJI2E:B4}{KANJI2C:93}がたてば {KANJI2C:F6}{KANJI2A:36}に{KANJI2C:F4}ります
+{Yellow}【パワーダウン】{White}状態になると
+どれか1種類の{Yellow}能力が1/2{White}になります
+時間がたてば 自{KANJI2A:36}に治ります
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【アビリティについて】{White}{WINDOW}
 
 ブリッツボールのアビリティは
-{KANJI2C:EF}{KANJI2C:D2}{KANJI2D:93}に{Yellow}{KANJI2D:A4}からテックコピー{White}したり
-リーグ{KANJI2D:64}やトーナメント{KANJI2D:64}の{KANJI2D:55}{KANJI2A:37}によって
-もらえる{Yellow}{KANJI2A:38}{KANJI2A:39}を{KANJI2C:E4}{KANJI2E:3D}{White}しておぼえます
+試合中に{Yellow}敵からテックコピー{White}したり
+リーグ戦やトーナメント戦の成{KANJI2A:37}によって
+もらえる{Yellow}{KANJI2A:38}{KANJI2A:39}を使用{White}しておぼえます
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2D:BF}{KANJI2C:FF}できるアビリティの{KANJI2E:D8}{KANJI2F:30}は
-{KANJI2D:68}{KANJI2C:FF}によって かぎられています
-はじめのうちは{KANJI2C:6B}{KANJI2D:E4}のアビリティしか
+入手できるアビリティの種類は
+選手によって かぎられています
+はじめのうちは一部のアビリティしか
 おぼえられません
 --------------------------------------------------End--
 {WINDOW}
-ですが 3{KANJI2E:D8}{KANJI2F:30}の{Yellow}【キーアビリティ】{White}を
-おぼえると {KANJI2D:68}{KANJI2C:FF}の{KANJI2D:C3}{KANJI2E:4D}のはばが{KANJI2C:C7}がって
+ですが 3種類の{Yellow}【キーアビリティ】{White}を
+おぼえると 選手の能力のはばが広がって
 それまで おぼえられなかったアビリティも
-{KANJI2D:BF}{KANJI2C:FF}できるようになります
+入手できるようになります
 --------------------------------------------------End--
 {WINDOW}
-キーアビリティの{KANJI2E:D8}{KANJI2F:30}は{KANJI2D:68}{KANJI2C:FF}によってちがい
-1{KANJI2E:D8}{KANJI2F:30}おぼえるごとに{KANJI2D:BF}{KANJI2C:FF}できるアビリティの
-はばが{KANJI2C:C7}がります
+キーアビリティの種類は選手によってちがい
+1種類おぼえるごとに入手できるアビリティの
+はばが広がります
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2C:37}{KANJI2C:3F}】{White}  ({KANJI2C:CE}{KANJI2D:B4}{KANJI2E:4D})
-  ·{KANJI2C:68}{KANJI2D:B4}で{KANJI2D:42}{KANJI2D:D5}
-  ·パスやシュートの{KANJI2C:CE}{KANJI2D:B4}で{KANJI2D:42}{KANJI2D:D5}
-  ·ボールを{KANJI2C:F2}っていないと{KANJI2C:82}{KANJI2D:E5}
-  ·{KANJI2C:37}{KANJI2C:3F}が{KANJI2D:76}りなくなるとパスやシュートの{KANJI2D:C3}{KANJI2E:4D}{KANJI2D:CF}{KANJI2C:B7}
+{Yellow}【HP】{White}  (行動力)
+  ·移動で消費
+  ·パスやシュートの行動で消費
+  ·ボールを持っていないと回復
+  ·HPが足りなくなるとパスやシュートの能力半減
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2C:34}{KANJI2C:3D}】{White}  (フィジカル)
-  ·{KANJI2D:A4}のタックルに{KANJI2F:BF}える{KANJI2E:4D}
-  ·({KANJI2A:3A}{KANJI2D:7F}:{KANJI2C:30}{KANJI2C:43})
+{Yellow}【EN】{White}  (フィジカル)
+  ·敵のタックルに耐える力
+  ·({KANJI2A:3A}対:AT)
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2C:3F}{KANJI2C:30}】{White}  (パス{KANJI2E:4D})
-  ·パスの{KANJI2D:C3}{KANJI2E:4D}
-  ·{KANJI2D:52}{KANJI2A:35}が{KANJI2D:84}きいほどより{KANJI2D:99}い{KANJI2E:D3}{KANJI2E:45}のパス{KANJI2E:B1}{KANJI2D:C3}
-  ·({KANJI2A:3A}{KANJI2D:7F}:{KANJI2C:31}{KANJI2C:3B})
+{Yellow}【PA】{White}  (パス力)
+  ·パスの能力
+  ·数{KANJI2A:35}が大きいほどより長い距離のパス可能
+  ·({KANJI2A:3A}対:BL)
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2C:42}{KANJI2C:37}】{White}  (シュート{KANJI2E:4D})
-  ·シュートの{KANJI2D:C3}{KANJI2E:4D}
-  ·{KANJI2D:52}{KANJI2A:35}が{KANJI2D:84}きいほどより{KANJI2D:99}い{KANJI2E:D3}{KANJI2E:45}のシュート{KANJI2E:B1}{KANJI2D:C3}
-  ·({KANJI2A:3A}{KANJI2D:7F}:{KANJI2C:31}{KANJI2C:3B},{KANJI2C:32}{KANJI2C:30})
+{Yellow}【SH】{White}  (シュート力)
+  ·シュートの能力
+  ·数{KANJI2A:35}が大きいほどより長い距離のシュート可能
+  ·({KANJI2A:3A}対:BL,CA)
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2C:30}{KANJI2C:43}】{White}  ({KANJI2C:C9}{KANJI2C:B0}{KANJI2E:4D})
-  ·タックルの{KANJI2D:C3}{KANJI2E:4D}
-  ·({KANJI2A:3A}{KANJI2D:7F}:{KANJI2C:34}{KANJI2C:3D})
+{Yellow}【AT】{White}  (攻撃力)
+  ·タックルの能力
+  ·({KANJI2A:3A}対:EN)
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2C:31}{KANJI2C:3B}】{White}  (パスカット{KANJI2E:4D})
-  ·パス シュートのカット{KANJI2D:C3}{KANJI2E:4D}
-  ·({KANJI2A:3A}{KANJI2D:7F}:{KANJI2C:3F}{KANJI2C:30},{KANJI2C:42}{KANJI2C:37})
+{Yellow}【BL】{White}  (パスカット力)
+  ·パス シュートのカット能力
+  ·({KANJI2A:3A}対:PA,SH)
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2C:32}{KANJI2C:30}】{White}  (キーパーキャッチ{KANJI2E:4D})
-  ·キーパーがキャッチする{KANJI2D:C3}{KANJI2E:4D}
-  ·({KANJI2A:3A}{KANJI2D:7F}:{KANJI2C:42}{KANJI2C:37})
+{Yellow}【CA】{White}  (キーパーキャッチ力)
+  ·キーパーがキャッチする能力
+  ·({KANJI2A:3A}対:SH)
 --------------------------------------------------End--
 {WINDOW}
 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2D:68}{KANJI2C:FF}は{Yellow}{KANJI2C:37}{KANJI2C:3F}{White}を{KANJI2D:42}{KANJI2D:D5}します 
-{KANJI2C:37}{KANJI2C:3F}はバトルでの{KANJI2C:37}{KANJI2C:3F}とは{KANJI2E:8F}{KANJI2D:FC}が{KANJI2E:83}し{KANJI2A:3B}います 
-{KANJI2C:37}{KANJI2C:3F}が0になっても{KANJI2D:68}{KANJI2C:FF}は{KANJI2D:64}{KANJI2D:B3}{KANJI2D:E0}{KANJI2D:C3}になりません 
+選手は{Yellow}HP{White}を消費します 
+HPはバトルでのHPとは意味が少し{KANJI2A:3B}います 
+HPが0になっても選手は戦闘不能になりません 
 --------------------------------------------------End--
 {WINDOW}
-ブリッツボールにおける{KANJI2C:37}{KANJI2C:3F}とは
-なにか{Yellow}{KANJI2C:CE}{KANJI2D:B4}を{KANJI2E:E6}こすための{KANJI2D:7E}{KANJI2E:4D}{White}だと{KANJI2C:EA}ってください 
+ブリッツボールにおけるHPとは
+なにか{Yellow}行動を起こすための体力{White}だと思ってください 
 --------------------------------------------------End--
 {WINDOW}
-ボールを{KANJI2C:F2}っている{KANJI2D:68}{KANJI2C:FF}は
-どんどん{KANJI2D:7E}{KANJI2E:4D}を{KANJI2D:42}{KANJI2A:3C}していきます 
-つまり{KANJI2C:37}{KANJI2C:3F}が{KANJI2E:83}しずつ{KANJI2C:B7}るのです 
+ボールを持っている選手は
+どんどん体力を消{KANJI2A:3C}していきます 
+つまりHPが少しずつ減るのです 
 --------------------------------------------------End--
 {WINDOW}
-たとえば{Tidus}の{KANJI2C:37}{KANJI2C:3F}{Pink}{VAR12:30}{White}に
-{KANJI2E:8E}{KANJI2E:36}してください ゲームを{KANJI2C:D9}{KANJI2C:88}します 
+たとえば{Tidus}のHP{Pink}{VAR12:30}{White}に
+注目してください ゲームを再開します 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2C:37}{KANJI2C:3F}が{KANJI2C:B7}っていったのを
-{KANJI2C:8D}{KANJI2D:C0}できたと{KANJI2C:EA}います 
+HPが減っていったのを
+確認できたと思います 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2C:37}{KANJI2C:3F}はパスやシュートなどの
-{KANJI2C:CE}{KANJI2D:B4}をすると {KANJI2C:6B}{KANJI2D:9F}の{KANJI2D:52}{KANJI2A:35}を{KANJI2D:42}{KANJI2D:D5}します 
-{KANJI2C:F3}はそのことを{KANJI2C:8D}{KANJI2D:C0}してみましょう 
+HPはパスやシュートなどの
+行動をすると 一定の数{KANJI2A:35}を消費します 
+次はそのことを確認してみましょう 
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}シュート{White}を{KANJI2D:68}んでください 
-シュートで{KANJI2D:42}{KANJI2D:D5}される{KANJI2C:37}{KANJI2C:3F}は{Pink}10{White}です 
-{KANJI2C:37}{KANJI2C:3F}から{Pink}10{White}マイナスされるのに{KANJI2E:8E}{KANJI2E:36}してください 
+{Yellow}シュート{White}を選んでください 
+シュートで消費されるHPは{Pink}10{White}です 
+HPから{Pink}10{White}マイナスされるのに注目してください 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2C:D9}び{KANJI2E:8E}{KANJI2E:36}してください 
-{KANJI2C:37}{KANJI2C:3F}が{Pink}{VAR12:31}{White}から{Pink}{VAR12:30}{White}へ
-{KANJI2C:B7}ったのが{KANJI2C:8D}{KANJI2D:C0}できたと{KANJI2C:EA}います 
+再び注目してください 
+HPが{Pink}{VAR12:31}{White}から{Pink}{VAR12:30}{White}へ
+減ったのが確認できたと思います 
 --------------------------------------------------End--
 {WINDOW}
-このように{KANJI2D:68}{KANJI2C:FF}の{KANJI2C:CE}{KANJI2D:B4}は{KANJI2C:37}{KANJI2C:3F}を
-{KANJI2D:42}{KANJI2D:D5}することによって{KANJI2C:CE}われます 
+このように選手の行動はHPを
+消費することによって行われます 
 --------------------------------------------------End--
 {WINDOW}
-では{KANJI2C:37}{KANJI2C:3F}が{KANJI2D:76}りない{KANJI2D:45}{KANJI2C:D2}は
+ではHPが足りない場合は
 どうなるのでしょうか?
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2C:37}{KANJI2C:3F}が{Pink}10{White}を{KANJI2C:78}{KANJI2C:82}って
-しまっても シュートを{KANJI2E:82}つことができます 
+HPが{Pink}10{White}を下回って
+しまっても シュートを打つことができます 
 --------------------------------------------------End--
 {WINDOW}
-しかしその{KANJI2D:45}{KANJI2C:D2} {KANJI2D:F7}{KANJI2E:F3}のシュート{KANJI2E:4D}が
-{Yellow}{KANJI2D:CF}{KANJI2D:E7}{White}に{KANJI2E:41}ちてしまいます 
+しかしその場合 本来のシュート力が
+{Yellow}半分{White}に落ちてしまいます 
 --------------------------------------------------End--
 {WINDOW}
-コマンドのシュートの{KANJI2A:3D}が{Blue}{KANJI2D:5A}く{White}なっています 
-また {KANJI2D:F7}{KANJI2E:F3}なら{Pink}10{White}のシュート{KANJI2E:4D}が
-{KANJI2D:CF}{KANJI2D:E7}の{Pink}5{White}になっている{KANJI2A:3E}にも{KANJI2E:8E}{KANJI2E:36}してください 
+コマンドのシュートの{KANJI2A:3D}が{Blue}青く{White}なっています 
+また 本来なら{Pink}10{White}のシュート力が
+半分の{Pink}5{White}になっている{KANJI2A:3E}にも注目してください 
 --------------------------------------------------End--
 {WINDOW}
-なおボールを{KANJI2C:F2}っていない{KANJI2D:68}{KANJI2C:FF}の{KANJI2C:37}{KANJI2C:3F}は
-{KANJI2E:83}しずつ{KANJI2C:82}{KANJI2D:E5}していきます 
+なおボールを持っていない選手のHPは
+少しずつ回復していきます 
 --------------------------------------------------End--
 {WINDOW}
 {OCyan}まとめ5{White}
-·ボールを{KANJI2C:F2}っている{KANJI2D:68}{KANJI2C:FF}の{KANJI2C:37}{KANJI2C:3F}は{KANJI2C:B7}っていく
-·ボールを{KANJI2C:F2}っていない{KANJI2D:68}{KANJI2C:FF}の{KANJI2C:37}{KANJI2C:3F}は{KANJI2C:82}{KANJI2D:E5}する
-·パスやシュートは{KANJI2C:37}{KANJI2C:3F}を{KANJI2D:42}{KANJI2D:D5}する
-·{KANJI2C:37}{KANJI2C:3F}が{KANJI2D:76}りない{KANJI2D:45}{KANJI2C:D2}はパスやシュートの{KANJI2A:35}は{KANJI2D:CF}{KANJI2C:B7}する
+·ボールを持っている選手のHPは減っていく
+·ボールを持っていない選手のHPは回復する
+·パスやシュートはHPを消費する
+·HPが足りない場合はパスやシュートの{KANJI2A:35}は半減する
 --------------------------------------------------End--
 {WINDOW}
-では{KANJI2C:F3}は{Yellow}シュート{White}のやり{KANJI2D:F1}をおぼえましょう 
-{KANJI2E:B0}{KANJI2D:F7}{KANJI2D:A5}にはパスと{KANJI2E:E5}じ{KANJI2E:FE}え{KANJI2D:F1}です 
+では次は{Yellow}シュート{White}のやり方をおぼえましょう 
+基本的にはパスと同じ考え方です 
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}シュート{White}を{KANJI2D:68}んでみてください 
+{Yellow}シュート{White}を選んでみてください 
 --------------------------------------------------End--
 {WINDOW}
-このコマンドは {KANJI2F:4E}の{KANJI2C:99}{KANJI2C:81}に{KANJI2E:89}{KANJI2E:66}します 
-{KANJI2E:FA}は{Yellow}シュート{White}を{KANJI2D:68}んでください 
+このコマンドは 別の機会に説明します 
+今は{Yellow}シュート{White}を選んでください 
 --------------------------------------------------End--
 {WINDOW}
-シュートの{KANJI2D:C3}{KANJI2E:4D}をあらわす{KANJI2D:52}{KANJI2A:35}は{Yellow}{KANJI2C:42}{KANJI2C:37}{White}です 
-{KANJI2C:42}{KANJI2C:37}の{KANJI2A:35}{Pink}10{White}に{KANJI2E:8E}{KANJI2E:36}してください 
+シュートの能力をあらわす数{KANJI2A:35}は{Yellow}SH{White}です 
+SHの{KANJI2A:35}{Pink}10{White}に注目してください 
 --------------------------------------------------End--
 {WINDOW}
-パスと{KANJI2A:3B}うのは {KANJI2D:A4}キーパーの{KANJI2D:79}{KANJI2C:DC}です 
-キーパーは{Tidus}のシュートからゴールを{KANJI2C:FE}ります 
+パスと{KANJI2A:3B}うのは 敵キーパーの存在です 
+キーパーは{Tidus}のシュートからゴールを守ります 
 --------------------------------------------------End--
 {WINDOW}
 では さっそくやってみましょう 
 {Button Square}でアクションコマンドを
-{KANJI2C:88}いてください 
+開いてください 
 --------------------------------------------------End--
 {WINDOW}
-パスの{KANJI2E:B4}と{KANJI2E:E5}じように ゴールまでの{KANJI2E:D3}{KANJI2E:45}に{KANJI2A:3F}じて
-{Yellow}{KANJI2C:42}{KANJI2C:37}{White}の{KANJI2A:35}がどんどん{KANJI2C:B7}っていきます 
+パスの時と同じように ゴールまでの距離に{KANJI2A:3F}じて
+{Yellow}SH{White}の{KANJI2A:35}がどんどん減っていきます 
 --------------------------------------------------End--
 {WINDOW}
-ゴールに{KANJI2A:40}{KANJI2F:8C}した{KANJI2E:B4}{KANJI2D:A7}で{KANJI2C:42}{KANJI2C:37}の{KANJI2A:35}が{Pink}0{White}に
-なってしまえばシュート{KANJI2C:F8}{KANJI2D:C5}です 
-{KANJI2F:43}に{KANJI2C:42}{KANJI2C:37}が{Pink}1{White}{KANJI2E:A2}{KANJI2D:43}{KANJI2C:E3}っていればシュート{KANJI2D:55}{KANJI2A:41}です 
+ゴールに{KANJI2A:40}達した時点でSHの{KANJI2A:35}が{Pink}0{White}に
+なってしまえばシュート失敗です 
+逆にSHが{Pink}1{White}以上残っていればシュート成{KANJI2A:41}です 
 --------------------------------------------------End--
 {WINDOW}
-シュートを{KANJI2D:68}ぶと{KANJI2C:F6}{KANJI2D:E7}のステータスのひとつ{KANJI2C:78}に
-{KANJI2E:EA}{KANJI2C:FF}キーパーのステータスが{KANJI2D:DE}{KANJI2C:F5}されます 
+シュートを選ぶと自分のステータスのひとつ下に
+相手キーパーのステータスが表示されます 
 --------------------------------------------------End--
 {WINDOW}
-ステータスの{KANJI2D:C6}{KANJI2C:AF}の{KANJI2F:CD}は
-{Blue}{KANJI2D:5A}{White}が{KANJI2C:F6}チームの{KANJI2D:68}{KANJI2C:FF}
-{Red}{KANJI2A:42}{White}が{KANJI2D:A4}チームの{KANJI2D:68}{KANJI2C:FF}を{KANJI2E:8F}{KANJI2D:FC}しています 
+ステータスの背景の色は
+{Blue}青{White}が自チームの選手
+{Red}{KANJI2A:42}{White}が敵チームの選手を意味しています 
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}{KANJI2C:32}{KANJI2C:30}{White}とは キーパーが
-{KANJI2D:A4}のシュートをキャッチする
-{KANJI2D:C3}{KANJI2E:4D}だと{KANJI2C:EA}ってください 
+{Yellow}CA{White}とは キーパーが
+敵のシュートをキャッチする
+能力だと思ってください 
 --------------------------------------------------End--
 {WINDOW}
-つまり{KANJI2D:A4}キーパーのラウディアは
-キャッチ{KANJI2D:C3}{KANJI2E:4D}が{Pink}8{White}あるということです 
+つまり敵キーパーのラウディアは
+キャッチ能力が{Pink}8{White}あるということです 
 --------------------------------------------------End--
 {WINDOW}
-ではシュートを{KANJI2C:D9}{KANJI2C:88}します 
-{KANJI2C:F6}{KANJI2D:E7}の{Yellow}{KANJI2C:42}{KANJI2C:37}の{KANJI2A:35}{White}の{KANJI2C:B7}り{KANJI2C:AB}{KANJI2C:D2}を{KANJI2E:8E}{KANJI2E:36}してください 
+ではシュートを再開します 
+自分の{Yellow}SHの{KANJI2A:35}{White}の減り具合を注目してください 
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}の{Yellow}{KANJI2C:42}{KANJI2C:37}の{KANJI2A:35}{White}に{KANJI2E:8E}{KANJI2E:36}してください 
+{Tidus}の{Yellow}SHの{KANJI2A:35}{White}に注目してください 
 --------------------------------------------------End--
 {WINDOW}
-この{KANJI2C:BE}キーパーの{Yellow}{KANJI2C:32}{KANJI2C:30}{White}の{KANJI2A:35}が
+この後キーパーの{Yellow}CA{White}の{KANJI2A:35}が
 マイナスされます 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2C:32}{KANJI2C:30}の{KANJI2A:35}をマイナスした{KANJI2C:BE}に
-{KANJI2C:42}{KANJI2C:37}の{KANJI2C:E3}りが{Pink}0{White}ならばシュートは{KANJI2C:F8}{KANJI2D:C5}です 
+CAの{KANJI2A:35}をマイナスした後に
+SHの残りが{Pink}0{White}ならばシュートは失敗です 
 --------------------------------------------------End--
 {WINDOW}
-ただしキーパーの{KANJI2C:32}{KANJI2C:30}の{KANJI2A:35}{Pink}8{White}が
+ただしキーパーのCAの{KANJI2A:35}{Pink}8{White}が
 かならずマイナスされるわけではありません 
-もとの{KANJI2A:35}の50%~150%が{KANJI2E:DC}{KANJI2A:43}のマイナス{KANJI2D:52}{KANJI2A:35}となります 
+もとの{KANJI2A:35}の50%~150%が実{KANJI2A:43}のマイナス数{KANJI2A:35}となります 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2C:32}{KANJI2C:30}の{KANJI2A:35}が{Pink}8{White}の{KANJI2D:45}{KANJI2C:D2}は
+CAの{KANJI2A:35}が{Pink}8{White}の場合は
 およそ{Pink}4{White}~{Pink}12{White}の{KANJI2A:44}が
 マイナスされる{KANJI2A:35}になります 
 --------------------------------------------------End--
 {WINDOW}
-ではシュートを{KANJI2C:D9}{KANJI2C:88}します 
-{Yellow}{KANJI2C:42}{KANJI2C:37}の{KANJI2A:35}{White}が{Pink}0{White}になるか
-どうか{KANJI2E:8E}{KANJI2E:36}してください 
+ではシュートを再開します 
+{Yellow}SHの{KANJI2A:35}{White}が{Pink}0{White}になるか
+どうか注目してください 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2E:D3}{KANJI2E:45}の{KANJI2D:E7}だけマイナスされて
-{KANJI2C:B8}{KANJI2C:DC}は{Pink}{VAR12:30}{White}になっています 
+距離の分だけマイナスされて
+現在は{Pink}{VAR12:30}{White}になっています 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2C:42}{KANJI2C:37}{KANJI2A:35}が{Pink}{VAR12:30}{White}なので
-シュートが{KANJI2D:55}{KANJI2A:41}しました 
+SH{KANJI2A:35}が{Pink}{VAR12:30}{White}なので
+シュートが成{KANJI2A:41}しました 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2C:F3}は{Yellow}マニュアル{KANJI2D:6E}{KANJI2E:9C}{White}で
-ゴールから{KANJI2D:84}きく{KANJI2E:D3}{KANJI2E:45}をとってシュートしてください 
-シュート{KANJI2C:F8}{KANJI2D:C5}のパターンも{KANJI2C:B3}てみましょう 
+次は{Yellow}マニュアル操作{White}で
+ゴールから大きく距離をとってシュートしてください 
+シュート失敗のパターンも見てみましょう 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2C:42}{KANJI2C:37}{KANJI2A:35}が{Pink}0{White}なので
-シュートが{KANJI2C:F8}{KANJI2D:C5}しました 
+SH{KANJI2A:35}が{Pink}0{White}なので
+シュートが失敗しました 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2C:F3}は{Yellow}マニュアル{KANJI2D:6E}{KANJI2E:9C}{White}で
-ゴールに{KANJI2C:A9}づいてシュートしてください 
-シュート{KANJI2D:55}{KANJI2A:41}のパターンも{KANJI2C:B3}てみましょう 
+次は{Yellow}マニュアル操作{White}で
+ゴールに近づいてシュートしてください 
+シュート成{KANJI2A:41}のパターンも見てみましょう 
 --------------------------------------------------End--
 {WINDOW}
 {OCyan}まとめ4{White}
-·{KANJI2D:68}{KANJI2C:FF}のシュート{KANJI2D:C3}{KANJI2E:4D}は{KANJI2C:42}{KANJI2C:37}の{KANJI2A:35}で{KANJI2C:B1}まる
-·{KANJI2C:42}{KANJI2C:37}の{KANJI2A:35}はゴールまでの{KANJI2E:D3}{KANJI2E:45}に{KANJI2A:3F}じて{KANJI2C:B7}る
-·{KANJI2C:42}{KANJI2C:37}の{KANJI2A:35}はキーパーの({KANJI2F:C5}){KANJI2C:32}{KANJI2C:30}の{KANJI2A:35}マイナスされる
-·{KANJI2C:42}{KANJI2C:37}{KANJI2A:35}が{Pink}0{White}になるとシュートは{KANJI2C:F8}{KANJI2D:C5}する
+·選手のシュート能力はSHの{KANJI2A:35}で決まる
+·SHの{KANJI2A:35}はゴールまでの距離に{KANJI2A:3F}じて減る
+·SHの{KANJI2A:35}はキーパーの(約)CAの{KANJI2A:35}マイナスされる
+·SH{KANJI2A:35}が{Pink}0{White}になるとシュートは失敗する
 --------------------------------------------------End--
 {WINDOW}
-では{KANJI2C:F3}は{Yellow}パス{White}のやり{KANJI2D:F1}を
+では次は{Yellow}パス{White}のやり方を
 おぼえましょう 
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}パス{White}を{KANJI2D:68}んでみてください 
+{Yellow}パス{White}を選んでみてください 
 --------------------------------------------------End--
 {WINDOW}
-このコマンドは {KANJI2F:4E}の{KANJI2C:99}{KANJI2C:81}に{KANJI2E:89}{KANJI2E:66}します 
-{KANJI2E:FA}は{Yellow}パス{White}を{KANJI2D:68}んでください 
+このコマンドは 別の機会に説明します 
+今は{Yellow}パス{White}を選んでください 
 --------------------------------------------------End--
 {WINDOW}
-パス{KANJI2E:EA}{KANJI2C:FF}を{KANJI2D:68}{KANJI2D:87}してください 
-{KANJI2E:EA}{KANJI2C:FF}のステータスが{KANJI2C:70}{KANJI2D:43}に{KANJI2D:DE}{KANJI2C:F5}されます 
+パス相手を選択してください 
+相手のステータスが右上に表示されます 
 --------------------------------------------------End--
 {WINDOW}
-パスが{KANJI2D:55}{KANJI2A:41}して{VAR12:30}にボールが
-{KANJI2D:A9}りました 
+パスが成{KANJI2A:41}して{VAR12:30}にボールが
+渡りました 
 --------------------------------------------------End--
 {WINDOW}
-パスの{KANJI2D:55}{KANJI2A:45}は{KANJI2D:68}{KANJI2C:FF}のパラメータに
-よって{KANJI2D:84}きく{KANJI2C:D7}{KANJI2C:70}されます 
+パスの成{KANJI2A:45}は選手のパラメータに
+よって大きく左右されます 
 --------------------------------------------------End--
 {WINDOW}
-パラメータの{Yellow}{KANJI2C:3F}{KANJI2C:30}{White}の{KANJI2D:52}{KANJI2C:F0}を
-{KANJI2C:B3}てください 
+パラメータの{Yellow}PA{White}の数字を
+見てください 
 --------------------------------------------------End--
 {WINDOW}
 {Pink}10{White}というのが
-{VAR12:30}という{KANJI2D:68}{KANJI2C:FF}の{Yellow}パスの{KANJI2D:C3}{KANJI2E:4D}{White}です 
+{VAR12:30}という選手の{Yellow}パスの能力{White}です 
 --------------------------------------------------End--
 {WINDOW}
-では{KANJI2C:D9}び{Tidus}へパスを{KANJI2F:AD}してください 
-{Button Square}でコマンドを{KANJI2C:88}きます 
+では再び{Tidus}へパスを返してください 
+{Button Square}でコマンドを開きます 
 --------------------------------------------------End--
 {WINDOW}
 {Tidus}へパスをします 
-パスの{KANJI2A:35}{Pink}10{White}という{KANJI2D:52}{KANJI2A:35}に{KANJI2E:8E}{KANJI2E:36}してください 
+パスの{KANJI2A:35}{Pink}10{White}という数{KANJI2A:35}に注目してください 
 --------------------------------------------------End--
 {WINDOW}
-パスの{KANJI2D:52}{KANJI2A:35}が{KANJI2C:B7}っていったのを
-{KANJI2C:8D}{KANJI2D:C0}できたと{KANJI2C:EA}います 
+パスの数{KANJI2A:35}が減っていったのを
+確認できたと思います 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2D:52}{KANJI2A:35}はパスの{Yellow}{KANJI2E:D3}{KANJI2E:45}に{KANJI2A:3F}じて{KANJI2C:B7}っていきます {White}
-{KANJI2E:D3}{KANJI2E:45}が{KANJI2D:99}いほど{KANJI2D:52}{KANJI2A:35}を{KANJI2D:7C}く{KANJI2D:42}{KANJI2D:D5}します 
+数{KANJI2A:35}はパスの{Yellow}距離に{KANJI2A:3F}じて減っていきます {White}
+距離が長いほど数{KANJI2A:35}を多く消費します 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2E:EA}{KANJI2C:FF}にボールが{KANJI2A:46}く{KANJI2D:6A}に{KANJI2C:3F}{KANJI2C:30}が{Pink}0{White}に
-なった{KANJI2D:45}{KANJI2C:D2}にパスは{KANJI2C:F8}{KANJI2D:C5}します 
+相手にボールが{KANJI2A:46}く前にPAが{Pink}0{White}に
+なった場合にパスは失敗します 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2E:FA}{KANJI2A:47}の{Tidus}はパスの{KANJI2D:C3}{KANJI2E:4D}が{KANJI2E:E3}い{KANJI2D:68}{KANJI2C:FF}です 
-{KANJI2C:3F}{KANJI2C:30}の{KANJI2A:35}が{Pink}3{White}になっていることに{KANJI2E:8E}{KANJI2E:36}してください 
+今{KANJI2A:47}の{Tidus}はパスの能力が低い選手です 
+PAの{KANJI2A:35}が{Pink}3{White}になっていることに注目してください 
 --------------------------------------------------End--
 {WINDOW}
 では{Button Square}でパスをしてください 
-{KANJI2C:3F}{KANJI2C:30}の{KANJI2A:35}{Pink}3{White}を{KANJI2E:8E}{KANJI2E:36}していてください 
+PAの{KANJI2A:35}{Pink}3{White}を注目していてください 
 --------------------------------------------------End--
 {WINDOW}
-パスが{KANJI2C:F8}{KANJI2D:C5}するとボールは
+パスが失敗するとボールは
 {Yellow}こぼれだま{White}になります 
-こぼれだまは{KANJI2D:A4}がひろう{KANJI2E:B1}{KANJI2D:C3}{KANJI2D:54}もあります 
+こぼれだまは敵がひろう可能性もあります 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2E:A2}{KANJI2D:43}でわかるとおり {KANJI2C:3F}{KANJI2C:30}の{KANJI2A:35}が{KANJI2D:84}きければ
-{KANJI2D:84}きいほど{KANJI2D:99}{KANJI2E:D3}{KANJI2E:45}のパスが{KANJI2E:B1}{KANJI2D:C3}であることがわかります 
+以上でわかるとおり PAの{KANJI2A:35}が大きければ
+大きいほど長距離のパスが可能であることがわかります 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2F:43}にいうと{KANJI2C:3F}{KANJI2C:30}の{KANJI2A:35}が{KANJI2D:40}さい{KANJI2D:68}{KANJI2C:FF}は
-パスが{KANJI2D:E0}{KANJI2E:EE}{KANJI2E:8F}であり {KANJI2E:A8}{KANJI2E:BC}の{KANJI2D:45}{KANJI2C:D2}パスを{KANJI2C:F8}{KANJI2D:C5}して
-{KANJI2D:A4}にボールを{KANJI2D:A9}してしまうこともあるわけです 
+逆にいうとPAの{KANJI2A:35}が小さい選手は
+パスが不得意であり 最悪の場合パスを失敗して
+敵にボールを渡してしまうこともあるわけです 
 --------------------------------------------------End--
 {WINDOW}
 {OCyan}まとめ3{White}
-·{KANJI2D:68}{KANJI2C:FF}のパス{KANJI2D:C3}{KANJI2E:4D}は{KANJI2C:3F}{KANJI2C:30}の{KANJI2A:35}で{KANJI2C:B1}まる
-·{KANJI2C:3F}{KANJI2C:30}の{KANJI2A:35}はパスの{KANJI2E:D3}{KANJI2E:45}に{KANJI2A:3F}じて{KANJI2C:B7}る
-·{KANJI2C:3F}{KANJI2C:30}{KANJI2A:35}が{Pink}0{White}になるとパスは{KANJI2C:F8}{KANJI2D:C5}する
+·選手のパス能力はPAの{KANJI2A:35}で決まる
+·PAの{KANJI2A:35}はパスの距離に{KANJI2A:3F}じて減る
+·PA{KANJI2A:35}が{Pink}0{White}になるとパスは失敗する
 --------------------------------------------------End--
 {WINDOW}
-では しばらくパスの{KANJI2E:51}{KANJI2F:A4}をしてみましょう 
+では しばらくパスの練習をしてみましょう 
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}を{KANJI2D:68}んでください 
+{Tidus}を選んでください 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2D:68}{KANJI2C:FF}が なにか{KANJI2C:CE}{KANJI2D:B4}を{KANJI2E:E6}こすには
-{Yellow}【アクションコマンド】{White}を{KANJI2C:88}く{KANJI2D:DB}{KANJI2E:3E}があります 
+選手が なにか行動を起こすには
+{Yellow}【アクションコマンド】{White}を開く必要があります 
 --------------------------------------------------End--
 {WINDOW}
 アクションコマンドは{Button Square}を
-{KANJI2F:4D}すことによって{KANJI2C:88}きます 
+押すことによって開きます 
 --------------------------------------------------End--
 {WINDOW}
-では{Button Square}を{KANJI2F:4D}してください 
+では{Button Square}を押してください 
 --------------------------------------------------End--
 {WINDOW}
-アクションコマンドを{KANJI2C:88}いている{KANJI2C:93}は
-{KANJI2E:B4}{KANJI2C:93}が{KANJI2C:ED}まります 
-ゆっくりコマンドを{KANJI2D:68}んでください 
+アクションコマンドを開いている間は
+時間が止まります 
+ゆっくりコマンドを選んでください 
 --------------------------------------------------End--
 {WINDOW}
-このコマンドは {KANJI2F:4E}の{KANJI2C:99}{KANJI2C:81}に{KANJI2E:89}{KANJI2E:66}します 
-{KANJI2E:FA}は{Yellow}ドリブル{White}を{KANJI2D:68}んでください 
+このコマンドは 別の機会に説明します 
+今は{Yellow}ドリブル{White}を選んでください 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2D:68}{KANJI2C:FF}が{KANJI2C:FD}れる{KANJI2C:CE}{KANJI2D:B4}はたった3つ 
+選手が取れる行動はたった3つ 
 {Yellow}パス シュート ドリブル{White}です 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2E:FA}{KANJI2D:68}んだ{Yellow}ドリブル{White}は
-{KANJI2E:DC}{KANJI2A:43}には なにもしないで 
-{KANJI2C:68}{KANJI2D:B4}を{KANJI2C:D9}{KANJI2C:88}するコマンドです 
+今選んだ{Yellow}ドリブル{White}は
+実{KANJI2A:43}には なにもしないで 
+移動を再開するコマンドです 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2F:B2}{KANJI2F:B3}{KANJI2E:EB}{KANJI2E:3E}なのは{Yellow}パス{White}と{Yellow}シュート{White}
+結局重要なのは{Yellow}パス{White}と{Yellow}シュート{White}
 の2つのコマンドだけ ということになります 
 --------------------------------------------------End--
 {WINDOW}
 {OCyan}まとめ2{White}
-·{Button Square}でアクションコマンドを{KANJI2C:88}く
-·{KANJI2C:E4}えるコマンドはパス·シュート·ドリブルの3つ
-·ドリブルは{KANJI2C:7A}もしない
+·{Button Square}でアクションコマンドを開く
+·使えるコマンドはパス·シュート·ドリブルの3つ
+·ドリブルは何もしない
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2C:68}{KANJI2D:B4}モード】{White}
+{Yellow}【移動モード】{White}
 {CHOICE:30}オート
-{CHOICE:31}マニュアル{KANJI2C:30}
+{CHOICE:31}マニュアルA
 --------------------------------------------------End--
 {WINDOW}
-フィールドで{KANJI2D:64}う{KANJI2D:68}{KANJI2C:FF}は5{KANJI2D:4F}です 
+フィールドで戦う選手は5人です 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2E:CE}{KANJI2E:34}{KANJI2C:70}{KANJI2C:78}の{Yellow}【{KANJI2D:6B}{KANJI2D:7E}マップ】{White}で
-5{KANJI2D:4F}の{KANJI2C:66}{KANJI2D:91}が{KANJI2C:8D}{KANJI2D:C0}できます 
-({KANJI2E:FA}{KANJI2C:82}は{KANJI2D:A4}チームが{KANJI2D:AA}{KANJI2D:45}していません)
+画面右下の{Yellow}【全体マップ】{White}で
+5人の位置が確認できます 
+(今回は敵チームが登場していません)
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2E:FA}は{Tidus}がボールを{KANJI2C:F2}っています 
+今は{Tidus}がボールを持っています 
 --------------------------------------------------End--
 {WINDOW}
-ボールを{KANJI2C:F2}っている{KANJI2D:68}{KANJI2C:FF}は{Yellow}{KANJI2A:48}で{KANJI2A:49}まれて{White}
-{KANJI2D:DE}{KANJI2C:F5}されます 
+ボールを持っている選手は{Yellow}{KANJI2A:48}で{KANJI2A:49}まれて{White}
+表示されます 
 --------------------------------------------------End--
 {WINDOW}
-では{KANJI2C:68}{KANJI2D:B4}を{KANJI2C:88}{KANJI2C:E7}してみましょう 
+では移動を開始してみましょう 
 --------------------------------------------------End--
 {WINDOW}
-ずいぶん{KANJI2E:36}まぐるしくて
+ずいぶん目まぐるしくて
 とまどったかもしれません 
-ですが{KANJI2E:41}ちついてください 
+ですが落ちついてください 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2C:68}{KANJI2D:B4}は{KANJI2E:B0}{KANJI2D:F7}{KANJI2D:A5}に{Yellow}オート{White}で{KANJI2C:CE}われます 
-なにもしなくても{KANJI2D:68}{KANJI2C:FF}たちは{KANJI2E:61}{KANJI2C:FF}に{KANJI2D:B4}きます 
+移動は基本的に{Yellow}オート{White}で行われます 
+なにもしなくても選手たちは勝手に動きます 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2D:68}{KANJI2C:FF}の{KANJI2C:66}{KANJI2D:91}は{Yellow}【{KANJI2D:6B}{KANJI2D:7E}マップ】{White}で
-{KANJI2D:46}に{KANJI2A:4A}{KANJI2A:4B}しておきましょう 
+選手の位置は{Yellow}【全体マップ】{White}で
+常に{KANJI2A:4A}{KANJI2A:4B}しておきましょう 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2D:A4}のゴールは{Red}{KANJI2A:42}いサークル{White}に
-{KANJI2A:49}まれた{KANJI2F:43}{KANJI2E:8B}{KANJI2A:4C}のわくです 
+敵のゴールは{Red}{KANJI2A:42}いサークル{White}に
+{KANJI2A:49}まれた逆三{KANJI2A:4C}のわくです 
 --------------------------------------------------End--
 {WINDOW}
-これが{KANJI2D:A4}ゴールです 
-{Yellow}【{KANJI2D:6B}{KANJI2D:7E}マップ】{White}{KANJI2D:43}では{KANJI2C:D7}{KANJI2F:4F}に{KANJI2C:66}{KANJI2D:91}しています 
+これが敵ゴールです 
+{Yellow}【全体マップ】{White}上では左側に位置しています 
 --------------------------------------------------End--
 {WINDOW}
-では{KANJI2C:68}{KANJI2D:B4}を{KANJI2C:D9}{KANJI2C:88}します 
-{KANJI2C:F6}{KANJI2D:E7}とゴールの{KANJI2C:66}{KANJI2D:91}{KANJI2E:ED}{KANJI2E:EC}をよく
-{KANJI2E:44}{KANJI2E:B3}してください 
+では移動を再開します 
+自分とゴールの位置関係をよく
+理解してください 
 --------------------------------------------------End--
 {WINDOW}
-なれてきたら{KANJI2D:68}{KANJI2C:FF}を
-{KANJI2C:FF}{KANJI2D:B4}で{KANJI2D:B4}かしてみましょう 
+なれてきたら選手を
+手動で動かしてみましょう 
 --------------------------------------------------End--
 {WINDOW}
-{Button Triangle}を{KANJI2F:4D}してください 
+{Button Triangle}を押してください 
 --------------------------------------------------End--
 {WINDOW}
-オート{KANJI2C:68}{KANJI2D:B4}が{KANJI2E:B3}{KANJI2E:D2}されました 
-{Direcional Up}{Direcional Right}{Direcional Down}{Direcional Left}で{KANJI2D:68}{KANJI2C:FF}を{Yellow}マニュアル{KANJI2C:68}{KANJI2D:B4}{White}させます 
+オート移動が解除されました 
+{Direcional Up}{Direcional Right}{Direcional Down}{Direcional Left}で選手を{Yellow}マニュアル移動{White}させます 
 --------------------------------------------------End--
 {WINDOW}
-カメラが{KANJI2E:36}まぐるしく{KANJI2D:EB}わるために
-{KANJI2C:68}{KANJI2D:B4}や{KANJI2D:48}{KANJI2A:4D}{KANJI2A:4A}{KANJI2A:4B}にコツが{KANJI2D:DB}{KANJI2E:3E}とされます 
-{Yellow}{KANJI2D:43}{KANJI2A:4E}{KANJI2E:CD}{White}になったら{KANJI2D:95}{KANJI2D:64}してみましょう 
+カメラが目まぐるしく変わるために
+移動や状{KANJI2A:4D}{KANJI2A:4A}{KANJI2A:4B}にコツが必要とされます 
+{Yellow}上{KANJI2A:4E}者{White}になったら挑戦してみましょう 
 --------------------------------------------------End--
 {WINDOW}
-では{KANJI2C:D9}び{Button Triangle}を{KANJI2F:4D}してください 
+では再び{Button Triangle}を押してください 
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}オート{White}に{KANJI2E:37}りました 
+{Yellow}オート{White}に戻りました 
 --------------------------------------------------End--
 {WINDOW}
 {OCyan}まとめ1{White}
-·{Yellow}【{KANJI2D:6B}{KANJI2D:7E}マップ】{White}で{KANJI2C:66}{KANJI2D:91}{KANJI2A:4A}{KANJI2A:4B}
-·{Button Triangle}で{KANJI2D:6E}{KANJI2E:9C}モードを{KANJI2D:5E}り{KANJI2A:4F}える
-·{KANJI2D:F4}{KANJI2C:BF}{KANJI2E:B4}はオート{KANJI2D:6E}{KANJI2E:9C}のみ
+·{Yellow}【全体マップ】{White}で位置{KANJI2A:4A}{KANJI2A:4B}
+·{Button Triangle}で操作モードを切り{KANJI2A:4F}える
+·防御時はオート操作のみ
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2D:6E}{KANJI2E:9C}している{KANJI2E:A2}{KANJI2C:8A}の{KANJI2D:68}{KANJI2C:FF}は
-{KANJI2D:48}{KANJI2A:4D}に{KANJI2C:D2}わせてオートで{KANJI2C:CE}{KANJI2D:B4}します 
+操作している以外の選手は
+状{KANJI2A:4D}に合わせてオートで行動します 
 --------------------------------------------------End--
 {WINDOW}
 では しばらくオートとマニュアルの
-{KANJI2D:5E}り{KANJI2A:4F}えを{KANJI2C:F6}{KANJI2A:50}にためしてください 
+切り{KANJI2A:4F}えを自{KANJI2A:50}にためしてください 
 --------------------------------------------------End--
 {WINDOW}
-マニュアル{KANJI2C:30}は{KANJI2C:70}{KANJI2C:78}のガイドマップの
-{KANJI2D:F1}{KANJI2E:F4}とキー{KANJI2D:6E}{KANJI2E:9C}の{KANJI2D:F1}{KANJI2E:F4}が{KANJI2C:6B}{KANJI2A:51}しています 
+マニュアルAは右下のガイドマップの
+方向とキー操作の方向が一{KANJI2A:51}しています 
 --------------------------------------------------End--
 {WINDOW}
-つまり{KANJI2D:A4}ゴールへ{KANJI2E:F4}って{KANJI2C:68}{KANJI2D:B4}するためには{Direcional Left}を
-{KANJI2D:FC}{KANJI2D:F1}ゴールへ{KANJI2E:F4}って{KANJI2C:68}{KANJI2D:B4}するには{Direcional Right}をおします 
+つまり敵ゴールへ向って移動するためには{Direcional Left}を
+味方ゴールへ向って移動するには{Direcional Right}をおします 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2D:F7}{KANJI2D:D3}では{KANJI2D:6E}{KANJI2E:9C}{KANJI2D:F1}{KANJI2E:F4}が{KANJI2A:3B}うマニュアル{KANJI2C:31}もあります 
+本番では操作方向が{KANJI2A:3B}うマニュアルBもあります 
 なれないうちはオートモードでプレイしましょう 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2E:FA}のは{Yellow}{KANJI2C:C9}{KANJI2C:B0}{KANJI2E:B4}{White}の{KANJI2D:6E}{KANJI2E:9C}{KANJI2D:F1}{KANJI2D:F2}です 
-{KANJI2D:A4}がボールを{KANJI2C:F2}つ{KANJI2E:B4} つまり{Yellow}{KANJI2D:F4}{KANJI2C:BF}{KANJI2E:B4}{White}には
-マニュアル{KANJI2D:6E}{KANJI2E:9C}はいっさいできません 
+今のは{Yellow}攻撃時{White}の操作方法です 
+敵がボールを持つ時 つまり{Yellow}防御時{White}には
+マニュアル操作はいっさいできません 
 --------------------------------------------------End--
 {WINDOW}
-オートを{KANJI2D:68}んでください 
+オートを選んでください 
 --------------------------------------------------End--
 {WINDOW}
-マニュアルを{KANJI2D:68}んでください 
+マニュアルを選んでください 
 --------------------------------------------------End--
 
 
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}ノーマル
-{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}{KANJI2C:37}{KANJI2C:3F}
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
 {CHOICE:32}もどる
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}ノーマル
-{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}{KANJI2C:37}{KANJI2C:3F}
-{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}{KANJI2C:37}{KANJI2C:3F}
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}HP
 {CHOICE:33}もどる
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}ノーマル
-{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}{KANJI2C:37}{KANJI2C:3F}
-{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}{KANJI2C:37}{KANJI2C:3F}
-{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C}{KANJI2C:37}{KANJI2C:3F}
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C}HP
 {CHOICE:34}もどる
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}ノーマル
-{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}{KANJI2C:37}{KANJI2C:3F}
-{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}{KANJI2C:37}{KANJI2C:3F}
-{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C}{KANJI2C:37}{KANJI2C:3F}
-{CHOICE:34}{VAR12:33}{VAR07:5E}{VAR12:3D}{KANJI2C:37}{KANJI2C:3F}
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C}HP
+{CHOICE:34}{VAR12:33}{VAR07:5E}{VAR12:3D}HP
 {CHOICE:35}もどる
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}ノーマル
-{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}{KANJI2C:37}{KANJI2C:3F}
-{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}{KANJI2C:37}{KANJI2C:3F}
-{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C}{KANJI2C:37}{KANJI2C:3F}
-{CHOICE:34}{VAR12:33}{VAR07:5E}{VAR12:3D}{KANJI2C:37}{KANJI2C:3F}
-{CHOICE:35}{VAR12:34}{VAR07:5E}{VAR12:3E}{KANJI2C:37}{KANJI2C:3F}
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C}HP
+{CHOICE:34}{VAR12:33}{VAR07:5E}{VAR12:3D}HP
+{CHOICE:35}{VAR12:34}{VAR07:5E}{VAR12:3E}HP
 {CHOICE:36}もどる
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}ノーマル
-{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}{KANJI2C:37}{KANJI2C:3F}
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}ノーマル
-{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}{KANJI2C:37}{KANJI2C:3F}
-{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}{KANJI2C:37}{KANJI2C:3F}
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}HP
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}ノーマル
-{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}{KANJI2C:37}{KANJI2C:3F}
-{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}{KANJI2C:37}{KANJI2C:3F}
-{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C}{KANJI2C:37}{KANJI2C:3F}
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C}HP
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}ノーマル
-{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}{KANJI2C:37}{KANJI2C:3F}
-{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}{KANJI2C:37}{KANJI2C:3F}
-{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C}{KANJI2C:37}{KANJI2C:3F}
-{CHOICE:34}{VAR12:33}{VAR07:5E}{VAR12:3D}{KANJI2C:37}{KANJI2C:3F}
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C}HP
+{CHOICE:34}{VAR12:33}{VAR07:5E}{VAR12:3D}HP
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}ノーマル
-{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}{KANJI2C:37}{KANJI2C:3F}
-{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}{KANJI2C:37}{KANJI2C:3F}
-{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C}{KANJI2C:37}{KANJI2C:3F}
-{CHOICE:34}{VAR12:33}{VAR07:5E}{VAR12:3D}{KANJI2C:37}{KANJI2C:3F}
-{CHOICE:35}{VAR12:34}{VAR07:5E}{VAR12:3E}{KANJI2C:37}{KANJI2C:3F}
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C}HP
+{CHOICE:34}{VAR12:33}{VAR07:5E}{VAR12:3D}HP
+{CHOICE:35}{VAR12:34}{VAR07:5E}{VAR12:3E}HP
 --------------------------------------------------End--
 {WINDOW}
 
@@ -631,128 +631,128 @@
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【ブレイクスルーコマンド】{White}
-{CHOICE:30}{KANJI2D:BB}{KANJI2E:97}しない
-{CHOICE:31}{VAR12:31}まで{KANJI2D:BB}{KANJI2E:97}
+{CHOICE:30}突破しない
+{CHOICE:31}{VAR12:31}まで突破
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【ブレイクスルーコマンド】{White}
-{CHOICE:30}{KANJI2D:BB}{KANJI2E:97}しない
-{CHOICE:31}{VAR12:31}まで{KANJI2D:BB}{KANJI2E:97}
-{CHOICE:32}{VAR12:32}まで{KANJI2D:BB}{KANJI2E:97}
+{CHOICE:30}突破しない
+{CHOICE:31}{VAR12:31}まで突破
+{CHOICE:32}{VAR12:32}まで突破
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【ブレイクスルーコマンド】{White}
-{CHOICE:30}{KANJI2D:BB}{KANJI2E:97}しない
-{CHOICE:31}{VAR12:31}まで{KANJI2D:BB}{KANJI2E:97}
-{CHOICE:32}{VAR12:32}まで{KANJI2D:BB}{KANJI2E:97}
-{CHOICE:33}{VAR12:33}まで{KANJI2D:BB}{KANJI2E:97}
+{CHOICE:30}突破しない
+{CHOICE:31}{VAR12:31}まで突破
+{CHOICE:32}{VAR12:32}まで突破
+{CHOICE:33}{VAR12:33}まで突破
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【ブレイクスルーコマンド】{White}
-{CHOICE:30}{KANJI2D:BB}{KANJI2E:97}しない
-{CHOICE:31}{VAR12:31}まで{KANJI2D:BB}{KANJI2E:97}
-{CHOICE:32}{VAR12:32}まで{KANJI2D:BB}{KANJI2E:97}
-{CHOICE:33}{VAR12:33}まで{KANJI2D:BB}{KANJI2E:97}
-{CHOICE:34}{VAR12:34}まで{KANJI2D:BB}{KANJI2E:97}
+{CHOICE:30}突破しない
+{CHOICE:31}{VAR12:31}まで突破
+{CHOICE:32}{VAR12:32}まで突破
+{CHOICE:33}{VAR12:33}まで突破
+{CHOICE:34}{VAR12:34}まで突破
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【ブレイクスルーコマンド】{White}
-{CHOICE:30}{KANJI2D:BB}{KANJI2E:97}しない
-{CHOICE:31}{VAR12:31}まで{KANJI2D:BB}{KANJI2E:97}
-{CHOICE:32}{VAR12:32}まで{KANJI2D:BB}{KANJI2E:97}
-{CHOICE:33}{VAR12:33}まで{KANJI2D:BB}{KANJI2E:97}
-{CHOICE:34}{VAR12:34}まで{KANJI2D:BB}{KANJI2E:97}
-{CHOICE:35}{VAR12:35}まで{KANJI2D:BB}{KANJI2E:97}
+{CHOICE:30}突破しない
+{CHOICE:31}{VAR12:31}まで突破
+{CHOICE:32}{VAR12:32}まで突破
+{CHOICE:33}{VAR12:33}まで突破
+{CHOICE:34}{VAR12:34}まで突破
+{CHOICE:35}{VAR12:35}まで突破
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【アクションコマンド】{White}
-{CHOICE:30}パス{VAR07:4F}{VAR12:30}{KANJI2C:37}{KANJI2C:3F}
-{CHOICE:31}シュート{VAR07:4F}{VAR12:31}{KANJI2C:37}{KANJI2C:3F}
+{CHOICE:30}パス{VAR07:4F}{VAR12:30}HP
+{CHOICE:31}シュート{VAR07:4F}{VAR12:31}HP
 {CHOICE:32}ドリブル
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【アクションコマンド】{White}
-{CHOICE:30}{Blue}パス{VAR07:4F}{VAR12:30}{KANJI2C:37}{KANJI2C:3F}
-{CHOICE:31}{White}シュート{VAR07:4F}{VAR12:31}{KANJI2C:37}{KANJI2C:3F}
+{CHOICE:30}{Blue}パス{VAR07:4F}{VAR12:30}HP
+{CHOICE:31}{White}シュート{VAR07:4F}{VAR12:31}HP
 {CHOICE:32}ドリブル
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【アクションコマンド】{White}
-{CHOICE:30}パス{VAR07:4F}{VAR12:30}{KANJI2C:37}{KANJI2C:3F}
-{Blue}{CHOICE:31}シュート{VAR07:4F}{VAR12:31}{KANJI2C:37}{KANJI2C:3F}
+{CHOICE:30}パス{VAR07:4F}{VAR12:30}HP
+{Blue}{CHOICE:31}シュート{VAR07:4F}{VAR12:31}HP
 {CHOICE:32}{White}ドリブル
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【アクションコマンド】{White}
-{CHOICE:30}{Blue}パス{VAR07:4F}{VAR12:30}{KANJI2C:37}{KANJI2C:3F}
-{CHOICE:31}シュート{VAR07:4F}{VAR12:31}{KANJI2C:37}{KANJI2C:3F}
+{CHOICE:30}{Blue}パス{VAR07:4F}{VAR12:30}HP
+{CHOICE:31}シュート{VAR07:4F}{VAR12:31}HP
 {CHOICE:32}{White}ドリブル
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【アクションコマンド】{White}
-{CHOICE:30}パス{VAR07:4F}{VAR12:30}{KANJI2C:37}{KANJI2C:3F}
-{CHOICE:31}シュート{VAR07:4F}{VAR12:31}{KANJI2C:37}{KANJI2C:3F}
+{CHOICE:30}パス{VAR07:4F}{VAR12:30}HP
+{CHOICE:31}シュート{VAR07:4F}{VAR12:31}HP
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【アクションコマンド】{White}
-{CHOICE:30}{Blue}パス{VAR07:4F}{VAR12:30}{KANJI2C:37}{KANJI2C:3F}
-{CHOICE:31}{White}シュート{VAR07:4F}{VAR12:31}{KANJI2C:37}{KANJI2C:3F}
+{CHOICE:30}{Blue}パス{VAR07:4F}{VAR12:30}HP
+{CHOICE:31}{White}シュート{VAR07:4F}{VAR12:31}HP
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【アクションコマンド】{White}
-{CHOICE:30}パス{VAR07:4F}{VAR12:30}{KANJI2C:37}{KANJI2C:3F}
-{CHOICE:31}{Blue}シュート{VAR07:4F}{VAR12:31}{KANJI2C:37}{KANJI2C:3F}
+{CHOICE:30}パス{VAR07:4F}{VAR12:30}HP
+{CHOICE:31}{Blue}シュート{VAR07:4F}{VAR12:31}HP
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【アクションコマンド】{White}
-{CHOICE:30}{Blue}パス{VAR07:4F}{VAR12:30}{KANJI2C:37}{KANJI2C:3F}
-{CHOICE:31}シュート{VAR07:4F}{VAR12:31}{KANJI2C:37}{KANJI2C:3F}
+{CHOICE:30}{Blue}パス{VAR07:4F}{VAR12:30}HP
+{CHOICE:31}シュート{VAR07:4F}{VAR12:31}HP
 --------------------------------------------------End--
 {WINDOW}
-{VAR12:30}{KANJI2D:4F}{KANJI2D:BB}{KANJI2E:97}
+{VAR12:30}人突破
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2D:BB}{KANJI2E:97}しない
+突破しない
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2C:CE}{KANJI2D:B4}:パス
+行動:パス
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2C:CE}{KANJI2D:B4}:シュート
+行動:シュート
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2C:CE}{KANJI2D:B4}:ドリブル
+行動:ドリブル
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2D:B9}{KANJI2D:30}{KANJI2C:9E}:{VAR12:30}
+特殊技:{VAR12:30}
 --------------------------------------------------End--
 {WINDOW}
 
 {VAR07:40}{VAR12:30}
 --------------------------------------------------End--
-オーラカ{KANJI2D:68}{KANJI2C:FF}0
+オーラカ選手0
 --------------------------------------------------End--
-オーラカ{KANJI2D:68}{KANJI2C:FF}1
+オーラカ選手1
 --------------------------------------------------End--
-オーラカ{KANJI2D:68}{KANJI2C:FF}2
+オーラカ選手2
 --------------------------------------------------End--
-オーラカ{KANJI2D:68}{KANJI2C:FF}3
+オーラカ選手3
 --------------------------------------------------End--
-オーラカ{KANJI2D:68}{KANJI2C:FF}4
+オーラカ選手4
 --------------------------------------------------End--
-オーラカ{KANJI2D:68}{KANJI2C:FF}5
+オーラカ選手5
 --------------------------------------------------End--
-ゴワーズ{KANJI2D:68}{KANJI2C:FF}0
+ゴワーズ選手0
 --------------------------------------------------End--
-ゴワーズ{KANJI2D:68}{KANJI2C:FF}1
+ゴワーズ選手1
 --------------------------------------------------End--
-ゴワーズ{KANJI2D:68}{KANJI2C:FF}2
+ゴワーズ選手2
 --------------------------------------------------End--
-ゴワーズ{KANJI2D:68}{KANJI2C:FF}3
+ゴワーズ選手3
 --------------------------------------------------End--
-ゴワーズ{KANJI2D:68}{KANJI2C:FF}4
+ゴワーズ選手4
 --------------------------------------------------End--
-ゴワーズ{KANJI2D:68}{KANJI2C:FF}5
+ゴワーズ選手5
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【パスコマンド】{White}
@@ -763,35 +763,35 @@
 --------------------------------------------------End--
 (アナ)
 ああっと!!
-やっぱり{KANJI2D:61}{KANJI2D:53}{KANJI2D:A7}はゴワーズ!
+やっぱり先制点はゴワーズ!
 --------------------------------------------------End--
 (アナ)
-まったく{KANJI2E:EA}{KANJI2C:FF}になりません
+まったく相手になりません
 ビサイド·オーラカ 
 ボロボロです 
 --------------------------------------------------End--
 (アナ)
-ここで{KANJI2D:6A}{KANJI2D:CF}{KANJI2D:35}{KANJI2E:4B}です!
-{VAR12:30}{KANJI2D:7F}{VAR12:31}
+ここで前半終了です!
+{VAR12:30}対{VAR12:31}
 --------------------------------------------------End--
-({KANJI2E:B3}{KANJI2E:89})
-いやー ゴワーズ{KANJI2E:8A}い!
-まったくもって{KANJI2E:8A}い!
+(解説)
+いやー ゴワーズ強い!
+まったくもって強い!
 --------------------------------------------------End--
-({KANJI2E:B3}{KANJI2E:89})
-いやー {KANJI2E:E5}{KANJI2D:A7}ですがゴワーズ{KANJI2E:8A}い!
-まったくもって{KANJI2E:8A}い!
+(解説)
+いやー 同点ですがゴワーズ強い!
+まったくもって強い!
 --------------------------------------------------End--
 (アナ)
-さあ {KANJI2C:A0}{KANJI2D:5B}からも{KANJI2C:F6}{KANJI2A:36}に
+さあ 客席からも自{KANJI2A:36}に
 わきあがるオーラカコール 
-がぜん{KANJI2A:52}り{KANJI2D:43}がってまいりました 
+がぜん{KANJI2A:52}り上がってまいりました 
 --------------------------------------------------End--
 (アナ)
 ゴール ゴール ゴール!
-いや スゴイ!! {KANJI2A:53}{KANJI2D:5D}が
-{KANJI2E:E6}ころうとしているのか?
+いや スゴイ!! {KANJI2A:53}跡が
+起ころうとしているのか?
 --------------------------------------------------End--
 (アナ)
-サポーターたちも{KANJI2A:52}り{KANJI2D:43}がる!!
+サポーターたちも{KANJI2A:52}り上がる!!
 --------------------------------------------------End--

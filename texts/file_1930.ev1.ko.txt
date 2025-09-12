@@ -1,231 +1,231 @@
 {Tidus}
-あれが{Djose}の{KANJI2C:F1}{KANJI2C:6E}?
+あれが{Djose}の寺院?
 --------------------------------------------------End--
 {Lucil}
-{Yuna}{KANJI2E:3C} みなさん
+{Yuna}様 みなさん
 こんにちは
 --------------------------------------------------End--
 {Yuna}
-{KANJI2D:81}{KANJI2D:99}さんたちもご{KANJI2E:30}{KANJI2A:30}で--
+隊長さんたちもご無{KANJI2A:30}で--
 エボンに{KANJI2A:31}えあらんことを
 --------------------------------------------------End--
 {Lucil}
-{KANJI2F:C4}{KANJI2E:59}は{KANJI2F:3C}き{KANJI2A:32}びましたが
-{KANJI2D:64}{KANJI2E:4D}{KANJI2D:A5}には{KANJI2D:6B}{KANJI2E:E7}です
+我々は生き{KANJI2A:32}びましたが
+戦力的には全滅です
 --------------------------------------------------End--
 {Elma}
-{KANJI2F:3C}き{KANJI2C:E3}ったチョコボは
-この{KANJI2C:E8}だけ--
+生き残ったチョコボは
+この子だけ--
 --------------------------------------------------End--
 {Clasko}
-チョコボ{KANJI2E:30}し{KANJI2C:9D}{KANJI2D:E8}{KANJI2D:81}なんて
+チョコボ無し騎兵隊なんて
 みじめだよなあ
 --------------------------------------------------End--
 {Lucil}
-{KANJI2F:A2}たちは{KANJI2E:5C}えに{KANJI2D:C6}き
-{KANJI2F:A6}{KANJI2A:33}を{KANJI2E:B2}り{KANJI2C:FB}てました
+私たちは教えに背き
+信{KANJI2A:33}を放り捨てました
 --------------------------------------------------End--
 {Lucil}
-これがその{KANJI2D:EF}いですね
+これがその報いですね
 --------------------------------------------------End--
 {Lucil}
-お{KANJI2E:92}い{KANJI2D:3A}{KANJI2D:CB}ですね
+お早い出発ですね
 --------------------------------------------------End--
 {Lucil}
-{Yuna}{KANJI2E:3C}は{KANJI2A:35}{KANJI2F:73}{KANJI2A:36}くまで{KANJI2A:37}いて
+{Yuna}様は{KANJI2A:35}夜{KANJI2A:36}くまで{KANJI2A:37}いて
 お{KANJI2A:38}れのようでしたが--
 --------------------------------------------------End--
 {Yuna}
-お{KANJI2C:9A}づかい ありがとうございます 
-でも{KANJI2F:6D}{KANJI2D:E7}{KANJI2F:9F}みましたから
+お気づかい ありがとうございます 
+でも十分休みましたから
 --------------------------------------------------End--
 {Yuna}
-あなたたちも{KANJI2D:3A}{KANJI2D:CB}ですか?
+あなたたちも出発ですか?
 --------------------------------------------------End--
 {Lucil}
-{Moonflow}を{KANJI2D:A9}って{KANJI2D:F5}へ{KANJI2C:CE}き
-チョコボを{KANJI2D:EE}{KANJI2E:FD}します
+{Moonflow}を渡って北へ行き
+チョコボを補充します
 --------------------------------------------------End--
 {Elma}
-チョコボを{KANJI2C:B3}つけたら
-{KANJI2C:9D}{KANJI2D:E8}{KANJI2D:81}の{KANJI2C:D9}{KANJI2A:39}です
+チョコボを見つけたら
+騎兵隊の再{KANJI2A:39}です
 --------------------------------------------------End--
 {Tidus}
-{KANJI2D:89}か{KANJI2D:76}りないんじゃない?
+誰か足りないんじゃない?
 --------------------------------------------------End--
 {Clasko}
 タイチョー!
-{KANJI2F:AA}ってくださーい
+待ってくださーい
 --------------------------------------------------End--
 {Elma}
-{KANJI2C:7A}をしてたのよ {KANJI2D:3A}{KANJI2D:CB}よ
+何をしてたのよ 出発よ
 --------------------------------------------------End--
 {Clasko}
 チョコボになんか ついていけないよ
 --------------------------------------------------End--
 {Lucil}
-では{Yuna}{KANJI2E:3C} ご{KANJI2C:C6}{KANJI2C:71}を
-{Elma} {Clasko} {KANJI2C:CE}くぞ!
+では{Yuna}様 ご幸運を
+{Elma} {Clasko} 行くぞ!
 --------------------------------------------------End--
 {Elma}
 はい!
 --------------------------------------------------End--
 {Clasko}
-ちょっと{KANJI2F:9F}ませてくださいよ
+ちょっと休ませてくださいよ
 --------------------------------------------------End--
 {Elma}
-{KANJI2E:CF}{KANJI2F:AB}{KANJI2F:54}わないの
+文句言わないの
 --------------------------------------------------End--
 
-おい {KANJI2D:D0}{KANJI2F:43}{KANJI2E:CD}はお{KANJI2D:8C}りだ!
+おい 反逆者はお断りだ!
 --------------------------------------------------End--
 
-あんたらは{KANJI2C:F1}{KANJI2C:6E}に{KANJI2C:A9}づくな!
-{KANJI2E:92}く{KANJI2C:CE}くんだ!
+あんたらは寺院に近づくな!
+早く行くんだ!
 --------------------------------------------------End--
 
-われわれの{KANJI2C:9A}{KANJI2C:F2}ちもわかってくれ!
-{KANJI2D:F7}{KANJI2E:90}はこんなこと したくないんだ!
+われわれの気持ちもわかってくれ!
+本当はこんなこと したくないんだ!
 --------------------------------------------------End--
 
-{KANJI2D:D0}{KANJI2F:43}{KANJI2E:CD}だ! ……な~んてな
+反逆者だ! ……な~んてな
 とんでもないデマだったな
 --------------------------------------------------End--
 
 よう {KANJI2A:49}しぶりだな
-{KANJI2C:B4}{KANJI2C:9A}でやってるかい!
+元気でやってるかい!
 --------------------------------------------------End--
 
-われわれも{KANJI2A:4A}{KANJI2F:B0}している
+われわれも{KANJI2A:4A}援している
 がんばってくれよ!!
 --------------------------------------------------End--
 
 たっしゃでな!
-『{Sin}』を{KANJI2D:AB}してくれよな!
+『{Sin}』を倒してくれよな!
 --------------------------------------------------End--
 
-また いつでも{KANJI2E:F3}てくれ!
+また いつでも来てくれ!
 --------------------------------------------------End--
 
-{KANJI2C:B4}{KANJI2C:9A}でな! オレたちも 
-{KANJI2A:4A}{KANJI2F:B0}に{KANJI2C:CE}きたいぐらいだ!
+元気でな! オレたちも 
+{KANJI2A:4A}援に行きたいぐらいだ!
 --------------------------------------------------End--
 {Lucil}
-たくさんの{KANJI2E:30}{KANJI2A:34}な{KANJI2C:EE}は--
-{KANJI2D:D6}けられたはずなのです
+たくさんの無{KANJI2A:34}な死は--
+避けられたはずなのです
 --------------------------------------------------End--
 {Elma}
 もうおまえだけだね
-でも{KANJI2F:A2}たちがいっしょだからね
+でも私たちがいっしょだからね
 --------------------------------------------------End--
 {Clasko}
-{KANJI2E:5C}えを{KANJI2E:30}{KANJI2F:92}しちゃ
+教えを無視しちゃ
 ダメってことだなあ
 --------------------------------------------------End--
 
-マキナでは『{Sin}』は{KANJI2D:AB}せない
-たよりになるのは{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}{KANJI2E:3C}だけ……
+マキナでは『{Sin}』は倒せない
+たよりになるのは召喚士様だけ……
 {NEWPAGE}
 
-{Yevon2}の{KANJI2E:5C}えが{KANJI2D:57}しいんだ
-{KANJI2F:43}らった{Crusader}がバカだったのさ
+{Yevon2}の教えが正しいんだ
+逆らった{Crusader}がバカだったのさ
 --------------------------------------------------End--
 
-これ {KANJI2C:F2}ってってくれよ
-オレはもう{KANJI2C:E4}わねえからさ
+これ 持ってってくれよ
+オレはもう使わねえからさ
 --------------------------------------------------End--
 
-{KANJI2D:FE}は{KANJI2E:5C}えを{KANJI2C:FE}って{KANJI2F:3C}きるしかねえ
-{KANJI2E:FA}{KANJI2A:3A}のことで {KANJI2C:EA}い{KANJI2D:8F}らされたぜ
+民は教えを守って生きるしかねえ
+今{KANJI2A:3A}のことで 思い知らされたぜ
 --------------------------------------------------End--
 
-{Crusader}が{KANJI2A:3B}{KANJI2C:83}しちまったから
-しばらく{KANJI2C:F1}{KANJI2C:6E}の{KANJI2A:3C}{KANJI2D:D9}を{KANJI2C:FF}{KANJI2E:88}うよ
+{Crusader}が{KANJI2A:3B}壊しちまったから
+しばらく寺院の{KANJI2A:3C}備を手伝うよ
 {NEWPAGE}
 
-{KANJI2E:97}{KANJI2E:38}されたオレたちを
-{KANJI2D:32}け{KANJI2D:BF}れてくれた{KANJI2A:3D}{KANJI2F:AD}しだ
+破門されたオレたちを
+受け入れてくれた{KANJI2A:3D}返しだ
 --------------------------------------------------End--
 
 オレ……{Crusader}やめて
-{KANJI2D:6C}{KANJI2D:E8}にでもなろうかな
+僧兵にでもなろうかな
 --------------------------------------------------End--
 
-{KANJI2C:F1}{KANJI2C:6E}の{KANJI2A:3C}{KANJI2D:D9}も{KANJI2E:BC}くねえよな
+寺院の{KANJI2A:3C}備も悪くねえよな
 {NEWPAGE}
 
-{KANJI2D:F8}{KANJI2D:E6}と{KANJI2D:D0}{KANJI2F:43}{KANJI2E:CD}は{KANJI2D:9E}さねえぞ
+魔物と反逆者は通さねえぞ
 --------------------------------------------------End--
 
-そういや {Yuna}{KANJI2E:3C} {KANJI2F:B2}{KANJI2A:45}だってな
+そういや {Yuna}様 結{KANJI2A:45}だってな
 オレ ファンだったのによ……
 {NEWPAGE}
 
-{KANJI2F:B2}{KANJI2A:45}{KANJI2C:F7}の{KANJI2A:3C}{KANJI2D:D9}もまかせとけよな
+結{KANJI2A:45}式の{KANJI2A:3C}備もまかせとけよな
 --------------------------------------------------End--
 
-{KANJI2D:6C}{KANJI2E:BE}{KANJI2E:3C}たちには{KANJI2C:B4}{KANJI2C:9A}がないし
-{KANJI2C:F1}{KANJI2C:6E}に{KANJI2C:DF}{KANJI2D:C4}する{KANJI2D:4F}も{KANJI2C:B7}っちまったよ
+僧官様たちには元気がないし
+寺院に参拝する人も減っちまったよ
 {NEWPAGE}
 
 でもオレは{KANJI2A:4B}う どんなことがあっても
-{KANJI2E:5C}えに{KANJI2F:D5}って{KANJI2F:3C}きると{KANJI2C:B1}めたんだ 
+教えに從って生きると決めたんだ 
 --------------------------------------------------End--
 
-{KANJI2D:6C}{KANJI2D:E8}たちは{Bevelle}に{KANJI2C:CE}ったから
-この{KANJI2C:F1}{KANJI2C:6E}を{KANJI2C:FE}るのは オレたちの{KANJI2A:4C}{KANJI2E:36}さ 
+僧兵たちは{Bevelle}に行ったから
+この寺院を守るのは オレたちの{KANJI2A:4C}目さ 
 --------------------------------------------------End--
 
-あんな{KANJI2E:9C}{KANJI2D:64}に{KANJI2C:DF}{KANJI2C:7B}してしまった{KANJI2C:F6}{KANJI2D:E7}を
-{KANJI2C:6B}{KANJI2A:3E}{KANJI2D:93} {KANJI2A:3F}めていた……
+あんな作戦に参加してしまった自分を
+一{KANJI2A:3E}中 {KANJI2A:3F}めていた……
 {NEWPAGE}
 
-すると{KANJI2D:6C}{KANJI2E:BE}{KANJI2E:3C}に さとされたよ 
-くやんでいるヒマがあったら{KANJI2C:9B}れとな
+すると僧官様に さとされたよ 
+くやんでいるヒマがあったら祈れとな
 {NEWPAGE}
 
-{KANJI2C:67}{KANJI2C:87}の{KANJI2D:E4}{KANJI2C:78}たちを なぐさめるために
-{KANJI2C:9B}りをささげるのが {KANJI2F:A2}のつとめだ
+異界の部下たちを なぐさめるために
+祈りをささげるのが 私のつとめだ
 --------------------------------------------------End--
 
-これは{KANJI2D:6C}{KANJI2E:BE}{KANJI2E:3C}にいただいたものだが
-{KANJI2A:40}たちが{KANJI2C:E4}うべき{KANJI2A:41}だろう
+これは僧官様にいただいたものだが
+{KANJI2A:40}たちが使うべき{KANJI2A:41}だろう
 --------------------------------------------------End--
 
-{KANJI2D:64}{KANJI2C:EE}した{KANJI2D:E4}{KANJI2C:78}への せめてもの{KANJI2C:FF}{KANJI2E:F4}けに
-{KANJI2E:9B}からの{KANJI2C:9B}りをささげねばなるまい
+戦死した部下への せめてもの手向けに
+心からの祈りをささげねばなるまい
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}1】{White}
-{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
-{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
-{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
-{KANJI2A:50}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
-{KANJI2A:50}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
+{Yellow}【スカウトLV1】{White}
+名前:{VAR12:30}
+LV:{VAR12:31}
+所属チーム:{VAR12:32}
+{KANJI2A:50}約期間:{VAR12:33}試合
+{KANJI2A:50}約金:{VAR12:34}ギル
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}2】{White}
-{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
-{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
-{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
-{KANJI2A:50}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
-{KANJI2A:50}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
-{KANJI2C:37}{KANJI2C:3F}:{VAR12:35}{VAR07:60}{KANJI2C:42}{KANJI2C:3F}{KANJI2C:33}:{VAR12:36}
-{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33}:{VAR12:37}{VAR07:60}{KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}:{VAR12:38}
-{KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}:{VAR12:39}{VAR07:60}{KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A}:{VAR12:3A}
-{KANJI2C:42}{KANJI2C:37}{KANJI2C:43}:{VAR12:3B}{VAR07:60}{KANJI2C:32}{KANJI2C:30}{KANJI2C:43}:{VAR12:3C}
+{Yellow}【スカウトLV2】{White}
+名前:{VAR12:30}
+LV:{VAR12:31}
+所属チーム:{VAR12:32}
+{KANJI2A:50}約期間:{VAR12:33}試合
+{KANJI2A:50}約金:{VAR12:34}ギル
+HP:{VAR12:35}{VAR07:60}SPD:{VAR12:36}
+END:{VAR12:37}{VAR07:60}ATK:{VAR12:38}
+PAS:{VAR12:39}{VAR07:60}BLK:{VAR12:3A}
+SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}3】{White}
-{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
-{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
-{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
-{KANJI2A:50}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
-{KANJI2A:50}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
-{KANJI2C:37}{KANJI2C:3F}:{VAR12:35}{VAR07:60}{KANJI2C:42}{KANJI2C:3F}{KANJI2C:33}:{VAR12:36}
-{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33}:{VAR12:37}{VAR07:60}{KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}:{VAR12:38}
-{KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}:{VAR12:39}{VAR07:60}{KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A}:{VAR12:3A}
-{KANJI2C:42}{KANJI2C:37}{KANJI2C:43}:{VAR12:3B}{VAR07:60}{KANJI2C:32}{KANJI2C:30}{KANJI2C:43}:{VAR12:3C}
+{Yellow}【スカウトLV3】{White}
+名前:{VAR12:30}
+LV:{VAR12:31}
+所属チーム:{VAR12:32}
+{KANJI2A:50}約期間:{VAR12:33}試合
+{KANJI2A:50}約金:{VAR12:34}ギル
+HP:{VAR12:35}{VAR07:60}SPD:{VAR12:36}
+END:{VAR12:37}{VAR07:60}ATK:{VAR12:38}
+PAS:{VAR12:39}{VAR07:60}BLK:{VAR12:3A}
+SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 {VAR12:3D}
 {VAR12:3E}
 {VAR12:3F}
@@ -233,16 +233,16 @@
 {VAR12:41}
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}{KANJI2C:3C}{KANJI2C:30}{KANJI2C:47}】{White}
-{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
-{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
-{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
-{KANJI2A:50}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
-{KANJI2A:50}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
-{KANJI2C:37}{KANJI2C:3F}:{VAR12:35}{VAR07:60}{KANJI2C:42}{KANJI2C:3F}{KANJI2C:33}:{VAR12:36}
-{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33}:{VAR12:37}{VAR07:60}{KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}:{VAR12:38}
-{KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}:{VAR12:39}{VAR07:60}{KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A}:{VAR12:3A}
-{KANJI2C:42}{KANJI2C:37}{KANJI2C:43}:{VAR12:3B}{VAR07:60}{KANJI2C:32}{KANJI2C:30}{KANJI2C:43}:{VAR12:3C}
+{Yellow}【スカウトLVMAX】{White}
+名前:{VAR12:30}
+LV:{VAR12:31}
+所属チーム:{VAR12:32}
+{KANJI2A:50}約期間:{VAR12:33}試合
+{KANJI2A:50}約金:{VAR12:34}ギル
+HP:{VAR12:35}{VAR07:60}SPD:{VAR12:36}
+END:{VAR12:37}{VAR07:60}ATK:{VAR12:38}
+PAS:{VAR12:39}{VAR07:60}BLK:{VAR12:3A}
+SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 {VAR12:3D}
 {VAR12:3E}{VAR07:68}{OCyan}【キーアビリティ】{White}
 {VAR12:3F}{VAR07:68}{VAR12:42}
@@ -262,20 +262,20 @@
 {VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2A:50}{KANJI2F:C5}しますか?
+{KANJI2A:50}約しますか?
 {CHOICE:30}はい
 {CHOICE:31}いいえ
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2A:50}{KANJI2F:C5}{KANJI2C:EF}{KANJI2C:D2}{KANJI2D:52}を{KANJI2C:B1}めてください
+{KANJI2A:50}約試合数を決めてください
 {CHOICE:51}
 --------------------------------------------------End--
 {WINDOW}
-1{KANJI2C:EF}{KANJI2C:D2}{KANJI2E:A2}{KANJI2D:43}の{KANJI2A:50}{KANJI2F:C5}を
+1試合以上の{KANJI2A:50}約を
 むすんでください 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2A:50}{KANJI2F:C5}{KANJI2C:AA}は{VAR12:30}ギルです
+{KANJI2A:50}約金は{VAR12:30}ギルです
 よろしいですか?
 {CHOICE:30}はい
 {CHOICE:31}いいえ
@@ -285,13 +285,13 @@
 --------------------------------------------------End--
 {WINDOW}
 ビサイド·オーラカチームは
-{KANJI2D:AA}{KANJI2E:56}{KANJI2D:4F}{KANJI2D:52}8{KANJI2D:4F}でいっぱいです 
-{KANJI2D:89}かをチームからはずしますか?
+登録人数8人でいっぱいです 
+誰かをチームからはずしますか?
 {CHOICE:30}はい
 {CHOICE:31}いいえ
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2D:89}をはずしますか?
+誰をはずしますか?
 {CHOICE:30}{VAR12:30}
 {CHOICE:31}{VAR12:31}
 {CHOICE:32}{VAR12:32}
@@ -302,60 +302,60 @@
 {CHOICE:37}{VAR12:37}
 --------------------------------------------------End--
 {WINDOW}
-この{KANJI2D:68}{KANJI2C:FF}ははずせません
+この選手ははずせません
 --------------------------------------------------End--
 
-{KANJI2F:A2}の{KANJI2A:46}{KANJI2A:47}は{KANJI2C:F1}{KANJI2C:6E}の{KANJI2A:3C}{KANJI2C:C0}……そう{KANJI2C:B1}めたのだ
-よけいなことを{KANJI2E:FE}えないよう {KANJI2E:9B}がけている
+私の{KANJI2A:46}{KANJI2A:47}は寺院の{KANJI2A:3C}護……そう決めたのだ
+よけいなことを考えないよう 心がけている
 --------------------------------------------------End--
 
-『{Sin}』を{KANJI2D:AB}す{KANJI2E:9C}{KANJI2D:64}を{KANJI2E:51}っていた{KANJI2E:B4}より
-{KANJI2F:97}{KANJI2F:C0}に{KANJI2A:48}ける{KANJI2F:9D}{KANJI2A:30}ではあるな
+『{Sin}』を倒す作戦を練っていた時より
+刺激に{KANJI2A:48}ける仕{KANJI2A:30}ではあるな
 {NEWPAGE}
 
-かつての{KANJI2D:E4}{KANJI2C:78}を{KANJI2E:47}いて{KANJI2D:64}いたい という
-{KANJI2C:9A}{KANJI2C:F2}ちも なくはない
+かつての部下を率いて戦いたい という
+気持ちも なくはない
 --------------------------------------------------End--
 
-{KANJI2E:A8}{KANJI2C:A9} {KANJI2C:F1}{KANJI2C:6E}の{KANJI2D:F1}{KANJI2D:4D}を{KANJI2A:4D}う{KANJI2E:52}{KANJI2D:93}が
-{KANJI2D:71}えているようだが……まずいな
+最近 寺院の方針を{KANJI2A:4D}う連中が
+増えているようだが……まずいな
 {NEWPAGE}
 
-{KANJI2E:5C}えを{KANJI2E:97}って{KANJI2D:97}{KANJI2C:E8}に{KANJI2D:44}れば ふたたび
-{Operation Mi'ihen}のような{KANJI2E:72}{KANJI2A:4E}が{KANJI2E:E6}きる
+教えを破って調子に乗れば ふたたび
+{Operation Mi'ihen}のような悲{KANJI2A:4E}が起きる
 --------------------------------------------------End--
 
-{KANJI2E:5C}えを{KANJI2E:97}った{Crusader}が どうなったか
-{KANJI2E:D5}れたのか? {Farplane}で{KANJI2C:BE}{KANJI2A:4F}しても おそい!
+教えを破った{Crusader}が どうなったか
+忘れたのか? {Farplane}で後{KANJI2A:4F}しても おそい!
 --------------------------------------------------End--
 
-{Crusader}の{KANJI2E:CD}たちは {KANJI2C:F6}{KANJI2D:E7}たちの{KANJI2C:CE}いを
-{KANJI2A:42}く{KANJI2D:D0}{KANJI2A:43}しているようです
+{Crusader}の者たちは 自分たちの行いを
+{KANJI2A:42}く反{KANJI2A:43}しているようです
 {NEWPAGE}
 
-ですから われら{KANJI2C:F1}{KANJI2C:6E}は{KANJI2E:9B}を{KANJI2C:88}き
-{KANJI2A:44}らを{KANJI2F:A9}そうと{KANJI2E:FE}えております
+ですから われら寺院は心を開き
+{KANJI2A:44}らを許そうと考えております
 {NEWPAGE}
 
-{Crusader}とて {KANJI2D:FE}に{KANJI2D:EB}わりないのです
-{KANJI2C:F1}{KANJI2C:6E}が{KANJI2D:FE}を{KANJI2C:B3}{KANJI2C:FB}てることはありません
+{Crusader}とて 民に変わりないのです
+寺院が民を見捨てることはありません
 --------------------------------------------------End--
 
-{KANJI2E:E0}ついたときは いつでもこの{KANJI2C:F1}{KANJI2C:6E}へ
-{KANJI2E:37}っておいでなさい
+傷ついたときは いつでもこの寺院へ
+戻っておいでなさい
 --------------------------------------------------End--
 
-{KANJI2E:E0}ついた{KANJI2D:E8}{KANJI2C:E6}たちの{KANJI2E:6A}しみも
-{KANJI2C:9B}りをささげれば いやされるでしょう
+傷ついた兵士たちの苦しみも
+祈りをささげれば いやされるでしょう
 --------------------------------------------------End--
 
-ここは{Djose Continent}の{KANJI2D:93}{KANJI2E:9B}に{KANJI2C:66}{KANJI2D:91}する
-{Djose}の{KANJI2C:F1}{KANJI2C:6E}
+ここは{Djose Continent}の中心に位置する
+{Djose}の寺院
 {NEWPAGE}
 
-{KANJI2E:4A}の{KANJI2A:38}れを いやしておゆきなさい
+旅の{KANJI2A:38}れを いやしておゆきなさい
 --------------------------------------------------End--
 
-{KANJI2F:A2}にできるのは ただ{KANJI2C:9B}りをささげることのみ
-{KANJI2E:A8}{KANJI2C:BE}まで{Yevon2}を{KANJI2F:A6}じましょう
+私にできるのは ただ祈りをささげることのみ
+最後まで{Yevon2}を信じましょう
 --------------------------------------------------End--

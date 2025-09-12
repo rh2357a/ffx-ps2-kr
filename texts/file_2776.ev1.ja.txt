@@ -1,34 +1,34 @@
 {WINDOW}
-{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}1】{White}
-{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
-{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
-{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
-{KANJI2A:60}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
-{KANJI2A:60}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
+{Yellow}【スカウトLV1】{White}
+名前:{VAR12:30}
+LV:{VAR12:31}
+所属チーム:{VAR12:32}
+{KANJI2A:60}約期間:{VAR12:33}試合
+{KANJI2A:60}約金:{VAR12:34}ギル
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}2】{White}
-{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
-{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
-{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
-{KANJI2A:60}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
-{KANJI2A:60}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
-{KANJI2C:37}{KANJI2C:3F}:{VAR12:35}{VAR07:60}{KANJI2C:42}{KANJI2C:3F}{KANJI2C:33}:{VAR12:36}
-{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33}:{VAR12:37}{VAR07:60}{KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}:{VAR12:38}
-{KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}:{VAR12:39}{VAR07:60}{KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A}:{VAR12:3A}
-{KANJI2C:42}{KANJI2C:37}{KANJI2C:43}:{VAR12:3B}{VAR07:60}{KANJI2C:32}{KANJI2C:30}{KANJI2C:43}:{VAR12:3C}
+{Yellow}【スカウトLV2】{White}
+名前:{VAR12:30}
+LV:{VAR12:31}
+所属チーム:{VAR12:32}
+{KANJI2A:60}約期間:{VAR12:33}試合
+{KANJI2A:60}約金:{VAR12:34}ギル
+HP:{VAR12:35}{VAR07:60}SPD:{VAR12:36}
+END:{VAR12:37}{VAR07:60}ATK:{VAR12:38}
+PAS:{VAR12:39}{VAR07:60}BLK:{VAR12:3A}
+SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}3】{White}
-{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
-{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
-{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
-{KANJI2A:60}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
-{KANJI2A:60}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
-{KANJI2C:37}{KANJI2C:3F}:{VAR12:35}{VAR07:60}{KANJI2C:42}{KANJI2C:3F}{KANJI2C:33}:{VAR12:36}
-{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33}:{VAR12:37}{VAR07:60}{KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}:{VAR12:38}
-{KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}:{VAR12:39}{VAR07:60}{KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A}:{VAR12:3A}
-{KANJI2C:42}{KANJI2C:37}{KANJI2C:43}:{VAR12:3B}{VAR07:60}{KANJI2C:32}{KANJI2C:30}{KANJI2C:43}:{VAR12:3C}
+{Yellow}【スカウトLV3】{White}
+名前:{VAR12:30}
+LV:{VAR12:31}
+所属チーム:{VAR12:32}
+{KANJI2A:60}約期間:{VAR12:33}試合
+{KANJI2A:60}約金:{VAR12:34}ギル
+HP:{VAR12:35}{VAR07:60}SPD:{VAR12:36}
+END:{VAR12:37}{VAR07:60}ATK:{VAR12:38}
+PAS:{VAR12:39}{VAR07:60}BLK:{VAR12:3A}
+SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 {VAR12:3D}
 {VAR12:3E}
 {VAR12:3F}
@@ -36,16 +36,16 @@
 {VAR12:41}
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【スカウト{KANJI2C:3B}{KANJI2C:45}{KANJI2C:3C}{KANJI2C:30}{KANJI2C:47}】{White}
-{KANJI2E:31}{KANJI2D:6A}:{VAR12:30}
-{KANJI2C:3B}{KANJI2C:45}:{VAR12:31}
-{KANJI2D:3C}{KANJI2D:77}チーム:{VAR12:32}
-{KANJI2A:60}{KANJI2F:C5}{KANJI2C:98}{KANJI2C:93}:{VAR12:33}{KANJI2C:EF}{KANJI2C:D2}
-{KANJI2A:60}{KANJI2F:C5}{KANJI2C:AA}:{VAR12:34}ギル
-{KANJI2C:37}{KANJI2C:3F}:{VAR12:35}{VAR07:60}{KANJI2C:42}{KANJI2C:3F}{KANJI2C:33}:{VAR12:36}
-{KANJI2C:34}{KANJI2C:3D}{KANJI2C:33}:{VAR12:37}{VAR07:60}{KANJI2C:30}{KANJI2C:43}{KANJI2C:3A}:{VAR12:38}
-{KANJI2C:3F}{KANJI2C:30}{KANJI2C:42}:{VAR12:39}{VAR07:60}{KANJI2C:31}{KANJI2C:3B}{KANJI2C:3A}:{VAR12:3A}
-{KANJI2C:42}{KANJI2C:37}{KANJI2C:43}:{VAR12:3B}{VAR07:60}{KANJI2C:32}{KANJI2C:30}{KANJI2C:43}:{VAR12:3C}
+{Yellow}【スカウトLVMAX】{White}
+名前:{VAR12:30}
+LV:{VAR12:31}
+所属チーム:{VAR12:32}
+{KANJI2A:60}約期間:{VAR12:33}試合
+{KANJI2A:60}約金:{VAR12:34}ギル
+HP:{VAR12:35}{VAR07:60}SPD:{VAR12:36}
+END:{VAR12:37}{VAR07:60}ATK:{VAR12:38}
+PAS:{VAR12:39}{VAR07:60}BLK:{VAR12:3A}
+SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 {VAR12:3D}
 {VAR12:3E}{VAR07:68}{OCyan}【キーアビリティ】{White}
 {VAR12:3F}{VAR07:68}{VAR12:42}
@@ -65,20 +65,20 @@
 {VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2A:60}{KANJI2F:C5}しますか?
+{KANJI2A:60}約しますか?
 {CHOICE:30}はい
 {CHOICE:31}いいえ
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2A:60}{KANJI2F:C5}{KANJI2C:EF}{KANJI2C:D2}{KANJI2D:52}を{KANJI2C:B1}めてください
+{KANJI2A:60}約試合数を決めてください
 {CHOICE:51}
 --------------------------------------------------End--
 {WINDOW}
-1{KANJI2C:EF}{KANJI2C:D2}{KANJI2E:A2}{KANJI2D:43}の{KANJI2A:60}{KANJI2F:C5}を
+1試合以上の{KANJI2A:60}約を
 むすんでください 
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2A:60}{KANJI2F:C5}{KANJI2C:AA}は{VAR12:30}ギルです
+{KANJI2A:60}約金は{VAR12:30}ギルです
 よろしいですか?
 {CHOICE:30}はい
 {CHOICE:31}いいえ
@@ -88,13 +88,13 @@
 --------------------------------------------------End--
 {WINDOW}
 ビサイド·オーラカチームは
-{KANJI2D:AA}{KANJI2E:56}{KANJI2D:4F}{KANJI2D:52}8{KANJI2D:4F}でいっぱいです 
-{KANJI2D:89}かをチームからはずしますか?
+登録人数8人でいっぱいです 
+誰かをチームからはずしますか?
 {CHOICE:30}はい
 {CHOICE:31}いいえ
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2D:89}をはずしますか?
+誰をはずしますか?
 {CHOICE:30}{VAR12:30}
 {CHOICE:31}{VAR12:31}
 {CHOICE:32}{VAR12:32}
@@ -105,290 +105,290 @@
 {CHOICE:37}{VAR12:37}
 --------------------------------------------------End--
 {WINDOW}
-この{KANJI2D:68}{KANJI2C:FF}ははずせません
+この選手ははずせません
 --------------------------------------------------End--
 
-スタジアムのみんなで{KANJI2E:75}った{KANJI2C:9B}りの{KANJI2E:75}が
-{KANJI2E:FA}でも{KANJI2F:9C}にこだましていますよ
+スタジアムのみんなで歌った祈りの歌が
+今でも耳にこだましていますよ
 --------------------------------------------------End--
 
-たとえあなたが{KANJI2D:D0}{KANJI2F:43}{KANJI2E:CD}でも
-ルカ{KANJI2A:3A}{KANJI2D:FE}はいつも{KANJI2D:68}{KANJI2C:FF}の{KANJI2D:FC}{KANJI2D:F1}ですよ
+たとえあなたが反逆者でも
+ルカ{KANJI2A:3A}民はいつも選手の味方ですよ
 --------------------------------------------------End--
 
-スタジアムは{KANJI2C:88}{KANJI2E:B2}されています
-どうぞ ご{KANJI2C:F6}{KANJI2A:39}にお{KANJI2D:9E}りください
+スタジアムは開放されています
+どうぞ ご自{KANJI2A:39}にお通りください
 --------------------------------------------------End--
 
-{KANJI2D:85}1{KANJI2C:EF}{KANJI2C:D2}はすでに{KANJI2C:E7}まっています
-ご{KANJI2C:F6}{KANJI2D:E7}の{KANJI2D:5B}へ お{KANJI2E:F5}ぎください
+第1試合はすでに始まっています
+ご自分の席へ お急ぎください
 --------------------------------------------------End--
 
-{KANJI2D:F8}{KANJI2D:E6}の{KANJI2A:35}{KANJI2A:36}を{KANJI2D:97}{KANJI2A:37}{KANJI2D:93}です
-{KANJI2C:6B}{KANJI2D:D2}の{KANJI2D:F1}の{KANJI2A:38}{KANJI2D:BF}はできません
+魔物の{KANJI2A:35}{KANJI2A:36}を調{KANJI2A:37}中です
+一般の方の{KANJI2A:38}入はできません
 --------------------------------------------------End--
 
-{KANJI2D:BF}{KANJI2D:45}{KANJI2D:53}{KANJI2E:99}は{KANJI2E:B3}{KANJI2E:D2}されました
-ご{KANJI2C:F6}{KANJI2A:39}に ご{KANJI2D:9E}{KANJI2C:CE}ください
+入場制限は解除されました
+ご自{KANJI2A:39}に ご通行ください
 --------------------------------------------------End--
 
-{KANJI2C:F3}の{KANJI2D:84}{KANJI2E:5B}{KANJI2C:E9}が{KANJI2C:B1}まってないだろ {KANJI2E:F3}{KANJI2D:C1}の{KANJI2D:84}{KANJI2C:81}の
-{KANJI2C:88}{KANJI2C:81}{KANJI2C:F7}には{KANJI2D:89}に{KANJI2A:3D}{KANJI2E:89}してもらおうかな--
+次の大老師が決まってないだろ 来年の大会の
+開会式には誰に{KANJI2A:3D}説してもらおうかな--
 --------------------------------------------------End--
 
-{KANJI2D:6C}{KANJI2D:E8}どもは ほとんどベベルに{KANJI2A:3C}{KANJI2F:7A}したが
-ルカの{KANJI2C:F6}{KANJI2A:39}な{KANJI2C:AC}{KANJI2C:9A}が{KANJI2C:9A}に{KANJI2D:BF}って{KANJI2C:E3}ったヤツもいる
+僧兵どもは ほとんどベベルに{KANJI2A:3C}退したが
+ルカの自{KANJI2A:39}な空気が気に入って残ったヤツもいる
 --------------------------------------------------End--
 
-{KANJI2D:84}{KANJI2C:81}が{KANJI2D:35}わってもスタジアムは{KANJI2D:FB}{KANJI2C:6C}だ
-なんたってルカはブリッツの{KANJI2C:8C}だからな!
+大会が終わってもスタジアムは満員だ
+なんたってルカはブリッツの街だからな!
 --------------------------------------------------End--
 
-そばで{KANJI2C:EF}{KANJI2C:D2}してるのに
-{KANJI2C:91}れないってのは つらいな
+そばで試合してるのに
+観れないってのは つらいな
 --------------------------------------------------End--
 
-{KANJI2D:B2}げる{KANJI2E:B4}に{KANJI2E:D5}れ{KANJI2D:E6}でもしたのか?
-あきらめた{KANJI2D:F1}がいいぞ
+逃げる時に忘れ物でもしたのか?
+あきらめた方がいいぞ
 --------------------------------------------------End--
 
-{KANJI2D:F8}{KANJI2D:E6}がこわした{KANJI2C:91}{KANJI2C:A0}{KANJI2D:5B}を
-{KANJI2E:DA}{KANJI2E:44}するのに{KANJI2E:6A}{KANJI2A:3B}したんだ
+魔物がこわした観客席を
+修理するのに苦{KANJI2A:3B}したんだ
 --------------------------------------------------End--
 
-{KANJI2E:90}スタジアムはポートと{KANJI2C:6B}{KANJI2D:7E}{KANJI2C:79}した
-{KANJI2A:3E}{KANJI2A:3F}の{KANJI2C:CB}{KANJI2D:72}になっております
+当スタジアムはポートと一体化した
+{KANJI2A:3E}{KANJI2A:3F}の構造になっております
 {NEWPAGE}
 
-ですから{KANJI2E:33}う{KANJI2E:9B}{KANJI2F:9B}はありません!
-ここを{KANJI2A:40}がると {Blue}【{VAR12:30}{KANJI2D:D3}ポート】{White}になります
+ですから迷う心配はありません!
+ここを{KANJI2A:40}がると {Blue}【{VAR12:30}番ポート】{White}になります
 --------------------------------------------------End--
 
-{KANJI2E:6A}しいことがあっても ブリッツを{KANJI2F:83}しんで
-{KANJI2D:50}に{KANJI2E:48}す--ルカの{KANJI2D:FE}は {KANJI2D:F7}{KANJI2E:90}に{KANJI2E:8A}いですね
+苦しいことがあっても ブリッツを楽しんで
+水に流す--ルカの民は 本当に強いですね
 --------------------------------------------------End--
 
-キノック{KANJI2E:5B}{KANJI2C:E9}のご{KANJI2E:32}{KANJI2E:4E}で ルカを
-{KANJI2C:FE}ってやるのだ ありがたく{KANJI2C:EA}え!
+キノック老師のご命令で ルカを
+守ってやるのだ ありがたく思え!
 --------------------------------------------------End--
 
-またブリッツを{KANJI2F:83}しむためにも
-{KANJI2E:9C}{KANJI2D:64}を{KANJI2D:55}{KANJI2A:42}させて{KANJI2F:3C}{KANJI2A:43}したいものだ
+またブリッツを楽しむためにも
+作戦を成{KANJI2A:42}させて生{KANJI2A:43}したいものだ
 --------------------------------------------------End--
 
-この{KANJI2D:84}{KANJI2C:81}が{KANJI2D:35}われば{KANJI2E:9C}{KANJI2D:64}が{KANJI2C:E7}まる
-しばらく {KANJI2F:83}しみはおあずけだな
+この大会が終われば作戦が始まる
+しばらく 楽しみはおあずけだな
 --------------------------------------------------End--
 
-ルカの{KANJI2A:49}{KANJI2D:4F}たちが {KANJI2A:4A}{KANJI2C:AA}を{KANJI2D:3A}して
-{KANJI2D:B1}{KANJI2D:CC}{KANJI2D:81}を{KANJI2A:4B}{KANJI2F:B0}してくれています
+ルカの{KANJI2A:49}人たちが {KANJI2A:4A}金を出して
+討伐隊を{KANJI2A:4B}援してくれています
 --------------------------------------------------End--
 
-{KANJI2D:7C}くの{KANJI2D:B1}{KANJI2D:CC}{KANJI2D:81}{KANJI2C:6C}が{KANJI2C:EE}んだばかりなのに
-スタジアムは{KANJI2D:FB}{KANJI2C:6C}か--あきれた{KANJI2C:8C}だ
+多くの討伐隊員が死んだばかりなのに
+スタジアムは満員か--あきれた街だ
 --------------------------------------------------End--
 
-{KANJI2D:84}{KANJI2E:5B}{KANJI2C:E9}がご{KANJI2E:30}{KANJI2A:47}で{KANJI2F:88}{KANJI2E:9B}しました
+大老師がご無{KANJI2A:47}で安心しました
 {Master Seymor}の{KANJI2A:42}{KANJI2A:48}ですね
 --------------------------------------------------End--
 
-{KANJI2A:44}{KANJI2D:C1}の{KANJI2D:84}{KANJI2C:81}までは {KANJI2D:B1}{KANJI2D:CC}{KANJI2D:81}が
-{KANJI2A:45}{KANJI2D:D9}を{KANJI2A:46}{KANJI2E:90}しておりましたが--
+{KANJI2A:44}年の大会までは 討伐隊が
+{KANJI2A:45}備を{KANJI2A:46}当しておりましたが--
 --------------------------------------------------End--
 
-{KANJI2C:B8}{KANJI2C:DC} {KANJI2D:B1}{KANJI2D:CC}{KANJI2D:81}は{KANJI2E:9C}{KANJI2D:64}{KANJI2C:CE}{KANJI2D:B4}{KANJI2D:93}ですので
-{KANJI2E:FA}{KANJI2D:C1}の{KANJI2D:84}{KANJI2C:81}は{KANJI2A:3A}{KANJI2D:FE}が{KANJI2A:45}{KANJI2D:D9}しています
+現在 討伐隊は作戦行動中ですので
+今年の大会は{KANJI2A:3A}民が{KANJI2A:45}備しています
 --------------------------------------------------End--
 
-{KANJI2F:9E}いたぜ! 『シン』がベベルに{KANJI2E:41}ちたってな!
+聞いたぜ! 『シン』がベベルに落ちたってな!
 ってことは もうすぐナギ{KANJI2A:4F}か~!!
 --------------------------------------------------End--
 
-オレ {KANJI2D:B1}{KANJI2D:CC}{KANJI2D:81}に{KANJI2D:BF}ることにしたんだ
-のんきに{KANJI2C:FE}られてるだけなんてカッコ{KANJI2E:BC}いだろ
+オレ 討伐隊に入ることにしたんだ
+のんきに守られてるだけなんてカッコ悪いだろ
 --------------------------------------------------End--
 
-『シン』はマキナにやられて{KANJI2C:86}に{KANJI2E:A6}ったらしいぜ
-これで{KANJI2E:83}しは{KANJI2D:E9}{KANJI2A:4E}になるかもな
+『シン』はマキナにやられて海に帰ったらしいぜ
+これで少しは平{KANJI2A:4E}になるかもな
 --------------------------------------------------End--
 
-あんな{KANJI2A:47}{KANJI2F:B6}で{KANJI2D:84}{KANJI2C:81}{KANJI2D:35}{KANJI2E:4B}なんて
+あんな{KANJI2A:47}件で大会終了なんて
 ど~もスッキリしねえぜ
 --------------------------------------------------End--
 
-{KANJI2A:4C}{KANJI2E:61}はゴワーズで{KANJI2C:B1}まりだろ 
-{KANJI2D:7B}のチームは--ヤラレ{KANJI2A:4D}だぜ
+{KANJI2A:4C}勝はゴワーズで決まりだろ 
+他のチームは--ヤラレ{KANJI2A:4D}だぜ
 --------------------------------------------------End--
 
-{KANJI2D:B1}{KANJI2D:CC}{KANJI2D:81}が{KANJI2A:45}{KANJI2D:D9}に{KANJI2A:52}{KANJI2E:4D}してくれます
-われわれも{KANJI2F:42}けていられませんよ!
+討伐隊が{KANJI2A:45}備に{KANJI2A:52}力してくれます
+われわれも負けていられませんよ!
 --------------------------------------------------End--
 
-{KANJI2C:F1}{KANJI2C:6E}の{KANJI2D:6C}{KANJI2D:E8}が{KANJI2A:45}{KANJI2D:D9}に{KANJI2A:52}{KANJI2E:4D}してくれるので
-われわれの{KANJI2F:9D}{KANJI2A:47}も ずいぶん{KANJI2F:83}ですよ
+寺院の僧兵が{KANJI2A:45}備に{KANJI2A:52}力してくれるので
+われわれの仕{KANJI2A:47}も ずいぶん楽ですよ
 --------------------------------------------------End--
 
-ただいま{KANJI2A:50}{KANJI2C:82}{KANJI2A:45}{KANJI2D:D9}{KANJI2D:93}です 
-{KANJI2D:E0}{KANJI2A:51}{KANJI2D:4F}{KANJI2D:E6}を{KANJI2C:B3}かけたら{KANJI2D:9E}{KANJI2D:EF}してください
+ただいま{KANJI2A:50}回{KANJI2A:45}備中です 
+不{KANJI2A:51}人物を見かけたら通報してください
 --------------------------------------------------End--
 
-{KANJI2E:FA}{KANJI2A:56}のナギ{KANJI2A:4F}は{KANJI2D:99}{KANJI2D:78}きしてほしいものだ
-3{KANJI2D:C1} いや せめて1{KANJI2D:C1}--
+今{KANJI2A:56}のナギ{KANJI2A:4F}は長続きしてほしいものだ
+3年 いや せめて1年--
 --------------------------------------------------End--
 
-やはりルカの{KANJI2C:8C}には {KANJI2D:6C}{KANJI2D:E8}よりも
-{KANJI2D:B1}{KANJI2D:CC}{KANJI2D:81}の{KANJI2D:F1}が{KANJI2A:55}{KANJI2C:D2}っているな
+やはりルカの街には 僧兵よりも
+討伐隊の方が{KANJI2A:55}合っているな
 --------------------------------------------------End--
 
-{KANJI2D:6C}{KANJI2D:E8}どもが{KANJI2E:52}{KANJI2E:40}{KANJI2D:67}を{KANJI2A:45}{KANJI2D:D9}する{KANJI2F:39}{KANJI2E:CE}があるそうだ
-{KANJI2A:54}{KANJI2D:5E}なのか おせっかいなのか わからんよ
+僧兵どもが連絡船を{KANJI2A:45}備する計画があるそうだ
+{KANJI2A:54}切なのか おせっかいなのか わからんよ
 --------------------------------------------------End--
 
-{Maester Mika2}は {KANJI2D:84}{KANJI2C:81}のあと
-すぐ{Bevelle}に{KANJI2E:A6}ったそうだ
+{Maester Mika2}は 大会のあと
+すぐ{Bevelle}に帰ったそうだ
 --------------------------------------------------End--
 
-{KANJI2E:FA}{KANJI2D:C1}はチケットを{KANJI2C:FD}れなくてなあ-- 
-まあいい カフェで{KANJI2C:6B}{KANJI2A:53}やりながら{KANJI2C:91}るさ 
+今年はチケットを取れなくてなあ-- 
+まあいい カフェで一{KANJI2A:53}やりながら観るさ 
 --------------------------------------------------End--
 
-『シン』が{KANJI2D:42}えたら{KANJI2A:59}{KANJI2F:3F}{KANJI2C:EF}{KANJI2C:D2}に{KANJI2D:3A}てよね
-そしたら あたし {KANJI2D:9E}っちゃうから
+『シン』が消えたら{KANJI2A:59}日試合に出てよね
+そしたら あたし 通っちゃうから
 --------------------------------------------------End--
 
-ねえ {KANJI2C:F3}の{KANJI2D:3A}{KANJI2D:45}はいつ?
-あんたの{KANJI2D:3A}{KANJI2D:D3}を{KANJI2F:83}しみにしてるんだから
+ねえ 次の出場はいつ?
+あんたの出番を楽しみにしてるんだから
 --------------------------------------------------End--
 
-あんたのプレイ {KANJI2C:9A}に{KANJI2D:BF}ったわ
-これからも たくさん{KANJI2C:EF}{KANJI2C:D2}に{KANJI2D:3A}てよ
+あんたのプレイ 気に入ったわ
+これからも たくさん試合に出てよ
 --------------------------------------------------End--
 
-あんた ずいぶん{KANJI2F:6A}{KANJI2A:58}したじゃない
-{KANJI2D:84}{KANJI2C:C5}たたいただけのことはあるわね
+あんた ずいぶん活{KANJI2A:58}したじゃない
+大口たたいただけのことはあるわね
 --------------------------------------------------End--
 
-さっきの{KANJI2E:B2}{KANJI2A:57} {KANJI2C:91}せてもらったわよ 
+さっきの放{KANJI2A:57} 観せてもらったわよ 
 ふふ--せいぜいがんばってね
 --------------------------------------------------End--
 
-{KANJI2D:8F}ってる? あなたって {KANJI2D:D0}{KANJI2F:43}{KANJI2E:CD}あつかい
-されたせいで かえって{KANJI2D:4F}{KANJI2C:9A}が{KANJI2D:3A}てるのよ
+知ってる? あなたって 反逆者あつかい
+されたせいで かえって人気が出てるのよ
 --------------------------------------------------End--
 
-{KANJI2F:B2}{KANJI2F:B3} {KANJI2D:89}がスタジアムに{KANJI2D:F8}{KANJI2D:E6}を{KANJI2E:B2}ったか
-わかっていないの--どうやら{KANJI2E:33}{KANJI2C:A2}{KANJI2D:BF}りね
+結局 誰がスタジアムに魔物を放ったか
+わかっていないの--どうやら迷宮入りね
 --------------------------------------------------End--
 
-{KANJI2D:F8}{KANJI2D:E6}が{KANJI2D:3A}た{KANJI2E:B4} もし{Master Seymor}が
-いなかったら--{KANJI2F:64}{KANJI2D:70}するのも こわいわ
+魔物が出た時 もし{Master Seymor}が
+いなかったら--想像するのも こわいわ
 --------------------------------------------------End--
 
-まもなく{KANJI2C:88}{KANJI2C:81}{KANJI2C:F7}ですから
-{KANJI2D:68}{KANJI2C:FF}の{KANJI2D:F1}は{KANJI2C:C8}{KANJI2C:F9}で{KANJI2F:AA}{KANJI2C:99}して{KANJI2C:78}さい
+まもなく開会式ですから
+選手の方は控室で待機して下さい
 --------------------------------------------------End--
 
-スピラから{KANJI2D:F8}{KANJI2D:E6}がいなくなるまで
-{KANJI2F:A2}は{KANJI2D:B1}{KANJI2D:CC}{KANJI2D:81}で{KANJI2D:64}うつもりよ
+スピラから魔物がいなくなるまで
+私は討伐隊で戦うつもりよ
 --------------------------------------------------End--
 
-{KANJI2E:9C}{KANJI2D:64}の{KANJI2C:BE}で{KANJI2D:B1}{KANJI2D:CC}{KANJI2D:81}をやめたけど {KANJI2D:E5}{KANJI2E:A6}したの
-{KANJI2F:A2}には {KANJI2D:B1}{KANJI2D:CC}{KANJI2D:81}で{KANJI2D:64}うのが{KANJI2D:54}に{KANJI2C:D2}ってるわ
+作戦の後で討伐隊をやめたけど 復帰したの
+私には 討伐隊で戦うのが性に合ってるわ
 --------------------------------------------------End--
 
-うちの{KANJI2D:81}{KANJI2D:99} あたしに{KANJI2F:9D}{KANJI2A:47}を{KANJI2F:4D}しつけて
-{KANJI2C:F6}{KANJI2D:E7}はブリッツを{KANJI2C:91}てるのよ
+うちの隊長 あたしに仕{KANJI2A:47}を押しつけて
+自分はブリッツを観てるのよ
 --------------------------------------------------End--
 
-じきに{KANJI2E:9C}{KANJI2D:64}に{KANJI2D:3A}{KANJI2D:CB}します
-{Luca}の{KANJI2C:8C}ともお{KANJI2F:4E}れですね
+じきに作戦に出発します
+{Luca}の街ともお別れですね
 --------------------------------------------------End--
 
-{KANJI2E:FA}{KANJI2D:C1}はアルベド·サイクスを{KANJI2A:5A}{KANJI2F:B0}しますよ
-{KANJI2D:B1}{KANJI2D:CC}{KANJI2D:81}はアルベド{KANJI2E:5D}の{KANJI2F:5D}{KANJI2E:57}になってますから
+今年はアルベド·サイクスを{KANJI2A:5A}援しますよ
+討伐隊はアルベド族の世話になってますから
 --------------------------------------------------End--
 
-1{KANJI2D:D3}ポートの{KANJI2C:AC}{KANJI2D:D8}ぶ{KANJI2D:67}は {KANJI2E:88}{KANJI2E:89}の{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}じゃな
-おとぎ{KANJI2E:57}と{KANJI2C:EA}っとったが {KANJI2E:DC}{KANJI2C:DC}したとはのう
+1番ポートの空飛ぶ船は 伝説の飛空艇じゃな
+おとぎ話と思っとったが 実在したとはのう
 --------------------------------------------------End--
 
-{KANJI2E:52}{KANJI2E:40}{KANJI2D:67}が{KANJI2C:71}{KANJI2A:5B}を{KANJI2C:D9}{KANJI2C:88}したんじゃ
-{KANJI2E:F5}に{KANJI2A:5D}しくなって しんどいのう
+連絡船が運{KANJI2A:5B}を再開したんじゃ
+急に{KANJI2A:5D}しくなって しんどいのう
 --------------------------------------------------End--
 
-{KANJI2C:A9}くの{KANJI2C:86}に『{Sin}』がうろついとる
-{KANJI2E:52}{KANJI2E:40}{KANJI2D:67}はしばらく{KANJI2A:5C}{KANJI2A:5B}じゃい
+近くの海に『{Sin}』がうろついとる
+連絡船はしばらく{KANJI2A:5C}{KANJI2A:5B}じゃい
 --------------------------------------------------End--
 
-{KANJI2D:84}{KANJI2C:81}{KANJI2C:98}{KANJI2C:93}{KANJI2D:93}は {KANJI2D:67}も{KANJI2D:B4}かん 
-{KANJI2C:F3}の{KANJI2D:3A}{KANJI2A:5B}まで{KANJI2E:46}で{KANJI2F:A3}{KANJI2F:9F}めじゃい
+大会期間中は 船も動かん 
+次の出{KANJI2A:5B}まで陸で骨休めじゃい
 --------------------------------------------------End--
 
-ルカで{KANJI2D:80}{KANJI2A:5F}を{KANJI2D:56}えたら {KANJI2D:B1}{KANJI2D:CC}{KANJI2D:81}はミヘン{KANJI2C:8C}{KANJI2D:B7}に
-{KANJI2D:4C}{KANJI2C:B0}し {KANJI2D:F8}{KANJI2D:E6}を{KANJI2C:6B}{KANJI2C:9A}に{KANJI2F:7A}{KANJI2C:F4}する{KANJI2F:39}{KANJI2E:CE}だ!
+ルカで態{KANJI2A:5F}を整えたら 討伐隊はミヘン街道に
+進撃し 魔物を一気に退治する計画だ!
 --------------------------------------------------End--
 
-あやしい{KANJI2E:CD}を{KANJI2C:B3}かけたら
-{KANJI2D:73}{KANJI2A:5E} {KANJI2D:9E}{KANJI2D:EF}してください!
+あやしい者を見かけたら
+即{KANJI2A:5E} 通報してください!
 --------------------------------------------------End--
 
-{KANJI2D:4F}{KANJI2E:59}が{KANJI2D:F8}{KANJI2D:E6}におびえなくてすむよう
-{Crusader}は{KANJI2C:6B}{KANJI2D:84}{KANJI2E:9C}{KANJI2D:64}を{KANJI2C:B1}{KANJI2C:CE}するのだ
+人々が魔物におびえなくてすむよう
+{Crusader}は一大作戦を決行するのだ
 --------------------------------------------------End--
 
-{KANJI2D:F7}{KANJI2E:90}はもう{KANJI2E:9C}{KANJI2D:64}{KANJI2D:90}{KANJI2D:A7}へ{KANJI2C:CE}かねばならんが
-せめて{KANJI2C:88}{KANJI2C:81}{KANJI2C:F7}ぐらいは{KANJI2C:91}ておきたいのだ 
+本当はもう作戦地点へ行かねばならんが
+せめて開会式ぐらいは観ておきたいのだ 
 --------------------------------------------------End--
 
-ナギ{KANJI2A:4F}が{KANJI2E:F3}たら {KANJI2C:9C}{KANJI2D:C2}{KANJI2D:84}{KANJI2C:81}を{KANJI2C:88}かんとな!
-{KANJI2E:DC}は もう{KANJI2E:65}{KANJI2D:D9}を{KANJI2C:E7}めているのだ
+ナギ{KANJI2A:4F}が来たら 記念大会を開かんとな!
+実は もう準備を始めているのだ
 --------------------------------------------------End--
 
-{KANJI2D:6C}{KANJI2D:E8}はいなくなってしまったが {KANJI2D:B1}{KANJI2D:CC}{KANJI2D:81}が
-{KANJI2A:45}{KANJI2D:D9}に{KANJI2D:E5}{KANJI2E:A6}したんだ エボンのたまものだよ
+僧兵はいなくなってしまったが 討伐隊が
+{KANJI2A:45}備に復帰したんだ エボンのたまものだよ
 --------------------------------------------------End--
 
-{KANJI2C:F1}{KANJI2C:6E}はスタジアムを{KANJI2C:FE}るために わざわざ
-{KANJI2D:6C}{KANJI2D:E8}をよこしてくださった ありがたいことだ
+寺院はスタジアムを守るために わざわざ
+僧兵をよこしてくださった ありがたいことだ
 --------------------------------------------------End--
 
-{KANJI2D:84}{KANJI2C:81}が{KANJI2D:35}わって ゆっくりできるはずが
-{KANJI2D:F8}{KANJI2D:E6}{KANJI2A:47}{KANJI2F:B6}の{KANJI2D:97}{KANJI2A:37}で{KANJI2D:84}わらわだ
+大会が終わって ゆっくりできるはずが
+魔物{KANJI2A:47}件の調{KANJI2A:37}で大わらわだ
 --------------------------------------------------End--
 
-あんた{KANJI2D:68}{KANJI2C:FF}だろ? フラフラしてないで
-{KANJI2E:FA}のうちに{KANJI2D:84}{KANJI2C:81}ルールを{KANJI2C:8D}{KANJI2D:C0}しておけよ
+あんた選手だろ? フラフラしてないで
+今のうちに大会ルールを確認しておけよ
 --------------------------------------------------End--
 
-まもなく{KANJI2C:88}{KANJI2C:81}となりますので
-{KANJI2D:68}{KANJI2C:FF}の{KANJI2D:F1}は{KANJI2C:C8}{KANJI2C:F9}で{KANJI2F:AA}{KANJI2C:99}して{KANJI2C:78}さい
+まもなく開会となりますので
+選手の方は控室で待機して下さい
 --------------------------------------------------End--
 
-{KANJI2D:68}{KANJI2C:FF}の{KANJI2D:F1}--のはず ないですよね
-もう{KANJI2C:EF}{KANJI2C:D2}が{KANJI2C:E7}まってますし
+選手の方--のはず ないですよね
+もう試合が始まってますし
 --------------------------------------------------End--
 
-{KANJI2D:F8}{KANJI2D:E6}がどこから{KANJI2D:3A}{KANJI2C:B8}したか
-まだ{KANJI2D:97}{KANJI2A:37}{KANJI2D:93}なんです
+魔物がどこから出現したか
+まだ調{KANJI2A:37}中なんです
 {NEWPAGE}
 
 {KANJI2A:33}し{KANJI2A:34}ありませんが 
-{KANJI2C:C3}{KANJI2C:F7}の{KANJI2D:CB}{KANJI2D:DE}をお{KANJI2F:AA}ちください
+公式の発表をお待ちください
 --------------------------------------------------End--
 
-ブリッツ{KANJI2A:41}{KANJI2C:9E}{KANJI2D:32}{KANJI2D:E1}です
+ブリッツ{KANJI2A:41}技受付です
 --------------------------------------------------End--
 {WINDOW}
-{CHOICE:30}ブリッツ{KANJI2A:41}{KANJI2C:9E}に{KANJI2C:DF}{KANJI2C:7B}
+{CHOICE:30}ブリッツ{KANJI2A:41}技に参加
 {CHOICE:31}やめておく
 --------------------------------------------------End--
 {WINDOW}
-{Besaid Aurochs}はメンバー{KANJI2D:4F}{KANJI2D:52}が
-{KANJI2D:76}りないので{KANJI2C:EF}{KANJI2C:D2}に{KANJI2C:DF}{KANJI2C:7B}できません 
+{Besaid Aurochs}はメンバー人数が
+足りないので試合に参加できません 
 --------------------------------------------------End--
 
 いらっしゃいませ!
-ここは【ルカ アイテム{KANJI2C:42}{KANJI2C:37}{KANJI2C:3E}{KANJI2C:3F}】です
+ここは【ルカ アイテムSHOP】です
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}アイテムみせて
@@ -396,56 +396,56 @@
 --------------------------------------------------End--
 
 いらっしゃいませ!
-ここは【ルカ {KANJI2D:E3}{KANJI2C:96}/{KANJI2D:F4}{KANJI2C:AB}{KANJI2C:42}{KANJI2C:37}{KANJI2C:3E}{KANJI2C:3F}】です
+ここは【ルカ 武器/防具SHOP】です
 --------------------------------------------------End--
 {WINDOW}
-{CHOICE:30}{KANJI2D:E3}{KANJI2C:96}みせて
+{CHOICE:30}武器みせて
 {CHOICE:31}やめておく
 --------------------------------------------------End--
 
-{KANJI2C:B8}{KANJI2C:DC}{KANJI2D:BF}{KANJI2D:45}{KANJI2D:53}{KANJI2E:99}{KANJI2D:93}であります!
+現在入場制限中であります!
 --------------------------------------------------End--
 
-{KANJI2D:68}{KANJI2C:FF}といえど{KANJI2A:32}{KANJI2C:8A}はありません!
+選手といえど{KANJI2A:32}外はありません!
 {KANJI2A:33}し{KANJI2A:34}ございません!
 --------------------------------------------------End--
 
-またのご{KANJI2E:79}{KANJI2E:3D}お{KANJI2F:AA}ちしております
+またのご利用お待ちしております
 --------------------------------------------------End--
 {WINDOW}
-マップデバッグ{KANJI2E:3D}メニュー
+マップデバッグ用メニュー
   {CHOICE:30}やっぱやめ
-  {CHOICE:31}マップデータの{KANJI2C:CA}{KANJI2D:49}
-  {CHOICE:32}{KANJI2C:91}{KANJI2C:A0}モデルチェンジ
-  {CHOICE:33}マップライン{KANJI2D:53}{KANJI2C:BF}
-  {CHOICE:34}{KANJI2A:30}{KANJI2A:31}さんちに{KANJI2E:37}る
+  {CHOICE:31}マップデータの更新
+  {CHOICE:32}観客モデルチェンジ
+  {CHOICE:33}マップライン制御
+  {CHOICE:34}{KANJI2A:30}{KANJI2A:31}さんちに戻る
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2C:91}{KANJI2C:A0} : {CHOICE:50}
+観客 : {CHOICE:50}
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}1】{White}
-{KANJI2E:4A}の{KANJI2C:9C}{KANJI2E:56}をスフィアに{KANJI2C:E3}すことができます!
-{KANJI2E:4A}のつかれをいやす{KANJI2C:F6}{KANJI2D:B4}{KANJI2C:82}{KANJI2D:E5}{KANJI2C:99}{KANJI2D:C3}で
-{KANJI2C:37}{KANJI2C:3F}/{KANJI2C:3C}{KANJI2C:3F}が{KANJI2D:6B}{KANJI2C:82}{KANJI2D:E5}します!
+{Yellow}【旅人のセーブスフィア Lv1】{White}
+旅の記録をスフィアに残すことができます!
+旅のつかれをいやす自動回復機能で
+HP/MPが全回復します!
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
 {CHOICE:31}キャンセル
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}2】{White}
-{Besaid Aurochs}の{KANJI2F:6A}{KANJI2A:58}により セーブスフィアに
-{blitzball}スタジアムへの{KANJI2E:F2}{KANJI2A:57}{KANJI2C:99}{KANJI2D:C3}が
-{KANJI2D:9D}{KANJI2C:7B}されました!
+{Yellow}【旅人のセーブスフィア Lv2】{White}
+{Besaid Aurochs}の活{KANJI2A:58}により セーブスフィアに
+{blitzball}スタジアムへの転{KANJI2A:57}機能が
+追加されました!
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【ブリッツスカウトシステム】{White}
-{Spira}の{KANJI2A:61}{KANJI2D:90}には ブリッツのトレーニングを{KANJI2D:78}ける
-{KANJI2C:6F}れた{KANJI2E:31}{KANJI2D:68}{KANJI2C:FF}がひそんでいます 
-{Button Square}を{KANJI2F:4D}して{KANJI2E:57}しかけると スカウト{KANJI2A:60}{KANJI2F:C5}できることがあります 
-{KANJI2F:D3}{KANJI2E:F3}{KANJI2E:95}{KANJI2F:80}な{KANJI2D:68}{KANJI2C:FF}をスカウトして {Besaid Aurochs}を
-トップチームに{KANJI2F:58}くのです!
+{Spira}の{KANJI2A:61}地には ブリッツのトレーニングを続ける
+隠れた名選手がひそんでいます 
+{Button Square}を押して話しかけると スカウト{KANJI2A:60}約できることがあります 
+将来有望な選手をスカウトして {Besaid Aurochs}を
+トップチームに導くのです!
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
@@ -458,25 +458,25 @@
 {CHOICE:31}キャンセル
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}3】{White}
-{Al Bhed2}·{Rin}の{KANJI2F:CB}{KANJI2E:8F}により セーブスフィアに
-{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}への{KANJI2E:F2}{KANJI2A:57}{KANJI2C:99}{KANJI2D:C3}が{KANJI2D:9D}{KANJI2C:7B}されました!
+{Yellow}【旅人のセーブスフィア Lv3】{White}
+{Al Bhed2}·{Rin}の好意により セーブスフィアに
+飛空艇への転{KANJI2A:57}機能が追加されました!
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
-{CHOICE:31}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ
+{CHOICE:31}飛空艇へ
 {CHOICE:32}ブリッツスタジアムへ
 {CHOICE:33}キャンセル
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
-{Gray}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ{White}
+{Gray}飛空艇へ{White}
 {CHOICE:31}ブリッツスタジアムへ
 {CHOICE:32}キャンセル
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
-{CHOICE:31}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ
+{CHOICE:31}飛空艇へ
 {Gray}ブリッツスタジアムへ{White}
 {CHOICE:32}キャンセル
 --------------------------------------------------End--

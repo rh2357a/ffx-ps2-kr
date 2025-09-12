@@ -1,6 +1,6 @@
 {WINDOW}
-6つの{KANJI2C:F1}{KANJI2C:6E}に6つの{KANJI2D:F0}あり
-{Yellow}【{KANJI2C:EF}{KANJI2E:51}の{KANJI2C:82}{KANJI2E:54}】に{KANJI2C:6F}された{Yellow}【{KANJI2D:F0}{KANJI2A:30}】{White}を
-すべて{KANJI2C:88}いて {KANJI2D:70}の{KANJI2D:6A}に{KANJI2A:31}て
-さすれば{Blue}【フェイスの{KANJI2C:93}】{White}の{KANJI2F:40}が{KANJI2C:88}く
+6つの寺院に6つの宝あり
+{Yellow}【試練の回廊】に隠された{Yellow}【宝{KANJI2A:30}】{White}を
+すべて開いて 像の前に{KANJI2A:31}て
+さすれば{Blue}【フェイスの間】{White}の扉が開く
 --------------------------------------------------End--

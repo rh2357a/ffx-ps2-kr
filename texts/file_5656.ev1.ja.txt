@@ -1,21 +1,21 @@
 {WINDOW}
-{CHOICE:30}{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}としての{KANJI2E:DA}{KANJI2C:CE}のため
-{CHOICE:31}{KANJI2D:F8}{KANJI2D:E6}をけちらす{KANJI2E:4D}を{KANJI2E:EE}るため
-{CHOICE:32}{KANJI2F:63}に{KANJI2E:8A}い{KANJI2D:A4}を{KANJI2D:AB}すため
+{CHOICE:30}召喚士としての修行のため
+{CHOICE:31}魔物をけちらす力を得るため
+{CHOICE:32}真に強い敵を倒すため
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2A:33}{KANJI2C:F5}ギル
+{KANJI2A:33}示ギル
 {VAR12:30}ギル
 --------------------------------------------------End--
 
 これでどうだ?
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2D:3C}{KANJI2C:F2}{KANJI2C:AA}:{VAR12:31}ギル
+所持金:{VAR12:31}ギル
 --------------------------------------------------End--
 {WINDOW}
-{Direcional Up}{Direcional Down}{Direcional Left}{Direcional Right}:{KANJI2C:AA}{KANJI2A:35}を{KANJI2D:60}{KANJI2D:9F}
-{Button Circle}:{KANJI2C:B1}{KANJI2D:9F}
+{Direcional Up}{Direcional Down}{Direcional Left}{Direcional Right}:金{KANJI2A:35}を設定
+{Button Circle}:決定
 --------------------------------------------------End--
 {WINDOW}
 いくら{KANJI2A:34}いますか?
@@ -28,51 +28,51 @@
 {WINDOW}
 {VAR12:31}ギルでやとう
 {CHOICE:30}それでいいよ
-{CHOICE:31}ちょっと{KANJI2F:AA}って!
+{CHOICE:31}ちょっと待って!
 --------------------------------------------------End--
 
 ならば これでは?
 --------------------------------------------------End--
 
-そなたは はかない{KANJI2E:CB}なれど
-{Spira}の{KANJI2F:63}{KANJI2E:DC}に{KANJI2E:F1}れた{KANJI2E:CB}--
+そなたは はかない夢なれど
+{Spira}の真実に触れた夢--
 --------------------------------------------------End--
 
-{Spira}は{KANJI2F:63}{KANJI2E:DC}を{KANJI2E:D5}れない
-{KANJI2F:63}{KANJI2E:DC}を{KANJI2F:79}った{KANJI2E:CD}を{KANJI2E:D5}れない--
+{Spira}は真実を忘れない
+真実を救った者を忘れない--
 --------------------------------------------------End--
 
-{KANJI2F:C2}りつづける ひたむきな{KANJI2E:CB}よ--
-{KANJI2E:CB}の{KANJI2D:35}わりを{KANJI2A:3A}えて{KANJI2F:63}{KANJI2E:DC}となれ--
+走りつづける ひたむきな夢よ--
+夢の終わりを{KANJI2A:3A}えて真実となれ--
 --------------------------------------------------End--
 
-{KANJI2F:C4}は{KANJI2D:E5}{KANJI2A:30}の{KANJI2E:FF}
-{KANJI2E:B9}に{KANJI2F:9E}こえた{KANJI2E:3D}{KANJI2E:9B}{KANJI2A:31}
+我は復{KANJI2A:30}の刃
+音に聞こえた用心{KANJI2A:31}
 --------------------------------------------------End--
 
-{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}よ
-おまえは なぜ{KANJI2F:C4}を{KANJI2F:7E}める?
+召喚士よ
+おまえは なぜ我を求める?
 --------------------------------------------------End--
 
-{KANJI2F:C4}の{KANJI2E:4D}を{KANJI2F:80}むなら
-ふさわしい{KANJI2A:32}を{KANJI2C:F5}せ
+我の力を望むなら
+ふさわしい{KANJI2A:32}を示せ
 --------------------------------------------------End--
 
-{KANJI2A:36}{KANJI2D:84}な{KANJI2E:4D}を{KANJI2A:37}するくせに
-{KANJI2E:87}し{KANJI2D:3A}すのはマメツブか
+{KANJI2A:36}大な力を{KANJI2A:37}するくせに
+差し出すのはマメツブか
 --------------------------------------------------End--
 
-よかろう {KANJI2C:A0}と{KANJI2D:C0}めよう
-{KANJI2F:C4}の{KANJI2E:4D}を{KANJI2F:AE}してやろうではないか
+よかろう 客と認めよう
+我の力を貸してやろうではないか
 --------------------------------------------------End--
 
-おまえだけが{KANJI2F:C4}の{KANJI2F:63}{KANJI2A:38}を{KANJI2C:B3}{KANJI2D:5E}った 
-{KANJI2F:C4}が{KANJI2F:9D}える{KANJI2A:39}としてふさわしい
+おまえだけが我の真{KANJI2A:38}を見切った 
+我が仕える{KANJI2A:39}としてふさわしい
 --------------------------------------------------End--
 
-{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}よ おまえの{KANJI2E:4A}{KANJI2E:53} 
-{KANJI2F:C4}が{KANJI2C:B2}{KANJI2F:75}にて{KANJI2C:FE}ろうぞ
+召喚士よ おまえの旅路 
+我が剣術にて守ろうぞ
 --------------------------------------------------End--
 
-{KANJI2E:57}にならん {KANJI2D:3A}{KANJI2D:9B}して{KANJI2E:F3}い
+話にならん 出直して来い
 --------------------------------------------------End--

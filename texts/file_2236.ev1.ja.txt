@@ -1,29 +1,29 @@
 {Yuna}
-ふたりとも {KANJI2E:92}く!
+ふたりとも 早く!
 --------------------------------------------------End--
 {Tidus}
-すっごい{KANJI2C:B4}{KANJI2C:9A}だな
+すっごい元気だな
 --------------------------------------------------End--
 {Kimahri}
-{KANJI2C:64}いときには かがやかねばならぬ
-{KANJI2E:66}るくかがやかねばならぬ
+暗いときには かがやかねばならぬ
+明るくかがやかねばならぬ
 --------------------------------------------------End--
 {Kimahri}
-{KANJI2E:FA}は{KANJI2C:64}いときだ
-{Yuna}は{KANJI2E:30}{KANJI2E:44}をしている
+今は暗いときだ
+{Yuna}は無理をしている
 --------------------------------------------------End--
 {Tidus}
-{KANJI2A:30}{KANJI2D:3E}を{KANJI2E:EF}けてやらなくちゃ
+{KANJI2A:30}女を助けてやらなくちゃ
 --------------------------------------------------End--
 {Kimahri}
-{KANJI2D:7B}{KANJI2D:4F}が{KANJI2E:9B}{KANJI2F:9B}すると
-{Yuna}はもっと{KANJI2E:30}{KANJI2E:44}をする
+他人が心配すると
+{Yuna}はもっと無理をする
 --------------------------------------------------End--
 {Kimahri}
-{KANJI2A:31}{KANJI2D:9E}にしていろ
+{KANJI2A:31}通にしていろ
 --------------------------------------------------End--
 {Tidus}
-{KANJI2E:9B}{KANJI2F:9B}しないで{KANJI2C:C6}せにってことか?
+心配しないで幸せにってことか?
 --------------------------------------------------End--
 {Kimahri}
 {Kimahri}もがんばっている
@@ -42,29 +42,29 @@
 {Guado2}の{Guadosalam}--
 --------------------------------------------------End--
 {Lulu}
-その{KANJI2C:BE}は {Thunder Plains}を{KANJI2A:33}えて
-{Macalania}{KANJI2C:F1}{KANJI2C:6E}--
+その後は {Thunder Plains}を{KANJI2A:33}えて
+{Macalania}寺院--
 --------------------------------------------------End--
 {Tidus}
 なんていうかさァ--
 --------------------------------------------------End--
 {Yuna}
-その{KANJI2D:6A}に {Blue}【{Djose}の{KANJI2C:F1}{KANJI2C:6E}】{White}で
-お{KANJI2C:9B}りだよー!
+その前に {Blue}【{Djose}の寺院】{White}で
+お祈りだよー!
 --------------------------------------------------End--
 {Tidus}
-{KANJI2A:34}{KANJI2D:93}{KANJI2D:D8}ばして--ってのはダメ?
+{KANJI2A:34}中飛ばして--ってのはダメ?
 --------------------------------------------------End--
 {Yuna}
-{KANJI2E:FC}{KANJI2E:A7}{KANJI2D:3F}{KANJI2C:8F}のためには
-{KANJI2D:6B}{KANJI2D:E4}の{KANJI2C:F1}{KANJI2C:6E}の{fayth}にお{KANJI2C:9B}りしなくちゃ
+究極召喚のためには
+全部の寺院の{fayth}にお祈りしなくちゃ
 --------------------------------------------------End--
 {Wakka}
-それが{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}の{KANJI2E:DA}{KANJI2C:CE}だな
+それが召喚士の修行だな
 --------------------------------------------------End--
 {Wakka}
-{KANJI2E:FC}{KANJI2E:A7}{KANJI2D:3F}{KANJI2C:8F}に{KANJI2F:BF}えられるように
-{KANJI2E:9B}{KANJI2D:4B}をきたえるんだ
+究極召喚に耐えられるように
+心身をきたえるんだ
 --------------------------------------------------End--
 {Tidus}
 たいへんだな {Yuna}
@@ -74,23 +74,23 @@
 だいじょうぶ
 --------------------------------------------------End--
 {Auron}
-おい {KANJI2D:49}{KANJI2D:BF}り
+おい 新入り
 --------------------------------------------------End--
 {Auron}
 おい しんいり
 --------------------------------------------------End--
 {Tidus}
-{KANJI2F:A1}--かな?
+俺--かな?
 --------------------------------------------------End--
 {Auron}
-{KANJI2D:7B}に{KANJI2D:89}が?
+他に誰が?
 --------------------------------------------------End--
 {Tidus}
 なんでありましょうか ボス?
 --------------------------------------------------End--
 {Auron}
 {Jecht}と『{Sin}』のことは
-{Yuna}には{KANJI2E:57}すな
+{Yuna}には話すな
 --------------------------------------------------End--
 
 --------------------------------------------------End--
@@ -98,19 +98,19 @@
 ああいう{KANJI2A:35}だ
 --------------------------------------------------End--
 {Auron}
-おまえとの{KANJI2C:93}に{KANJI2E:D3}{KANJI2E:45}をおこうとするだろう
+おまえとの間に距離をおこうとするだろう
 --------------------------------------------------End--
 {Auron}
-それは{KANJI2D:D6}けたい
+それは避けたい
 --------------------------------------------------End--
 {Tidus}
 そうだな--うん
 --------------------------------------------------End--
 {Tidus}
-でも こんな{KANJI2E:57}なんか{KANJI2D:89}も{KANJI2F:A6}じないよな
+でも こんな話なんか誰も信じないよな
 --------------------------------------------------End--
 {Auron}
-{Yuna}は{KANJI2F:A6}じるさ
+{Yuna}は信じるさ
 --------------------------------------------------End--
 {Auron}
 {Yuna}はしんじるさ
@@ -119,218 +119,218 @@
 そうかもな
 --------------------------------------------------End--
 {Auron}
-イザという{KANJI2E:B4}に{KANJI2D:8F}って
-{KANJI2F:B8}{KANJI2D:47}{KANJI2D:A5}になるよりマシだ
+イザという時に知って
+感情的になるよりマシだ
 --------------------------------------------------End--
 {Tidus}
-{KANJI2F:A1}が{KANJI2F:B8}{KANJI2D:47}{KANJI2D:A5}だって!?
+俺が感情的だって!?
 --------------------------------------------------End--
 {Auron}
-{KANJI2F:51}き{KANJI2F:52}だそうだな
+泣き虫だそうだな
 --------------------------------------------------End--
 
-{KANJI2C:E8}{KANJI2A:36}のころはそうだったかもしれない
+子{KANJI2A:36}のころはそうだったかもしれない
 --------------------------------------------------End--
 
-{KANJI2E:FA}でも ほんの{KANJI2E:83}しは--{KANJI2E:83}しはな
+今でも ほんの少しは--少しはな
 --------------------------------------------------End--
 
 --------------------------------------------------End--
 {Tidus}
-{KANJI2F:A1}はまだ{KANJI2F:A6}じたわけじゃないぞ!
+俺はまだ信じたわけじゃないぞ!
 --------------------------------------------------End--
 {Tidus}
-{KANJI2C:F3}はどこ?
+次はどこ?
 --------------------------------------------------End--
 {Lulu}
-{Blue}【{Moonflow}】{White}を{KANJI2D:A9}るの
+{Blue}【{Moonflow}】{White}を渡るの
 --------------------------------------------------End--
 {Tidus}
-{KANJI2E:4B}{KANJI2E:B3}
+了解
 --------------------------------------------------End--
 {Tidus}
 {Blue}【ゲンコー】{White}ちゃん
-すぐ{KANJI2C:CE}くぞ!
+すぐ行くぞ!
 --------------------------------------------------End--
 {Tidus}
-{KANJI2E:FE}えてみたら
-{KANJI2F:A1}も{KANJI2D:8F}らなくても{KANJI2F:BB}かったんじゃないかな?
+考えてみたら
+俺も知らなくても良かったんじゃないかな?
 --------------------------------------------------End--
 {Tidus}
-{KANJI2F:A1}の{KANJI2C:9A}{KANJI2C:F2}ちはどうなるんだ?
+俺の気持ちはどうなるんだ?
 --------------------------------------------------End--
 
-{KANJI2C:F1}{KANJI2C:6E}で{KANJI2F:9F}{KANJI2D:74}することになったが
---オレたちゃ{KANJI2E:97}{KANJI2E:38}された{KANJI2D:4B}だ
+寺院で休息することになったが
+--オレたちゃ破門された身だ
 {NEWPAGE}
 
-{KANJI2F:9F}ませてくれるか あやしいもんだ
-たたき{KANJI2D:3A}されちまうかもな
+休ませてくれるか あやしいもんだ
+たたき出されちまうかもな
 --------------------------------------------------End--
 
 おお そうだ--
 {NEWPAGE}
 
-{KANJI2D:4F}{KANJI2C:93}を{KANJI2D:5C}に{KANJI2D:EB}える{KANJI2D:F8}{KANJI2D:E6}が{KANJI2D:3A}るぞ
-これを{KANJI2D:6F}{KANJI2D:D9}して しのいでくれ
+人間を石に変える魔物が出るぞ
+これを装備して しのいでくれ
 --------------------------------------------------End--
 
-{KANJI2D:E4}{KANJI2D:81}の{KANJI2D:94}{KANJI2C:93}が {KANJI2C:CE}{KANJI2D:F1}{KANJI2D:E0}{KANJI2E:66}でよ
-{KANJI2E:30}{KANJI2A:3C}でいてくれると{KANJI2F:A6}じてえよ
+部隊の仲間が 行方不明でよ
+無{KANJI2A:3C}でいてくれると信じてえよ
 --------------------------------------------------End--
 
-{KANJI2D:94}{KANJI2C:93}がみんな{KANJI2C:EE}んじまったのは 
-{KANJI2E:5C}えに そむいたから--だよな
+仲間がみんな死んじまったのは 
+教えに そむいたから--だよな
 {NEWPAGE}
 
-{KANJI2E:D9}じられたマキナに たよるなんて
-{KANJI2C:FD}り{KANJI2F:AD}しのつかない{KANJI2C:93}{KANJI2A:42}いだった
+禁じられたマキナに たよるなんて
+取り返しのつかない間{KANJI2A:42}いだった
 --------------------------------------------------End--
 
-これはオレの{KANJI2E:C3}ほろぼしの あかしだ
-{KANJI2D:3F}{KANJI2C:8F}{KANJI2C:E6}{KANJI2E:3C}に{KANJI2C:E4}ってもらいたい
+これはオレの罪ほろぼしの あかしだ
+召喚士様に使ってもらいたい
 --------------------------------------------------End--
 
-こうなったら{KANJI2D:6C}{KANJI2E:BE}{KANJI2E:3C}におすがりして
-もう{KANJI2C:6B}{KANJI2A:43} {KANJI2E:5C}えの{KANJI2D:B7}にもどるしかない
+こうなったら僧官様におすがりして
+もう一{KANJI2A:43} 教えの道にもどるしかない
 --------------------------------------------------End--
 
-{KANJI2A:44}{KANJI2D:C1}の {Djose}{KANJI2C:86}{KANJI2C:94}{KANJI2D:F4}{KANJI2A:45}{KANJI2E:9C}{KANJI2D:64}も
-{KANJI2D:7C}くの{KANJI2C:EE}{KANJI2E:E0}{KANJI2E:CD}が{KANJI2D:3A}ましたが--
+{KANJI2A:44}年の {Djose}海岸防{KANJI2A:45}作戦も
+多くの死傷者が出ましたが--
 {NEWPAGE}
 
-{KANJI2A:46}べ{KANJI2D:E6}になりませんよ {KANJI2E:FA}{KANJI2C:82}は
---{KANJI2E:5C}えを{KANJI2E:97}った{KANJI2A:40}でしょうな
+{KANJI2A:46}べ物になりませんよ 今回は
+--教えを破った{KANJI2A:40}でしょうな
 --------------------------------------------------End--
 
-{KANJI2D:64}{KANJI2D:45}で ひろったものです 
-どうぞ お{KANJI2C:E4}いになってください
+戦場で ひろったものです 
+どうぞ お使いになってください
 --------------------------------------------------End--
 
-{KANJI2E:32}を{KANJI2E:41}した{KANJI2D:64}{KANJI2A:47}のぶんまで{KANJI2C:9B}る-- 
-それが{KANJI2F:3C}きのびた{KANJI2E:CD}の{KANJI2A:48}{KANJI2A:49}です
+命を落した戦{KANJI2A:47}のぶんまで祈る-- 
+それが生きのびた者の{KANJI2A:48}{KANJI2A:49}です
 --------------------------------------------------End--
 
-『{Sin}』{KANJI2A:4A}{KANJI2E:F3}の{KANJI2E:A0}{KANJI2A:4B}で{KANJI2D:F8}{KANJI2D:E6}が{KANJI2F:6A}{KANJI2D:CB}{KANJI2C:79}している 
-{Luca}へ{KANJI2E:F4}かうのは やめたほうがいい
+『{Sin}』{KANJI2A:4A}来の影{KANJI2A:4B}で魔物が活発化している 
+{Luca}へ向かうのは やめたほうがいい
 --------------------------------------------------End--
 
-{Crusader}は {Djose Temple}へ{KANJI2F:7A}{KANJI2A:37}し
-{KANJI2D:80}{KANJI2A:38}を{KANJI2A:39}て{KANJI2D:9B}すことになった
+{Crusader}は {Djose Temple}へ退{KANJI2A:37}し
+態{KANJI2A:38}を{KANJI2A:39}て直すことになった
 {NEWPAGE}
 
-{KANJI2A:39}て{KANJI2D:9B}せるほど
-{KANJI2F:3C}き{KANJI2C:E3}っていないがな--
+{KANJI2A:39}て直せるほど
+生き残っていないがな--
 --------------------------------------------------End--
 
-くそっ! ともに{KANJI2D:64}ってきた{KANJI2D:E4}{KANJI2C:78}たちを
-{KANJI2A:3A}{KANJI2C:EE}にさせてしまったのだ {KANJI2F:A2}は!
+くそっ! ともに戦ってきた部下たちを
+{KANJI2A:3A}死にさせてしまったのだ 私は!
 --------------------------------------------------End--
 
-{KANJI2D:E4}{KANJI2C:78}の{KANJI2A:3B}{KANJI2C:B3}だ--{KANJI2C:E4}ってくれ
+部下の{KANJI2A:3B}見だ--使ってくれ
 --------------------------------------------------End--
 
-これからは {KANJI2D:6C}{KANJI2D:E8}と{Guado2}が
-{KANJI2C:8C}{KANJI2D:B7}を{KANJI2A:4C}{KANJI2D:D9}するらしい 
+これからは 僧兵と{Guado2}が
+街道を{KANJI2A:4C}備するらしい 
 {NEWPAGE}
 
-{Crusader}の{KANJI2D:3A}{KANJI2D:D3}は どんどん{KANJI2C:B7}っていくようだな--
+{Crusader}の出番は どんどん減っていくようだな--
 --------------------------------------------------End--
 
-{Crusader}の{KANJI2D:94}{KANJI2C:93}がいなくなっても
-オレは{KANJI2C:8C}{KANJI2D:B7}の{KANJI2A:4C}{KANJI2D:D9}を{KANJI2D:78}けるぞ
+{Crusader}の仲間がいなくなっても
+オレは街道の{KANJI2A:4C}備を続けるぞ
 --------------------------------------------------End--
 
-{KANJI2D:6C}{KANJI2D:E8}たちは{Bevelle}に{KANJI2E:A6}{KANJI2D:AF}した
-ようするに {KANJI2D:B2}げ{KANJI2D:3A}したのさ
+僧兵たちは{Bevelle}に帰投した
+ようするに 逃げ出したのさ
 --------------------------------------------------End--
 
-『{Sin}』が{KANJI2C:D9}び この{KANJI2D:90}を{KANJI2A:4A}うという
-ウワサが{KANJI2E:48}れているのだ
+『{Sin}』が再び この地を{KANJI2A:4A}うという
+ウワサが流れているのだ
 --------------------------------------------------End--
 
-{KANJI2C:AC}{KANJI2D:D8}ぶ{KANJI2D:67}が{KANJI2E:75}う なんてな--
-{KANJI2D:67}が {KANJI2D:D8}んできた{KANJI2E:B4}には おどろいたよ
+空飛ぶ船が歌う なんてな--
+船が 飛んできた時には おどろいたよ
 {NEWPAGE}
 
-この{KANJI2C:8C}{KANJI2D:B7}にも{KANJI2D:4F}がたくさん{KANJI2E:F3}てなあ!
-みんなで{KANJI2E:F7}{KANJI2F:4C}んで{KANJI2C:D2}{KANJI2F:C8}したんだ
+この街道にも人がたくさん来てなあ!
+みんなで腕組んで合唱したんだ
 --------------------------------------------------End--
 
-{KANJI2F:CA}えてきたなあ! 『{Sin}』を{KANJI2D:AB}せば
-{KANJI2D:4F}の{KANJI2E:C3}は{KANJI2F:A9}されるんだろ!
+燃えてきたなあ! 『{Sin}』を倒せば
+人の罪は許されるんだろ!
 {NEWPAGE}
 
-アレもコレもソレも{KANJI2A:4E}{KANJI2D:42}しだよな
-{KANJI2F:3C}きてきたかいがあったよ!
+アレもコレもソレも{KANJI2A:4E}消しだよな
+生きてきたかいがあったよ!
 --------------------------------------------------End--
 
-{KANJI2E:E0}ついた{KANJI2E:CD}を{KANJI2F:79}うのは {Yevon2}の{KANJI2E:5C}えを
-{KANJI2F:A6}じる{KANJI2E:CD}として {KANJI2E:90}{KANJI2A:3D}のことです
+傷ついた者を救うのは {Yevon2}の教えを
+信じる者として 当{KANJI2A:3D}のことです
 {NEWPAGE}
 
-{KANJI2E:97}{KANJI2E:38}された{Crusader}の{KANJI2E:CD}たちでも
-{KANJI2C:F1}{KANJI2C:6E}は {KANJI2A:3E}んで{KANJI2A:3F}{KANJI2C:C0}しますよ
+破門された{Crusader}の者たちでも
+寺院は {KANJI2A:3E}んで{KANJI2A:3F}護しますよ
 {NEWPAGE}
 
-{KANJI2A:30}らは{KANJI2F:6D}{KANJI2D:E7} {KANJI2A:40}を{KANJI2D:32}けました 
-もう{KANJI2E:97}{KANJI2E:38}を{KANJI2E:B3}いてもいいでしょう
+{KANJI2A:30}らは十分 {KANJI2A:40}を受けました 
+もう破門を解いてもいいでしょう
 --------------------------------------------------End--
 
 あなたたちにも{Yevon2}の{KANJI2A:41}みが
 ありますように--
 --------------------------------------------------End--
 
-{KANJI2F:C3}ましい{KANJI2D:C5}{KANJI2D:64}です--{KANJI2F:3C}き{KANJI2C:E3}れたのは
+痛ましい敗戦です--生き残れたのは
 {Yevon2}のたまものでしょうな
 --------------------------------------------------End--
 
-{KANJI2C:8C}{KANJI2D:B7}{KANJI2D:6B}{KANJI2C:6A}に あやしい{Al Bhed2}が
-うろついているという{KANJI2D:47}{KANJI2D:EF}がある
+街道全域に あやしい{Al Bhed2}が
+うろついているという情報がある
 {NEWPAGE}
 
 まあ あやしくない{Al Bhed2}など
 どこにもいないがな
 --------------------------------------------------End--
 
-{Al Bhed2}を{KANJI2C:B3}かけたら 
-すぐに{KANJI2D:EF}{KANJI2C:D3}してくれ
+{Al Bhed2}を見かけたら 
+すぐに報告してくれ
 --------------------------------------------------End--
 
 こんなところで なにを
 なさっているのです?
 {NEWPAGE}
 
-{Seymour}{KANJI2E:3C}が{Macalania}で
-{KANJI2F:AA}っておられますぞ
+{Seymour}様が{Macalania}で
+待っておられますぞ
 --------------------------------------------------End--
 
-{KANJI2A:4D}{KANJI2E:50}の{KANJI2E:57}を {Spira}{KANJI2D:6B}{KANJI2F:49}に
-{KANJI2C:C7}めねばなりませんな
+{KANJI2A:4D}礼の話を {Spira}全土に
+広めねばなりませんな
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}1】{White}
-{KANJI2E:4A}の{KANJI2C:9C}{KANJI2E:56}をスフィアに{KANJI2C:E3}すことができます!
-{KANJI2E:4A}のつかれをいやす{KANJI2C:F6}{KANJI2D:B4}{KANJI2C:82}{KANJI2D:E5}{KANJI2C:99}{KANJI2D:C3}で
-{KANJI2C:37}{KANJI2C:3F}/{KANJI2C:3C}{KANJI2C:3F}が{KANJI2D:6B}{KANJI2C:82}{KANJI2D:E5}します!
+{Yellow}【旅人のセーブスフィア Lv1】{White}
+旅の記録をスフィアに残すことができます!
+旅のつかれをいやす自動回復機能で
+HP/MPが全回復します!
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
 {CHOICE:31}キャンセル
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}2】{White}
-{Besaid Aurochs}の{KANJI2F:6A}{KANJI2A:52}により セーブスフィアに
-{blitzball}スタジアムへの{KANJI2E:F2}{KANJI2A:53}{KANJI2C:99}{KANJI2D:C3}が
-{KANJI2D:9D}{KANJI2C:7B}されました!
+{Yellow}【旅人のセーブスフィア Lv2】{White}
+{Besaid Aurochs}の活{KANJI2A:52}により セーブスフィアに
+{blitzball}スタジアムへの転{KANJI2A:53}機能が
+追加されました!
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【ブリッツスカウトシステム】{White}
-{Spira}の{KANJI2A:54}{KANJI2D:90}には ブリッツのトレーニングを{KANJI2D:78}ける
-{KANJI2C:6F}れた{KANJI2E:31}{KANJI2D:68}{KANJI2C:FF}がひそんでいます 
-{Button Square}を{KANJI2F:4D}して{KANJI2E:57}しかけると スカウト{KANJI2A:55}{KANJI2F:C5}できることがあります 
-{KANJI2F:D3}{KANJI2E:F3}{KANJI2E:95}{KANJI2F:80}な{KANJI2D:68}{KANJI2C:FF}をスカウトして {Besaid Aurochs}を
-トップチームに{KANJI2F:58}くのです!
+{Spira}の{KANJI2A:54}地には ブリッツのトレーニングを続ける
+隠れた名選手がひそんでいます 
+{Button Square}を押して話しかけると スカウト{KANJI2A:55}約できることがあります 
+将来有望な選手をスカウトして {Besaid Aurochs}を
+トップチームに導くのです!
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
@@ -338,8 +338,8 @@
 {CHOICE:32}キャンセル
 --------------------------------------------------End--
 {WINDOW}
-{Besaid Aurochs}はメンバー{KANJI2D:4F}{KANJI2D:52}が
-{KANJI2D:76}りないので{KANJI2C:EF}{KANJI2C:D2}に{KANJI2C:DF}{KANJI2C:7B}できません 
+{Besaid Aurochs}はメンバー人数が
+足りないので試合に参加できません 
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
@@ -347,25 +347,25 @@
 {CHOICE:31}キャンセル
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2E:4A}{KANJI2D:4F}のセーブスフィア {KANJI2C:3B}{KANJI2C:5F}3】{White}
-{Al Bhed2}·{Rin}の{KANJI2F:CB}{KANJI2E:8F}により セーブスフィアに
-{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}への{KANJI2E:F2}{KANJI2A:53}{KANJI2C:99}{KANJI2D:C3}が{KANJI2D:9D}{KANJI2C:7B}されました!
+{Yellow}【旅人のセーブスフィア Lv3】{White}
+{Al Bhed2}·{Rin}の好意により セーブスフィアに
+飛空艇への転{KANJI2A:53}機能が追加されました!
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
-{CHOICE:31}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ
+{CHOICE:31}飛空艇へ
 {CHOICE:32}ブリッツスタジアムへ
 {CHOICE:33}キャンセル
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
-{Gray}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ{White}
+{Gray}飛空艇へ{White}
 {CHOICE:31}ブリッツスタジアムへ
 {CHOICE:32}キャンセル
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}セーブ
-{CHOICE:31}{KANJI2D:D8}{KANJI2C:AC}{KANJI2D:A3}へ
+{CHOICE:31}飛空艇へ
 {Gray}ブリッツスタジアムへ{White}
 {CHOICE:32}キャンセル
 --------------------------------------------------End--
@@ -378,53 +378,53 @@
       ビサイド
 --------------------------------------------------End--
 {AREA}
-ジョゼ{KANJI2C:8C}{KANJI2D:B7}
+ジョゼ街道
 --------------------------------------------------End--
 {AREA}
-ジョゼ=エボン{KANJI2C:F1}{KANJI2C:6E}
+ジョゼ=エボン寺院
 --------------------------------------------------End--
 {AREA}
-{KANJI2C:B6}{KANJI2C:C2}{KANJI2C:7E}
+幻光河
 --------------------------------------------------End--
 {WINDOW}
-{Al Bhed}{KANJI2E:5E}{KANJI2E:9D}{KANJI2D:3D}{KANJI2D:85}11{KANJI2E:9E}を {KANJI2C:FF}に{KANJI2D:BF}れた!
+{Al Bhed}語辞書第11巻を 手に入れた!
 --------------------------------------------------End--
 {WINDOW}
-{Al Bhed}{KANJI2E:5E}を{KANJI2A:4F}{KANJI2F:A4}した!
+{Al Bhed}語を{KANJI2A:4F}習した!
    『{OPurple}マ{White}』{KANJI2A:50}『{Pink}は{White}』
    『{OPurple}リ{White}』{KANJI2A:50}『{Pink}ひ{White}』
    『{OPurple}ク{White}』{KANJI2A:50}『{Pink}ふ{White}』
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{Al Bhed}{KANJI2E:5E}{KANJI2D:BF}{KANJI2E:38}】{White}
-{KANJI2C:B3}{KANJI2D:8F}らぬ{KANJI2F:54}{KANJI2A:51}『{Al Bhed}{KANJI2E:5E}』は{Al Bhed}{KANJI2E:5E}{KANJI2E:9D}{KANJI2D:3D}を
-{KANJI2D:CB}{KANJI2C:B3}するとおぼえることができます 
-{OPurple}レバヘ! {Al Bhed}{KANJI2E:5E}ヤヌサー! テンソフム ミオウ!{White}
+{Yellow}【{Al Bhed}語入門】{White}
+見知らぬ言{KANJI2A:51}『{Al Bhed}語』は{Al Bhed}語辞書を
+発見するとおぼえることができます 
+{OPurple}レバヘ! {Al Bhed}語ヤヌサー! テンソフム ミオウ!{White}
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}シュフコンキャ】{White}になった!
+{Tidus}は {Blue}【{Al Bhed}語シュフコンキャ】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}キョキンキャ】{White}になった!
+{Tidus}は {Blue}【{Al Bhed}語キョキンキャ】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【アサヨソオ{Al Bhed}{KANJI2E:5E}】{White}になった!
+{Tidus}は {Blue}【アサヨソオ{Al Bhed}語】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}サンチニュフダル】{White}になった!
+{Tidus}は {Blue}【{Al Bhed}語サンチニュフダル】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【ニュフヒョフハ{Al Bhed}{KANJI2E:5E}】{White}になった!
+{Tidus}は {Blue}【ニュフヒョフハ{Al Bhed}語】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}ポナポナ】{White}になった!
+{Tidus}は {Blue}【{Al Bhed}語ポナポナ】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}デンヒギンハイ】{White}になった!
+{Tidus}は {Blue}【{Al Bhed}語デンヒギンハイ】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【ヤーゼナヌハ{Al Bhed}{KANJI2E:5E}】{White}になった!
+{Tidus}は {Blue}【ヤーゼナヌハ{Al Bhed}語】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}{KANJI2E:5E}ヤヌサー】{White}になった!
+{Tidus}は {Blue}【{Al Bhed}語ヤヌサー】{White}になった!
 --------------------------------------------------End--
