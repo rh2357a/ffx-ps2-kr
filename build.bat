@@ -13,7 +13,8 @@ rem ============================================================
 
 echo build font...
 rem                             0x1000
-tools\ffxftcx font/font_kr.bmp   4096  build\files\file_00455.ftcx
+rem tools\ffxftcx font/font_kr.galmuri.bmp   4096  build\files\file_00455.ftcx
+tools\ffxftcx font/font_kr.dotum.bmp   4096  build\files\file_00455.ftcx
 
 echo asm files...
 for %%i in (asm\*.asm) do (

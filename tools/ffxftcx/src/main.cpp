@@ -27,7 +27,8 @@ const std::vector<uint8_t> DEFAULT_FONT_WIDTH{
 	0x0e, 0x0b, 0x0d, 0x0d, 0x0e, 0x0c, 0x0e, 0x0b, 0x0e, 0x0b, 0x0d, 0x0a, 0x0e, 0x0a, 0x0d, 0x0c, 0x0e, 0x09,
 	0x0c, 0x0e, 0x0c, 0x0e, 0x0c, 0x0e, 0x0c, 0x0c, 0x0b, 0x0c, 0x0a, 0x0b, 0x0e, 0x0e, 0x0a, 0x0d, 0x0d, 0x0b,
 	0x0e, 0x0e, 0x0e, 0x0e, 0x0e, 0x0d, 0x0e, 0x0e, 0x0c, 0x08, 0x0c, 0x0b, 0x0b, 0x09, 0x0c, 0x0a, 0x0c, 0x07,
-	0x0a, 0x0b, 0x09, 0x0e, 0x0a, 0x0a, 0x0b, 0x0b, 0x0c, 0x0e,
+	// 0x0a, 0x0b, 0x09, 0x0e, 0x0a, 0x0a, 0x0b, 0x0b, 0x0c, 0x0e,
+	0x0a, 0x0b, 0x09, 0x0e, 0x0a, 0x0a, 0x0b, 0x0b, 0x0c, 0x03,
 };
 
 const std::vector<uint8_t> DEFAULT_LATIN_FONT_WIDTH{
@@ -99,10 +100,11 @@ int main(int argc, char *argv[])
 	std::string font_bitmap_path(argv[1]);
 	bitmap_image bmp(font_bitmap_path);
 
+	std::vector<uint8_t> width_bytes(glyph_count, 0xe);
 	std::vector<uint8_t> font_bytes(font_bytes_size, 0);
+
 	for (int i = 0; i < static_cast<int>(glyph_count); i++)
 	{
-
 		int inner = i % 0xd0;
 		int group = i / 0xd0;
 
@@ -121,6 +123,8 @@ int main(int argc, char *argv[])
 		uint32_t offset = ((i / 18) * 0x480) + ((i % 18) / 2) * 7;
 		bool is_odd = i & 1;
 
+		uint8_t max_width = 0;
+
 		rgb_t first, second;
 		for (int j = 0; j < 18; j++)
 		{
@@ -131,13 +135,22 @@ int main(int argc, char *argv[])
 				bmp.get_pixel(x, y, first);
 				bmp.get_pixel(x + 1, y, second);
 
+				if (first != FONT_COLORS[0])
+					max_width = std::max<uint8_t>(max_width, (uint8_t)((k * 2) + 1));
+
+				if (second != FONT_COLORS[0])
+					max_width = std::max<uint8_t>(max_width, (uint8_t)((k * 2) + 2));
+
 				uint8_t b = get_pixel_byte(is_odd, first, second);
 				font_bytes[offset + (j * 0x40) + k] |= b;
 			}
 		}
+
+		if (max_width >= 0xe)
+			max_width = 0xe;
+		width_bytes[i] = max_width;
 	}
 
-	std::vector<uint8_t> width_bytes(glyph_count, 0xe);
 	for (int i = 0; i < 0xd0; i++)
 		width_bytes[i] = DEFAULT_FONT_WIDTH[i];
 	for (int i = 0; i < 26 * 2; i++)

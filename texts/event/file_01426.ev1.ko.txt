@@ -32,8 +32,8 @@
 {WINDOW}
 {Yellow}【{Al Bhed}語入門】{White}
 見知らぬ言{KANJI2A:30}『{Al Bhed}語』は{Al Bhed}語辞書を
-発見するとおぼえることができます 
-{OPurple}レバヘ! {Al Bhed}語ヤヌサー! テンソフム ミオウ!{White}
+発見するとおぼえることができます　
+{OPurple}レバヘ!　{Al Bhed}語ヤヌサー!　テンソフム　ミオウ!{White}
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【{Al Bhed}語辞書合成スフィア】{White}
@@ -79,31 +79,31 @@
 {CHOICE:31}いいえ
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}語シュフコンキャ】{White}になった!
+{Tidus}は　{Blue}【{Al Bhed}語シュフコンキャ】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}語キョキンキャ】{White}になった!
+{Tidus}は　{Blue}【{Al Bhed}語キョキンキャ】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【アサヨソオ{Al Bhed}語】{White}になった!
+{Tidus}は　{Blue}【アサヨソオ{Al Bhed}語】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}語サンチニュフダル】{White}になった!
+{Tidus}は　{Blue}【{Al Bhed}語サンチニュフダル】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【ニュフヒョフハ{Al Bhed}語】{White}になった!
+{Tidus}は　{Blue}【ニュフヒョフハ{Al Bhed}語】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}語ポナポナ】{White}になった!
+{Tidus}は　{Blue}【{Al Bhed}語ポナポナ】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}語デンヒギンハイ】{White}になった!
+{Tidus}は　{Blue}【{Al Bhed}語デンヒギンハイ】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【ヤーゼナヌハ{Al Bhed}語】{White}になった!
+{Tidus}は　{Blue}【ヤーゼナヌハ{Al Bhed}語】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は {Blue}【{Al Bhed}語ヤヌサー】{White}になった!
+{Tidus}は　{Blue}【{Al Bhed}語ヤヌサー】{White}になった!
 --------------------------------------------------End--
 {WINDOW}
 スロット2

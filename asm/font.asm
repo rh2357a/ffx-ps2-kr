@@ -15,7 +15,7 @@
 .definelabel     font_buffer, 0x67c3a0
 
 MULTIBYTE_BASE      equ 0x24
-TEXTURE_GLYPH_COUNT equ 800
+TEXTURE_GLYPH_COUNT equ 998
 
 ; ==================================================
 
