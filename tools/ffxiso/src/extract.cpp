@@ -167,28 +167,28 @@ bool extract(std::filesystem::path iso_path, std::filesystem::path output_dir)
 			{
 				file_bytes.resize(0x808);
 
-				auto filename = output_dir / "files" / std::format("file_{}.{}.{}", i, ext, lz);
+				auto filename = output_dir / "files" / std::format("file_{:05}.{}.{}", i, ext, lz);
 				write_byte_to_file(filename, file_bytes);
 
-				output_json[i]["filename"] = std::format("file_{}.{}.{}", i, ext, lz);
+				output_json[i]["filename"] = std::format("file_{:05}.{}.{}", i, ext, lz);
 			}
 			else
 			{
 				uint64_t size = seek_compressed_size(file_bytes);
 				file_bytes.resize(size);
 
-				auto filename = output_dir / "files" / std::format("file_{}.{}.{}", i, ext, lz);
+				auto filename = output_dir / "files" / std::format("file_{:05}.{}.{}", i, ext, lz);
 				write_byte_to_file(filename, file_bytes);
 
-				output_json[i]["filename"] = std::format("file_{}.{}.{}", i, ext, lz);
+				output_json[i]["filename"] = std::format("file_{:05}.{}.{}", i, ext, lz);
 			}
 		}
 		else
 		{
-			auto filename = output_dir / "files" / std::format("file_{}.{}", i, ext);
+			auto filename = output_dir / "files" / std::format("file_{:05}.{}", i, ext);
 			write_byte_to_file(filename, file_bytes);
 
-			output_json[i]["filename"] = std::format("file_{}.{}", i, ext);
+			output_json[i]["filename"] = std::format("file_{:05}.{}", i, ext);
 		}
 	}
 
