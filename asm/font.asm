@@ -1,7 +1,7 @@
 ; 폰트 확장 코드
 
 .ps2
-.open "build/files/file_0.elf", 0xff000
+.open "build/files/file_00000.elf", 0xff000
 
 ; ==================================================
 
@@ -310,7 +310,7 @@ render_font_2:
 ; ==================================================
 
 .ps2
-.open "build/files/file_455.ftcx", 0x798000 - 0x40
+.open "build/files/file_00455.ftcx", 0x798000 - 0x40
 
 .orga 0x40
 .area 0x1000, 0

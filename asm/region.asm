@@ -1,5 +1,5 @@
 .ps2
-.open "build/files/file_0.elf", 0xff000
+.open "build/files/file_00000.elf", 0xff000
 
 .definelabel log, 0x2f10f8
 .definelabel fun_002f21e4, 0x2f21e4

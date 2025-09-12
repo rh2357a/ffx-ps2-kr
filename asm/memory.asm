@@ -1,7 +1,7 @@
 ; .bss 영역 확장
 
 .ps2
-.open "build/files/file_0.elf", 0xff000
+.open "build/files/file_00000.elf", 0xff000
 
 .org 0x100008
 	la v0, 0x57ea00
@@ -20,7 +20,7 @@
 .close
 
 .ps2
-.open "build/files/file_0.elf", 0x0
+.open "build/files/file_00000.elf", 0x0
 
 .org 0x484d7c
 	dd 0x2189a8 + 0x40000
