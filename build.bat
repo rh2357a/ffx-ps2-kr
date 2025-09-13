@@ -11,6 +11,14 @@ tools\ffxiso -e %input_iso% build
 
 rem ============================================================
 
+echo copy patch...
+for %%i in (patch\*.*) do (
+  echo.  %%i
+  copy %%i build\files >nul
+)
+
+rem ============================================================
+
 echo build font...
 rem                             0x1000
 rem tools\ffxftcx font/font_kr.galmuri.bmp   4096  build\files\file_00455.ftcx
@@ -29,14 +37,17 @@ for %%i in (texts\event\*.ev1.ko.txt) do (
   set "filename=%%~ni"
   set "filename=!filename:.ev1.ko=!"
   set "ev_name=build\files\!filename!.ev1"
+  set "ev_script_name=texts\event\!filename!.ev1.bin"
   set "lz_name=build\files\!filename!.ev.lz1"
 
   echo.  %%i
   tools\ffxcx -d !lz_name! !ev_name!
   tools\ffxev -i1 -t font\ko.tbs !ev_name! %%i
+  if exist !ev_script_name! tools\ffxev -i0 !ev_name! !ev_script_name!
 
   del !lz_name!
   tools\ffxcx -c1 !ev_name! !lz_name!
+  del !ev_name!
 )
 
 echo ev2 files...
@@ -44,14 +55,17 @@ for %%i in (texts\event\*.ev2.ko.txt) do (
   set "filename=%%~ni"
   set "filename=!filename:.ev2.ko=!"
   set "ev_name=build\files\!filename!.ev2"
+  set "ev_script_name=texts\event\!filename!.ev2.bin"
   set "lz_name=build\files\!filename!.ev.lz2"
 
   echo.  %%i
   tools\ffxcx -d !lz_name! !ev_name!
   tools\ffxev -i1 -t font\ko.tbs !ev_name! %%i
+  if exist !ev_script_name! tools\ffxev -i0 !ev_name! !ev_script_name!
 
   del !lz_name!
   tools\ffxcx -c2 !ev_name! !lz_name!
+  del !ev_name!
 )
 
 rem ============================================================
@@ -69,6 +83,7 @@ for %%i in (texts\battle\*.bt1.txt) do (
 
   del !lz_name!
   tools\ffxcx -c1 !bt_name! !lz_name!
+  del !bt_name!
 )
 
 echo bt2 files...
@@ -84,6 +99,7 @@ for %%i in (texts\battle\*.bt2.txt) do (
 
   del !lz_name!
   tools\ffxcx -c2 !bt_name! !lz_name!
+  del !bt_name!
 )
 
 rem ============================================================
