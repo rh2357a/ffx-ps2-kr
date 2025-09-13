@@ -144,6 +144,40 @@ tools\ffxname -c file_00459 build\files
 
 rem ============================================================
 
+echo mt1 files...
+for %%i in (texts\menu\*.mt1.txt) do (
+  set "filename=%%~ni"
+  set "filename=!filename:.mt1=!"
+  set "mt_name=build\files\!filename!.mt1"
+  set "lz_name=build\files\!filename!.mt.lz1"
+
+  echo.  %%i
+  tools\ffxcx -d !lz_name! !mt_name!
+  tools\ffxmt -i -t font\ko.tbs !mt_name! %%i
+
+  del !lz_name!
+  tools\ffxcx -c1 !mt_name! !lz_name!
+  del !mt_name!
+)
+
+echo mt2 files...
+for %%i in (texts\menu\*.mt2.txt) do (
+  set "filename=%%~ni"
+  set "filename=!filename:.mt2=!"
+  set "mt_name=build\files\!filename!.mt2"
+  set "lz_name=build\files\!filename!.mt.lz2"
+
+  echo.  %%i
+  tools\ffxcx -d !lz_name! !mt_name!
+  tools\ffxmt -i -t font\ko.tbs !mt_name! %%i
+
+  del !lz_name!
+  tools\ffxcx -c2 !mt_name! !lz_name!
+  del !mt_name!
+)
+
+rem ============================================================
+
 echo repack '%input_iso%'
 tools\ffxiso -i build %target%
 
