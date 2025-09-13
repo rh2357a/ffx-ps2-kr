@@ -116,6 +116,34 @@ for %%i in (texts\battle2\*.bts.txt) do (
 
 rem ============================================================
 
+echo etc text files...
+for %%i in (texts\etc\*.txt) do (
+  set "filename=%%~ni"
+  set "target_filename=build\files\!filename!.bin"
+
+  echo.  %%i
+  tools\ffxdlg -i -t font\ko.tbs !target_filename! %%i
+)
+
+rem ============================================================
+
+echo name files...
+tools\ffxname -e file_00459 build\files
+
+for %%i in (texts\name\*.txt) do (
+  set "filename=%%~ni"
+  set "target_filename=build\files\file_00459.bin"
+  set "part_filename=build\files\!filename!.bin"
+
+  echo.  %%i
+  tools\ffxdlg2 -i -t font\ko.tbs !part_filename! %%i
+)
+
+tools\ffxname -i file_00459 build\files
+tools\ffxname -c file_00459 build\files
+
+rem ============================================================
+
 echo repack '%input_iso%'
 tools\ffxiso -i build %target%
 
