@@ -160,19 +160,19 @@ for %%i in (texts\menu\*.mt1.txt) do (
   del !mt_name!
 )
 
-echo mt2 files...
-for %%i in (texts\menu\*.mt2.txt) do (
+echo mt1.en files...
+for %%i in (texts\menu\*.mt1.en.txt) do (
   set "filename=%%~ni"
-  set "filename=!filename:.mt2=!"
-  set "mt_name=build\files\!filename!.mt2"
-  set "lz_name=build\files\!filename!.mt.lz2"
+  set "filename=!filename:.mt1.en=!"
+  set "mt_name=build\files\!filename!.mt1"
+  set "lz_name=build\files\!filename!.mt.lz1"
 
   echo.  %%i
   tools\ffxcx -d !lz_name! !mt_name!
-  tools\ffxmt -i -t font\ko.tbs !mt_name! %%i
+  tools\ffxmt -i -t font\en.tbs !mt_name! %%i
 
   del !lz_name!
-  tools\ffxcx -c2 !mt_name! !lz_name!
+  tools\ffxcx -c1 !mt_name! !lz_name!
   del !mt_name!
 )
 
