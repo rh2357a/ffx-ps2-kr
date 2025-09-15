@@ -2,8 +2,9 @@
 
 setlocal enabledelayedexpansion
 
-set input_iso=ffxkr.iso
-set target=ffxkr_patched.iso
+pushd ..
+
+rem ============================================================
 
 echo extract '%input_iso%'
 if exist build rmdir /s /q build
@@ -20,9 +21,10 @@ for %%i in (patch\*.*) do (
 rem ============================================================
 
 echo build font...
-rem                             0x1000
-rem tools\ffxftcx font/font_kr.galmuri.bmp   4096  build\files\file_00455.ftcx
-tools\ffxftcx font/font_kr.dotum.bmp   4096  build\files\file_00455.ftcx
+rem                       0x1000
+tools\ffxftcx %font_path%  4096  build\files\file_00455.ftcx
+
+rem ============================================================
 
 echo asm files...
 for %%i in (asm\*.asm) do (
@@ -115,7 +117,6 @@ for %%i in (texts\battle2\*.bts.txt) do (
 )
 
 rem ============================================================
-
 echo etc text files...
 for %%i in (texts\etc\*.txt) do (
   set "filename=%%~ni"
@@ -179,6 +180,9 @@ for %%i in (texts\menu\*.mt1.en.txt) do (
 rem ============================================================
 
 echo repack '%input_iso%'
-tools\ffxiso -i build %target%
+tools\ffxiso -i build %target_iso%
 
-pause
+echo create '%target_patch%'
+tools\xdelta3 -e -s %input_iso% %target_iso% %target_patch%
+
+popd

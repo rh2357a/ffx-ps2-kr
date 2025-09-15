@@ -1,14 +1,12 @@
 @echo off
 
-pushd ..
-
 setlocal enabledelayedexpansion
 
-set input_iso=ffxkr.iso
+pushd ..
 
-echo extract '%input_iso%'
+echo extract 'base.iso'
 if exist build rmdir /s /q build
-tools\ffxiso -e %input_iso% build
+tools\ffxiso -e base.iso build
 
 popd
 
