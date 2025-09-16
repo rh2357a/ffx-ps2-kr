@@ -2,4 +2,4 @@ build/
 test/
 
 *.iso
-*.xdelta
+ffx_kr_*.xdelta

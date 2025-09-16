@@ -12,10 +12,15 @@ tools\ffxiso -e %input_iso% build
 
 rem ============================================================
 
-echo copy patch...
-for %%i in (patch\*.*) do (
+echo apply patches...
+for %%i in (patch\*.xdelta) do (
+  set "filename=%%~ni"
+  set "origin_filename=build\files\!filename!"
+  set "patch_filename=build\files\!filename!.tmp"
+
   echo.  %%i
-  copy %%i build\files >nul
+  tools\xdelta3 -d -s !origin_filename! %%i !patch_filename!
+  move /Y !patch_filename! !origin_filename! >nul
 )
 
 rem ============================================================
@@ -179,10 +184,12 @@ for %%i in (texts\menu\*.mt1.en.txt) do (
 
 rem ============================================================
 
-echo repack '%input_iso%'
+echo repack '%target_iso%'
+if exist %target_iso% del %target_iso% >nul
 tools\ffxiso -i build %target_iso%
 
 echo create '%target_patch%'
+if exist %target_patch% del %target_patch% >nul
 tools\xdelta3 -e -s %input_iso% %target_iso% %target_patch%
 
 popd
