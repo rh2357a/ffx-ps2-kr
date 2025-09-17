@@ -45,6 +45,11 @@ TEXTURE_GLYPH_COUNT equ 998
 
 ; ==================================================
 
+; FUN_00206fc0: placeholder 문자열 길이 관련
+.org 0x20702c
+	sltiu v0, v0, MULTIBYTE_BASE
+
+
 ; FUN_002053c0: 문자 너비 관련?
 .org 0x2053c0
 read_glyph_width:
